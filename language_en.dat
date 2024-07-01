@@ -1391,13 +1391,13 @@ Watch your step, ?name?.
 　　キャプテンバット
   Captain Bat
 コウモリ「グオオオオオッ！
-Captain Bat: "Grrrooooaaaaahhh!
+Captain Bat: "Grrrooooaaaaahhh!"
 …キサマ、なかなかやるではないか。
-You're tougher than you look.
+Captain Bat: "You're tougher than you look.
 そうか、そういうことか！
- So that's how it is!
+So that's how it is!
 キキキ、キサマがシェイントアリアムの使いゴマか！」
- Khahaha! You're a pawn of Shaintarium!"
+Khahaha! You're a pawn of Shaintarium!"
 リリア「この魔物、しゃべれるの？」
  Lilia: "It... It can talk?"
 コウモリ「この私を、あのような下種どもと一緒にしないでもらいたい。
@@ -3595,7 +3595,7 @@ My name is ?name?. I come from Shaintarium.
 それで、調査というのは？」
 Please, tell me more about this investigation."
 エレナ「わたしたちは神官様に頼まれて、湖に潜む魔を倒すためにここまで来たんですけれど…」
- Elena: "The priestess asked us to come here and eliminate the evil plaguing the lake..."
+Elena: "The priestess asked us to come here and destroy the evil plaguing the lake..."
 れん「！！人が…変わった！？」
 Ren:  "!! You...changed?!"
 リリア「ちょっとエレナ！？突然入れ替わったら、誰だってびっくりしちゃうでしょ！
@@ -3629,57 +3629,57 @@ This world is full of mysteries, even for us."
 レン「そう…ですね。
 Ren: "That's... true.
 魔を払う…ということですが、具体的にはどのようなことをなさるのですか？
- You mentioned eliminating evil... What exactly are your plans?
+You mentioned destroying evil... What exactly are your plans?
 湖周辺には、フェルマーレ王の許可がなければ入ることのできない場所がいくつかありますので。」
- There are areas surrounding the lake that are off-limits without permission from King Rufus."
+There are areas surrounding the lake that are off-limits without permission from King Rufus."
 フェルマーレ王と、一度直接話をさせていただけないだろうか？
- Could we speak with the king?
+Could we speak with the king?
 レン「そうですね…。現在、とてもお忙しいとは思いますが、神殿の使いともなれば…あるいは。
 Ren:  "Let me see what I can do.  He's quite busy at the moment, but if you're from Shaintarium... it might be possible.
 分かりました。私の方からお伝えしてみましょう。」
- I'll speak with him on your behalf."
+I'll speak with him on your behalf."
 エレナ「本当ですか？お忙しいときに…」
- Elena: "Really? But if he's busy..."
+Elena: "Really? But if he's busy..."
 レン「お気になさらないでください。これが私の仕事なのですから。
- Ren:  "Don't worry about it. This is my duty.
+Ren:  "Don't worry about it. This is my duty.
 失礼を承知でお伺いしますが…、皆さんは泳ぐことはできますか？」
- If you don't mind my asking... are any of you strong swimmers?"
+If you don't mind my asking... are any of you strong swimmers?"
 ?me?は大丈夫だ。得意というほどではないが、人並みに泳ぐことならできるだろう。
 I'm fine. I'm no expert, but I can hold my own in the water.
 ん！！？
- Wait...
+Wait...
 先ほどから…誰かの、鼓動が聞こえる。
- I can hear someone's heartbeat...
+I can hear someone's heartbeat...
 焦りが、直接伝わってくるのを感じる…
- Racing.
+Racing.
 リリアか、それともエレナだろうか？
- Is it Lilia? Or Elena?
+Is it Lilia? Or Elena?
 エレナ「ゲリュアには泳げるような場所はなかったから、わたしは泳いだことがないのだけれど、水に入るのは抵抗ないかな。いざとなったら君に泳いでもらえばいいし。
- Elena: "There weren't many places to swim in Geryua, so I've never really tried. But I'm not afraid of the water.  And you're a good swimmer, right?
+Elena: "There weren't many places to swim in Geryua, so I've never really tried. But I'm not afraid of the water.  And you're a good swimmer, right?
 リリアちゃんも、大丈夫？」
- How about you, Lilia?"
+How about you, Lilia?"
 リリア「へ？？
 Lilia:  "Huh?
 あ、あの、そそ、その王様に、あああ、合うためには…おお、泳がないと…」
- Um, w-well, to, to see the king... we h-have to... s-swim..."
+Um, w-well, to, to see the king... we h-have to... s-swim..."
 エレナ「もしかしてリリアちゃん。泳ぎは苦手なの？」
- Elena: "You're not a strong swimmer, are you?"
+Elena: "You're not a strong swimmer, are you?"
 リリア「！！？あ、あたしは…別に、そんなんじゃっ！」
- Lilia: "N-no!  That's not it at all!"
+Lilia: "N-no!  That's not it at all!"
 言葉とは裏腹に、彼女の焦りが相当のものであることが伝わってくる。
- Her words say one thing, but her heart is racing.
+Her words say one thing, but her heart is racing.
 リリア「だから、あたしは大丈夫だってば！…」
- Lilia:  "I told you, I'm fine!  Don't worry about it!"
+Lilia:  "I told you, I'm fine!  Don't worry about it!"
 レン「湖を泳いで渡れば、すぐに裏口からフェルマーレへ入れるのですが、陸伝いにフェルマーレへ行くこともできますよ。
 Ren: "You could swim across the lake and enter Fermare through a back entrance... but there's also a land route.
 裏口は、ここに住む私たち蛇封族｜じゃふうぞく｜が、すぐに都へ出入りできるように作られた簡易の出入り口。
 The back entrance is mainly used by my people, the Serpentfolk, for easy access to the city.
 外から来られた方は、観光がてら湖を半周して、北側の正面ゲートから入られるのが普通です。
- Most visitors prefer to take the scenic route, traveling halfway around the lake and entering through the main gate on the north side.
+Most visitors prefer to take the scenic route, traveling halfway around the lake and entering through the main gate on the north side.
 ですが…、現在フェルマ湖周辺は大変危険ですので、裏口から入られたほうがよいかと思いまして。」
 However... the area around Lake Fermat is quite dangerous at the moment. I recommend using the back entrance."
 リリア「そ、そう、思い出した！あたし、観光、してみたかったんだ！
- Lilia: "Th-that's right!  I forgot!  I've always wanted to see the lake!
+Lilia: "Th-that's right!  I forgot!  I've always wanted to see the lake!
 こんなに広くて綺麗な湖、他では見られないし…ね？」
 It's so beautiful... you wouldn't find a lake like this anywhere else."
 エレナ「リリアちゃんがそうしたいなら、わたしはそれでも良いよ。正面ゲートまで、皆で歩いて行きましょ！」
@@ -3695,47 +3695,47 @@ Elena: "Thank you, Ren. We appreciate your help."
 リリア「あの…、本当に泳ぎたくなかったとか、そんなんじゃないから…」
 Lilia: "I-it's not like I really didn't want to swim or anything..."
 エレナ「わかってるよ、リリアちゃん♪」
- Elena: "I know, Lilia."
+Elena: "I know, Lilia."
 二人のやり取りが微笑ましい。
 Their banter brings a smile to my face.
 レンによれば、フェルマーレの正面ゲートは湖の北側にあるという話だ。
- Ren said the main gate is on the north side of the lake.
+Ren said the main gate is on the north side of the lake.
 さあ、行こう。
- Let's go.
+Let's go.
 フェルマ湖方面のセーブ陣だ。
 The save point for the Lake Fermat area.
 看板：ようこそ、フェルマーレへ！！世界最大の湖・フェルマレイクが、あなたの心を癒します♪
 Sign: Welcome to Fermare! Let the world's largest lake, Lake Fermat, soothe your soul! ♪
 　フェルマ観光協会
- - Fermare Tourism Association
+- Fermare Tourism Association
 ん？その下に、次のような文が書き足してある。手書きの様だが、誰が…？
- Huh? There's something scribbled below the original text. It looks like someone added this by hand...
+Huh? There's something scribbled below the original text. It looks like someone added this by hand...
 『現在、フェルマーレ並びにフェルマレイクは大変危険です。
- "Lake Fermat and the surrounding areas are extremely dangerous at this time.
+"Lake Fermat and the surrounding areas are extremely dangerous at this time.
 観光でお越しの方は、速やかにお引き取り願います。
- We urge all tourists to leave immediately.
+We urge all tourists to leave immediately.
 また日を改めてお越しください。
- Please visit again when it is safe to do so.
+Please visit again when it is safe to do so.
 　フェルマーレ21世』
- - Fermare XXI"
+- Fermare XXI"
 こんにちは。外から来たのかい？
-"Hello there, travelers!  You folks from out of town?"
+"Hello there, travelers!  You folks from out of town?
 せっかく観光に来てくれたところ本当に申し訳ないんだけど、
- "I hate to say this, especially since you came all this way,
+I hate to say this, especially since you came all this way,
 今ここフェルマレイクはとても危険なんだ。
- but Lake Fermat is a dangerous place right now.
+but Lake Fermat is a dangerous place right now.
 湖周辺に魔物があふれている。
 Monsters are everywhere.
 残念だけど、今すぐ帰った方がいい。
- I suggest you turn back.
+You'd better turn back.
 なにか護身用の武器でもないと、きけ…ん？
 It's not safe without some kind of protection... oh?
 って、その武器はっ！？
- Is that a weapon?!
+Is that a weapon?!
 失礼。
 My apologies.
 武器を持っているなら大丈夫かな。
- You should be fine with that by your side.
+You should be fine with that by your side.
 本当に危険だから、先へ進むなら気を抜かないように。
 Just be careful out there. Don't let your guard down."
 君たちなんだって？
@@ -3743,107 +3743,107 @@ Just be careful out there. Don't let your guard down."
 湖の怪物を倒してくれたのは。
  You're the ones who defeated the lake monster.
 宿から動けなかった観光客も、続々と帰って行くよ。
- All the tourists who were holed up in the inn are finally heading home."
+All the tourists who were holed up in the inn are finally heading home."
 この先には、湖の原水が流れてくる洞窟がある。
- "There's a cave up ahead, where the lake's source flows out.
+"There's a cave up ahead, where the lake's source flows out.
 しかし、その流れはとても早く、
 But the current is strong.
 泳ぎを得意とする我々蛇封族も逆らえないほど危険なのだ。
- Even the Serpentfolk, strong swimmers that we are, can't fight it.
+Even the Serpentfolk, strong swimmers that we are, can't fight it.
 こちら側からでは滝を登ることはできないが、
- We can't climb the waterfall from this side,
+We can't climb the waterfall from this side,
 湖を一周してくれば、この先へ行けるはずだ。
- but if you circle around the lake, you should be able to reach it."
+but if you circle around the lake, you should be able to reach it."
 俺たちが住んでるフェルマーレ。神殿のやつらからは《水の都》なんて大層な名前で呼ばれてんだ。
 "This is our home, Fermare.  Those temple folk call it the 'City of Water'.  Fancy name, if you ask me.
 怪物がおとなしくしてくれてりゃ、今頃観光客も増えるんだろうがなあ…。
- We'd be swimming in tourists by now if it weren't for all the monsters..."
+We'd be drowning in tourists by now if it weren't for all the monsters..."
 怪物が倒されてから、心なしか平原の方が暗くなったような気がするんだよ………。
-"Now that I think about it, the plains have been darker than usual since you defeated the lake monster...
+"Now that I think about it, the plains have been darker than usual since you killed the lake monster...
 なんかあったのかね。
- I wonder what's going on?
+I wonder what's going on?
 ま、まさか。
- Could it be...
+Could it be...
 さっき飛んで行った巨鳥に関係が…
- ...that giant bird we saw flying overhead?
+...that giant bird we saw flying overhead?
 いや、考えるのは予想。
- Nah, best not to dwell on it.  Worrying won't solve anything.
+Nah, best not to dwell on it.  Worrying won't solve anything.
 神殿に向かうなら、あんたらも気をつけな。
- Stay safe out there, especially if you're heading to the temple."
+Stay safe out there, especially if you're heading to the temple."
 フェルマーレ入り口前のセーブ陣だ。
 The save point in front of Fermare's entrance.
 看板:この先、封印の間。近づくべからず。
- Sign:  Beyond this point lies the Sealed Chamber. Do not enter.
+Sign: Beyond this point lies the Sealed Chamber. Do not enter.
 都の門番
- City Gatekeeper:
+City Gatekeeper:
 「お待ちしておりました。神殿の使いの方ですね。」
- "I've been expecting you. You're the envoys from Shaintarium, correct?"
+"I've been expecting you. You're the envoys from Shaintarium, correct?"
 そのとおりだが…。
- That's right, but...
+That's right, but...
 さきほどのレンの話は、都の警備に伝わっているということだろうか。
- Word of our arrival must have reached the city guard.
+Word of our arrival must have reached the city guard.
 「はい。何やら急ぎの用で、フェルマーレ王との謁見を希望されているとか。」
 "Indeed. It seems you have urgent business with King Rufus."
 この都も大変だということは聞いている。
- I know the city is in turmoil.
+I know the city is in turmoil.
 忙しいときに、本当に申し訳ない。
- I apologize for intruding at such a busy time.
+I apologize for intruding at such a busy time.
 「いいえ、問題ありません。
- "Not at all.
+"Not at all.
 王の間は、ここから入ってまっすぐ進み、中央広間を抜けた先にあります。
- The throne room is straight ahead, past the central plaza.
+The throne room is straight ahead, past the central plaza.
 都には宿屋や万屋などもありますので、ご用がお済になりましたら、ぜひ見ていってください。」
- We also have inns and shops here in the city.  Please feel free to explore once your business with the king is concluded."
+We also have inns and shops here in the city.  Please feel free to explore once your business with the king is concluded."
 ここから南は都の外周路。
- "South of here is the outer ring road.
+"South of here is the outer ring road.
 南へ進むと、ドリームアトラクション前を横切り、商店街を抜けて、裏門までつながっているのさ。
- It will take you past the Dream Attraction, through the market district, and all the way to the back gate."
+It will take you past the Dream Attraction, through the market district, and all the way to the back gate.
 僕はここで泳いでから、宿屋ヒーラのバーで飲むのがいつもの日課なんだ。
- "I like to take a swim here, then grab a drink at the Heela Inn's bar.  It's my little ritual.
+I like to take a swim here, then grab a drink at the Heela Inn's bar.  It's my little ritual.
 この先から宿屋へ行くなら途中泳がないといけない。
- You'll have to swim if you want to reach the inn from here.
+You'll have to swim if you want to reach the inn from here.
 この水泳スポットの東の方に、南へ続く道があるから、そっちを通るといいよ。
- There's a path to the south, just east of this swimming spot. Take that one."
+There's a path to the south, just east of this swimming spot. Take that one."
 ここは、フェルマーレの水泳スポットなの。毎日ここで泳がないと、私の1日は終わらないんだ。
- "This is Fermare's favorite swimming spot. My day isn't complete without a dip in the water."
+"This is Fermare's favorite swimming spot. My day isn't complete without a dip in the water."
 ここフェルマーレでは、年に１度、水泳の祭典、王都大会が開かれているの。
- "We hold a swimming festival here every year?the Royal City Tournament.
+"We hold a swimming festival here every year?the Royal City Tournament.
 今年の大会はごたごたが全部片付いて、ルーライ王子が戻ってきてからになるでしょうね。
- I imagine this year's tournament will be postponed until things settle down and Prince Rurai returns.
+I imagine this year's tournament will be postponed until things settle down and Prince Rurai returns.
 まだ先になると思うけど、そのときはぜひ遊びに来てちょうだいね。
- It might be a while, but please come visit when it happens.
+It might be a while, but please come visit when it happens.
 きっと楽しめると思うわよ。
- I'm sure you'll enjoy it."
+I'm sure you'll enjoy it."
 「よっしゃ、自己ベスト12.32秒きたこれ！！
- "Yeah!  New personal best: 12.32 seconds!
+"Yeah!  New personal best: 12.32 seconds!
 この調子でいけば、王都大会優勝も夢じゃねえぞ！
- At this rate, I might even win the tournament!
+At this rate, I might even win the tournament!
 あ、有償は断トツ王子だもんな。ま、2位でもいいか。」
- Well, except for Prince Rurai, of course.  He's unbeatable.  Second place isn't so bad, though."
+Well, except for Prince Rurai, of course.  He's unbeatable.  Second place isn't so bad, though."
 外の湖に最近発生したんだけど、水の中を泳ぐ虫みたいな魔物がいるんだって。気持ち悪いよね？
- "Apparently there's a new kind of monster in the outer lake.  Some kind of creepy, swimming bug.  Gross, right?"
+"Apparently there's a new kind of monster in the outer lake.  Some kind of creepy, swimming bug.  Gross, right?"
 風の森の奥にある洞窟には、持っているだけで足が速くなるっていう宝石が隠されているんだって。
 "They say there's a jewel hidden in a cave deep within the Wind Forest. If you hold it, you become super fast!
 それさえ手に入れば、泳ぎも上達しそうなんだけど…。
- I bet if I had that, I'd be a much better swimmer!"
+I bet if I had that, I'd be a much better swimmer!"
 ぼく、おさかなさん　みたいに、
 "I want to
 もっと　はやく
- swim
+swim
 およげるように　なりたいんだ。
- as fast as a fish!"
+as fast as a fish!"
 ここから西へ行くと、ちょっとした水場がある。
- "There's a little swimming hole west of here.
+"There's a little swimming hole west of here.
 泳ぎ好きが集まる、この都の人気スポットの一つだ。
- It's one of the most popular spots in the city.  All the swimmers hang out there."
+It's one of the most popular spots in the city.  All the swimmers hang out there."
 ようこそ、湖の都・フェルマーレへ。ここには僕たち蛇封族が暮らしてるんだ。
- "Welcome to Fermare, the City of Water.  This is the home of the Serpentfolk.
+"Welcome to Fermare, the City of Water.  This is the home of the Serpentfolk.
 最近まで観光客でにぎわっていたんだけど、ちょっとこの辺で問題が起こってしまって…。
- Tourists used to flock here, but we've had some problems lately...
+Tourists used to flock here, but we've had some problems lately...
 今では、フェルマーレ王をはじめ治安部隊の人たちも、みんな事態の収拾にあたっているんだ。
- Now everyone?the king, the security force... everyone's working to fix things."
+Now everyone: the king, the security force... everyone's working to fix things."
 君たち！
- "Hey, you guys!
+"Hey, you guys!
 魔物退治、お疲れさん。
 Thanks for dealing with those monsters.
 都にも活気が戻ってきたよ。
@@ -3851,49 +3851,49 @@ The city's finally starting to feel alive again."
 ここフェルマーレには、周りを1周できる外周路があるの。
 "There's an outer ring that circles the entire city.
 そして、東西と南の通路から、王城のある中央広場へ行けるのよ。
- There are also passages to the east, west, and south that lead to the central plaza, where the royal palace is located.
+There are also passages to the east, west, and south that lead to the central plaza, where the royal palace is located.
 初めのうちは各所に水路があったりするから余計に複雑に感じられるかもしれないけど、いろんなところを回ってみてね。
- It might feel a little confusing at first, with all the waterways and side paths, but just explore and enjoy the city!"
+It might feel a little confusing at first, with all the waterways and side paths, but just explore and enjoy the city!"
 今日は、主人のつってきた魚でムニエルを作ろうと思っているの。
- "I'm planning on making fish meuniere tonight with what my husband caught.
+"I'm planning on making fish meuniere tonight with what my husband caught.
 いつもいつも同じ魚ばかりつってくるから、料理の趣向を変えないとすぐに飽きちゃって大変なのよ。
 He always catches the same fish, so I have to find creative ways to cook it, or we'll both get bored!"
 僕は泳ぐより、魚を釣る方が好きなんだ。
- "I prefer fishing to swimming.
+"I prefer fishing to swimming.
 この辺りでは、パミューという稚魚がよく釣れるんだよ。
- We catch a lot of Pamyu fry in these parts."
+We catch a lot of Pamyu fry in these parts."
 フェルマーレ大改造計画が持ち上がった時、
- "When they were planning the renovations for Fermare,
+"When they were planning the renovations for Fermare,
 都に釣堀が設置される予定だったんだ。
 they wanted to add a fishing pond.
 けれど、時間と予算が足りなくて見送られてしまったんだよ。
- But they ran out of time and money, so they had to scrap the idea.
+But they ran out of time and money, so they had to scrap the idea.
 バージョンが5.0くらいになれば、遊べるようになるかもしれないねえ。
- Maybe it'll be added in version 5.0!"
+Maybe it'll be added in version 5.0!"
 フェルマ湖には昔、天地をひっくり返すほどの、激しい嵐を引き起こした怪物が住んでいたらしいの。
- "Legend says that Lake Fermat was once home to a monster who could whip up storms that could turn the world upside down.
+"Legend says that Lake Fermat was once home to a monster who could whip up storms that could turn the world upside down.
 私たち、蛇封族のご先祖様が何とかその怪物を封じ込めることができたから、いまこの都があるんだって。
- Our ancestors, the Serpentfolk of old, managed to seal it away. That's how our city was born.
+Our ancestors, the Serpentfolk of old, managed to seal it away. That's how our city was born.
 都に伝わる古くからの伝承よ。この本に書いてあったの。
- It's an old tale.  I read about it in a book.
+It's an old tale.  I read about it in a book.
 へ？本？
 A book?
 それなら、フェルマーレ城の１階奥にある図書室へ行けば、誰でも読むことができるわよ。
 You can find it in the library, on the first floor of Fermare Castle. It's open to everyone."
 あ！おきゃくさんだ！！
- "Look!  A customer!
+"Look!  A customer!
 ぼくの ねえちゃん、いっつも ほんばっかりよんでるんだ。
 I love doing readings for people.
 なにか たのしいおはなし きかせてよ！
- Let's see!
+Let's see!
 ふーん。
 Hmm...
 おきゃくさんは、%951%歩もあるいてきたんだね、すごいね！
- You've walked %951% steps!  That's amazing!
+You've walked %951% steps!  That's amazing!
 でも、%961%回も倒れちゃったんだ。
 But you've fainted %961% times!
 みやこのおそとは、とってもきけんなんだね。
- It's a dangerous world out there, isn't it?"
+It's a dangerous world out there, isn't it?"
 「う～ん…」
 "Hmm...
 「だめね。」
@@ -3903,7 +3903,7 @@ No."
 「そのままの意味よ。
  "Exactly what I said.
 あなたはまだまだ青臭いってこと。
- You're not ready.
+You're not ready.
 もっと経験を積んでから出直しなさい。
  Come back when you've gained more experience.
 …まだまだ、足りないの。私には…、もっと強い勇者が必要なのよ…。」
@@ -3925,9 +3925,9 @@ Not what you're looking for? What do you mean?
 「！！
 "!!
 クエストを達成した…のだろうか？
- Have you completed a quest?
+Have you completed a quest?
 あなた、とても強そうだわ。
- You seem strong.
+You seem strong.
 あなたを見込んでお願いしたいことがあるの。
 Perhaps you can help me.
 私はノーラ。数年前まで神殿に努めていて、勇者を召喚するための魔法陣を開発する実験を行っていたわ…。
@@ -3975,53 +3975,53 @@ Heh.
 半端な気持ちで踏み入ってはダメよ。絶対に、帰ってこられないから。
 Don't enter that place lightly.  There's no turning back."
 湖の北に広がる風の森は、昼間でも薄暗くてとても危険なんだ。
- "The Wind Forest, north of the lake, is dark and dangerous, even in broad daylight.
+"The Wind Forest, north of the lake, is dark and dangerous, even in broad daylight.
 おまけに、とても巨大な昆虫型の魔物が数多く住み着いているらしいよ。
 They say it's swarming with giant insect monsters."
 「う～ん。どうしたものかな………。」
- "Hmm... what should I do...?"
+"Hmm... what should I do...?"
 リリア「どうしたのよ？」
- Lilia: "What's the matter?"
+Lilia: "What's the matter?"
 「じ、実は…。
- "Well, you see...
+"Well, you see...
 僕はトーレ。
- My name's Tohru.
+My name's Tohru.
 隣の家に住んでる娘…ユエリと僕は、幼馴染なんだ。
- Yueri, the girl who lives next door... well, we're childhood friends.
+Yueri, the girl who lives next door... well, we're childhood friends.
 昔はよく親の目を盗んで、二人で都を抜け出し、平原で見つけた小さな洞窟を秘密基地とか言って遊んでたんだけど…
- We used to sneak out of the city all the time, exploring the plains and pretending this little cave we found was our secret hideout.
+We used to sneak out of the city all the time, exploring the plains and pretending this little cave we found was our secret hideout.
 ある日行ってみると、その洞窟は魔物たちの巣になっていたんだ。
- But one day, we went back, and it was full of monsters!
+But one day, we went back, and it was full of monsters!
 急いで逃げ帰ったんだけど、家族には叱られるし、ほんとに散々だったよ。
 We barely escaped! My parents were furious,
 おまけにユエリ、逃げ帰るときに、いつも大切に下げていたペンダントを洞窟に落としてきてしまったみたいで、すごく落ち込んでたんだ。
 and Yueri was heartbroken because she lost her favorite pendant in the cave.
 僕は魔物なんかとは戦えない。
- I'm no monster slayer...
+I'm no monster slayer...
 だけど、あのペンダント、どうしても彼女に返してあげたくて…。
 But I really want to get that pendant back for her.
 ねえ君たち、もしよければ、その洞窟に行ってペンダントを見つけてきてくれないかい？」
- Would you mind going to the cave and looking for it?"
+Would you mind going to the cave and looking for it?"
 ペンダントを探して？：
 Find the pendant?:
 うん、わかった
- Sure, I'll do it.
+Sure, I'll do it.
 いやだ
- No way.
+No way.
 「そうか…。
- "Oh...
+"Oh...
 だけど、仕方がないよな。
 Well, it was worth a shot.
 あれは僕らが悪いんだから。」
- Guess it's our fault for going there in the first place."
+Guess it's our fault for going there in the first place."
 リリア「分かった。
 Lilia: "We'll do it.
 あたしには一緒に戦ってくれる仲間もいるし、その依頼受けるよ。」
- We're pretty good at dealing with monsters. You can count on us."
+We're pretty good at dealing with monsters. You can count on us."
 「ほんとかい！
 "Really?!
 助かるよ。
- Thank you so much!
+Thank you so much!
 僕らの秘密吉は、平原に出て、東に進んだ先にあるから。
 Our hideout is east of here, just past the lake.
 頼んだよ。」
@@ -4031,61 +4031,61 @@ Good luck!"
 「そ、そのペンダントは！！
 "Is...is that it?!
 間違いないよ。
- That's it!
+That's it!
 これ、ユエリがなくしたペンダントだ！
 That's Yueri's pendant!
 ありがとう。さっそく渡しに行ってくるよ！！
- Thank you so much!  I'll go give this to her right now!
+Thank you so much!  I'll go give this to her right now!
 …とその前に。これお礼。どうぞ。」
- But first... here, take this as a reward. You deserve it!"
+But first... here, take this as a reward. You deserve it!"
 エモートパーズを貰った。
 You received a Skill Topaz!
 ユエリ、すごく喜んでくれたよ。
- "Yueri was so happy!
+"Yueri was so happy!
 君にお願いして本当に良かった。
 Thank you again for your help."
 この世界の各地には、持久力、精神力、攻撃力、守備力、行動力を高めるっていう宝石があるんだって。
 "Apparently there are jewels scattered throughout the world that can enhance your stamina, spirit, attack, defense, and agility.
 魔物と戦う治安部隊の人たちは、階級に応じてこれらの宝石を与えられるんだよ。
- The higher-ranking members of the Security Force are given these jewels.
+The higher-ranking members of the Security Force are given these jewels.
 宝石に頼らなくたって、努力すれば、自分の力を鍛えられるのにね。
- But I think it's better to hone your skills through hard work, instead of relying on jewels."
+But I think it's better to hone your skills through hard work, instead of relying on jewels."
 世界各地には、まだ誰も見つけたことのないような洞窟や宝箱がたくさんあるらしい。
- "They say there are tons of undiscovered caves and treasure chests all over the world.
+"They say there are tons of undiscovered caves and treasure chests all over the world.
 特にカレシア平原には未踏の土地がたくさんあるらしいよ。
 Especially in the Kareshia Plains.
 都の騒ぎも一段落したし、ちょっと旅してみようかなあ。
- Now that things have calmed down in the city, maybe I'll go exploring.
+Now that things have calmed down in the city, maybe I'll go exploring.
 トレジャーハンター。かっこいい響きだなあ。
 'Treasure Hunter' has a nice ring to it, don't you think?"
 水浴びや日光浴もいいけれど、ハイキングもいいわよね。
- "Swimming and sunbathing are great, but a good hike is just what I need.
+"Swimming and sunbathing are great, but a good hike is just what I need.
 ゲリュア火山へ行きたいのだけど、最近物騒でしょ？
- I want to visit Geryua Volcano, but I hear it's dangerous these days.
+I want to visit Geryua Volcano, but I hear it's dangerous these days.
 竜眷族の友達からも、亜人間や炎のトカゲが山中を縄張りにしているって聞いたから…。
- My Dragonkin friend told me that Demi-humans and Fire Lizards have been claiming territory in the mountains..."
+My Dragonkin friend told me that Demi-humans and Fire Lizards have been claiming territory in the mountains..."
 ユエリ「あなた…、
- Yueri: "You...
+Yueri: "You...
 もしかして、わたしのペンダントを見つけてくれた…」
- You found my pendant..."
+You found my pendant..."
 リリア「えへへ。
 Lilia:  "Hee hee.
 大切なものだって聞いたから。
- We heard it was important to you.
+We heard it was important to you.
 でも、本当に見つかってよかった。」
- I'm glad we found it!"
+I'm glad we found it!"
 ユエリ「ええ。
 Yueri: "Thank you.
 母からもらった大切なものなの。
- It was a gift from my mother.
+It was a gift from my mother.
 それに、トーレと過ごした大事な思い出の詰まったペンダントだから…。
 And it's full of precious memories... memories of Tohru and me.
 トーレがこれを持ってきてくれた時、本当にうれしかった…。
 When he brought it back, I was overjoyed...
 そうだ。わたしからもお礼をさせてね。
- Please, let me give you something in return.
+Please, let me give you something in return.
 少ないけど、これ。
- It's not much, but...
+It's not much, but...
 ありがとう。」
 Thank you."
 50カレンもらった。
@@ -4097,21 +4097,21 @@ You received 50 Karen!
 治安部隊に所属してる人で、とってもクールなの！
 She's in the Security Force. Super cool!
 最近王子様とお付き合いしてるとかって噂なのよ。
- Rumor has it she's dating the prince! "
+Rumor has it she's dating the prince! "
 レン様が…、
- "Ren is...
+"Ren is...
 王様の代理ですってええええっ！
- Acting on behalf of the king?! No way!
+Acting on behalf of the king?! No way!
 こうしちゃいられないわ。
 I have to do something!
 私も治安部に入って、レン様に認めてもらわなきゃっ！
- I'm joining the Security Force!  I have to impress Ren!"
+I'm joining the Security Force!  I have to impress Ren!"
 ここは、都の宿屋《ヒーラ》。
- "Welcome to the Heela Inn.
+"Welcome to the Heela Inn.
 寝室はもちろんのこと、料理も絶品って、観光客の評判もいいんだ。
- Our rooms are comfortable, and our food is the best in the city!"
+Our rooms are comfortable, and our food is the best in the city!"
 ゲリュアから来たんだが、水がうまいと酒もうまいなあ。そう思うだろう？え！？
- "I'm visiting from Geryua.  Good water makes for good drinks, wouldn't you say?  What?
+"I'm visiting from Geryua.  Good water makes for good drinks, wouldn't you say?  What?
 んっ…んっ………ぷはぁ、飲みすぎたあ。お、おえっ…
 Ugh... I think I overdid it.  I'm gonna be sick...
 やばい、部屋帰って寝よ。
@@ -4121,85 +4121,85 @@ I need to get back to my room..."
 門を出たら、湖の中を変な魚が泳いでたんだ。
 I saw a strange fish swimming in the lake when I left the gate.
 「オポッポウオ」っていって、通りかかった人を、高圧縮の水玉で攻撃する魔物らしい。
- They call it an 'Opoppouo'. It attacks people with highly compressed water bullets!
+They call it an 'Opoppouo'. It attacks people with highly compressed water bullets!
 訓練した治安部隊員ならともかく、僕ら一般人にとっては危険な魚だよ。
- The trained guards can handle them, but they're dangerous for us regular folk!"
+The trained guards can handle them, but they're dangerous for us regular folk!"
 観光に来たんだけれど、湖周辺に魔物が現れたって言われて、帰れなくなってしまったの。
- "I came here on vacation, but now I'm stuck because of all the monsters!
+"I came here on vacation, but now I'm stuck because of all the monsters!
 おかげさまで、毎晩この宿に泊まるはめになっちゃったのよ。
- I've been staying at this inn every night since.
+I've been staying at this inn every night since.
 宿代は王様持ちだからいいんだけど、そろそろ森の木の実が食べたくなってきたわ。
- It's on the king's tab, so that's fine, but I'm starting to miss those forest berries."
+It's on the king's tab, so that's fine, but I'm starting to miss those forest berries."
 やっと森に帰れるようになったの。
- "I can finally go home!
+"I can finally go home!
 なったんだけど…、今度はこの宿の布団と豪華な食事、
- But... these beds are so comfy, the food is amazing,
+But... these beds are so comfy, the food is amazing,
 他の観光客のみんなとの話が楽しくって…。
 and I'm having such a great time chatting with the other guests...
 帰るに帰れないのよ。
- I don't want to leave!
+I don't want to leave!
 長老様、心配してるんだろうなあ。
- The elder must be worried sick..."
+The elder must be worried sick..."
 う～ん、この宿の布団、あたしにはちょっと薄いや。
  "Hmm, these beds are a little too thin for me.
 やっぱり敷布団は低反発にかぎるわ。
-I need a memory foam mattress..."
+I need a memory foam mattress...
 …って、かってに人の部屋に入らないでよっ！
- "Hey!  Don't just barge into people's rooms!"
+Hey!  Don't just barge into people's rooms!"
 （カリカリカリ）
- (Scribbling)
+(Scribbling)
 （カリカリカリカリ）「ん？
 (Scribbling) "Hmm?
 おお、これは失礼。お客人がいらしていたとは。
- Oh, my apologies. I didn't realize I had company.
+Oh, my apologies. I didn't realize I had company.
 私はここで、魔術理論について研究しているものです。
- I'm studying magical theory.
+I'm studying magical theory.
 魔術…、つまり〈魔法〉についての研究です。
- Magic... in other words, 'spells'.
+Magic... in other words, 'spells'.
 水球を飛ばしたり、炎をまとったり。
- Throwing water balls, conjuring flames...
+Throwing water balls, conjuring flames...
 我々魔術理論の研究者は、自然のエネルギーを集め・変化させ、無の空間に有を作り出す、あるいは精神的な作用を与える様な、何らかの不思議な力を、〈魔法〉と呼んでいます。
- We, the researchers of magical theory, believe that magic is the ability to gather and manipulate natural energy, to create something from nothing, and to exert influence over the mind.
+We, the researchers of magical theory, believe that magic is the ability to gather and manipulate natural energy, to create something from nothing, and to exert influence over the mind.
 リゼンの妖精は森の力で木の葉や風を操り、火山の竜眷族は炎の力を行使する。
 The fairies of Rysen use the power of the forest to control the wind and leaves, while the Dragonkin of Geryua wield the power of flame.
 ここフェルマーレの民は、水を自由に泳ぎ、時には防衛の手段として水球を操ります。
 Here in Fermare, we swim freely in the water, and some of us even use it as a weapon.
 このように、現在まで魔法とは、地域や種族ごとに固有の力とされてきました。
- Until now, magic has been considered a power unique to specific regions and races.
+Until now, magic has been considered a power unique to specific regions and races.
 しかし！我々は、魔法の属性や特異性等々について体系的にまとめることにより、居住地域や種族に関係なく、習得・行使できる魔術理論について研究を重ねているのです。
- But! We believe that by systematically analyzing the elements and properties of magic, we can develop theories that allow anyone, regardless of their origins, to learn and wield magic!
+But! We believe that by systematically analyzing the elements and properties of magic, we can develop theories that allow anyone, regardless of their origins, to learn and wield magic!
 つまり、我々の研究の先には、誰もが魔法を取捨選択できる便利な世の中が待ち構えているといえるでしょう。
 In other words, our research will pave the way for a future where magic is readily available to all!
 …と、長話をしてしまいました。熱がこもると、いつもこうなってしまうのです。
- Oh my, I've been rambling.  I tend to do that when I get excited about my work.
+Oh my, I've been rambling.  I tend to do that when I get excited about my work.
 研究者の悲しい性ですな、ははは。
- An occupational hazard, haha!
+An occupational hazard, haha!
 ところで、あなたは冒険者とお見受けしました。
- You seem to be an adventurer.
+You seem to be an adventurer.
 最後までお話を聞いていただきましたし、よろしければ、これをお持ちください…
- Thank you for listening to my long-winded explanation. Please accept this gift..."
+Thank you for listening to my long-winded explanation. Please accept this gift..."
 「時空の輪」を貰った。
 You received the Ring of Time and Space!
 それは、魔方陣を刻んだ特別な道具。
- "It's a special device engraved with a magic circle.
+"It's a special device engraved with a magic circle.
 このアイテムを持っていれば、セーブ陣から、指定した場所へ瞬時に移動できる様になりますよ。
- This item allows you to instantly warp to a designated location from any save point.
+This item allows you to instantly warp to a designated location from any save point.
 セーブ陣メニューから、「時空の輪」を使用してください。
 Use the Ring of Time and Space from the save point menu.
 現在は研究段階なもので、世界各地に点在する4つのセーブ陣へ移動することしかできません。
- It's still in the experimental stages, so you can only warp to four specific save points located throughout the world.
+It's still in the experimental stages, so you can only warp to four specific save points located throughout the world.
 また、時々不具合を起こすこともあるかもしれませんが、その時は、物語を進めてから再度試してみてください。
 You may encounter occasional bugs. If that happens, simply progress further in the story and try again.
 ここから一番近いセーブ陣は…、フェルマーレの正面ゲート前のセーブ陣です。
- The nearest save point from here is the one in front of Fermare's main gate.
+The nearest save point from here is the one in front of Fermare's main gate.
 では、私は続きがありますので。よい旅を…
 Now, if you'll excuse me, I have work to do.  Safe travels..."
 ようこそ、宿屋《ヒーラ》へ。
- "Welcome to the Heela Inn.
+"Welcome to the Heela Inn.
 1泊8カレンでご案内しておりますが、いかがいたしましょう？
- Rooms are 8 Karen per night.  Will you be staying with us?"
+Rooms are 8 Karen per night.  Will you be staying with us?"
 1泊8カレン：
- 8 Karen per night:
+8 Karen per night:
 お客様、お金が足りないようですよ。
 "It seems you don't have enough money."
 お部屋までご案内いたします。
@@ -4209,19 +4209,19 @@ Make yourself at home."
 おはようございます。お気を付けて。
 "Good morning. Safe travels."
 みやこ一の安らぎを、フェルマーレの宿『ヒーラ』
- "The Heela Inn:  Fermare's finest accommodations."
+"The Heela Inn:  Fermare's finest accommodations."
 『「ドリームアトラクション・ガイラ』
-"Welcome to the 'Dream Attraction: Gaila'!
+"Welcome to 'Gaila's Dream Attraction'!
 ミニゲームでほっと一息。
- Take a break and enjoy some mini-games!
+Take a break and enjoy some mini-games!
 ゲリュアから上京したドリーマー・ガイラが、
 Gaila, a dreamer who came all the way from Geryua,
 皆様に楽しいひと時を提供します！
 is here to provide you with an unforgettable experience!
 ふふ。今日もいい感じ。
-Heh heh, things are going great!
+"Heh heh, things are going great!
 沢山儲かっちゃった♪
- Making a fortune today! ♪"
+Making a fortune today!"
 ガイラさんのハイ＆ローは引き際が大事よ。
 "Remember, the key to Gaila's High & Low is knowing when to walk away.
 焦らずに、じっくり考えて、続けるかどうかを決めるといいわ。
@@ -4229,9 +4229,9 @@ Take your time, think carefully, and decide if you want to keep playing."
 かぁっ。すっきりしたぜ！！
 "Ahhhh, that felt good!
 ツボを壊しまくってると、日頃の鬱憤がきれいさっぱりふっとんじまう。
- Smashing those pots really clears the mind!
+Smashing those pots really clears the mind!
 ポッツヒッツ、お勧めだぜ。
- I highly recommend Potts Hits!"
+I highly recommend Pott Smash!"
 エレナ「あ、あれ？もしかして…、ガイラさん？」
 Elena: "Wait a minute... Gaila?"
 ガイラ「ん？　ん！？　うーーん！？
@@ -4241,87 +4241,87 @@ Could it be...?
 やはり！巫女さんじゃあないですかあ！？
 It is!  The Volcano Drake's Chosen!
 こんなところでお会いできるなんて、奇遇だねぇ。
- What a surprise!  It's been a while.
+What a surprise!  It's been a while.
 それで、どうだい？せっかくだし、遊んでいくかい？」
- Say, how about trying your luck at one of my games?"
+Say, how about trying your luck at one of my games?"
 エレナ「あ…、　えっ…と………」
- Elena:  "Um, well, I..."
+Elena:  "Um, well, I..."
 リリア（なんか…変な人。エレナ、知り合い？）
- Lilia: (What a strange guy.  Do you know him, Elena?)
+Lilia: (What a strange guy.  Do you know him, Elena?)
 エレナ（ガイラさん。昔、竜眷族の里を急に飛び出して行っちゃった人なの。）
- Elena: (That's Gaila.  He left our village without a word one day.)
+Elena: (That's Gaila.  He left our village without a word one day.)
 エレナ「そんなことより、里のみんなが心配していますよ。どうして、急にいなくなったりするんです？」
- Elena:  "Gaila, everyone in the village was worried about you!  Why did you leave so suddenly?"
+Elena:  "Gaila, everyone in the village was worried about you!  Why did you leave so suddenly?"
 ガイラ「みんなあ？
- Gaila: "Everyone...?
+Gaila: "Everyone...?
 そうか…。里のみんなには…とても迷惑をかけっぱなしだね。
- Oh... yeah, I guess I didn't really give anyone a proper explanation.
+Oh... yeah, I guess I didn't really give anyone a proper explanation.
 でもね！僕は！僕はどうしても！
 I just wanted to get out of there.
 自分の夢を追いかけたかった。そう！僕だけの家を作るという夢をっ！！」
- I... I had to follow my dream!  To build my own home!"
+I... I had to follow my dream!  To build my own home!"
 エレナ「家？…この、テントのことですか？」
- Elena:  "Your home...? You mean... this tent?"
+Elena:  "Your home...? You mean... this tent?"
 ガイラ「そうさ。だからここ、ドリームアトラクションを作ったんだ。
- Gaila:  "Exactly!  That's why I created Dream Attraction!
+Gaila:  "Exactly!  That's why I created Dream Attraction!
 湖の都に、誰もが楽しめる楽園を！」
- A paradise for everyone, right here in the City of Water!"
+A paradise for everyone, right here in the City of Water!"
 エレナ「じゃあ…夢はかなったんですね？」
- Elena:  "So... your dream came true?"
+Elena:  "So... your dream came true?"
 ガイラ「そう。僕は、世界を回って思ったんだ。
 Gaila:  "It did.  You see, I traveled the world, and I realized something.
 僕らの里やリゼンの森は、ここに住んでるみんなの様にもっと外交的にならなくてはいけないと。」
- Places like our village and Rysen Forest... we need to be more open to the world."
+Places like our village and Rysen Forest... we need to be more open to the world."
 エレナ「そうかもしれませんね……。
- Elena: "You might be right...
+Elena: "You might be right...
 ともかく、ガイラさんが元気でよかったです！
- It's good to see you're doing well, Gaila.
+It's good to see you're doing well, Gaila.
 ところで、ガイラさんは何をしているんです？」
- So, what are you doing here?"
+So, what are you doing here?"
 ガイラ「ハイ＆ロー。当たれば一攫千金間違いなしの運試しができるんだよ。
- Gaila:  "I'm running High & Low!  It's a game of chance, where you can win a fortune if you're lucky.
+Gaila:  "I'm running High & Low!  It's a game of chance, where you can win a fortune if you're lucky.
 巫女さんも遊んでいくといい。」
- How about giving it a try, Chosen?"
+How about giving it a try?"
 でも…お金の使い過ぎはちょっと怖いかも………」
- "Hmm... but I'm not sure I want to spend too much money..."
+Hmm... but I'm not sure I want to spend too much money...
 ガイラ「まあそうだろうね。
- Gaila:  "Fair enough.
+Gaila:  "Fair enough.
 他のスタッフも、面白いゲームをやっているから、
- My other staff members have some interesting games as well.
+My other staff members have some interesting games as well.
 そちらも是非見ていってね。
- Check them out!
+Check them out!
 頑張れば、とてもいいものが当たるかもしれないよ？」
- You might win something amazing if you're lucky!"
+You might win something amazing if you're lucky!"
 ドリームアトラクションのメインゲーム・ガイラのハイ＆ローへようこそ。
-Welcome to Gaila's High & Low, the main attraction of Dream Attraction!
+Welcome to Gaila's High & Low, the main draw of Dream Attraction!
 1回10カレンで、ビッグドリームをつかまないかい？
- For just 10 Karen, you can chase your big dreams!
+For just 10 Karen, you can chase your big dreams!
 1回10カレン：
- 10 Karen per game:
+10 Karen per game:
 10カレンで遊ぶ
- Play for 10 Karen
+Play for 10 Karen
 遊び方の説明を聞く
- Explain the rules
+Explain the rules
 また遊んでね。
- Come play again!
+"Come play again!"
 ガイラのハイ＆ローのルールを説明するよ。
- "Let me explain the rules of High & Low.
+"Let me explain the rules of High & Low.
 １ゲーム１０カレンでプレイできるんだ。
- Each game costs 10 Karen.
+Each game costs 10 Karen.
 初めは、この１０カレンが掛け金になって、
 Those 10 Karen are your initial wager.
 君が僕との勝負に勝てば勝つほど賞金が増えていくという仕組みになっているよ。
- The more you win, the bigger your prize!
+The more you win, the bigger your prize!
 ここに、1から9までの数字が書かれたカードが2枚ずつ、合計18枚ある。この中から僕が1枚カードを引いて君に見せるよ。
- I have 18 cards here, two of each number from 1 to 9.  I'll draw a card and show it to you.
+I have 18 cards here, two of each number from 1 to 9. I'll draw a card and show it to you.
 そのあとで、君にカードを引いてもらうんだけど、そのカードの数字が僕の引いたカードの数値よりも大きいか小さいかを予想してもらうんだ。
- Then, you draw a card.  You have to guess if your card is higher or lower than mine.
+Then, you draw a card. You have to guess if your card is higher or lower than mine.
 見事予想が当たれば掛け金が2倍になって、それが次のゲームの掛け金に繰り越されていくんだ。ゲームはいつでも中断できて、その時の掛け金が賞金になる。
- If you guess right, your wager doubles, and it becomes your wager for the next round.  You can quit at any time and keep your current wager as your prize money.
+If you guess right, your wager doubles, and it becomes your wager for the next round.  You can quit at any time and keep your current wager as your prize money.
 ただし、君の予想が外れたらそこでゲーム終了。賞金は上げられない。
 But if you guess wrong, the game is over, and you lose your wager.
 僕と君が同じカードを引いたときは、君の予想にかかわらずゲーム終了。この時も、賞金は出ないから注意してほしい。
- If we draw the same card, the game ends, regardless of your guess.  And you don't get any prize money in this case either.
+If we draw the same card, the game ends, regardless of your guess.  And you don't get any prize money in this case either.
 ルールはこんな感じ。分かってもらえたかな？
 Those are the rules!  Got it?"
 掛け金が足りないよ。
@@ -4331,9 +4331,9 @@ Those are the rules!  Got it?"
 小／大：
 Higher/Lower:
 大きい
- Higher
+Higher
 小さい
- Lower
+Lower
 カードドロー。%208%だ。
 "Your draw: %208%."
 ガイラのカード%209%より自分のカード%208%の方が大きかった。
@@ -4343,157 +4343,157 @@ Your card (%208%) is lower than Gaila's card (%209%).
 ガイラのカード%209%と自分のカード%208%は同じだった。
 Your card (%208%) is the same as Gaila's card (%209%).
 おめでとう、君の勝ちだ！
- "Congratulations!  You win!"
+"Congratulations!  You win!"
 掛け金が2倍の%100%カレンになった。
- "Your wager is now doubled to %100% Karen!
+"Your wager is now doubled to %100% Karen!
 もう1度遊ぶかい？：
- Play again?:
+Play again?:
 掛け金%100%カレンでもう1度遊ぶ
- Play again with %100% Karen wager.
+Play again with %100% Karen wager.
 ここでやめる
- Quit while you're ahead.
+Quit while you're ahead.
 ヒ、ヒエェェェェ！
 "N-no way!
 君たち…強すぎるよ！！
- You're too good!
+You're too good!
 これ以上は…。
- I can't...
+I can't...
 もう、かんべんしてくれよぅ………
- I give up!
+I give up!
 もちろん、次の掛け金分はもってっていいからさ、な？
- You can keep your wager, of course."
+You can keep your wager, of course."
 おつかれさま。賞金は、%100%カレンだよ。
- "Thanks for playing! Your prize is %100% Karen."
+"Thanks for playing! Your prize is %100% Karen."
 残念！今回は君の負けだ…。
 "Sorry, you lose this time.
 掛け金はもらえなかった。
- No prize money for you."
+No prize money for you."
 お互い同じカードを引いたね。
 "We drew the same card! "
 お客さん、鍵を持っていかれては困るでゲス！
 "Hey!  You can't take that key!
 ここで没収させてもらうゲス！！
- It's mine now!"
+It's mine now!"
 あ、こんにちはっ！
 "Hi there!
 スカッとすっきり、ポッツヒッツにようこそ！
-Welcome to Potts Hits!
+Welcome to Pott Smash!
 このポッツヒッツはですね、時間内にできるだけたくさんのツボを壊すミニゲームなんです。
- Potts Hits is a simple game where you smash as many pots as you can within the time limit.
+Pott Smash is a simple game where you smash as many pots as you can within the time limit.
 日頃の悩み事とかうっぷんとか、ぜーんぶふっ飛んじゃいますから、挑戦してみてくださいね！
- It's a great way to relieve stress!  Give it a try!
+It's a great way to relieve stress!  Give it a try!
 １回１０カレンです。
- 10 Karen per game."
+10 Karen per game."
 ポッツヒッツ
- Potts Hits:
+Pott Smash:
 遊ぶ！
- Play!
+Play!
 もっと詳しく
 Tell me more
 ハイスコアを確認
- Show high scores
+Show high scores
 やめとく
- Not now.
+Not now.
 わっかりました。
 I'm sorry.
 ゲームのルールを説明しますね。
- "Alright, let me explain the rules.
+"Alright, let me explain the rules.
 ツボを壊して気分爽快！！
- Smash pots for instant stress relief!
+Smash pots for instant stress relief!
 制限時間は１分。
 You have one minute.
 フィールド上にたくさんのツボが配置されますので、ひたすら壊し続けてくださいね。
- Smash as many pots as you can!
+Smash as many pots as you can!
 ツボを壊すと３点、
 You get 3 points for each pot,
 さらにカレンを拾うともう３点、
- 3 more points for each Karen you pick up,
+3 more points for each Karen you pick up,
 そして、ハートを拾えば５点加算されますよ。
- and 5 points for each heart!
+and 5 points for each heart!
 フィールドの上端に進めばツボを補充します。
 Reach the top of the screen to refill the pots.
 ただし、落ちているカレンやハートはなくなってしまうので注意してくださいね。
- But be careful, you'll lose any Karen or hearts you haven't collected yet.
+But be careful, you'll lose any Karen or hearts you haven't collected yet.
 １分間が経過するとゲーム終了です。最終スコアを発表しますよ。
 The game ends after one minute.  I'll announce your final score.
 ハイスコアは記録されますので、私に申し付けいただければいつでも確認できます。
- Your high score will be saved. You can check it at any time.
+Your high score will be saved. You can check it at any time.
 それから、プレイ中は各種メニューを呼び出せないので注意してくださいね。
- Remember, you can't open any menus during the game.
+Remember, you can't open any menus during the game.
 あ、最後になりますが、ゲーム中に拾ったカレンはお持ち帰り自由ですので、たくさん拾って帰ってくださいね。
- Oh, and one last thing: You get to keep all the Karen you pick up during the game!  So grab as many as you can!"
+Oh, and one last thing: You get to keep all the Karen you pick up during the game! So grab as many as you can!"
 ハイスコアは、%636%点です。
- "The high score is %636%."
+The high score is %636%.
 はい、確かに。
- "Very well.
+"Very well.
 それでは、準備はいいですか？
- Ready?
+Ready?
 私の笛の合図で、スタートですからね！
- Start!"
+Go!"
 そこまでえっ！！
- "Time's up!
+"Time's up!
 お疲れ様でした。
 You did great.
 すっきり爽快、楽しかったですか？
- How was that? Feeling refreshed?
+How was that? Feeling refreshed?
 今回のスコアは、%100%ポイントでした。
- Your score: %100% points.
+Your score: %100% points.
 おめでとう！！
- Congratulations!
+Congratulations!
 ハイスコア更新です！
 New high score!"
 ポッツヒッツで１０００点以上獲得すると、すてきな賞品をプレゼントします。
-"Score over 1000 points in Potts Hits and you'll win a prize!
+"Score over 1000 points in Pott Smash and you'll win a prize!
 また挑戦してくださいね！
- Give it another try!"
+Give it another try!"
 すごいです、みごと１０００点以上獲得しましたね！
- "Amazing!  You scored over 1000 points!
+"Amazing!  You scored over 1000 points!
 良かったら、これを受け取ってください！
- Here's your prize!"
+Here's your prize!"
 ヘヘヘ。
- "Heh heh.
+"Heh heh.
 こちらは、トレジャー５０でゲス。
 Welcome to Treasure 50!
 二つに一つ。
 It's a game of chance!
 鍵を引き当て、どんどん先へ進むでゲス。
- Find the key and progress to the next room!
+Find the key and progress to the next room!
 みごと最奥に到達できれば、すんばらしい賞品をプレゼントするでゲス。
- Reach the end, and a fabulous prize awaits!
+Reach the end, and a fabulous prize awaits!
 １回２０カレンでゲスが、やっていくゲス？
- Just 20 Karen a play!  Interested?"
+Just 20 Karen a play! Interested?"
 トレジャー５０
  Treasure 50:
 ルールでゲスか？
-Explain the rules
+"The rules?
 簡単でゲスよ。
- "It's simple!
+It's simple!
 まず、あっしが宝物の部屋にお連れするゲス。
- I'll lead you to a treasure room.
+I'll lead you to a treasure room.
 オキャクさんは、右か左か、好きな方の宝箱を開くゲス。
 Choose a chest, either left or right.
 みごと小さな鍵を手に入れたら、それを使って次の部屋に進めるゲス。
 If you find a Small Key, you can use it to open the next room!
 もしハズレを引いてしまっても、少しばかりでゲスが金を貰えるゲス。
- If you pick a dud, you'll still get a small consolation prize.
+If you pick a dud, you'll still get a small consolation prize.
 どんどん奥に進むげす。一番奥には、すんばらしい賞品を用意してるゲス！
- Keep going until you reach the end!  A fantastic prize awaits you!"
+ Keep going until you reach the end!  A fantastic prize awaits you!
 お帰りは、南の扉からどうぞげす。
- "Exit through the south door. "
+Exit through the south door. "
 金でゲス、金でゲス！
 "Money, money, money!
 トレジャー５０、おひとり様ご案内でゲス～！
- Step right up for Treasure 50!"
+Step right up for Treasure 50!"
 この扉には鍵がかかっている。
- This door is locked.
+This door is locked.
 先へ進むには、小さな鍵が必要だ。
- You need a Small Key to proceed.
+You need a Small Key to proceed.
 持っていた小さな鍵を使い、扉を開いた！！
- You used a Small Key to unlock the door!
+You used a Small Key to unlock the door!
 もう終わりゲスね。
- "Game over!
+"Game over!
 お客さん、まだ小さな鍵を%1312%本持っているゲス？
- You still have %1312% Small Keys?
+You still have %1312% Small Keys?
 本当はルール違反でゲスが、誤って外に出たようゲスから、今回は見逃してやるゲス。
  Technically, you're not supposed to leave the game with any keys, but I'll let it slide this time.
 その鍵は、次回の挑戦で使うといいでゲス。
@@ -4503,15 +4503,15 @@ If you find a Small Key, you can use it to open the next room!
 それでは、バイバイゲス！
  See you next time!"
 ヘヘヘ
- "Heh heh."
+"Heh heh."
 小さな鍵を手に入れた。
 You found a Small Key!
 鍵を開けて、次の部屋へ進もう。
- Use the key to unlock the next room.
+Use the key to unlock the next room.
 大当たりでゲス！
 "Jackpot!
 みごと、すんばらしい商品にたどり着いたゲス！
- You found the grand prize!"
+You found the grand prize!"
 こんにちは、雑貨屋《シャレーニ》へようこそ！
 "Welcome to Shaleni's Sundries!
 といっても、観光の方がお使いになるような商品は、うちにはないと思います。ごめんなさいね。
@@ -4549,7 +4549,7 @@ That'll be 200 Karen."
 少女「え？え！？それって…」
 Young Girl: "What?  What does that mean?!"
 商人？「はい。働いていただきますよ。」
- Shady Merchant:  "You'll be working for me.
+ Shady Merchant:  "You'll be working for me."
 少女「！！」
 Young Girl:  "!!"
 ？？？「待ちなさいっ！」
@@ -4583,7 +4583,7 @@ Shady Merchant: "R-Ren?! "
 レン「はい。私は、フェルマーレ治安部隊所属のレン。
 Ren: "Indeed. I am Ren of the Fermare Security Force.
 今朝、たまたま商い許可申請書を整理していたのですが、その書類に、あなたの写真はみあたりませんでした。
-I was reviewing business permit applications this morning, and I don't recall seeing your photograph on any of them.
+I was reviewing business permit applications this morning, and I don't recall seeing your picture on any of them.
 それに…。私は、あなたから商い許可申請を受けた覚えはありませんが。」
 And... I have no memory of receiving an application from you."
 怪しい男「ひっ！ひええええええっ！鬼だあっ！鬼に殺されるうっ！」
@@ -4613,7 +4613,7 @@ Solving problems,
 レン「そんな…私は…」
  Ren: "That's... I..."
 エリス「あ、それから、ちょっと怖いお兄さんたちの間では、鬼…　－－
- Eris:  "Oh, and some of the tougher guys in the city call you a demon...
+ Eris:  "Oh, and some of the tougher guys in the city call you a demon..."
 レン「鬼…、ですって…！？」
 Ren:  "A demon?! "
 エリス「きゃっ！」
@@ -4621,11 +4621,11 @@ Eris:  "Eek!"
 レン「す、すみません。私としたことが…」
  Ren:  "I-I'm so sorry. I didn't mean to..."
 確かに、先ほどのような連中にとっては、彼女の働きぶりは脅威となりえそうだ。
- Considering how easily she handled those thugs, I can see how some people might consider her a threat.
+Considering how easily she handled that "merchant", I can see how some people might consider her a threat.
 エレナ「ふふ、そうかもね。」
  Elena: "Heh, you might be right."
 レン「ちょっとそこ！」
- Ren: "Hey, you there!"
+Ren: "Hey, you there!"
 エリス「ともかく、ありがとうレン様！
 Eris: "Thank you for everything, Ren!
 お仕事、頑張ってくださいね！それじゃっ！」
@@ -4651,17 +4651,17 @@ Elena: "Huh?  I didn't mean it like..."
 リリア「ばっさり、だね、エレナ。」
  Lilia: "Ouch, Elena. That was harsh."
 そんなことより謁見だ
- Focus. We need to see the king.
+Focus. We need to see the king.
 エレナの恋愛対象は…
- Elena has a crush on...
+Elena has a crush on...
 レン「そ、そうですよ！」
-Ren:  "Y-yes, that's right!"
+Ren:  "Y-yes, that's right!
 エレナ「え？あ…ええ、えと、そういう意味じゃ…。
 Elena: "What?  I... well, I just meant...
 わたしは…その、他の誰かのために頑張ってるレンさんが、すごいなって…」
- I admire how dedicated you are to helping others..."
+ I admire how dedicated you are to helping others...
 そ、そういう好きなら…わたしだって…
- I-if that's what you mean by "like"... then I like you too...
+ I-if that's what you mean by "like"... then I like you too..."
 レン「と、とにかく！」
 Ren: "A-anyway!
 レン「今は、フェルマーレの王、ルスアス様との謁見です！さ、行きますよ！」
@@ -4677,7 +4677,7 @@ Ren: "A-anyway!
 「やあ。
  "Hello.
 レンさんから話は聞いているよ。君があの悪徳商人を見つけてくれたんだってね。」
- Ren told me everything.  You helped catch that shady merchant."
+Ren told me everything.  You helped catch that shady merchant."
 エレナ「え？わたしたちは、ただレンさんが商人の悪事を暴くところに出くわしただけで…。」
 Elena: "Huh?  We just happened to be there when Ren exposed his scheme..."
 「わたし…たち？
@@ -4701,7 +4701,7 @@ Interested?"
 スタミナイト、200カレン：
 Staminite, 200 Karen:
 声をかけてくれれば、いつでも売るからね。
- "Let me know if you change your mind."
+"Let me know if you change your mind."
 残念だけど、これ以上は負けられない。
 "Sorry, that's my final offer.
 この宝石は、とても貴重なものなのだ。
@@ -4769,13 +4769,13 @@ Buy 50: 15000 Karen
 100個買う：30000カレン
 Buy 100: 30000 Karen
 体力の最大値がアップした。おまけに体力全回復！
- "Your maximum HP has increased! And your HP has been fully restored!"
+Your maximum HP has increased and your HP has been fully restored!
 スキルポイントの最大値がアップした。
-"Your maximum SP has increased!"
+Your maximum SP has increased!
 この先は王の間。現在フェルマーレ21世はご多忙のため、謁見はご遠慮いただいております。
-"Beyond this point lies the throne room. King Fermare XXI is currently unavailable for audiences."
+"Beyond this point lies the throne room. King Fermare XXI is currently unavailable for audiences.
 おや、あなた様は、神殿からの使者ですね…。
-"Oh, you're the envoy from Shaintarium...
+Oh, you're the envoy from Shaintarium...
 治安部のレンさんから話は聞いておりますが…しかし、当の本人は一緒ではないようですね。
 Ren told me about you, but... it seems she's not with you.
 私は持ち場を離れるわけにはまいりません。申し訳ございませんが、彼女を探して、連れてきていただけませんか？
@@ -4795,7 +4795,7 @@ Gatekeeper: "We can discuss this later.  You need to hurry.  The throne room is 
 レン「恩に切ります。
 Ren: "I'm in your debt.
 さあ?name?さん、皆さん、行きますよ。」
- Come on, ?name? let's go."
+Come on, ?name? let's go."
 レン「ルスアス様、神殿の使者をお連れしました。」
 Ren: "Your Majesty, I have brought the envoy from Shaintarium."
 王「うむ、ご苦労だったな、レンよ。」
@@ -4819,7 +4819,7 @@ A large man sits upon the throne.  There's no mistaking him?he is the ruler of F
 だけど、つい最近、その入り口が破られて、たくさんの魔物が現れ、あたしの仲間がさらわれたんです。」
  But recently, the entrance was breached.  Monsters poured out, and they kidnapped my friends."
 エレナ「ゲリュア火山では、突然山の守り神であるゲーラス様が暴れだし、
- Elena: "In Geryua Volcano, Geras, the Volcano Drake and guardian of the mountain, suddenly went berserk.
+Elena: "In Geryua Volcano, Geras, the Volcano Drake and guardian of the mountain, suddenly went berserk.
 わたしの命を奪い、さらに里のみんなに危害を加えようとしていました。」
 He attacked me, and then he tried to harm my village."
 リゼンの森、ゲリュア火山を巡る旅の途中、?me?は彼女たちと出会い、一つになった。
@@ -4843,7 +4843,7 @@ Strange things have been happening around Fermare as well.
 レン「封印の間というのは、その名の通り、魔物を封印した場所です。
 Ren: "The Sealed Chamber is, as its name implies, a chamber where a monster is sealed.
 私たち蛇封族の先祖が、その昔、凶悪な怪物を封じた、という話です。」
- Long ago, our ancestors, the Serpentfolk, imprisoned a powerful evil there."
+Long ago, our ancestors, the Serpentfolk, imprisoned a powerful evil there."
 ルスアス「その封印が弱まったこと、そして魔物の出現は、世界のバランス崩壊が原因なのかもしれんな。」
  Rufus:  "The weakening seal and the appearance of monsters... it must be due to the disruption of the world's balance."
 となると、直接ルドルフが仕掛けてくるとするなら…。
@@ -4867,7 +4867,7 @@ Ren:  "What?!"
 リリア「え？どういうこと？」
  Lilia: "What do you mean?"
 ルスアス「余の息子ルーライは、現在封印の間へ向かっている。
- Rufus: "My son, Rurai, is on his way to the Sealed Chamber.
+Rufus: "My son, Rurai, is on his way to the Sealed Chamber.
 怪物を再封印するため、《フェルマーレの輝石》を使うよう、余が依頼したのだ。
 I asked him to use the Fermare Jewel to reseal the monster.
 フェルマーレの輝石は、一時的に封印の間を開き、悪しき水の力を封じこむために作られた石。
@@ -4891,7 +4891,7 @@ I can feel Elena's panic.
 ?me?たちも封印の間へ行き、状況を確認しようか？
  Should we go to the Sealed Chamber and see what's happening?
 リリア「そうだね。…なんとかしないと！」
- Lilia: "We have to do something!"
+Lilia: "We have to do something!"
 ルスアス「しかし、都のために、神殿の使者たるおぬしらを危険にさらすわけには…」
 Rufus: "But I can't ask you, the envoy of Shaintarium, to risk your lives for my city..."
 エレナ「そんなことありません。わたしたち、ここにきて、都に住むたくさんの人たちにお世話になりました。
@@ -4915,7 +4915,7 @@ Rufus:  "Very well.
 余の誤った判断で、このような事態を引き起こしてしまったこと、本当にすまないと思っておる。
 I regret that my poor judgment has led to this.
 皆、よろしく頼むぞ。」
- I'm counting on you all."
+I'm counting on you all."
 ?me?たちの後ろからついて一緒に行動してくれるぞ。
 Ren will join your party and fight alongside you.
 魔物が現れると、レン自身で判断し、水の魔弾で戦ってくれる。
@@ -4941,7 +4941,7 @@ Elena: "What a sinister fog...
 ？？？「くっ………
  ???: "Damn...
 しくじったかっ…」
- I failed..."
+I failed..."
 レン「ル…ルーライッ！！」
  Ren: "R-Rurai!!"
 ルーライ「んぐ…。レ、レン、来てはいけない…！」
@@ -5039,7 +5039,7 @@ Ren: "I'm... I'm sorry, I..."
 …何でもいい…
  ...It doesn't matter...
 なにか、生き延びる手段はないの…か？」
- Is there... anything... any way to survive this?"
+Is there... anything... any way to survive this?"
 ある。
  There is.
 ルーライを助けられる手段が、一つだけ…
@@ -5111,7 +5111,7 @@ Rufus: "No, not necessarily.
 ルスアス「まだ、方法は残されておる。
 there's still hope.
 世の知る限りでは…風の森にもう一つ、蛇封族の先祖が残した《フェルマーレの輝石》があるそうだ。」
- There is another Fermare Jewel, hidden somewhere in the Wind Forest. It was left behind by our ancestors, the Serpentfolk.
+There is another Fermare Jewel, hidden somewhere in the Wind Forest. It was left behind by our ancestors, the Serpentfolk.
 ルスアス「おそらくは。
 It's said to be hidden
 それは、風の森にある《アンチの洞窟》の奥深くに隠されており、万人が守護しているとされておる。」
@@ -5135,7 +5135,7 @@ Don't risk your life again, and don't put ?name? and the others in danger."
 レンがパートナーから外れた…
  Ren leaves the party.
 レン「あの、ルーライ様。
- Ren:  "Um... Rurai?
+Ren:  "Um... Rurai?
 …よろしければ、いつもの場所で…。２人で…話がしたい…。」
  Would you... meet me... at our usual spot?  I... I have something to tell you."
 ルーライ「都の裏門…。うん、必ず、会いにいくよ。」
@@ -5205,9 +5205,9 @@ Lilia:  "Wait...
 もしかして、あたし、墓穴を…？」
  Did I just make things worse?"
 ルーライ「よし。それじゃあ、出発しようか。
- Rurai: "Alright, then!  Let's get going!
+Rurai: "Alright, then!  Let's get going!
 あ、そうだ。あらためて。みんな、これからよろしく。」
- Oh, and...  Nice to meet you all, officially."
+Oh, and...  Nice to meet you all, officially."
 こちらこそ。
 The pleasure is ours.
 エレナ「う、うん！よろしくね、ルーライ。」
@@ -5255,7 +5255,7 @@ Ren: "!!!"
 くうっ！恥ずかしくてみんなに顔向けできないって！！)
  Ugh, this is so embarrassing!)
 ルーライが何を思っているのか。それすらも、分かってしまう。
- I can sense his thoughts... his embarrassment.
+I can sense his thoughts... his embarrassment.
 ルーライ「ぼ、僕等は別に何かやましいことを考えていたとかそういうわけじゃないよだからみんな勘違いしないでほしいっ！！」
 Rurai: "W-we weren't doing anything wrong!  Don't get the wrong idea!"
 リリア「何よ…。ちょっと仲がいいからって…。」
@@ -5279,7 +5279,7 @@ Ren: "Um, everyone?"
 あの…そのことなのですが…。
  There's something I need to ask...
 私も！一緒に連れて行ってもらえませんか！？」
- Please, let me come with you!"
+Please, let me come with you!"
 エレナ「え？でもレンさんは、都の警備で…」
  Elena:  "But Ren, what about the city?  Don't you have to protect it?"
 レン「都を守るにしても、封印の魔の怪物を倒すことが先決です。
@@ -5303,9 +5303,9 @@ It's reassuring to have her with us.
 レンがパートナーになった！
  Ren has joined your party!
 前回同様、水の魔弾で支援してくれるぞ。
- She will support you with her water magic.
+She will support you with her water magic.
 風の森に挑む、心強い仲間だ！
- She's a powerful ally for the challenges ahead in the Wind Forest!
+She's a powerful ally for the challenges ahead in the Wind Forest!
 ？？？「あひゃひゃひゃ！あっ、ルーライ王子だ、こんにちはあ！」
 ???: "Ahyahyahya!  Hey, it's Prince Rurai! Helloooo!"
 ルーライ「やあ。いつも元気そうだね、君は。」
@@ -5363,9 +5363,9 @@ Elena: "I think Lilia's found a new friend."
 通るのは構わんが、気を付けることだ。
  You're free to pass, but proceed with caution."
 ハッ！セイッ！テヤァッ！！
-"Haaah! Sei! Teyaaa!"
+"Haaah! Sei! Teyaaa!
 くそ、きりがねえ。どうなってんだ、フェルマ湖は。
-"Damn it, there's no end to them! What's going on with Lake Fermat?
+Damn it, there's no end to them! What's going on with Lake Fermat?
 蛇の封印が解かれ始めてから数日しかたっていないというのに。
 It's only been a few days since the seal on the serpent began to weaken.
 いったい、あそこにはどんな怪物が封印されてるんだよ！
@@ -5573,41 +5573,41 @@ I might be losing my hair from all the stress, but it was worth it.
 お疲れ様。報酬はこれだよ。
  "Good work!  Here's your reward."
 120カレンもらった。
-Received 120 Karen!
+You received 120 Karen!
 あ、そうだ。このクエストは本編やクリア後の収集率には影響しないから、気が向いたら手伝ってくれる程度でいいからね。
-"Oh, and one more thing: This quest doesn't affect your main story progress or completion rate.  Just help us out if you feel like it."
+"Oh, and one more thing: This quest doesn't affect your main story progress or completion rate.  Just help us out if you feel like it.
 メタ発言、失礼したね。
-"Sorry, that was a bit meta, wasn't it?"
+Sorry, that was a bit meta, wasn't it?"
 やあ。貢献ランク%224%の人だね。
  "Well, look who it is!  A rank %224% contributor!
 また僕たち治安部隊に協力してくれるのかい？
-Are you ready to help us again?"
+Are you ready to help us again?
 次は1200体でランクアップだ。
- "Next rank up: 1200 monsters.
+Next rank up: 1200 monsters.
 君が魔物を1200体倒してくれたら、報酬を上げるよ。
 Defeat 1200 monsters, and you'll get your reward!"
 180カレンもらった。
- Received 180 Karen!
+You received 180 Karen!
 次は、2000体でランクアップだ。
- "Next rank up: 2000 monsters.
+Next rank up: 2000 monsters.
 君が魔物を2000体倒してくれたら、報酬を上げるよ。
  Defeat 2000 monsters, and you'll get your reward!"
 250カレンもらった。
-Received 250 Karen!
+You received 250 Karen!
 次は3000体でランクアップだ。
- "Next rank up: 3000 monsters.
+Next rank up: 3000 monsters.
 君が魔物を3000体倒してくれたら、報酬を上げるよ。
- Defeat 3000 monsters, and you'll get your reward!"
+Defeat 3000 monsters, and you'll get your reward!"
 おめでとう！治安部隊貢献ランクが、最大の%224%にアップしたよ！
- "Congratulations!  You've reached the maximum Security Force Contribution Rank of %224%!
+"Congratulations!  You've reached the maximum Security Force Contribution Rank of %224%!
 ここまで協力してくれたのは、君が初めてだ。気が向いたら、是非治安部隊に志願してほしい！
  You're the first person to ever reach this rank! You should consider joining the force!
 それはそうと、今回は、報酬もはずんどくよ。
- And as a special reward for your dedication...
+ And as a special reward for your dedication..."
 500カレンもらった。
- Received 500 Karen!
+You received 500 Karen!
 協力に感謝するよ。ありがとう。
-"Thanks for your help!
+"Thanks for your help!"
 現在、フェルマ湖周辺に魔物が出没しており、治安部隊が討伐に当たっています。
  "Attention: Monsters have been sighted around Lake Fermat.  The Security Force is currently engaged in extermination efforts.
 極力都の外へ出ないでください。
@@ -5629,9 +5629,9 @@ Received 250 Karen!
 ルスアス様を相手にあそこまで立ち回るなんて…。
 He even managed to fight Rufus to a standstill!
 彼ほどの実力があれば、世界を壊すことも容易いのでしょうね。
- With that kind of strength, he could easily destroy the world.
+ With that kind of strength, he could easily destroy the world."
 ところで、水源の洞窟を知っているかしら？
- Have you heard of the Source Cave?
+"Have you heard of the Source Cave?
 封印の間の先から続いている洞窟で、湖にそそぐ水の源になってるの。
  It's a cave that connects to the Sealed Chamber.  It's the source of the water that flows into the lake.
 勇者様方の役に立つのかはわからないけれど、
@@ -5661,11 +5661,11 @@ Elena: "'Danger ahead. Do not enter.'  Oh great."
 ?me?も、初めのうちは戸惑ったものだ。
  It was a little overwhelming at first, wasn't it?
 リリア「あたしも…。?name?が何を思ってるとか…、あたしのことを気遣ってくれていることとか…。」
- Lilia:  "Yeah...  I can tell what ?name? is thinking, how they feel about me..."
+ Lilia:  "Yeah...  I can tell what ?name? is thinking, how he feels about me..."
 それは、気にもなるだろう。
  That must be a strange experience.
 一緒に旅をする仲間なのだから、心配するのは当然だ。
- You're traveling together, sharing the same body. It's natural to worry about each other.
+We're traveling together, sharing the same body. It's natural to worry about each other.
 エレナ「わたしたちは、お互いに助け合いながら、世界の危機に立ち向かわなきゃいけない…。
  Elena:  "We have to support each other if we're going to save this world.
 ?name?君は、本当に優しいね。」
@@ -5673,7 +5673,7 @@ You're so kind, ?name?."
 ルーライ「助け合い、か。この先に何があろうと、僕らが一緒なら乗り越えられる…。」
 Rurai:  "Support each other...  No matter what happens, we can overcome anything together."
 ルーライの言うとおりだ。
- He's right.
+He's right.
 この先が危険な森だとしても、必ずフェルマーレの輝石を見つけよう。
  Even if this forest is dangerous, we'll find the Fermare Jewel.
 さあ、森へ続く門を開こう！
@@ -5737,7 +5737,7 @@ Elena: "Lights?  He's talking about the orbs, right?
 他のところに何かないか、探してみようよ。」
 Let's split up and see if we can find anything."
 水晶の石板だ。
- A crystal tablet.
+A crystal tablet.
 左の水晶が輝いている…
 The left orb is glowing...
 上部の水晶が輝いている…
@@ -5777,7 +5777,7 @@ Elena:  "It leads underground...  Could this be the Anti Cave?"
 エレナ「あと2か所、同じようなレバーがあるのかもしれないね。探しに行こう！」
  Elena:  "There must be two more levers like this one. Let's go find them!"
 風の森内部のセーブ陣だ。
- The save point within the Wind Forest.
+The save point within the Wind Forest.
 鍵がかかっているのか、開くことができない。
 This door is locked.
 扉には2つの鍵がかかっており、それぞれ左右の扉と連動しているようだ。
@@ -5785,11 +5785,11 @@ This door has two locks, one for each side.
 ルーライ「どうやら、この部屋の東西にある扉の鍵を外さなければ、開かない仕組みになっているようだね。
 Rurai:  "It seems we need to unlock both doors, the one to the east and the one to the west, to open this one.
 こちら側からではあけることができないみたいだから、少し面倒だけど反対側まで回ってみようか。」
- We can't open it from this side, so we'll have to go around."
+We can't open it from this side, so we'll have to go around."
 アンチの洞窟のセーブ陣だ。
- "This is the save point in the Anti Cave.
+The save point in the Anti Cave.
 この向こうが、洞窟の最奥部。とても強い魔の気配を感じるよ。
- This is it... the heart of the cave. I can sense a powerful evil presence."
+ This is it... the heart of the cave. I can sense a powerful evil presence.
 リリア「ひっ…」
  Lilia: "I...I..."
 この魔物は…。
@@ -6247,9 +6247,9 @@ I already know who he is.
 エレナ「わたしたちが探していた魔の元凶…」
  Elena: "The source of all this evil..."
 俺の名は…
- "My name...
+ "My name is...
 ルドルフ
- ...is Rudolph.
+...Rudolph.
 この世界、カレシア全土を手中に収め、
  I will claim this land, this entire world of Kareshia,
 世界の王となる男だ…。
@@ -6877,7 +6877,7 @@ You purchased a Recovery Charm.
 タフな魔物は、溶岩の川とか谷底に向かって弾き飛ばすといいっす。
  Try knocking those tough ones into the lava or down into chasms!
 魔物の防御能力は、その種類によって違うんす。動物系や植物系の魔物は防御力が低く、昆虫系や無機物系は比較的高いと言った具合っすね。
- Monster defenses vary depending on the type. Animal and plant monsters have low defense, while insect and inorganic monsters are tougher.
+"Monster defenses vary depending on the type. Animal and plant monsters have low defense, while insect and inorganic monsters are tougher.
 力で攻めるか手数で攻めるか。相手に合わせて戦略を立てることが大切なんっっす！
  Should you focus on power or speed?  It's important to adapt your strategy to your enemy! Jufufu!
 リゼンの森に住んでる妖精さんたちは、鳥みたいに空を飛ぶことはできないんす。
@@ -7087,27 +7087,27 @@ Eris:  "This city is so peaceful thanks to Ren and the hard work of the Security
 へい、らっしゃいらっしゃい！
  "Step right up!
 今朝取れたて、ぴっちぴちの魚だよ！
- Freshly caught fish!"
+ Freshly caught fish!
 …と言いたいとこなんだが、湖に出られねえんじゃ、良い魚はつれねえんだ。
- "...Or at least, that's what I'd like to say.  But with the lake off-limits, I can't catch any decent fish!
+...Or at least, that's what I'd like to say.  But with the lake off-limits, I can't catch any decent fish!
 商売あがったりだぜ、どちくしょう。
 This is killing my business!  Damn it!"
 ついに取れたぜ、ぴっちぴちの魚っ！
 "Finally! Freshly caught fish!"
 だめだ。この扉、びくともしない。
- This door won't budge.
+This door won't budge.
 高台にあるでっけえ建物。
- "There's a huge building on that plateau.
+"There's a huge building on that plateau.
 なんでも変人が住んでるらしいぜ。
- They say some weirdos live there."
+They say some weirdos live there.
 そこの看板見りゃ、察しが着くだろ？
- "Just look at the sign, you’ll see what I mean."
+Just look at the sign, you’ll see what I mean."
 看板には、次のような文字が書かれている。
- There's a sign with the following letters:
+There's a sign with the following letters:
 Ｇ．Ｌ．
- G. L.
+G. L.
 未来を知る方だけが入れます。
- "Only those who know the future may enter."
+"Only those who know the future may enter."
 ここの川、でっけえ魚がよく釣れるんだ。
 "I caught some huge fish in this river."
 エレナ「よいしょ…ッと。
@@ -8515,25 +8515,25 @@ as I stare at my sword.
 そうだったな。?me?には二人がいる。
  That's right, I'm not alone.
 ともに戦ってくれる、最高の仲間が。
-I have them.
+I have them. My companions.
 リリア「………む、………むう。」
-My companions.
-エレナ「そこは愛する二人とかって言うんじゃないの？」
  Lilia:  "...Hmm...  Hmm..."
-何故そうなるのか。
+エレナ「そこは愛する二人とかって言うんじゃないの？」
  Elena: "Shouldn't you say something like 'We're in this together'?"
-というか彼女たちはどれほど?me?の世界について興味があるのだろう。
+何故そうなるのか。
  Why would I say that?
-リリア「………早く帰るわよ。」
+というか彼女たちはどれほど?me?の世界について興味があるのだろう。
  And how much do they actually know about my world?
-エレナ「さあ、行こう。」
+リリア「………早く帰るわよ。」
 Lilia:  "...Let's go."
+エレナ「さあ、行こう。」
+Elena:  "Come on."
 この洞窟にはまだ先があるが、今回はこのあたりで引き返すことにしよう。
- Elena:  "Come on."
+There's more to explore in this cave, but we should turn back for now.
 今度また、ここへ来るころには
- There's more to explore in this cave, but we should turn back for now.
+When we return.
 ?me?は、彼に言われた言葉の意味を理解できているだろうか………。
- Will I understand the meaning of his words when we return?
+Will I understand the meaning of his words?
 エレナ「今日は早く帰ってゆっくり休もうね。」
  Elena:  "Let's get back and rest up. You need it."
 そう、エレナが語りかけてくれる。
@@ -8555,7 +8555,7 @@ Lilia:  "...Let's go."
 二人とも、ありがとう
 Thank you, both of you.
 エレナ「ふふっ。そうでしょ。」
- Elena: "Heh, of course we are."
+ Elena: "Heh, of course I am."
 嬉しそうに笑う彼女はどこまでも美しく、
  Her smile is beautiful, and I want to protect it.
 ついつい守りたいと思ってしまった。………何故だろう。
@@ -8765,11 +8765,11 @@ I try to dodge,
 不意に声が聞こえた。
  I hear a voice.
 ？？？「お前は死んではいない。」
- ???: "You're not dead."
+???: "You're not dead."
 かれだ。あの、魂体ではなく、精神体の彼だ。
- It's him. Not the wraith, but the spirit.
+It's him. Not the wraith, but the spirit.
 先ほど戦った相手とは明らかに声色が異なっているため容易に理解できた。
- His voice is different, gentler.
+His voice is different, gentler.
 彼は、消えたのではなかったのだろうか。
  But I thought he vanished…
 精神体「俺は、お前のおかげであの部屋への呪縛を解くことができた。
@@ -8779,7 +8779,7 @@ But my other half, the wraith, is still trapped here.
 俺は………、ここにいる。」
  That's why… I'm still here."
 あの魂体も?me?によって解放されることを願っていたのか。
- He wanted to be freed, just like the wraith?
+ He wanted to be freed, just like the spirit?
 精神体「そうだ。
  Spirit:  "Yes.
 だから、今お前はここにいる。
@@ -8853,7 +8853,7 @@ Spirit: "Then I'll come with you."
 いいのだろうか。
  Are you sure?
 これから?me?が戦おうとしている相手は、何を隠そう彼自身なのだ。
- I'm going to fight him, his other half.
+I'm going to fight him, your other half.
 精神体「………構わないさ。彼は俺であり、俺でない。」
  Spirit: "...It's fine. He is me, and he is not."
 それは…どういう………。
@@ -8869,11 +8869,11 @@ Spirit: "Then I'll come with you."
 元々は、表に出てくるはずでなかったさまざまな感情が、
 His negative emotions surfaced
 精神体と分離されることによって、表へと出てきたのだろう。
- when he was separated from his spirit.
+when he was separated from his spirit.
 精神体「それもある。だが、一番の要因は、他にある。」
 Spirit:  "That's part of it.  But there's another reason."
 恨み………か………。
- …His resentment…
+…Your resentment…
 精神体「そうだ。ここに縛られてからすぐのうちは、俺もこの世界を恨んだ。
  Spirit:  "Yes. When I was first trapped here, I hated this world.
 恐らく、いや、完全に魂体も恨んだのだろうな。
@@ -8923,7 +8923,7 @@ replaced by a warm, comforting feeling.
 リリア「ち………ちょっと、早く目、覚ましなさいよね。」
  Lilia:  "H-hey... Wake up already."
 （心配…したんだから…）
- (We were... worried...)
+(We were... worried...)
 目を開けると、そこは魂体と戦った部屋だった。
  I open my eyes.  I'm in the same room where I fought the wraith.
 あのときにはなかった道の続きが見える………。
@@ -8969,7 +8969,7 @@ All of a sudden,
 彼女たちを落ち着かせ、説明をするには少なくない時間がかかりそうだ。
  This is going to take a while to explain.
 あの後、どうにか彼女たちを落ち着かせ、説明をすることができたが、正直疲れた。
- It took some time to calm them down and explain everything, but I'm exhausted.
+It took some time to calm them down and explain everything. I'm exhausted.
 この後は魂体との戦闘が控えているというのに、大丈夫だろうか。
  We still have to fight the wraith. Will I be okay?
 エレナ「それでねそれでね………」
@@ -8993,9 +8993,9 @@ We set off after a short break.
 この、牢獄のような場所から。
  From this prison.
 フェンサー（精神体）がパートナーになった！
- The Fencer (Spirit) has joined your party!
+The Fencer (Spirit) has joined your party!
 〈走光波〉は、剣から放たれる煌く光線。
- His "Luminous Slash" is a radiant beam of light fired from his sword.
+His Luminous Slash is a radiant beam of light fired from his sword.
 慟哭に巣くう魔物にとって、その威力は絶大だ。
 It's incredibly effective against the monsters in the Dirge of Sorrow.
 共に行こう。
@@ -9021,7 +9021,7 @@ Wraith: "You're supposed to be my other half. Why are you siding with them?"
 魂体「変質しただと？この俺が、どうなったというのだ？」
 Wraith: "Changed? What do you mean?"
 精神体「フェンサーとは、誰かを守るために剣を振るうもののこと。
-Spirit: "A fencer wields their sword to protect.
+Spirit: "A fencer wields his sword to protect.
 今のお前は守るどころか奪うためにその力を使おうとしている。
  You're using your power to take, to destroy.
 そんなお前が俺と同じなど、おこがましいにもほどがある。」
@@ -9043,11 +9043,11 @@ Wraith:  "I see.  So you're going to defeat me with them."
 精神体「忘れるわけが………忘れられるわけがない。
 Spirit:  "Forget? …How could I ever forget that day?
 あの日、俺はあいつを守ってやれなかった。………だが、
- I couldn't protect him... but…
+I couldn't protect her... but…
 彼女は臨んだはずだ。世界を救ってくれと。
  …She entrusted us with this.  She begged us to save the world.
 逆に聞く。お前はそれを忘れたのか？」
- Tell me, have *you* forgotten?"
+Tell me, have you forgotten?"
 魂体「だからと言って納得できるものか！！」
  Wraith: "That doesn't mean I have to accept it!"
 精神体「納得はしなくても、理解はするべきだ。
@@ -9091,7 +9091,7 @@ Wraith:  "I... I lost..."
 《あの日》や《あいつ》について教えてもらっても良いだろうか？
  Tell me about "that day" and "her".
 「そうだな。………本来ならもっと早くに説明をすべきだったな。」
- "Yes… I should have explained sooner."
+"Yes… I should have explained sooner."
 申し訳なさそうに言いながら説明を始めようとした精神体を魂体が引き止める。
  The spirit begins to speak, but the wraith stops him.
 「俺が………いや、俺に説明させてくれないか。
@@ -9101,7 +9101,7 @@ Wraith:  "I... I lost..."
 迷いに、踏ん切りがつくような気がするんだ。」
  …Maybe then I can finally let go."
 「そうか………。」
- "Alright..."
+Alright...
 それなら、説明してくれないか？
  Tell me.
 お前がどんな思いでここにいたのかを。
@@ -9117,7 +9117,7 @@ Wraith:  "I... I lost..."
 そのはずだったのに。一瞬にして村は地獄と化した。
  But then… everything changed.  Our village was transformed into a living hell.
 ………モンスターだ。この世界にもいるあの人類の敵。
- …Monsters.  Enemies of humanity, even in this world.
+ …Monsters.  Enemies of humanity, even in our world.
 あいつらに俺の村は襲われ食い荒らされた。何もかも全て。
  They attacked my village, destroying everything.
 当然俺は戦った。
@@ -9185,43 +9185,43 @@ I cursed.
 そしてこういった。
 And she said,
 「やっぱり君は勇者様だね。」
- "You really are a hero."
+"You really are a hero."
 とな。
  Then…
 彼女は続けて言った。
  She continued,
 「君は私だけの勇者様だと思ってたけれどそれは違うんだね。」
- "I thought you were my hero, but I was wrong."
+"I thought you were my hero, but I was wrong."
 そんなことはない。俺はそう叫んだ。
  "No!"  I shouted.
 ？？？「そんなことあるよ。君は君を呼んだ世界を救うんだ。
-???: "It's true.  You're meant to save the world that summoned you.
+"It's true.  You're meant to save the world that summoned you.
 きっとたくさんの人が君のおかげで助かるね。
  So many people will be saved because of you.
 それってすごく素敵なことだと思うんだ。」
  That's a wonderful thing."
 そんなことどうでもいい。
- I don't care about any of that!
+"I don't care about any of that!" I said.
 俺はそんな世界よりもお前の命を救いたい。
-I want to save *you*!
+"I want to save you!
 俺はお前の勇者だ。
- I'm *your* hero.
+I'm your hero.
 そう、幼いころに約束したじゃないか。
  We made a promise, remember?  When we were kids.
 俺は、こんな訳の分からない世界の勇者なんかじゃない。
-I'm not some random world's hero!
+I'm not some random world's hero!"
 ？？？「それでも私は君にならたくさんの命を救えると思う。
- ???: "But I believe you can save so many lives.
+"But I believe you can save so many lives.
 だから、君は救ってあげて。
  So please, go and save them.
 助けを求めてる人のために戦うのがフェンサーなんだから。
- That's what a Fencer does.  They fight for those who need help.
+That's what a Fencer does.  He fights for those who need help.
 君ならきっと………。」
  I know you can do it…"
 そんな彼女の言葉を遮り俺は力いっぱいに叫んだ。
  I cut her off, shouting with all my might.
 それなら早く助けを求めろと。
- "Call for help!
+"Call for help!
 俺が、この足を切ってでも、這いつくばってでもお前を救ってみせる。
 I'll crawl to you, I'll cut off my own leg if I have to! I'll save you!"
 それが俺が剣を持つ理由なのだから。
@@ -9243,7 +9243,7 @@ I'll crawl to you, I'll cut off my own leg if I have to! I'll save you!"
 力なく倒れながらも、こちらに向かってやさしく微笑むあいつの顔だった………。
 collapsing, but still smiling at me…
 「だから、俺はこの世界を許さない。
- "That's why... I can never forgive this world.
+That's why... I can never forgive this world.
 ずっと、その一心だった。
  That was all that kept me going.
 あるいは、そう思っていなければ自我を保てる気がしなかったのを
@@ -9445,19 +9445,19 @@ TO BE CONTINUED
 悲愴の慟哭第30フロアのセーブ陣だ。
  This is the save point on the 30th floor of the Dirge of Sorrow.
 今、この神殿の全ての制御権は、私に戻りました…。
-"Control of Shaintarium has been fully restored."
+"Control of Shaintarium has been fully restored.
 今なら…、あなた方をルドルフのもとへと誘うことができます………。
-"I can now… guide you to Rudolph…"
+I can now… guide you to Rudolph…
 今、ここカレシアと、ルドルフのいる世界ルドルフィアを、神殿の台座で結びました。
-"I have connected Kareshia to Rudolph's world, Rudolphia, using the temple's pedestal."
+I have connected Kareshia to Rudolph's world, Rudolphia, using the temple's pedestal."
 　本当に、そんなことが可能なのだろうか。
- "Is that even possible?"
+Is that even possible?
 可能ですよ。
  "It is.
 あなたをこの世界へ召喚した時の原理で、一時的に、別次元にある世界へのリンクを設けただけですから。
  I simply established a temporary link to a dimensional rift, using the same principles I used to summon you here.
 ラストホープの台座に剣を突き立てれば、いつでもルドルフィアへ行くことができますよ。
- Drive Last Hope into its pedestal, and the path to Rudolphia will open.
+Thrust Last Hope into its pedestal, and the path to Rudolphia will open.
 ですが…、一度向こうへ行ってしまうとリンクは消失し、私の力はあなた方には届かなくなります。
  However…  Once you cross over, the link will vanish, and my power will no longer be able to reach you.
 ルドルフの魔の力が消えるまで、こちらの世界に戻ってくることはできません。」
