@@ -4327,7 +4327,7 @@ Those are the rules!  Got it?"
 掛け金が足りないよ。
 "You don't have enough Karen."
 僕のドロー。カードは%209%だよ。さ、君の予想は？
-"My draw: %209%.  Now, what's your guess?"
+My draw: %209%.  Now, what's your guess?
 小／大：
 Higher/Lower:
 大きい
@@ -4335,7 +4335,7 @@ Higher
 小さい
 Lower
 カードドロー。%208%だ。
-"Your draw: %208%."
+Your draw: %208%.
 ガイラのカード%209%より自分のカード%208%の方が大きかった。
 Your card (%208%) is higher than Gaila's card (%209%).
 ガイラのカード%209%より自分のカード%208%の方が小さかった。
@@ -4343,9 +4343,9 @@ Your card (%208%) is lower than Gaila's card (%209%).
 ガイラのカード%209%と自分のカード%208%は同じだった。
 Your card (%208%) is the same as Gaila's card (%209%).
 おめでとう、君の勝ちだ！
-"Congratulations!  You win!
+Congratulations!  You win!
 掛け金が2倍の%100%カレンになった。
-Your wager is now doubled to %100% Karen!"
+Your wager is now doubled to %100% Karen!
 もう1度遊ぶかい？：
 Play again?:
 掛け金%100%カレンでもう1度遊ぶ
@@ -4363,13 +4363,13 @@ I give up!
 もちろん、次の掛け金分はもってっていいからさ、な？
 You can keep your wager, of course."
 おつかれさま。賞金は、%100%カレンだよ。
-"Thanks for playing! Your prize is %100% Karen."
+Thanks for playing! Your prize is %100% Karen.
 残念！今回は君の負けだ…。
-"Sorry, you lose this time.
+Sorry, you lose this time.
 掛け金はもらえなかった。
-No prize money for you."
+No prize money for you.
 お互い同じカードを引いたね。
-"We drew the same card!"
+We drew the same card!
 お客さん、鍵を持っていかれては困るでゲス！
 "Hey!  You can't take that key!
 ここで没収させてもらうゲス！！
@@ -5989,9 +5989,9 @@ Rurai: "This is no time to argue!"
 隙を見つけて攻撃だ！！
 We have to attack while we have the chance!
 　　黒に魅入られし大蛇
-The Great Serpent, Enticed by Darkness
+Thrall of Darkness:
 　　サーペント
-Serpent
+the Great Serpent
 湖の怪物から…、黒い…
 Black...
 黒い沼気があふれてくる…。
@@ -6555,7 +6555,7 @@ We have to try.
 わたしも、がんばるから！」
 I'll do my best!"
 4人の意志が一つに…。
-Our resolve is solidified.
+We've made our decision.
 ルーライ「レン？しばらくの間、この王座を君に守ってもらいたい」
 Rurai: "Ren, I need you to look after the throne."
 レン「え？私…ですか？」
@@ -6741,11 +6741,11 @@ It's you! It's not every day you meet a traveler in these dangerous times!
 っと、いけない。仕事仕事っと。
 Whoops, back to work!
 旅のお方、ジュフフ。ワタシはここで、珍しいアイテムを売ってるんすよ。
- Greetings, traveler! Jufufu, I sell rare items here.
+Greetings, traveler! Jufufu, I sell rare items here.
 見てください、この呪符。この回復の呪符を世界各地のセーブ陣に使えば、あら不思議！
 Take a look at this! A Charm of Recovery!  Use it on a save point anywhere in the world, and watch what happens!
 なんと、ただのセーブ陣が、回復陣に早変わり！！
- Poof!  It transforms into a healing point!  Amazing!
+Poof!  It transforms into a healing point!  Amazing!
 ジュフフ。あれあれ、もしかしてあなたは？
 "Jufufu!  Could it be...?
 やっぱり！この間、森で出会ったお客さんじゃないっすか！
@@ -6753,17 +6753,17 @@ It is!  You're the customer I met in the forest!
 奇遇っすねぇ。ところで、この間の呪符は使ってみたっすか？
 What a coincidence! Jufufu!  Say, did you try out that charm?
 ま、どっちでもいいんすけどね、ジュフフ。
- Not that it matters! Jufufu!
+Not that it matters! Jufufu!
 回復の呪符、まだまだあるっすよ。
 I still have plenty of Charms of Recovery, you know.
 ジュフ、旅の方！おひさっすーー。
 "Jufufu, traveler!  Long time no see!
 ２度会うときは３度もあう、てことっすよね、ジュフフ。
- As they say, if you meet twice, you'll meet three times, right? Jufufu!
+As they say, if you meet twice, you'll meet three times, right? Jufufu!
 ゲリュアの山は暑かったっすけど、ここはいいっすねえ。人々の活気に満ち溢れていて、ワタシも一層やる気がわいてくるっすよ。
- That volcano was scorching hot! But this city...  it's bustling with life! It really gets me going!
+That volcano was scorching hot! But this city...  it's bustling with life! It really gets me going!
 ところで、旅の方はやっぱり、ワタシの呪符がほしかったってことでいいんすよね？顔を見ればわかるっすよーー！
- So, traveler, you're here for one of my charms, right? I can tell just by looking at you! Jufufu!
+So, traveler, you're here for one of my charms, right? I can tell just by looking at you! Jufufu!
 ジュフフ、旅のお方、やっほうっす！
 "Jufufu! Traveler, hello there!
 またここでお会いしましたっすね。
@@ -6773,13 +6773,13 @@ You came all this way just for my charms? Jufufu!  I'm one lucky merchant!"
 あ、ちょっと待ってくださいっす。確か、この辺に（ごそごそ）
 Hold on a second... I think I have one around here somewhere... Ah, here we go!
 あったっすー！はい、回復の呪符っす！
- One Charm of Recovery for you! Jufufu!
+One Charm of Recovery for you! Jufufu!
 ジュフフ！またお会いできたっすね！
- "Jufufu!  It's great to see you again!
+"Jufufu!  It's great to see you again!
 ワタシはこうやって、いろいろなところを回りながら、変わっていく世界を見てるのが好きなんっす。
- I love traveling the world and seeing how things change.
+I love traveling the world and seeing how things change.
 今は魔物があふれてて物騒っすけど、そのうちきっと………
- It's a dangerous time now, with all these monsters running around, but I'm sure things will calm down eventually.
+It's a dangerous time now, with all these monsters running around, but I'm sure things will calm down eventually.
 おっと、また忘れるとこだったっす。
 Oops, I almost forgot.
 はい、回復の呪符っす！
@@ -6787,55 +6787,55 @@ Here's your Charm of Recovery!
 ジュフフ！またお会いできて嬉しいっす。
 "Jufufu! It's always a pleasure to see you!
 おかげさまで、最近売れ行き絶好調っすよ！
- Business has been booming lately, thanks to you!
+Business has been booming lately, thanks to you!
 せっかくっすから、この回復の呪符。いかがっすか？
- How about another Charm of Recovery?
+How about another Charm of Recovery?
 あ、お客さんじゃないっすかぁ！ジュフフっす。
 "Well, look who it is!  Jufufu!
 最近ワタシの呪符を使ったセーブ陣をよく見かけるんすよ。
 I've been seeing my charms used on save points all over the place.
 お客さんが設置してくださったんすよね？
- You've been busy, haven't you?
+You've been busy, haven't you?
 ワタシもよく回復させてもらってるっす。ほんと大助かりっすよ！
- You've saved my hide a few times! Jufufu!  I'm so grateful!
+You've saved my hide a few times! Jufufu!  I'm so grateful!
 そんで、今日はどうするっすか？最近人気が高くて、お値段もそこそこって感じっすけど………
- So, what'll it be today?  My charms are quite popular these days, and the price reflects that...
+So, what'll it be today?  My charms are quite popular these days, and the price reflects that...
 はあ………。あっ、お客さん！
- "Sigh...  Oh, hello, customer!
+"Sigh...  Oh, hello, customer!
 えっと、ジュフフ…す！！
- J-jufufu!
+J-jufufu!
 き、今日も大人気、回復の呪符を販売中っす。
- I-it's me again, back with more Charms of Recovery!
+I-it's me again, back with more Charms of Recovery!
 あっ、お客さん！ジュフフっすー！
- Jufufu!
+Jufufu!
 また来てくれると思ってたっすよ。
- "Hello there, customer! Jufufu! I was hoping you'd come back.
+"Hello there, customer! Jufufu! I was hoping you'd come back.
 売れ行き好調！残り少ないプレミア呪符！！
- Business is booming!  These premium charms are selling like hotcakes!
+Business is booming!  These premium charms are selling like hotcakes!
 お客さん！ジュフフっすー！
- "Customer! Jufufu!
+"Customer! Jufufu!
 ついに…、ついにこの時が来たっす！
- It's finally... finally here!
+It's finally... finally here!
 セーブ陣に設置すると、たちまち回復陣に早変わり！魔法のアイテム、回復の呪符。
- Place this magical Charm of Recovery on any save point, and it instantly transforms into a healing point!
+Place this magical Charm of Recovery on any save point, and it instantly transforms into a healing point!
 いよいよこれが、最後の1つになったっす！！
- This is the last one!
+This is the last one!
 これを逃したら、もう2度と、もう2度と手に入らないっす！ラストチャンスをお見逃しなくっす！！
- This is your last chance to own this incredibly rare item! Don't miss out!
+This is your last chance to own this incredibly rare item! Don't miss out!
 あ、お客さん！ジュッフフーっす！！
- "Oh, hello! Jufufu!
+"Oh, hello! Jufufu!
 いや、今はもう、もとお客さんっすね。回復陣でジュフフしてるっすか？
- Well, you're not really a customer anymore, are you?  Enjoying those healing points? Jufufu!
+Well, you're not really a customer anymore, are you?  Enjoying those healing points? Jufufu!
 ワタシっすか？ワタシはまだまだ旅の途中っすよ。
- Me?  I'm still traveling the world.
+Me?  I'm still traveling the world.
 こうやって旅をしながら、ジュフフの代わりになる新しい商品を探してるんす。
- I'm looking for a new product to replace my Charms of Recovery.
+I'm looking for a new product to replace my Charms of Recovery.
 あ、それじゃあジュフフじゃなくて、ニュフフとかにした方がいいっすかね？
- Maybe I should change my catchphrase from 'Jufufu' to 'Nyufufu'?
+Maybe I should change my catchphrase from 'Jufufu' to 'Nyufufu'?
 まあどっちでもいいっすよね、ジュフフ。
- Well, it doesn't really matter, does it?  Jufufu!
+Well, it doesn't really matter, does it?  Jufufu!
 それじゃ、ワタシは行くっす。
- Anyway, I should get going!
+Anyway, I should get going!
 またどこかでお会いした時はよろしくっす！
 See you around!
 ジュッフフーーー！
@@ -6843,251 +6843,251 @@ Jufufu!"
 今ならたったの%100%カレン！
 Only %100% Karen!
 買わないんすか？買うっすよね？はい、買いますっ！
- You're buying it, right?  Of course you are!"
+You're buying it, right?  Of course you are!"
 買うっすよね！？：
- You're buying it, right?!:
+You're buying it, right?!:
 買う
- Buy it!
+Buy it!
 そ…そうっすか…、残念っすぅ。
 "R-really?  That's a shame..."
 お金、持ってないんすか？残念っすぅ…。
 "Don't have enough money?  That's too bad.
 最近じゃ、魔物あふれて大恐慌っすもんね。ジュフフ。
- It's tough out there with all these monsters.  The economy's in shambles!  Jufufu.
+It's tough out there with all these monsters.  The economy's in shambles!  Jufufu.
 ああ、救世主が現れて、魔物たちをこう、ジュフって！！
- Ah, if only a hero would appear and, like, jufufu all the monsters away!
+Ah, if only a hero would appear and, like, jufufu all the monsters away!
 ま、そんな伝承のようなこと、あるはずがないっすよね………はあ。
- That's just a fairy tale, of course...  Sigh."
+That's just a fairy tale, of course...  Sigh."
 ジュフフフフ、まいどっす～！
- "Jufufu!  Thank you! Come again!"
+"Jufufu!  Thank you! Come again!"
 回復の呪符を購入した。
 You purchased a Recovery Charm.
 各地のセーブ陣に回復の力を付与できるぞ！
- You can now imbue save points with the power of healing!
+You can now imbue save points with the power of healing!
 セーブ陣を調べて使ってみよう。
- Examine a save point and use the charm.
+Examine a save point and use the charm.
 確か、この妖精さんたちの村の外にセーブ陣があったっすよね。
- "I think there's a save point outside that fairy village.
+"I think there's a save point outside the fairy village.
 試しに、そこで使ってみるといいっす。
- Try using it there.
+Try using it there.
 火山の魔物は、厳しい環境で生き抜くために力が強いんっす。
- "The monsters on the volcano are tough.  They're used to harsh conditions.
+"The monsters on the volcano are tough.  They're used to harsh conditions.
 魔物と戦うときは、気を付けた方がいいっすよ。
- Be careful when fighting them.
+Be careful when fighting them.
 タフな魔物は、溶岩の川とか谷底に向かって弾き飛ばすといいっす。
- Try knocking those tough ones into the lava or down into chasms!
+Try knocking those tough ones into the lava or down into chasms!
 魔物の防御能力は、その種類によって違うんす。動物系や植物系の魔物は防御力が低く、昆虫系や無機物系は比較的高いと言った具合っすね。
 "Monster defenses vary depending on the type. Animal and plant monsters have low defense, while insect and inorganic monsters are tougher.
 力で攻めるか手数で攻めるか。相手に合わせて戦略を立てることが大切なんっっす！
- Should you focus on power or speed?  It's important to adapt your strategy to your enemy! Jufufu!
+Should you focus on power or speed?  It's important to adapt your strategy to your enemy! Jufufu!
 リゼンの森に住んでる妖精さんたちは、鳥みたいに空を飛ぶことはできないんす。
- "Those fairies in Rysen Forest can't fly like birds.
+"Those fairies in Rysen Forest can't fly like birds.
 その代わり、木の実をとるために、木登りやジャンプが得意みたいっすね。
 But they're great climbers and jumpers!  They have to be, to gather those berries.
 背中の羽をはばたかせて、ジャンプ力を高められるんすよ！
 They flap their little wings to boost their jumps!
 ゲリュア火山の竜眷族が里を閉ざしていたのは、火山に凶暴な魔物が現れたのが、神殿の神官や都の王様のせいだと疑ってたからなんだそうなんっす。
- "Those Dragonkin closed off their village because they thought the temple priests and the king of the city were responsible for the dangerous monsters appearing on the volcano.
+"Those Dragonkin closed off their village because they thought the temple priests and the king of the city were responsible for the dangerous monsters appearing on the volcano.
 でも、山王様の巫女さんが真実を伝えたから、族長のゴポンガさんは反省してるらしいっすよ。
- But Chieftain Goponga feels bad now that the Volcano Drake's Chosen told him the truth.
+But Chieftain Goponga feels bad now that the Volcano Drake's Chosen told him the truth.
 魔物がいなくなれば、火山を訪れる人たちも増えるんじゃないっすかね。
- I bet more people will visit the volcano once the monsters are gone.
+I bet more people will visit the volcano once the monsters are gone.
 フェルマーレの王様の支持率は、最初はとても低かったらしいんす。
- "The king of Fermare wasn't very popular at first.
+"The king of Fermare wasn't very popular at first.
 ところが、都に宿を作ったり、年に1度の大水泳会を開催したりして観光客を増やしたこともあって、その人気はうなぎのぼりだったそうっすよ。
- But he built inns, started the annual swimming competition, and attracted more tourists.  Now his popularity is skyrocketing!
+But he built inns, started the annual swimming competition, and attracted more tourists.  Now his popularity is skyrocketing!
 この世界には、遺跡や洞窟といった、危険がいっぱいの未開拓地がたくさんあるんす。
- "This world is full of unexplored places?ruins, caves...  They're dangerous, but exciting!
+"This world is full of unexplored places: ruins, caves...  They're dangerous, but exciting!
 最近増えてるトレジャーハンターは、こういった〈ダンジョン〉に入って、財宝を探す人たちのことっす。
- Treasure Hunters explore these 'dungeons', searching for valuable loot!
+Treasure Hunters explore these 'dungeons', searching for valuable loot!
 他にも、困っている人のお願いを聞いて魔物を倒したり、アイテムを探したりする〈クエスター〉もよく見かけるっすね。
- There are also 'Questers' who help people by defeating monsters and finding items.
+There are also 'Questers' who help people by defeating monsters and finding items.
 物騒な世の中だからこそ、助け合うことは大切なんだと思うっす。
- It's a dangerous world, so it's important to help each other out.
+It's a dangerous world, so it's important to help each other out.
 ワタシ、暇なときはよく本を読んでるっす。
- "I like to read when I have some free time.
+"I like to read when I have some free time.
 それによると、この世界には、スタミナイトって言う青い宝石や、エモートパーズっていう黄色い宝石があるらしいんすよ。
 According to one book, there are blue jewels called Staminites and yellow jewels called Skill Topazes in this world.
 見た目の美しさはもちろんながら、この宝石には、〈HP〉や〈SP〉を高める効果もあるらしいっす。1度見てみたいっすー。
- They're beautiful, and they're said to enhance your HP and SP! I'd love to see one in person!
+They're beautiful, and they're said to enhance your HP and SP! I'd love to see one in person!
 ところで、HPとかSPってなんっすかね。Pは、ポーション、薬の略と考えると…
 What are HP and SP, anyway? If P stands for 'potion', then...
 え～っと、HPはハイパーポーション？SPはスーパーポーション！？
- Hmm... HP must be 'Hyper Potion', and SP must be 'Super Potion'!
+Hmm... HP must be 'Hyper Potion', and SP must be 'Super Potion'!
 おーー、なんだかすごそうな薬っすねえ！！
- Those sound like powerful medicines!  Jufufu!
+Those sound like powerful medicines!  Jufufu!
 ワタシ、昔は南の方の町に住んでたんっす。
 "I used to live in a town to the south.
 今は…、いろいろあって帰れないっすから、こうして旅をして、呪符を売ってるんすよ。
- I can't go back there now... for various reasons. So I travel and sell charms.
+I can't go back there now... for various reasons. So I travel and sell charms.
 お客さん、さっき「きかくしょ．ｔｘｔ」っていうのを拾ったんす。
 "Hey, customer, I found a file called 'Project.txt' earlier.
 それによると、宝箱をたくさん集めてからゲームをクリアすると、素敵なことが起こるらしいっす。
- Apparently something special happens if you collect a lot of treasure from chests and then beat the game.
+Apparently something special happens if you collect a lot of treasure from chests and then beat the game.
 ところで、「げーむ？」とか「くりあ？」ってなんなんっすか？
- What's a 'game'?  And 'beat'?
+What's a 'game'?  And 'beat'?
 …へ、メタ発言？てへへ。
- ...Whoops, did I just break the fourth wall? Tehehe.
+...Whoops, did I just break the fourth wall? Tehehe.
 最近読んだ【フェルマーレ伝承】には、封印の間の奥に、湖の裏手に抜ける通路があると書かれてたっす。
- "I read in 'Legends of Fermare' that there's a passage at the back of the Sealed Chamber that leads to the other side of the lake.
+"I read in 'Legends of Fermare' that there's a passage at the back of the Sealed Chamber that leads to the other side of the lake.
 何だか、宝物の匂いがぷんぷんするっすね！
- Sounds like there might be some treasure there!
+Sounds like there might be some treasure there!
 それによると、ラストホープはＬＶ15まで育つんだそうっす。
- "It says Last Hope can be upgraded to level 15.
+"It says Last Hope can be upgraded to level 15.
 ラストホープといえば、かの有名な聖剣っすよね？
- Last Hope is a famous holy sword, isn't it?
+Last Hope is a famous holy sword, isn't it?
 剣が成長するなんて、これを書いた人は変わったことを考える人なんすね、ジュフフ。
 A sword that levels up?  That developer has a wild imagination! Jufufu!
 お客さん、この間の企画書なんすけど、さらにおかしなことが書かれてたんっす。
- "Hey, customer, about that project file... It had something even crazier in it.
+"Hey, customer, about that project file... It had something even crazier in it.
 なんでもラストホープは、ＬＶ1のときに比べ、ＬＶ15では威力が50倍になるんだとか。
- Apparently a level 15 Last Hope is 50 times more powerful than a level 1 Last Hope.
+Apparently a level 15 Last Hope is 50 times more powerful than a level 1 Last Hope.
 使えば使うほど、威力が上がるってことっすか？何だか不思議な話っすねえ。
- It gets stronger the more you use it? That's strange...
+It gets stronger the more you use it? That's strange...
 この世界には、何でも秘伝の技を記した書物が隠されているんだそうっす。
 They say there are secret scrolls hidden throughout this world, containing powerful techniques.
 剣の技・回転切りは、通常攻撃の３倍の威力があるらしいんす。
- The sword skill 'Spinning Slash' is said to be three times more powerful than a normal attack.
+The sword skill 'Spinning Slash' is said to be three times more powerful than a normal attack.
 そして、連続切りは、すべてヒットさせると、通常攻撃の４倍強の威力になるみたいっすね。
 And 'Flaming Flurry', if all the hits connect, is more than four times stronger than a normal attack!
 さらにさらに、弓の技「３連射」は、素早く３回の攻撃が可能なんだそうっす。
 And the bow skill 'Triple Torrent' lets you loose three arrows in quick succession!
 お客さんも、こんな秘伝書を持ってたりするんすか？
- Do you have any secret scrolls, customer?
+Do you have any secret scrolls, customer?
 （セリフ検討中）
 (Considering dialogue options)
 （考えるの、こんなに大変だったのかあ…）
 (This is harder than I thought...)
 へ？
- "Huh?
+"Huh?
 ジュフ？
 Juf?
 ジュフフ？
- Jufufu?
+Jufufu?
 ワタシ、今何か言っちゃってたっすか？
- Did I say something?
+Did I say something?
 違うんす！ワタシのせいじゃないっす！
 No! It wasn't me!
 おのれ作者めえっ！
- Damn you, developer!
+Damn you, developer!
 あれ？またメタ発言を…。
- Oops, another fourth wall break...
+Oops, another fourth wall break...
 ジュフー。
- Jufufu.
+Jufufu.
 ま、まあ、次回からは（作者が）ちゃんとやるっす……、たぶん…ジュフフ。
- Well, maybe the developer will do better next time.  Jufufu.
+Well, maybe the developer will do better next time.  Jufufu.
 へ！？ワタシ、元気ないようにみえるっすか？
- "Huh? Do I seem down?
+"Huh? Do I seem down?
 そんなことないっすよ、ジュフフ。…はぁ。
- Not at all! Jufufu! ...Sigh.
+Not at all! Jufufu! ...Sigh.
 ワタシ…すか？
 Me?
 やっぱり、元気ないようにみえるっすかね？
- Do I really seem that down?
+Do I really seem that down?
 う～ん。やっぱりお客さんの目はごまかせないっすね。
 Hmm... I guess I can't hide it from you.
 実はっすね、もうすぐ回復の呪符が売り切れるんす。そしたら売り物がなくなっちゃうっすから、商人やめなきゃいけないのかなって…。
 The truth is, I'm almost out of Recovery Charms. Once they're gone, I'll be out of business...
 そんで、商人やめたら何しよっかなあとか。いろいろ考えてたんすよ。
- So I've been thinking about what to do next.
+So I've been thinking about what to do next.
 でも、今お客さんに話して、少し気が楽になったっす。ワタシ、昔から溜め込んじゃう癖があるっすから、誰にも話せなかったんすよ…。
 Talking to you has actually made me feel a little better.  I tend to keep things bottled up, so I haven't been able to talk to anyone about this...
 もうすこし呪符はあるっす。気長に考えていくっすよ。
 I still have a few charms left. I'll figure something out.
 ジュフフ、お客さんが真剣に聞いてくれてうれしかったっす。ほんと、さんきゅっす！
- Jufufu, thanks for listening.  I appreciate it!
+Jufufu, thanks for listening.  I appreciate it!
 残る呪符はあと2つ。
 "Only two charms left!
 また買いに来てほしいっす！
- Come back and buy them!
+Come back and buy them!
 ジュッフフフ！いよいよ、最後の呪符になったっす。
 "Jufufu! This is it, my last charm!
 最後のお客さんを求めて出発っす！
- Time to find my final customer!
+Time to find my final customer!
 やったっすーー！
- "Yes!
+"Yes!
 回復の呪符、ついに完売しましたっす！
- Sold out!  All my Charms of Recovery are gone!
+Sold out!  All my Charms of Recovery are gone!
 お客さん、サンキュっす！
- Thank you, customer!
+Thank you, customer!
 これで、世界中のセーブ陣でジュフフできるっすね！
- Now everyone can jufufu at save points all over the world!
+Now everyone can jufufu at save points all over the world!
 ワタシも、次の商売について考えることにするっす。
- I'm going to start thinking about my next business venture.
+I'm going to start thinking about my next business venture.
 う～ん、なんだか澄んだ空気を吸ってリラックスしたい気分っすねぇ。
 Hmm... I feel like breathing in some fresh air and relaxing.
 う～ん、ぽかぽか暖炉で暖まりたい気分っすねぇ。
- Hmm... I feel like warming up by a cozy fireplace.
+Hmm... I feel like warming up by a cozy fireplace.
 う～ん、今度はにぎやかな場所でお祭り騒ぎしたい気分っすねぇ。
- Hmm... I feel like having a party somewhere lively!
+Hmm... I feel like having a party somewhere lively!
 そんじゃ、ワタシはこの辺で。
 Well, I'm off!
 ジュフフは風の向くまま気の向くまま、呪符を売ってまわるだけ。
- This jufufu goes where the wind takes him!
+This jufufu goes where the wind takes him!
 またどこかでお会いした時は、是非お買い求めくださいっす！
- If our paths cross again, be sure to buy something from me! Jufufu!
+If our paths cross again, be sure to buy something from me! Jufufu!
 裏門の外に魔物はいないようだ。
- "There don't seem to be any monsters outside the back gate.
+"There don't seem to be any monsters outside the back gate.
 湖を泳げるのなら、ここから平原へぬけられるぞ。
- If you can swim across the lake, you can reach the plains from here."
+If you can swim across the lake, you can reach the plains from here."
 シザークラブ。巨大なハサミを持った水生系の魔物。
- "Scisor Claws.  Aquatic monsters with giant pincers.
+"Scisor Claws.  Aquatic monsters with giant pincers.
 提示巡回で出くわして何度か戦ったんだけど、あのハサミはすさまじい威力だったよ…。
- I ran into them a few times on patrol.  Those pincers pack a punch!
+I ran into them a few times on patrol.  Those pincers pack a punch!
 一緒にいた仲間に倒してもらっても、ハサミを外すのにえらく苦労するくらい。
- Even after my partner helped me defeat one, it took forever to pry those pincers off me.
+Even after my partner helped me defeat one, it took forever to pry those pincers off me.
 おかげでほら、まだ腕の傷が治らないんだ。
 See?  The scar on my arm still hasn't healed."
 同じ治安部の先輩から話を聞いたんだけど、ごくまれに、きらきら光りながら襲い掛かってくる魔物がいるらしいよ。
 "A senior member of the Security Force told me that there are rare monsters that shimmer and sparkle when they attack.
 通常の魔物よりも強い分、倒した時に獲得できる戦闘の経験は、魔物１０匹分程度に相当するんだってさ。
- Apparently they're stronger than normal monsters, but they also give you a ton of experience?like defeating ten regular monsters!
+Apparently they're stronger than normal monsters, but they also give you a ton of experience?like defeating ten regular monsters!
 偶然にも遭遇できたなら、積極的に倒した方がよさそうだね。
- If you're lucky enough to encounter one, make sure to take it down."
+If you're lucky enough to encounter one, make sure to take it down."
 ところで…。
 "By the way...
 魔物は谷底に叩き落とせば戦闘を回避できるけど、
 You can avoid fights with monsters by knocking them into chasms,
 そうすると戦闘経験は得られないそうだよ。
- but you won't gain any experience if you do that."
+but you won't gain any experience if you do that."
 外に出たいんだけど、治安部の人たちが出してくれないんだ。これじゃあ商売あがったりだよ。
- "I want to go outside, but the Security Force won't let me.  This is killing my business!"
+"I want to go outside, but the Security Force won't let me.  This is killing my business!"
 湖の怪物が倒されたことで、少しずつ治安が回復しつつあるらしい。
- "It seems like order is slowly being restored, now that the lake monster is gone.
+"It seems like order is slowly being restored, now that the lake monster is gone.
 これで僕らもやっと帰れるよ。
- We can finally go home!"
+We can finally go home!"
 この先は商店街になってるの。多くの品が売買されるから、いつもはとても賑わってるんだけど…。
- "This is the market district.  It's usually bustling with shoppers, but..."
+"This is the market district.  It's usually bustling with shoppers, but..."
 町娘・エリス
-Eris, the Townswoman:
+Eris, the City Girl:
 「あら、あなたは確か…。
 "Excuse me, you're...
 やっぱり！
- It is you!
+It is you!
 悪徳商人からレンさんと一緒に私を助けてくれた人ですよね。
-You helped Ren save me from that evil merchant!
+You helped Ren save me from that horrible merchant!
 その節は、本当にありがとうございました。
- Thank you so much!
+Thank you so much!
 実はこの間、あの店の本来の持ち主の方にお会いしたんです。
- I actually met the owner of that shop the other day.
+I actually met the owner of that shop the other day.
 それで、レンさんやあなたに助けてもらったことを話したら、さぞ喜ばれていましたよ！
- He was so happy to hear about what you and Ren did!
+He was so happy to hear about what you and Ren did!
 あ、そうだ。是非お礼がしたいと言っておられましたので、
 He wants to thank you personally,
 今度お店に行ってみてくださいね。
- so please stop by his shop sometime.
+so please stop by his shop sometime.
 私からも、少ないですけど、お礼です。
- Here, let me give you a little something as well.
+Here, let me give you a little something as well.
 どうぞ。」
- It's not much, but..."
+It's not much, but..."
 20カレンもらった。
- Received 20 Karen!
+You received 20 Karen!
 エリス「レンさんや治安部の人たちがしっかりお仕事してくださっているおかげで、この都はとても平和なんですよ。」
 Eris:  "This city is so peaceful thanks to Ren and the hard work of the Security Force."
 へい、らっしゃいらっしゃい！
- "Step right up!
+"Step right up!
 今朝取れたて、ぴっちぴちの魚だよ！
- Freshly caught fish!
+Freshly caught fish!
 …と言いたいとこなんだが、湖に出られねえんじゃ、良い魚はつれねえんだ。
 ...Or at least, that's what I'd like to say.  But with the lake off-limits, I can't catch any decent fish!
 商売あがったりだぜ、どちくしょう。
@@ -7111,107 +7111,107 @@ G. L.
 ここの川、でっけえ魚がよく釣れるんだ。
 "I caught some huge fish in this river."
 エレナ「よいしょ…ッと。
- Elena: "Alright...  Huh?
+Elena: "Alright...  Huh?
 あれ？このドア、開かないね。」
 This door won't open."
 リリア「そんな訳…。
- Lilia:  "That's weird…
+Lilia:  "That's weird…
 だって、鍵穴とかもないし…」
- …There's not even a keyhole."
+…There's not even a keyhole."
 ？？１「いらっしゃい！
- ??1:  "Welcome!
+??1:  "Welcome!
 我がゲーム作成・研究室、〈ギャラボ〉にようこそ！」
- To our Game Development and Research Lab, 'Gyalabo'!"
+To our Game Development and Research Lab, 'Galabo'!"
 ？？２「お、おい！
- ??2:  "H-hey!
+??2:  "H-hey!
 まさかとは思うが、あれに見得るは…
- No way… could that be…?
+No way… could that be…?
 やっぱりぃぃぃ！
- It is!
+It is!
 リリアたんじゃないですかっ！」
- Lilia!"
+Lilia!"
 リリア「うきゃっ！
- Lilia:  "Eek!
+Lilia:  "Huh?
 な、なによいきなりっ！！」
- W-what’s going on?!"
+W-what’s going on?!"
 ？？１「マ、マジかよ！
- ??1:  "No way!
+??1:  "No way!
 ってことは、シュ・ジンコウさんとか、エレナちゃんもっ！！」
- Which means… the Protagonist and Elena must be here too!"
+Which means… the Protagonist and Elena must be here too!"
 入ってはいけないところに入ってしまった気がする…。
- I think we're in the wrong place...
+I think we're in the wrong place...
 エレナ「不思議な人たち…」
- Elena: "These people are strange…"
+Elena: "These people are strange…"
 ルーライ「君たちか！
- Rurai: "So you're the ones…
+Rurai: "So you're the ones…
 ver 1.06時代には商店街だった都の区画を莫大な資金で買い取り、
- …Who bought that entire section of the city with a mountain of cash back in version 1.06
+…Who bought that entire section of the city with a mountain of cash back in version 1.06
 超巨大な建築物を作らせたっていうのは。」
 and built this monstrosity."
 ？？２「そして、やっぱりいたぞ、
- ??2:  "And look who it is!
+??2:  "And look who it is!
 がっかり王子！！」
- The Prince of Disappointment!"
+The Prince of Disappointment!"
 ？？１「と、言うことは…、やっぱり
- ??1:  "So it's true!
+??1:  "So it's true!
 そうかああっ！
- We finally…
+We finally…
 ついに、ついに俺たちは、次元の壁を突破したんだっ！！
 We finally broke through the Forth Wall!
 なあ、ｋｙｏ、福袋争奪戦の頃から俺たちがかなえたかった目的がかなったぞっ！」
- Kyo, remember the Lucky Bag Battle Royale? We did it!  We achieved our goal!"
+Kyo, remember the Lucky Bag Battle Royale? We did it!  We achieved our goal!"
 ？？２「ああ、そうだなっ！
- ??2:  "Yeah, we did!
+??2:  "Yeah, we did!
 これで俺も、本もんの剣を構えて、『俺を殺せ、勇者よ…』とか言えるってことだなあっ……って、
- Now I can finally hold a real sword and say, 'Kill me, hero!' …
+Now I can finally hold a real sword and say, 'Kill me, hero!' …
 なわけあるかああっ！
- Not that I’d ever do that!
+Not that I’d ever do that!
 それよりも、お客人に研究所の説明をだなあ…」
- We should probably explain the lab to our guests..."
+We should probably explain the lab to our guests..."
 ？？１「お、そうだった、すまんすまん。
- ??1: "Oh, right!  Sorry about that.
+??1: "Oh, right!  Sorry about that.
 …と、言うわけだから、ここの説明をさせてもらうよ…てあれ？
- Anyway, let me explain… Wait…
+Anyway, let me explain… Wait…
 ルーライさーん？」
- Rurai?"
+Rurai?"
 ルーライ「ガッ。
- Rurai: "The…
+Rurai: "The…
 がっかり…王子…だってえっ！！
- …The Prince of…  Disappointment…?
+…The Prince of…  Disappointment…?
 か、仮にも僕は都の王子だぞっ！
- I… I’m a prince!
+I… I’m a prince!
 父上…いや、ルスアス様の後を継ぐ、正当な王家の血筋っ！！
- I’m the rightful heir to the throne… the son of King Rufus!
+I’m the rightful heir to the throne… the son of King Rufus!
 そ、それを…がっかりだってえっ！
- And you call me…  disappointing?!
+And you call me…  disappointing?!
 言っておくけど、僕は…、まあ自分で言うのもなんでありますが、都１の美少年だぞ！
- For your information… well, I don’t like to brag, but… I’m the most handsome man in the city!
+For your information… well, I don’t like to brag, but… I’m the most handsome man in the city!
 しかも、ファンタジーゲームという設定によって、そのポテンシャルは底上げされている！
- And thanks to this ‘fantasy game’ setting, my potential is off the charts!
+And thanks to this ‘fantasy game’ setting, my potential is off the charts!
 さらに、こ…こ…こ…恋人だってっ！」
- Plus…  I… I… I have a girlfriend!"
+Plus…  I… I… I have a girlfriend!"
 エレナ「はいはいストップストップ。
- Elena: "Whoa, whoa, whoa!
+Elena: "Whoa, whoa, whoa!
 落ち着いて、ルーライ。ね？
 Calm down, Rurai.
 ふぁんたじーげーむ？っとか、良くわからないことを言ってるよ。」
- You’re talking about…  'fantasy games'?  I don't understand."
+You’re talking about…  'fantasy games'?  I don't understand."
 ルーライ「ああ、そうさ。僕らには分からない。
- Rurai:  "That's right!  You don’t understand!
+Rurai:  "That's right!  You don’t understand!
 だが、彼らには分かるはずだ！！僕の！この！言葉の！意味がっ！！」
-But *they* do! They understand my pain!"
+But they do! They understand my pain!"
 ルーライは、こんなにはっきりとものを言うキャラだっただろうか？
 I've never seen Rurai be so... outspoken.
 リリア「?name?、あんたは、もう少し発言してもいいと思うけどね。
- Lilia:  "?name?, you need to speak up more.
+Lilia:  "?name?, you need to speak up more.
 時々空気みたいになっちゃうでしょ。
- You're like a ghost sometimes.
+You're like a ghost sometimes.
 せっかくのシュ・ジンコーなのに。
- You're the main character, you know!
+You're the main character, you know!
 でも、閉めるところはちゃんと閉めてくれるところが、その………」
- But at least you know when to be quiet… That’s…"
+But at least you know when to be quiet… That’s…"
 その様なことを言われても非常に困るのだが。
- That wasn't helpful at all, Lilia.
+That wasn't helpful at all, Lilia.
 ど、どうしたものだろうか。
 you're all acting really weird.
 3人に変なものが乗り移ってしまった。
@@ -7219,91 +7219,91 @@ What's gotten into you three?
 ？？１「ごほん。
 ??1:  "Ahem.
 えーでは、まずは自己紹介から。
- Let's start with introductions.
+Let's start with introductions.
 私は、ゲーム製作者の一人、ＭＭと申します。
- I'm MM, one of the game developers.
+I'm MM, one of the game developers.
 それからこっちが…」
- And this is…"
+And this is…"
 ？？２「ｋｙｏで～す。
- ??2: "Kyo.
+??2: "Kyo.
 よろしく。」
 Nice to meet you."
 ＭＭ「で、我々がここで何をやっているかというとですね、
- MM: "So, what are we doing here, you ask?
+MM: "So, what are we doing here, you ask?
 いわゆるゲーム作り、というやつでして…」
- We’re making a game."
+We’re making a game."
 ｋｙｏ「まあ、シナリオ書いたり、マップ作ったり、ＢＧＭとか効果音を選んだり、声聞いたり、声聞いたり、声聞いたり…。
- Kyo:  "We write the story, design the maps, choose the music and sound effects, record voices, record voices, record voices…
+Kyo:  "We write the story, design the maps, choose the music and sound effects, record voices, record voices, record voices…
 なあ、もうちょっと楽～にやらないか？」
- Hey, MM, can't we take it easy for a bit?"
+Hey, MM, can't we take it easy for a bit?"
 ＭＭ「それもそうか。」
 MM: "Maybe you’re right."
 ルーライ「いろいろと悔しいけど、この二人がこのゲームを…、この世界を作ったということなんだろうね。」
 Rurai:  "It’s hard to believe… but they… they created this game… this world…"
 リリア「じゃ、じゃあ、ラスボスのルドルフとかも、あんたたちが考えたってこと？」
- Lilia: "So… you created Rudolph too?  The final boss?"
+Lilia: "So… you created Rudolph too?  The final boss?"
 ｋｙｏ「メインのストーリーは、ほぼＭＭが。
- Kyo:  "MM created most of the main story.
+Kyo:  "MM created most of the main story.
 あいつ、こういう話大好きなんだ。
- He loves this kind of stuff.
+He loves this kind of stuff.
 最後にはほとんどみんな助かったんだし、許してやってくれよ、な？」
- And most of the characters survived in the end, so give him a break, okay?"
+And most of the characters survived in the end, so give him a break, okay?"
 そうだな。
- That's right.
+That's right.
 ?me?も、２周目以降を遊べるほどには楽しめたし。
 I did enjoy the game enough to play it multiple times.
 リリア「ところで、あんたＭＭって言ったっけ？
- Lilia:  "So, you’re MM, right?
+Lilia:  "So, you’re MM, right?
 ベッドとか机とかあるのは分かるんだけど、この…鉄の箱？
- I get the bed and the desk, but what’s this… metal box?
+I get the bed and the desk, but what’s this… metal box?
 魔術の力…じゃなさそうだし、
- It doesn’t look magical…
+It doesn’t look magical…
 何かずっと動いてるっぽいけど、なんなの？」
 and it’s always making noise…  What is it?"
 ＭＭ「ああこれ？
- MM: "Oh, this? It's a computer.
+MM: "Oh, this? It's a computer.
 マップエディターとか、シナリオ編集ソフトとか動いてる。
- It's running the map editor and the scriptwriting software.
+It's running the map editor and the scriptwriting software.
 俺たちの生命線みたいなものだよ。」
- They’re our lifelines."
+They’re our lifelines."
 リリア「マ…マップ？
- Lilia:  "Map…?
+Lilia:  "Map…?
 何よそれ？」
- What’s that?"
+What’s that?"
 ＭＭ「壊れたりはしないと思うから、いろいろ調べてみるといいよ。」
- MM: "I don't think it'll break, so feel free to poke around."
+MM: "I don't think it'll break, so feel free to poke around."
 エレナ「ｋｙｏさん、ここ２階があるんですか？」
- Elena: "Kyo, is there a second floor?"
+Elena: "Kyo, is there a second floor?"
 ｋｙｏ「まあな。
- Kyo:  "Yep.
+Kyo:  "Yep.
 次回作のネタとか、ＳＲの資料とか、いろいろおいてある。
- We keep ideas for the next game, reference materials for ShadowRine, and all sorts of other stuff up there.
+We keep ideas for the next game, reference materials for ShadowRine, and all sorts of other stuff up there.
 まあ、長々話してもあれだし、適当に見て回ってもらって構わないよ。」
- Anyway, make yourselves at home.  Explore as much as you want."
+Anyway, make yourselves at home.  Explore as much as you want."
 エレナ「うわあ！なんだか不思議でいっぱいだね！
- Elena:  "Wow, this place is amazing!
+Elena:  "Wow, this place is amazing!
 みんな、速く見に行こうよ！！」
- Come on, everyone, let’s go explore!"
+Come on, everyone, let’s go explore!"
 それじゃあすこし、お邪魔させてもらおう。
- Let's take a look around.
+Let's take a look around.
 ＭＭ「あ、最後に一言。お決まりのセリフだけど言わせてほしい。
- MM: "Oh, one last thing.  I have to say this… standard disclaimer and all that.
+MM: "Oh, one last thing.  I have to say this… standard disclaimer and all that.
 この研究室はフィクションです。
- This lab is a work of fiction.
+This lab is a work of fiction.
 登場する人物や団体、製品、現実のＭＭ・ｋｙｏは、この研究所の外並びに現実世界とは一切関係ありません。」
- Any resemblance to actual people, organizations, products, or real-life versions of MM and Kyo is purely coincidental."
+Any resemblance to actual people, organizations, products, or real-life versions of MM and Kyo is purely coincidental."
 ｋｙｏ「意味わからんことになってるぞ？
- Kyo: "That makes no sense!
+Kyo: "That makes no sense!
 それじゃ、俺たちは持ち場に戻るから、
- Anyway, we're getting back to work.
+Anyway, we're getting back to work.
 ユックリシテイッテネ。
- Make yourselves at home.
+Make yourselves at home.
 あーそれと、いろいろと散らかってるから気を付けてな。
- Oh, and watch out for the mess.
+Oh, and watch out for the mess.
 特にＭＭなんだけどさあ、あいつ全然片付けしねえから、資料とかコントローラーとか、後ドリップコーヒーの殻とか、カップ麺とか、ポテチのかすとか…」
- Especially around MM’s desk.  He never cleans up. Papers, controllers, coffee grounds, instant ramen cups, potato chip crumbs…"
+Especially around MM’s desk.  He never cleans up. Papers, controllers, coffee grounds, instant ramen cups, potato chip crumbs…"
 ＭＭ「さすがにそこまでじゃねえよ！！」
- MM: "Hey, it's not that bad!"
+MM: "Hey, it's not that bad!"
 ↑北：正面ゲート
 ↑ North: Main Gate
 ↓南：王座の間
@@ -7317,15 +7317,15 @@ It's MM's locker. There's a piece of paper with something written on it.
 『面白いゲームを作るには：
 "How to Make a Fun Game:
 ・自分も楽しみながら作ること。
- ・Have fun making it yourself.
+Have fun making it yourself.
 ・誰かと一緒に作ること。
- ・Make it with someone.
+Make it with someone.
 ・適度に休憩すること。』
- ・Take breaks appropriately."
+Take frequent breaks."
 kyoのロッカーだ。何かを書いた紙が貼ってある。
 It's kyo's locker. There's a piece of paper with something written on it.
 『アイディアは、意外と近くに、あるもんだ。kyo、渾身の一句』
-"Ideas are often closer than you think. kyo's masterpiece haiku"
+"Ideas are often closer than you think. Kyo's masterpiece haiku"
 プログラムエディタだ。
 It's a program editor.
 画面上には、何やら複雑な文字列が所狭しと並んでいる。
@@ -7335,7 +7335,7 @@ It's a scenario editor.
 ゲーム中に表示されるセリフが書き込まれている。
 Lines that will be displayed during the game are written there.
 表示されるメッセージだけでなく、
- Not only the messages to be displayed,
+Not only the messages to be displayed,
 効果音やＢＧＭを再生する命令や
 but also commands to play sound effects and BGM,
 持っているアイテムやステータスを管理する命令なども
@@ -7357,7 +7357,7 @@ is written on a piece of paper.
 マイク、マイクスタンド、オーディオインタフェースが、隣のコンピュータに接続されている。
 A microphone, microphone stand, and audio interface are connected to the computer next to it.
 これは中の人用だろうか？
-Is this for the voice actor?
+Is this for the voice actors?
 企画名：Restore Of The Century
 Project Title: Restore Of The Century
 副題：世界を信じられなくなるダークＳＦストーリー
@@ -7365,7 +7365,7 @@ Subtitle: A dark sci-fi story that will make you question the world.
 ジャンル：ＲＰＧ
 Genre: RPG
 概要：広大なフィールドと複数人存在する主人公たちによって紡がれる長編ＲＰＧ。
-Overview: A long RPG woven by a vast field and multiple protagonists.
+Overview: A long RPG set in a vast world and including multiple protagonists.
 時は21世紀。物質をデータ化できる装置【コンストローラー】とデータを元の物質へと復元する装置【マテリアライザー】が普及した近未来を舞台に物語が展開される。
 The story takes place in the near future of the 21st century, where the "Controller", a device that can convert matter into data, and the "Materializer", a device that can restore data to its original matter, have become widespread.
 企画名：なんかすごいチェス（仮）
@@ -7373,9 +7373,9 @@ Project Title: Something Amazing Chess (tentative)
 ジャンル：チェステラテジー
 Genre: Chess Strategy
 概要：ルールは一般的な物と同じだが、駒がさまざまなチェス。
-Overview: A chess game with the same rules as the general one, but with a variety of pieces.
+Overview: A chess game with the same rules as usual, but with a variety of pieces.
 各駒（ピース）にはクラス（ポーンやルークなど）があり、そのクラスにおおじた動きができる。
-Each piece (piece) has a class (pawn, rook, etc.) and can move according to that class.
+Each piece has a class (pawn, rook, etc.) and can move according to that class.
 ピース同師を組み合わせて新たなピースを作るもしくは、特定のピースを成長させることができる。
 Combine pieces of the same type to create new pieces, or grow specific pieces.
 チェス盤（フィールド）にも種類があり、各フィールドによって向き不向きなピースがある。
@@ -7409,9 +7409,9 @@ Project Title: BOOK
 副題：世界改変ダークファンタジー
 Subtitle: World-Altering Dark Fantasy
 世界観：　ライブラリと呼ばれるコンピュータに管理された世界、【ブック】と呼ばれる携帯端末を使い人々は生活を営んでいた。
-Worldview: The world was managed by a computer called the Library, and people lived their lives using mobile terminals called "Books.
+Overview: The world is managed by a computer called the Library, and people live their lives using mobile terminals called "Books".
 【ブック】のなかには人々が生活をするうえで必要最低限の知識と技術が記録されており、ある特有の行動をすることによってそれらの知識もしくは技術を取得【ゲイン】することができる。
-The "Books" contain the minimum knowledge and skills necessary for people to live their lives, and by performing certain actions, they can acquire (gain) those knowledge or skills.
+The "Books" contain the minimum knowledge and skills necessary for people to live their lives, and by performing certain actions, they can gain that knowledge or skills.
 そんな世界が歪なものにしか見えない少年の物語。
 This is the story of a boy who sees such a world as nothing but distorted.
 彼は異端として世界の悪となり、英雄となる。
@@ -7421,7 +7421,7 @@ Project Title: Mind Monster
 ジャンル：モンスター育成ＲＰＧ
 Genre: Monster Breeding RPG
 概要：父からパートナーとなるモンスターを預かった主人公は、世界各地に生息するモンスターたちと戦い、仲間を増やし、世界中を旅する。
-Overview: The main character, who has been entrusted with a partner monster by his father, fights against monsters that inhabit various parts of the world, increases his friends, and travels around the world.
+Overview: The main character, who has been entrusted with a partner monster by his father, fights against monsters that inhabit various parts of the world, makes friends, and travels around the world.
 旅先で出会う人々やモンスターたちと触れ合いながら、絆の意味を探し成長する物語。
 A story of growth while searching for the meaning of bonds through encounters with people and monsters encountered on the journey.
 ゲームコンセプト：
@@ -7439,7 +7439,7 @@ Overview:
 音だけでプレイする、3D対戦武器格闘！！
 3D fighting game played only with sound!
 「音」が映像を、広大な立体空間を作り出す！！
-"Sound" creates images and a vast three-dimensional space!
+Sound creates images and a vast three-dimensional space!
 個性豊かなキャラクターたちと、多種多様な武器や技を使いこなし、
 Master a variety of unique characters, weapons, and techniques,
 全国のプレイヤーと対戦だ！
@@ -7457,7 +7457,7 @@ With this device, you can enter "secret passwords"
 様々な特典を獲得することができます。
 to unlock various bonuses.
 「秘密の合言葉」は、シャドウラインフルボイスの体験版をプレイするなど、様々な方法で公開されていきます。
-The secret passwords will be revealed in various ways, such as playing the ShadowRine full-voice trial version.
+The secret passwords will be revealed in various ways, such as playing the ShadowRine fullVoice demo version.
 ＳＲ公式サイトをチェックして、秘密の合言葉を探しましょう。
 Check the official SR website to find the secret passwords.
 合言葉を入力しますか？
@@ -7469,7 +7469,7 @@ Enter
 入力しない
 Don't enter
 ＭＭ「こんちは、楽しんでくれてるかい？
-MM "Hello, are you having fun?
+MM: "Hello, are you having fun?
 シャドウラインのホームページでは、ゲームに関する新しい情報を提供しているから、ぜひ遊びにきてね。」
 The ShadowRine website has new information about the game, so please come visit us."
 何か聞いてみようか？：
@@ -7481,9 +7481,9 @@ What did you enjoy?
 大変だったことは？
 What was difficult?
 好きなキャラクターは？
-What is your favorite character?
+Who is your favorite character?
 誰押し？
-Who's your favorite?
+Who's your favorite playable character?
 好きなシーンは？
 What is your favorite scene?
 このゲームを一言で表すと？
@@ -7491,7 +7491,7 @@ In a word, what is this game about?
 マップを担当したダンジョン、どれか一つについて一言
 A word about one of the dungeons you were in charge of for the map.
 好きな曲は？
-What is your favorite song?
+What is your favorite song in the game?
 朝派？夜派？
 Are you a morning person or a night person?
 思いっきり笑って！？
@@ -7519,23 +7519,23 @@ I'll never forget the excitement I felt when I defeated the enemy for the first 
 全部大変だったけど、あえて言うならシステム作りかな。試行錯誤しながら、思い通りのものができた時は、本当に嬉しいものだよ。
 It was all hard work, but if I had to say, I'd say it was the system development. It's a really great feeling when you go through trial and error and finally get what you want.
 もちろんみんな好きだけど。面白いところで、ゴポンガ様かな。クレーネさんとのやり取りは、書いててとても面白かった。
-I love everyone, of course. But if I had to choose, I'd say Master Goponga. Writing the exchanges between him and Crane was a lot of fun.
+I love everyone, of course. But if I had to choose, I'd say Chieftain Goponga. Writing the exchanges between him and Krene was a lot of fun.
 リリア。守ってあげたい可愛さだよね。
 Lilia. She's so cute, you just want to protect her.
 エレナ。実はちょっぴり天然なところが良い。
 Elena. I actually like that she's a little bit of an airhead.
 ルーライ。友達にいたら、面倒事でも力を貸してくれそう。
-Lourai. If she were my friend, I think she'd help me out even if I was in trouble.
+Rurai. If he were my friend, I think he'd help me out even if I was in trouble.
 皆いいところがあって、選べないね。
 Everyone's great, I can't choose.
 あまり詳しくは言えないけれど、アフターＥＰの最後かな。これでやっと、みんな救われたって感じがするし。
-I can't say too much, but maybe the end of the after EP. I feel like everyone's finally saved.
+I can't say too much, but maybe the end of the aftermath expansion. I feel like everyone's finally saved.
 『人生』。自分のゲームへの思いを「これでもかっ！」ってくらい詰め込んだからね。
 'Life.' I poured all my feelings about the game into it.
 地下迷宮、作るのに三日以上かかったのはいい思い出です。むずかしくてごめんなさい
 It's a fond memory that it took me more than three days to create the Underground Labyrinth. Sorry it's so difficult.
 じつは、湖の北西で流れる曲が大のお気に入りなんだ。昔受験生だったころ、あの曲を目覚ましにさせてもらってたこともあったなあ。
-Actually, I really love the song that plays to the northwest of the lake. I used to use it as my alarm clock when I was studying for exams.
+Actually, I really love the song that plays to the northwest of the lake. I used to use it as my alarm when I was studying for exams.
 朝派だったんだけど、最近は夜型になってきちゃった。ゲームの打ち合わせとか、夜やってたからね。とほほ
 I used to be a morning person, but lately I've become more of a night owl. I've been having game meetings and stuff at night, haha.
 ブッヒャヒャヒャヒャヒャヒャヒャ！！
@@ -7549,17 +7549,17 @@ That's what I want to say, but I guess it can't be helped if people think that a
 アクションゲーム全般。ＲＰＧもやるよ。あと、音ゲーも大好きだね。
 Action games in general. I play RPGs too. And I love rhythm games.
 もちろん、ゲーム作りだよ。これからも、このゲームを超える作品を作って行きたいと思ってるので、よろしく！！
-Making games, of course. I'm planning to make more games that surpass this one in the future, so please look forward to them!
+Making games, of course. I'm planning to make more games better than this one in the future, so you can look forward to them!
 まあ、卒業式があったばかりだからね。犬の毛みたいになってる。
 Well, we did just have graduation. My hair's like dog fur.
 うーん。一緒に作ることを考えると、アドベンチャーゲームとかがよさそう。
 Hmm. I think an adventure game would be good, considering we're making it together.
 ｋｙｏ「よう。俺が作った平原南の洞窟へは行ってみたかい？
-kyo "Yo. Have you been to the South Plain Cave I made?
+Kyo: "Yo. Have you been to the south cave I made?
 まだ行ったことがなければ、この研究所を出て北に二つ行ったところにいる人から話を聞いてみるといいよ。
-If you haven't been there yet, you can get some information from the person two steps north of this lab.
+If you haven't been there yet, you can get some information from a person two fields north of this lab.
 左側の家の中にいる人だよ」
-He's in the house on the left."
+She's in the house on the left."
 大変なことも多かったけど、とても楽しかった。掛け替えのない時間を過ごせたと思う。
 It was a lot of hard work, but it was a lot of fun. I feel like I've spent an irreplaceable time.
 ううん、やっぱりMMと二人でアイディアを出し合ったことかなぁ。いろんな案を出してはそれが実現できるのかを話し合ったり、雑談からすごいアイディアが生まれたりとか。すごく楽しかった。
@@ -7567,7 +7567,7 @@ Yeah, I think it was brainstorming with MM. We had a lot of fun coming up with i
 いろいろあるけど、特に大変だったのは台本の作成と演技かな。他にもたくさん初めて挑戦することが多かったし、選べないな……。
 There were a lot of things, but I think the hardest part was writing the script and acting. There were a lot of other things that I tried for the first time, so I can't choose...
 キャプテンバットかな。あのこものって感じがなんか癖になるんだよね。
-Captain Bat, maybe. I don't know, there's something about that little thing that's kind of addictive.
+Captain Bat, maybe. I don't know, there's something about that little thing that's kind of fun.
 エレナ！　エレナタンが好き！！
 Elena! I love Elena!
 ルドルフが登場して名乗るシーンかな。強大な敵が現われたって感じが出せたと思ってる。
@@ -7593,7 +7593,7 @@ DTM! It's DTM! I want to be able to make my own game BGM someday. Plus, I love m
 そ　う　で　す　ね　！！
 That's right!!
 なんだろう……。プログラマーVSブラックハッカーの電子世界での戦いを描くステラテジーというか、タワーディフェンスというかそんなのかな。
-I wonder... A strategy or tower defense game where programmers and black hat hackers battle it out in cyberspace.
+Hmm... A strategy or tower defense game where programmers and black hat hackers battle it out in cyberspace.
 30カレン手に入れた。
 You obtained 30 Karen.
 1カレン手に入れた。
@@ -7603,545 +7603,545 @@ Huh? Only 1 Karen?!
 200カレン手に入れた。
 You obtained 200 Karen.
 洞窟の奥から、たくさんの魔物の気配を感じる。
- I can sense a lot of monsters in this cave.
+I can sense a lot of monsters in this cave.
 中に入るのは危険かもしれない。
- It might be dangerous to go inside.
+It might be dangerous to go inside.
 エレナ「ここが、トーレさんたちが昔遊んでたっていう秘密基地…。」
- Elena: "This is... Tohru's secret hideout..."
+Elena: "This is... Tohru's secret hideout..."
 リリア「………」
- Lilia: "..."
+Lilia: "..."
 ルーライ「ものすごい数の魔物がいるようだね。」
- Rurai: "There seem to be a lot of monsters in here."
+Rurai: "There seem to be a lot of monsters in here."
 早速、ペンダントを探そう。
 Let's find that pendant.
 「洞窟の鍵」を手に入れた。
 You acquired a Cave Key!
 扉には鍵がかかっており、固く閉ざされているようだ…
- This door is locked tight.
+This door is locked tight.
 持っていた洞窟の鍵を使い、扉を開いた！！
- You used the Cave Key to unlock the door!
+You used the Cave Key to unlock the door!
 「思い出のペンダント」を取り返した！
 You recovered the Pendant of Memories!
 ルーライ「ふう。これで一安心だね。」
- Rurai: "There.  That's one less thing to worry about."
+Rurai: "There.  That's one less thing to worry about."
 リリア「はあ。」
- Lilia:  "Phew."
+Lilia:  "Phew."
 エレナ「リリアちゃん、怖かった？
- Elena: "Were you scared, Lilia?
+Elena: "Were you scared, Lilia?
 もう大丈夫だから、早く都へ戻ろう？」
 It's okay now. Let's head back to the city."
 リリア「べ、べつにあたしは、そんなんじゃ…。」
- Lilia:  "I-I wasn't scared or anything..."
+Lilia:  "I-I wasn't scared or anything..."
 はは、エレナは優しいな。
-Elena is so kind.
+Elena is so nice.
 リリア「だ、だからあたしはあっ！」
 Lilia:  "I-I told you, I'm..."
 エレナ「はいはい。
 Elena: "Alright, alright.
 トーレさん、楽しみに待ってると思うから、早く報告にもどろ？」
-I'm sure Tohru's waiting for us. Let's go tell him the good news."
+I'm sure Tohru's waiting for us. Let's go tell her the good news."
 リリア「ぷはあ。水の中を進んだら、こんな洞窟に着いちゃったよ！？」
- Lilia: "Whoa, check this out!  We swam through the lake and found a cave!"
+Lilia: "Whoa, check this out! We swam through the lake and found a cave!"
 ルーライ「ゲリュア火山の近くにも、水辺があったなんて驚きだな。」
 Rurai: "I'm surprised there's a place like this near Geryua Volcano."
 エレナ「わたし、ずっとこの山に住んでいたのに知らなかったよ。
 Elena: "I've lived on that mountain my whole life, and I never knew this was here.
 ここは…、火山の地価、かな？」
- Do you think it's connected to the volcano somehow?"
+Do you think it's connected to the volcano somehow?"
 そのような。この先から、強烈な熱気を感じる。
- It's possible. I can feel intense heat coming from deeper within.
+It's possible. I can feel intense heat coming from deeper within.
 おそらく、溶岩流があるのだろう。
 There must be a lava flow up ahead.
 リリア「たくさんの魔物の気配を感じるよ。」
- Lilia:  "I sense a lot of monsters in here."
+Lilia:  "I sense a lot of monsters in here."
 ルーライ「気をつけて進まないとね。」
- Rurai:  "We'd better be careful."
+Rurai:  "We'd better be careful."
 エレナ「見て！」
 Elena: "Look!"
 リリア「平原の空が…」
- Lilia: "The sky over the plains..."
+Lilia: "The sky over the plains..."
 ルーライ「黒い…線？
 Rurai:  "A black... line?
 …いや、空に亀裂が…！！」
- No... a crack in the sky!"
+No... a crack in the sky!"
 何度となく見上げたカレシアの空…。
 The sky of Kareshia, a sight I've witnessed countless times...
 降り注ぐ太陽の光は、亀裂によって左右にされている。
- The sun's rays are split and distorted by a gaping fissure.
+The sun's rays are split and distorted by a gaping fissure.
 亀裂の先には何もない。
 There's nothing beyond the crack.
 ただ【黒】が広がっているだけだ。
 Only an expanse of darkness.
 世界が、崩壊を始めている！！
- The world is starting to crumble!
+The world is starting to fall apart!
 空が砕かれ、世界の外側から邪悪の根源が迫ってくるのを
- I can feel it...
+I can feel it...
 全身で感じる…。
 the world breaking apart, and the source of evil approaching from beyond.
 リリア「うきゃっ、今までより、魔物の数が増えてるみたい！」
- Lilia:  "Yikes! There are way more monsters than usual!"
+Lilia:  "Yikes! There are way more monsters than usual!"
 リリアの言うとおり、平原に生息する魔物は数を増しているようだ。
- Lilia's right. The monsters on the plains have multiplied.
+Lilia's right. The monsters on the plains have multiplied.
 動きも機敏になっている。空の亀裂が原因なのだろうか？
- They're faster, more aggressive.  Could the crack in the sky be responsible?
+They're faster, more aggressive.  Could the crack in the sky be responsible?
 ルーライ「焦らず、慎重に。確実に神殿を目指そう。」
 Rurai:  "Stay calm, and be careful. We have to reach the temple."
 エレナ「うん…」
- Elena:  "Okay..."
+Elena:  "Okay..."
 リリア「ひどい…。ぐちゃぐちゃ…」
- Lilia:  "This is awful... completely destroyed..."
+Lilia:  "This is awful... completely destroyed..."
 強引に壊したのか、神殿の扉は跡形もなく消し飛び、
- The temple doors have been obliterated, likely forced open.
+The temple doors have been obliterated, likely forced open.
 壁にも大きな傷跡が多数みられる。
 Deep scars mar the surrounding walls.
 ルーライ「ルドルフは…どこに？」
 Rurai: "Where's Rudolph?"
 エレナ「それよりも、アリアさんは！？」
- Elena:  "More importantly, where's Aria?!"
+Elena:  "More importantly, where's Aria?!"
 私なら…大丈夫…です。
- "I... I'm alright..."
+"I... I'm alright..."
 エレナ「アリアさん！
- Elena:  "Aria!
+Elena:  "Aria!
 元気がないようですけれど、本当に大丈夫ですか？」
 You seem weak... Are you sure you're okay?"
 ええ…。
- "Yes..."
+"Yes...
 しかし………、この世界は…もう…。
- "But... this world... it's..."
+But... this world... it's...
 ルドルフは、ラストホープの力を逆手に取り、この世界、カレシアを支えていた全ての柱を壊し終えました…。」
- "Rudolph exploited the power of Last Hope.  He destroyed all the pillars that sustained Kareshia."
+Rudolph exploited the power of Last Hope.  He destroyed all the pillars that sustained Kareshia."
 ルーライ「どうして、それを…？」
- Rurai: "How... how could he...?"
+Rurai: "How... how could he...?"
 先ほどルドルフが現れ、この神殿の力を使って、新世界【ルドルフィア】へ向かったとき、
- "When Rudolph appeared and used the temple's power to travel to his new world, Rudolphia...
+"When Rudolph appeared and used the temple's power to travel to his new world, Rudolphia...
 私は自分の犯した大きな過ちに、初めて気づいたのです。
- I finally realized the gravity of my mistake."
+I finally realized the gravity of my mistake."
 エレナ「ごめんなさい。わたしたちが、柱を壊したせいで…」
- Elena: "I'm so sorry!  It's our fault...  We destroyed the pillars..."
+Elena: "I'm so sorry!  It's our fault...  We destroyed the pillars..."
 いいえ…そのようなことは…。
- "No... it's not your fault.
+"No... it's not your fault.
 ルドルフの陰謀に気付くことのできなかった私が悪いのです…。
- I was blind to Rudolph's schemes...
+I was blind to Rudolph's schemes...
 この世界が滅ぶのも………時間の問題です………
 This world's destruction...  is only a matter of time..."
 もう、手は残っていないのだろうか。
- Is there nothing we can do?
+Is there nothing we can do?
 ルドルフを打つための手段わ！？
- Is there any way to defeat Rudolph?
+Is there any way to defeat Rudolph?
 ！！！！！
- "!!!"
+"!!!"
 あなた方は、こんな私に…、まだ協力してくださるというのですか？
- "You... you're willing to help me?  Even now?"
+"You... you're willing to help me?  Even now?"
 リリア「当たり前でしょ！
- Lilia:  "Of course we are!
+Lilia:  "Of course we are!
 あたしたちはこの世界のために、とっても危険な場所を旅してきたんだよ！？
 We risked our lives for this world!
 ここであきらめちゃったら………」
- We can't give up now! "
+We can't give up now! "
 エレナ「うん。それに…
 Elena: "And...
 アリアさんがいなかったら、わたしたちは滅びる世界で何もできないままだったもの。」
- Without you, Aria, we would have been lost.  Powerless to stop the world's destruction."
+Without you, Aria, we would have been lost.  Powerless to stop the world's destruction."
 ルーライ「僕らにできることなら、何でもします！何か手はないのですか！？」
- Rurai: "We'll do anything!  What can we do to help?!"
+Rurai: "We'll do anything!  What can we do to help?!"
 …皆さん…本当にありがとうございます…
- "...Thank you... all of you..."
+"...Thank you... all of you...
 皆さんの覚悟…。確かにお聞きしました。
- "I understand your resolve.
+I understand your resolve.
 ここシェイントアリアムに秘められたすべての力を解放できれば、１次的にこの神殿とルドルフィアを繋ぐことができます。
 If we can unlock the full power of Shaintarium, we can temporarily create a connection between this temple and Rudolphia."
 　そんなことができるのだろうか。
- "Is that even possible?"
+Is that even possible?
 理論上は可能です。
- "Theoretically, yes.
+"Theoretically, yes.
 ですが現在、神殿の力はルドルフに封じられており………
- But Rudolph has sealed away the temple's power..."
+But Rudolph has sealed away the temple's power..."
 ルーライ「ルドルフッ…。どこまでも抜かりない…。」
- Rurai: "Rudolph...  He thought of everything..."
+Rurai: "Rudolph...  He thought of everything..."
 リリア「ねえ…。どうにかならないの？」
- Lilia: "There has to be a way..."
+Lilia: "There has to be a way..."
 この神殿には、広大な地下空間が広がっています。
- "There is a vast underground chamber beneath the temple.
+"There is a vast underground space beneath the temple.
 ルドルフは、神殿の力を闇のオーブに封じ込め、地下最奥部に配置しました。
- Rudolph has sealed the temple's power within Dark Orbs and hidden them in the deepest part of the chamber."
+Rudolph has sealed the temple's power within a Dark Orb and hidden it in the deepest part of the chamber."
 　それでは、神殿の地下へと潜り、闇のオーブを破壊することができれば…
- "So, if we can reach the underground chamber and destroy the Dark Orbs..."
+So, if we can reach the underground chamber and destroy the Dark Orb...
 エレナ「神殿の力が解放されるんだね。」
- Elena:  "The temple's power will be released!"
+Elena:  "The temple's power will be released!"
 リリア「！！そんなところに扉があったなんて…！」
- Lilia:  "There's a door here?  I never noticed it before!"
+Lilia:  "There's a door here?  I never noticed it before!"
 　強烈な魔の力があふれ出してくる…。
- *A wave of dark energy washes over us.*
+A wave of dark energy washes over us.
 地下へと続く扉の封印を解除しました…。
-"The seal on the door to the underground chamber is broken...
+"The seal on the door to the underground is broken...
 闇のオーブは、黒き魔の力を放ち続けています。
- The Dark Orbs are emanating a powerful dark energy.
+The Dark Orb is emanating a powerful dark energy.
 神殿の地下も黒き魔の力に冒され、凶悪な魔物の巣窟と成り果てていることでしょう。
- The underground chamber must be corrupted as well, overrun with dangerous monsters.
+The underground must be corrupted as well, overrun with dangerous monsters.
 皆さん…どうか、お気をつけて……
- Be careful, everyone."
+Be careful, everyone."
 ルーライ「皆…、いこう！」
- Rurai:  "Let's go!"
+Rurai:  "Let's go!"
 「炎の鍵」を手に入れた。
-You acquired the "Flame Key."
+You acquired the Flame Key.
 この箱は既に開かれている…
- This chest is already open.
+This chest is already open.
 扉には炎の陣を縁取った鍵穴があり、固く閉ざされている…
- This door has a keyhole surrounded by a fiery sigil. It is locked tight.
+This door has a keyhole surrounded by a fiery sigil. It is locked tight.
 持っていた炎の鍵を使い、扉を開いた！！
 You used the Flame Key to unlock the door!
 「水の鍵」を手に入れた。
-You acquired the "Water Key."
+You acquired the Water Key.
 扉には水の陣を縁取った鍵穴があり、固く閉ざされている…
 This door has a keyhole surrounded by a watery sigil. It is locked tight.
 持っていた水の鍵を使い、扉を開いた！！
 You used the Water Key to unlock the door!
 「地の鍵」を手に入れた。
-You acquired the "Earth Key."
+You acquired the Earth Key.
 扉には地の陣を縁取った鍵穴があり、固く閉ざされている…
 This door has a keyhole surrounded by an earthy sigil. It is locked tight.
 持っていた地の鍵を使い、扉を開いた！！
- You used the Earth Key to unlock the door!
+You used the Earth Key to unlock the door!
 「闇の鍵」を手に入れた。
- You acquired the "Darkness Key."
+You acquired the Darkness Key.
 扉には闇の陣を縁取った鍵穴があり、固く閉ざされている…
 This door has a keyhole surrounded by a shadowy sigil. It is locked tight.
 持っていた闇の鍵を使い、扉を開いた！！
 You used the Darkness Key to unlock the door!
 地下1階へと続く階段がある…
- There's a staircase leading to B1.
+There's a staircase leading to B1.
 階段を登ろうか？
- Descend the stairs?:
+Ascend the stairs?:
 地下1階へ
- Go to B1.
+Go to B1.
 引き返す
- Turn back.
+Turn back.
 地下2階へと続く階段がある…
- There's a staircase leading to B2.
+There's a staircase leading to B2.
 階段を下ろうか？
- Descend the stairs?:
+Descend the stairs?:
 地下2階へ
- Go to B2.
+Go to B2.
 シェイントアリアム地下2階のセーブ陣だ。
-This is the save point on B2 of Shaintarium.
+The save point on B2 of Shaintarium.
 「風の鍵」を手に入れた。
- You acquired the "Wind Key."
+You acquired the Wind Key.
 扉には風の陣を縁取った鍵穴があり、固く閉ざされている…
 This door has a keyhole surrounded by a windy sigil. It is locked tight.
 持っていた風の鍵を使い、扉を開いた！！
 You used the Wind Key to unlock the door!
 「雷の鍵」を手に入れた。
- You acquired the "Lightning Key."
+You acquired the Lightning Key.
 扉には雷の陣を縁取った鍵穴があり、固く閉ざされている…
- This door has a keyhole surrounded by a lightning sigil. It is locked tight.
+This door has a keyhole surrounded by a lightning sigil. It is locked tight.
 持っていた雷の鍵を使い、扉を開いた！！
- You used the Lightning Key to unlock the door!
+You used the Lightning Key to unlock the door!
 「氷の鍵」を手に入れた。
-You acquired the "Ice Key."
+You acquired the Ice Key.
 扉には氷の陣を縁取った鍵穴があり、固く閉ざされている…
- This door has a keyhole surrounded by an icy sigil. It is locked tight.
+This door has a keyhole surrounded by an icy sigil. It is locked tight.
 持っていた氷の鍵を使い、扉を開いた！！
 You used the Ice Key to unlock the door!
 地下3階へと続く階段がある…
 There's a staircase leading to B3.
 地下3階へ
- Go to B3.
+Go to B3.
 立札がある………
- There's a sign here...
+There's a sign here...
 『深淵の闇払いし者、勇気を持って宝を求めよ』
 "He who banishes the abyssal darkness, seek the treasure with courage."
 うわぁ、カレンをくすねられた！！
- Whoa, some of my Karen is gone!
+Whoa, some of my Karen is gone!
 %100%カレン奪われた………
- You lost %100% Karen!
+You lost %100% Karen!
 爆発した！！？
- It exploded?!
+It exploded?!
 体力が%30%になった！！
- Your HP is now at %30%!
+Your HP is now at %30%!
 何だ、箱の中から謎の気体が！！
 What is this gas coming from the chest?!
 体が軽くなり、ふわふわと浮き上がっていく！？
 I feel light... I'm floating!
 「木の鍵」を手に入れた。
- You acquired the "Wood Key."
+You acquired the Wood Key.
 扉には木の陣を縁取った鍵穴があり、固く閉ざされている…
 This door has a keyhole surrounded by a wooden sigil. It is locked tight.
 持っていた木の鍵を使い、扉を開いた！！
 You used the Wood Key to unlock the door!
 「岩の鍵」を手に入れた。
-You acquired the "Stone Key."
+You acquired the Stone Key.
 扉には岩の陣を縁取った鍵穴があり、固く閉ざされている…
 This door has a keyhole surrounded by a rocky sigil. It is locked tight.
 持っていた岩の鍵を使い、扉を開いた！！
 You used the Stone Key to unlock the door!
 「光の鍵」を手に入れた。
-You acquired the "Light Key."
+You acquired the Light Key.
 扉には光の陣を縁取った鍵穴があり、固く閉ざされている…
 This door has a keyhole surrounded by a radiant sigil. It is locked tight.
 持っていた光の鍵を使い、扉を開いた！！
 You used the Light Key to unlock the door!
 光と闇、二つの印放たれし時、深淵へと導かれるであろう
- "When the seals of light and darkness are broken, the path to the abyss shall be revealed."
+"When the seals of light and darkness are broken, the path to the abyss shall be revealed."
 スイッチを踏んだ。
- You stepped on the switch.
+You stepped on the switch.
 眩い光が天へと立ち上った！
- A blinding light shoots towards the heavens!
+A blinding light shoots towards the heavens!
 何も起こらない………
- Nothing happened.
+Nothing happened.
 暗黒の闇が天へと立ち上った！
 A wave of darkness shoots towards the heavens!
 「空の鍵」を手に入れた。
- You acquired the "Sky Key."
+You acquired the Sky Key.
 扉には空の陣を縁取った鍵穴があり、固く閉ざされている…
- This door has a keyhole surrounded by a celestial sigil. It is locked tight.
+This door has a keyhole surrounded by a celestial sigil. It is locked tight.
 持っていた空の鍵を使い、扉を開いた！！
- You used the Sky Key to unlock the door!
+You used the Sky Key to unlock the door!
 なんと！扉の先は隠し階段になっていた！！
 You found a hidden staircase!
 神殿最奥のボス部屋の扉を開く、巨大な鍵だ。
 This is the key to the boss chamber, the deepest part of the temple!
 固く閉ざされた扉の向こうから、邪悪な闇があふれてくる………
- An aura of evil emanates from beyond the sealed door...
+An aura of evil emanates from beyond the sealed door...
 扉を開くには、大きな鍵が必要だ。
- You need a large key to open this door.
+You need a large key to open this door.
 持っていたボスの鍵を使い、扉を開いた！！
 You used the Boss Key to unlock the door!
 エレナ「この先が、神殿の最奥部みたい…。たぶん、闇のオーブはこの先にあるんだよ。」
- Elena: "This must be the deepest part of the temple.  The Dark Orbs should be here."
+Elena: "This must be the deepest part of the temple. The Dark Orb should be here."
 ルーライ「間違いない。あの時ルドルフから感じた、邪悪に満ちた気配を感じる！」
- Rurai: "I'm sure of it.  I can sense that same evil aura I felt from Rudolph."
+Rurai: "I'm sure of it. I can sense that same evil aura I felt from Rudolph."
 リリア「ねえ、中に…入る…の？」
- Lilia:  "Are we... going inside...?"
+Lilia:  "Are we... going inside...?"
 ボスの部屋へ入ろうか？：
- Enter the boss chamber?:
+Enter the boss chamber?:
 エレナ「あ、あれは！！」
- Elena: "Look, there it is!"
+Elena: "Look, there it is!"
 リリア「闇のオーブ！？」
- Lilia: "The Dark Orb?!"
+Lilia: "The Dark Orb?!"
 ルーライ「これが…、アリアさんが言っていた、ルドルフの置き土産かっ！」
- Rurai: "So this is Rudolph's parting gift!"
+Rurai: "So this is Rudolph's parting gift!"
 ルーライ「父上の敵っ！！」
 Rurai:  "I'll avenge my father!"
 これは！？
- What?!
+What?!
 ルーライ「どういう…ことだ！？僕の攻撃が効かないなんて！？」
- Rurai: "Why... Why aren't my attacks working?!"
+Rurai: "Why... Why aren't my attacks working?!"
 エレナ「ま、魔物！？
 Elena: "M-monsters!
 闇のオーブから、魔物が！」
 They're coming from the orb!"
 間違いない。このオーブが、神殿地下に魔物を放ち続けていたのだ！！
- This orb is summoning monsters into the temple!
+This orb is summoning monsters into the temple!
 リリア「このままじゃあたしたち、魔物の餌にされちゃう…」
- Lilia: "We'll be monster chow if we don't do something!"
+Lilia: "We'll be monster chow if we don't do something!"
 ルーライ「くっ。いったい、どうすればっ！！」
 Rurai: "Damn it! What are we supposed to do?!"
 　　暗黒の水晶球
- Dark Crystal Sphere
+Dark Crystal Sphere:
 　　アビスオーブ
- Abyss Orb
+Abyss Orb
 シェイントアリアム地下3階のセーブ陣だ。
- This is the save point on B3 of Shaintarium.
+The save point on B3 of Shaintarium.
 オーブは砕け散り…闇の力が霧散していく………
- The orb shatters, and the dark energy dissipates...
+The orb shatters, and the dark energy dissipates...
 やったのか！？
- Did we do it?
+Did we do it?
 皆さん………ありがとうございます…。
- "Thank you... all of you..."
+"Thank you... all of you..."
 「魔物図鑑」という本が置かれている…。
- There's a book here called "Monster Compendium."
+There's a book here called "Monster Compendium."
 魔物図鑑・インデックス：
- Monster Compendium Index:
+Monster Compendium Index:
 マッシュドビースト
- Mushy Beast
+Mushy Beast
 キャタップラー
 Catapillar
 ゴキゴキ
- Gokigoki
+Gokigoki
 トレント
- Trent
+Trent
 シザークラブ
- Scissor Claw
+Scissor Claw
 オポッポウオ
 Opoppouo
 アナコンダ
- Anaconda
+Anaconda
 オクタロール
- Octaroll
+Octaroll
 本を閉じる
- Close the book.
+Close the book.
 プレーンスライム
 Plains Slime
 ポイゾマッシュ
- Poison Mush
+Poison Mush
 ウォークリリー
- Walk Lily
+Walk Lily
 ヘルハウンド
- Hellhound
+Hellhound
 ファイアリザード
- Fire Lizard
+Fire Lizard
 ゴブリン
- Goblin
+Goblin
 名前：ポイゾマッシュ
- Name: Poison Mush
+Name: Poison Mush
 生息地：フェルマ湖・風の森全域
- Habitat:  Lake Fermat, throughout the Wind Forest
+Habitat:  Lake Fermat, throughout the Wind Forest
 　フェルマーレ周辺に生息する歩く巨大キノコ。
- "A giant, walking mushroom found around Fermare.
+A giant, walking mushroom found around Fermare.
 闘争心が強く、人を見つけると迷わず襲いかかる。
-It's highly aggressive and will attack anyone it sees."
+It's highly aggressive and will attack anyone it sees.
 名前：キャタップラー
- Name: Catapillar
+Name: Catapillar
 生息地：風の森全域
- Habitat: Throughout the Wind Forest
+Habitat: Throughout the Wind Forest
 芋虫のような姿をした魔物。
- "A caterpillar-like monster.
+A caterpillar-like monster.
 キャタップラーの糸は、外敵から身を守るためにも使われる。
- It uses its silk to protect itself from enemies."
+It uses its silk to protect itself from enemies.
 名前：ゴキゴキ
- Name: Gokigoki
+Name: Gokigoki
 風の森全域に住む、とてもしぶといやつ。
- "A tenacious pest found throughout the Wind Forest.
+A tenacious pest found throughout the Wind Forest.
 耐久力こそほとんどないが、とてもすばしっこく、体当たりは非常に強力。
- It's not very durable, but it's fast and its charge attack is surprisingly powerful."
+It's not very durable, but it's fast and its charge attack is surprisingly powerful.
 名前：トレント
- Name: Trent
+Name: Trent
 木の精霊として知られている魔物。
- "A monster known as a tree spirit.
+A monster known as a tree spirit.
 風の力を操り、遠くから攻撃を仕掛けてくる。
- It manipulates the power of wind to attack from a distance.
+It manipulates the power of wind to attack from a distance.
 広い攻撃範囲と、高い耐久力を備えているため注意が必要だ。
- Be wary of its wide attack range and high durability."
+Be wary of its wide attack range and high durability.
 名前：シザークラブ
 Name: Scissor Claw
 生息地：フェルマ湖北西
- Habitat: Northwest Lake Fermat
+Habitat: Northwest Lake Fermat
 　湖に生息する、カニ型の魔物。
- "A crab-like monster that lives in the lake.
+A crab-like monster that lives in the lake.
 ハサミを振りかざして襲い掛かる。
- It attacks with its powerful pincers.
+It attacks with its powerful pincers.
 その力は強力で、つかんだ獲物は逃さない。
-Once it grabs hold of its prey, there's no escape."
+Once it grabs hold of its prey, there's no escape.
 名前：オポッポウオ
- Name: Opoppouo
+Name: Opoppouo
 生息地：フェルマ湖全域
- Habitat: Throughout Lake Fermat
+Habitat: Throughout Lake Fermat
 　水中を自由に泳ぎ回る魚型の魔物。
- "A fish-like monster that swims freely through the water.
+A fish-like monster that swims freely through the water.
 「オポポ」という奇妙な鳴き声を発する。
- It makes a strange 'Opopo' sound.
+It makes a strange 'Opopo' sound.
 温厚な性格だが、近づいた者には水を吐き掛け攻撃してくる。
- It's generally peaceful, but it will spit water at anyone who gets too close."
+It's generally peaceful, but it will spit water at anyone who gets too close.
 名前：アナコンダ
- Name: Anaconda
+Name: Anaconda
 生息地：風の森内、水辺
- Habitat: Water edges of the Wind Forest
+Habitat: Water edges of the Wind Forest
 風の森の水辺にすむ、巨大な蛇。
- "A giant snake that inhabits the shores of the Wind Forest.
+A giant snake that inhabits the shores of the Wind Forest.
 縄張りを荒らすものには容赦なく、泡をはいて攻撃してくる。
- It fiercely defends its territory, attacking with blasts of bubbles.
+It fiercely defends its territory, attacking with blasts of bubbles.
 水中を自由に泳ぎ回る。
- It moves freely through the water.
+It moves freely through the water.
 一説には、フェルマ湖を支配する大蛇の子であるともいわれている。
- Some believe it to be a descendant of the great serpent that once ruled Lake Fermat."
+Some believe it to be a descendant of the great serpent that once ruled Lake Fermat.
 名前：オクタロール
- Name: Octaroll
+Name: Octaroll
 生息地：フェルマ湖南西部
- Habitat: Southwest Lake Fermat
+Habitat: Southwest Lake Fermat
 タコのような姿をした魔物。
- "An octopus-like monster.
+An octopus-like monster.
 ８本の長い脚を自在に操り、近づいたものを容赦なく弾き飛ばす。
- It deftly manipulates its eight long legs to attack anyone who approaches.
+It deftly manipulates its eight long legs to attack anyone who approaches.
 中心部に攻撃をヒットさせなければ、簡単に躱されてしまう。
-It's difficult to hit its weak point, located in the center of its body."
+It's difficult to hit its weak point, located in the center of its body.
 カレシア荒野のセーブ陣だ。
- "This is the save point in the Kareshia Wilds.
+The save point in the Kareshia Wilds.
 フェルマーレにいた元神官という女性ノーらに頼まれ、はるばるここまでやってきた。
- Nora, the former priestess from Fermare, asked me to come here.
+Nora, the former priestess from Fermare, asked me to come here.
 ………?me?以外にいた勇者たち。
- ...The other heroes.
+...The other heroes.
 繰り返される過ちと悲しみの連鎖。
- Repeating mistakes, a cycle of sorrow...
+Repeating mistakes, a cycle of sorrow...
 彼女は後悔していると、そう、沈痛な面持ちで語ってくれた。
- She spoke of her regrets with such sadness.
+She spoke of her regrets with such sadness.
 幾ら悔やんだところで、自分の罪は消えることなどないとも………。
- How even the deepest remorse couldn't erase her sins.
+How even the deepest remorse couldn't erase her sins.
 寂しそうだった。
- She seemed so lonely.
+She seemed so lonely.
 悲しそうだった。
- So full of grief.
+So full of grief.
 助けを求めているように思えて仕方なかった。
- I couldn't shake the feeling that she was crying out for help.
+I couldn't shake the feeling that she was crying out for help.
 だから。
- That's why...
+That's why...
 今、?me?はここにいるのだ。
- I'm here now."
+I'm here now.
 ………悲愴の慟哭。
- "...The Dirge of Sorrow."
+...The Dirge of Sorrow.
 これが、この洞窟の呼び名だ。
 That's what they call this cave.
 ノーラが言うには、ここに不完全に召喚された勇者がいるということなのだが、
- Nora said there are incompletely summoned heroes here,
+Nora said there are improperly summoned heroes here,
 その前に。
 but...
 ここはあまりにも不気味すぎたようで………
 This place is unsettling.
 リリア「なななな、何であ あ あ あ あたしたちが、こんな場所に来なきゃならないのよ！！」
- Lilia: "Why, oh why, oh WHY do we have to come to this creepy place?!"
+Lilia: "Why, oh why, oh WHY do we have to come to this creepy place?!"
 エレナ「世界に不思議は一杯かもしれないけど、これは………ちょっと………。」
- Elena:  "I know this world is full of mysteries, but this is... a bit much..."
+Elena:  "I know this world is full of mysteries, but this is... a bit much..."
 二人とも、気乗りしないようだ。
- They're not thrilled about this.
+They're not thrilled about this.
 リリア「もし、もしだけど、万が一何かの間違えでひょっこり亡霊が…、
- Lilia:  "If, *if*, by some crazy chance, we run into a ghost...
+Lilia:  "If, if, by some crazy chance, we run into a ghost...
 まあ、そんなものいるはず何て無いんだけど、
- I mean, I know there's no such thing,
+I mean, I know there's no such thing,
 もし、本当にもしそいつが現れたら、あんたあたしを守りなさいよ！！」
- but *if*, just *if*, it happens... You better protect me! "
+but if, just if, it happens... You better protect me!"
 エレナ「守って………くれるよね？………ね？」
- Elena: "You'll... protect us, right? ...Right?"
+Elena: "You'll... protect us, right? ...Right?"
 第一、今は全員が一つの体になっているため守るも何もないのだが………。
- Technically, there's no need to protect anyone, since we're all sharing the same body...
+Technically, there's no need to protect anyone, since we're all sharing the same body...
 リリア「………あんた………空気、読みなさいよね。」
-Lilia: "...Read the room."
+Lilia: "...Clueless idiot."
 エレナ「KY？………は良くないよ？」
-Elena:  "KY? ...That's not nice."
+Elena:  "LOL, that's not nice."
 と、あきれ半分、いらだち半分の言葉を頂戴した。
- Their words are a mix of exasperation and amusement.
+Their words are a mix of exasperation and amusement.
 ………うん？
- ...Wait.
+...Wait.
 ………何故この世界の住人であるはずのエレナが
- ...How does Elena, a resident of this world,
+...How does Elena, a resident of this world,
 KYなどという言葉を知っているのだろうか？
- know what "KY" means?
+know what "LOL" means?
 そうやって、思案顔でうむむと唸っていると、
- As I ponder this,
+As I ponder this,
 どことなく楽しそうにエレナが説明をしてくれた。
 Elena cheerfully offers an explanation.
 エレナ「あのね、あのね！わたしと君とはね、一つなんだよ！！」
-Elena:  "See, you and I... we're one now!"
+Elena:  "Well, you and I... we're one now, you know?"
 これを、説明というならという、但し書きが添えられることとなるだろうが。
 I wouldn't exactly call that an explanation, but I appreciate the effort.
 ………より一層訳が分からなくなっていた。
- ...I'm even more confused now.
+...I'm even more confused now.
 またもやむむむと唸っていると、今度はリリアが説明をしてくれた。
- As I continue to ponder, Lilia chimes in.
+As I continue to ponder, Lilia chimes in.
 リリア「要するに、私とあんたとは、体が一つなんだから、
- Lilia:  "Basically, we share the same body,
+Lilia:  "Basically, we share the same body,
 記憶だって一つってことなのよ。分かった？」
- so we share the same memories.  Get it?"
+so we share the same memories.  Get it?"
 分かったようでわからない。
- I get it, but I don't get it.
+I get it, but I don't get it.
 それなら、何故?me?は彼女らの記憶とやらを知らないのだろうか………？
- If we share memories, why don't *I* remember them?
+If we share memories, why don't I remember yours?
 そこへエレナが割り込んできてこう説明した。
- Elena interrupts my thoughts.
+Elena interrupts my thoughts.
 エレナ「何で君がわたしたちの記憶を知らないかっていうとね、
- Elena:  "The reason you don't know our memories is because...
+Elena:  "The reason you don't know our memories is because...
 それは、わたしたちが、君のことをもっと知りたいと思ったからだよ！！
- ...We wanted to learn more about you!
+...We wanted to learn more about you!
 つまり、わたしもリリアちゃんも君のことが、ーー」
- We're curious about you, ?name?..."
+We're curious about you, ?name?..."
 リリア「はいはいはいはい！！それじゃあ、そろそろ、探索へ行くわよ！」
 Lilia:  "Alright, alright!  Let's get going!"
 最後に何かエレナが言いかけたところで、リリアが先を促してきた。
@@ -8149,75 +8149,75 @@ Lilia cuts Elena off before she can finish.
 たしかに、今回の目的はこの洞窟の探査である。
 She's right.  We're here to explore this cave.
 それならば、こんなところで油を売っているわけにはいかないだろう。
- We can't waste any more time.
+We can't waste any more time.
 リリア「………やっぱり、帰らない？」
- Lilia:  "...Are you sure we shouldn't go back?"
+Lilia:  "...Are you sure we shouldn't go back?"
 そんな、怯えた様子のリリアとどことなく不機嫌なエレナとともに
- Lilia looks terrified, and Elena seems strangely annoyed.
+Lilia looks terrified, and Elena seems strangely annoyed.
 一路先を目指すのであった。
- And so, we venture deeper into the cave.
+And so, we venture deeper into the cave.
 エレナ「うらめしやあ！！」
- Elena:  "WoooOOOOoo..."
+Elena:  "WoooOOOOoo..."
 リリア「ぎやあ！！」
- Lilia:  "Eeeeeeek!"
+Lilia:  "Eeeeeeek!"
 ………まったく、仲の良い二人である。
- They're quite the pair.
+They're quite the pair.
 もう、この場所に用はない…。
- There's nothing more for us here.
+There's nothing more for us here.
 洞窟………の、ようだが、………。
 It looks like a cave... but...
 リリア「ここ………なんか、気味が悪い………ていうか、何ていうか………。」
- Lilia: "This place... it's creepy... I don't even know how to describe it..."
+Lilia: "This place... it's creepy... I don't even know how to describe it..."
 エレナ「悲しい………所…だね………。」
- Elena: "It's... sad..."
+Elena: "It's... sad..."
 寂しいのではなく、悲しい所か………。
- Not eerie, but sad?
+Not eerie, but sad?
 確かに、そうかもしれない。
 She might be right.
 『ーー！！』
- "?!!"
+"-!!"
 うん？
- Huh?
+Huh?
 何か、聞こえなかっただろうか………？
- Did I just hear something?
+Did I just hear something?
 リリア「なに！！なんなのっ！！」
- Lilia:  "What was that?!"
+Lilia:  "What was that?!"
 エレナ「帰ろう………よ。」
- Elena: "Let's... go back..."
+Elena: "Let's... go back..."
 この調子では、洞窟の中を調べるのは難しそうだ。
 It's going to be difficult to explore this cave if they keep getting spooked.
 リリア「あんた………。調べるつもりだったの………。」
- Lilia: "...You were actually... planning on exploring this place...?"
+Lilia: "...You were actually... planning on exploring this place...?"
 エレナ「こんな不思議は、いや…だよ…。」
 Elena: "I don't like these mysteries..."
 そこまで二人に言われては何かしらの切っ掛けがなければ
- I doubt we'll be coming back here.
+I doubt we'll be coming back here.
 もう、ここに来ることはないだろう。
- ...What a shame.
+...What a shame.
 ………非常に残念だ。
- "...This is incredibly disappointing."
+...This is incredibly disappointing.
 悲愴の慟哭第5フロアのセーブ陣だ。
-This is the save point on the 5th floor of the Dirge of Sorrow.
+The save point on the 5th floor of the Dirge of Sorrow.
 悲愴の慟哭第10フロアのセーブ陣だ。
-This is the save point on the 10th floor of the Dirge of Sorrow.
+The save point on the 10th floor of the Dirge of Sorrow.
 ？？？「………よお。」
 ???: "...Hey."
 その部屋はがらんとしていて、床と天井以外には何もない、
 The room is empty, devoid of anything but floor and ceiling,
 どことなく寂しげな雰囲気を醸し出していた。
- exuding a sense of loneliness.
+exuding a sense of loneliness.
 その中に一人、剣を携え佇む青年がこちらへと話しかけてきた。
- A young man, sword at his side, stands in the center of the room, addressing us.
+A young man, sword at his side, stands in the center of the room, addressing us.
 年のころは、凡そ１６、７才といったところだが、
 He appears to be about 16 or 17 years old,
 その身にまとう雰囲気がそれを大きく否定している。
 but the aura he projects contradicts his youthful appearance.
 腰に帯びる県は一見してみればただの片手剣に見える。
- At first glance, the sword at his hip seems like a simple one-handed blade.
+At first glance, the sword at his hip seems like a simple one-handed blade.
 だが、その柄は凡そ片手で扱うには長すぎた。
- But the hilt is too long to be wielded comfortably with one hand.
+But the hilt is too long to be wielded comfortably with one hand.
 つまり、あの剣は、片手でも両手でも使えるということになり、
- It's a sword that can be used with one or two hands,
+It's a sword that can be used with one or two hands,
 彼が盾を持っていないことも頷ける。
 which explains why he doesn't carry a shield.
 おそらく、片手での手数を重視した連続攻撃や
@@ -8229,301 +8229,301 @@ Could he be...  the hero trapped in the Dirge of Sorrow?
 勇者なのではないか。………いや、間違いない。
 ...Yes, I'm sure of it.
 そう、無性に思えるほどの迫力をこの身に受け、少しだけ後ずさる。
- His presence is overwhelming, and I instinctively take a step back.
+His presence is overwhelming, and I instinctively take a step back.
 ？？？「その剣………。なるほど。お前が勇者とやらか。」
 ???:  "That sword... I see.  So you're the hero."
 青年が、この手の中の剣、ラストホープを眺めながらそう言ってきた。
 The young man stares at Last Hope, the blade in my hand.
 どうやら、彼はこの剣が聖剣であることを知っているようだ。
- He seems to know it's a holy sword.
+He seems to know it's a holy sword.
 ………何故か。
- ...But how?
+...But how?
 その答えは彼自身からこちらへと齎された。
 The answer comes from the young man himself.
 ？？？「俺は、勇者。お前の前に召喚された人間だ。
- ???: "I'm a hero.  The one summoned before you."
+???: "I'm a hero. The one summoned before you."
 やはりか。
 So it's true.
 ………まあ、この体を見て分かるかもしれんが、俺はもう、人間とは言えんが。」
- "...Well, you can probably tell just by looking, but I'm not exactly human anymore."
+"...Well, you can probably tell just by looking, but I'm not exactly human anymore."
 彼を注意深く見てみると、不としたことに気付く。
- I look closer and realize...
+I look closer and realize...
 ………体が、透けている。
- ...He's translucent.
+...He's translucent.
 よく見てみないと分からない程度ではあるが、
- It's subtle,
+It's subtle,
 体が透けうっすら背後の様子が覗えるほどだろうか。
 but I can see through him, faintly.
 亡霊「どうやら、今頃になって気づいたようだな。」
- Wraith:  "It seems you've finally noticed."
+Spirit: "I guess you've finally noticed."
 ついつい彼に注目しすぎていたようで、
- I must have been staring, lost in thought.
+I must have been staring, lost in thought.
 ?me?の戸惑いが、そのまま向こうに伝わってしまったのだろうと少し反省する。
 I feel a pang of guilt for my lack of tact.
 しかし、それに構わず彼は話を続ける。
- But the wraith continues speaking, undeterred.
+But the spirit continues speaking, undeterred.
 亡霊「俺はシェイントアリアムの神官によってこの地へと召喚された。
- Wraith:  "The priests of Shaintarium summoned me here.
+Spirit: "The priests of Shaintarium summoned me here.
 ………魂のみだったが…。
- ...Only my soul, though.
+...Only my soul, though.
 当然のことながら、召喚は失敗に終わり、勇者は現れなかったとされ、
- The summoning failed, of course. They claimed the hero never appeared,
+The summoning failed, of course. They claimed the hero never appeared,
 この結果は極秘となされた。
- and the whole incident was covered up.
+and the whole incident was covered up.
 俺は、その一部始終全てを見ていた。誰にも届かない声を張り上げ、
- I saw it all. I screamed until my throat was raw,
+I saw it all. I screamed until my throat was raw,
 元の世界へ返してくれと懇願し続けた。
- begging them to send me back.
+begging them to send me back.
 しかし、そんな願いなど叶うはずがない。
- But those pleas fell on deaf ears.
+But those pleas fell on deaf ears.
 理由なんて簡単なものだ。
- The reason is simple.
+The reason is simple.
 俺は、存在していないのだからな。
- I don't exist.
+I don't exist.
 俺は魂のみをこの地に呼ばれ、捨てられた。
- They ripped my soul from my world and discarded it.
+They ripped my soul from my world and discarded it.
 それはあまりにも一方的で、驚くほど合理的だった。
- A cold, efficient decision.
+A cold, efficient decision.
 勇者なんてものはただの道具に過ぎない。
- Heroes are just tools.
+Heroes are just tools.
 使えばそれまで。
 Use them up and throw them away.
 別にいなくても良いのだ。
- They're expendable.
+They're expendable.
 もし、召喚が失敗してもまた別の物を取ってくればいいのだしな。
- If one summoning fails, just try again with another soul.
+If one summoning fails, just try again with another soul.
 ………そして今回呼ばれたのが他でもないお前だ。勇者よ。」
- ...And now, it's your turn, hero."
+...And now, it's your turn, hero."
 ゾクリとした。
- I shudder.
+I shudder.
 まるで生きている心地のしない。
- My blood runs cold.
+My blood runs cold.
 凍えるほどの絶対の冷たさを帯びた声が身を刺し貫くが、
- His voice, filled with an icy despair, pierces my soul.
+His voice, filled with an icy despair, pierces my soul.
 しかし、どうすることもできない。
- I'm paralyzed with fear.
+I'm paralyzed with fear.
 体は自分の言うことを聞かずただただ、身を固くするばかりで
 My body refuses to move.
 何の役にも立たない。寧ろ、足を引っ張っている。
-I wanted to say something,
+I want to say something,
 彼は勇者という道具を利用して正義という名の一方的な
-but what could I possibly say?
+but what can I possibly say?
 行いをさせようというシェイントアリアム、
- His anger is directed towards Shaintarium, towards the priests who used him and discarded him.
+His anger is directed towards Shaintarium, towards the priests who used him and discarded him.
 その神官に対して怒りを感じているだけで決して?me?にではない。
- Not towards me.
+Not towards me.
 そんなことが分かっていても、恐怖を感じずにはいられなかった。
- Even knowing that, I can't help but feel terrified.
+Even knowing that, I can't help but feel terrified.
 だが、不意に彼のまとう雰囲気が和らぐ。
- Then, his demeanor softens.
+Then, his demeanor softens.
 亡霊「魂だけの身となりこの世界を恨む間も束の間。
- Wraith: "My anger at this world faded quickly.
+Spirit: "My anger at this world faded quickly.
 俺は他ならぬこの世界によってここへと送られた。
- This world was the one who sent me here.
+This world was the one who sent me here.
 一匹の化け物として。
- As a monster.
+As a monster.
 所詮俺はこの世界にとって勇者でもなんでもなかった。
- I was never a hero.  Not to them.
+I was never a hero.  Not to them.
 ただの遺物だったのだ。
- Just a relic.
+Just a relic.
 世界によって魂と剥離された俺は、精神体となり、
- My soul was severed from my body, and I became a wraith,
+My soul was severed from my body, and I became a ghost,
 この部屋で長い年月を送ってきた。
- trapped in this room for what felt like an eternity.
+trapped in this room for what felt like an eternity.
 ………だがそれも、今日で終わる。
- ...But it all ends today.
+...But it all ends today.
 勇者、お前が俺を殺せ。
- Hero, kill me.
+Hero, kill me.
 いつも化け物相手にやっているように、この俺を。
- Just like you kill those other monsters.
+Just like you kill those other monsters.
 ………殺してみせろ。」
- ...Kill me."
+...Do it."
 これが、彼の望みなのだろう。
- This is what he wants.
+This is what he wants.
 見知らぬ土地へと呼ばれたのにもかかわらず
- He was torn from his world,
+He was torn from his world,
 存在を否定された上、人外の存在へと落とされたのだ。
- his existence denied, transformed into a monster.
+his existence denied, transformed into a monster.
 悲しくないわけがない。辛くないわけがない。
- He must have been in agony.
+He must have been in agony.
 何度も死にたいと思ったに違いない。
- He must have wanted to die a thousand times.
+He must have wanted to die a thousand times.
 そして、それと同じ回数だけ死ねないことを悔やみ、世界を恨んだに違いない。
- And each time he couldn't, he must have cursed this world.
+And each time he couldn't, he must have cursed this world.
 だからこそ。
 That's why...
 だからこそ今、?me?がすべき事とは。
- This is what I have to do.
+This is what I have to do.
 ………彼を。
- I have to...
+I have to...
 ………楽に、自由にしてやることなのではないか。
- ...Set him free.
+...Set him free.
 そう心に決めて、ラストホープの柄を固く握りしめ、眼前に構える。
- I tighten my grip on Last Hope and raise it, ready to strike.
+I tighten my grip on Last Hope and raise it, ready to strike.
 精神体「良い表情をしているな。………お前になら。」
-Wraith: "That's a good look for you...  I'll allow it."
+Spirit: "That's a good look for you...  I'll allow it."
 青年が腰の剣をゆっくりと引き抜き半身に構え、切っ先をこちらに向けてくる。
- The young man slowly draws his sword and raises it, pointing the tip towards me.
+The young man slowly draws his sword and raises it, pointing the tip towards me.
 精神体「………お前になら………。」
- Wraith: "...I'll allow it..."
+Spirit: "...I'll allow it..."
 じっとこちらの目を見つめ彼は一言、
- He stares into my eyes and whispers,
+He stares into my eyes and whispers,
 精神体「………殺されてやっても良い。…かもな。」
-Wraith:  "...You can kill me... if you want."
+Spirit: "...I'll let you kill me."
 そう、柔らかく微笑みながら告げてきた。
 A faint smile touches his lips.
 精神体「だが、俺も剣士の端くれ。最後くらい全力でいかせてもらおう。」
- Wraith:  "But I'm a swordsman, too. I'm not going down without a fight."
+Spirit: "But I'm a swordsman, too. I'm not going down without a fight."
 これは、負けられない。………必ず勝ってみせる。
 I can't lose.  I have to win.
 この場所で、?me?は彼と戦ったのだ。
- I fought him here.
+I fought him here.
 ………彼に言われたことを………。
- ...And I believe...
+...And I believe...
 ?me?は、理解できていると信じて。
- ...I understand what he meant.
+...I understand what he meant.
 ………先へ進もう。
- ...Let's move on.
+...Let's move on.
 最後の一撃が彼の体へと吸い込まれていき到頭、力なく彼は崩れ落ちた。
- My final blow strikes him, and he collapses, his strength fading.
+My final blow strikes him, and he collapses, his strength fading.
 精神体「世話をかけたな…。」
- Wraith: "Thank you..."
+Spirit: "Thank you..."
 弱弱しくも堂々と紡がれるその声には
- His voice, weak yet resolute, is filled with
+His voice, weak yet resolute, is filled with
 明らかな安堵と、計り知れない喜びと、
- relief, immeasurable joy,
+relief, immeasurable joy,
 こちらを気遣う暖かな気持ちとが混在していた。
- and a warmth that envelops me.
+and a warmth that envelops me.
 彼は、何と強い人間なのだろうか。
- He is so strong.
+He is so strong.
 ?me?が同じ状態にあるとき、彼と同じことが自らできるだろうかと
- Could I ever face death with such courage and grace?
+Could I ever face death with such courage and grace?
 考えてみたが、おそらくその様な事、到底できないだろう。
- Probably not.
+Probably not.
 それに、まだ彼はこんな?me?のために残り少ない力を振り絞って
- And yet, even now,
+And yet, even now,
 言葉を掛けてくれた。
 he uses his remaining strength to speak to me.
 精神体「勇者。剣とはな、人を傷つけることもできるし、守ることもできる。
- Wraith: "Hero, a sword can wound and it can protect.
+Spirit: "Hero, a sword can wound and it can protect.
 だがしかし、一つだけ変わらないことがある。
- But one thing never changes.
+But one thing never changes.
 それは、どのような理由があってもその手で殺めた命の重みは
 The weight of a life taken, no matter the reason,
 決して変わることがないということだ。
- never fades.
+never fades.
 それは誰かを守るためにモンスターを倒すことも、
- Whether you slay a monster to protect someone,
+Whether you slay a monster to protect someone,
 ………俺を殺すことも。
- ...Or take my life...
+...Or take my life...
 その手にかかる命の重みは変わらない。
- The weight is the same.
+The weight is the same.
 ………お前なら、言わなくとも分かるだろうがな。」
- ...But I'm sure you already know that."
+...But I'm sure you already know that."
 そう言って彼はぐったりと床に体を横たえ、
- He collapses to the ground,
+He collapses to the ground,
 ゆっくりとその存在を希薄なものへと変化させていく。
 his body slowly fading.
 急いで彼のもとへと駆け寄る。
 I rush to his side.
 いつの間にか、両目からは涙がとめどなく流れ落ちていた。
- Tears stream down my face.
+Tears stream down my face.
 それを見咎め彼は?me?に向かってこう言った。
- He notices and says,
+He notices and says,
 精神体「男がそう簡単に泣くんじゃない。
-Wraith:  "Don't cry so easily.
+Spirit: "Don't cry so easily.
 泣くのなら、こんな亡霊のためではなく、お前の仲間たちのために泣いてやれ。
-Save your tears for your companions, not for a fading wraith.
+Save your tears for your companions, not for a fading ghost.
 それでも泣きたい時には、お前よりも強いと認めたものに胸を貸してもらえ。
- And if you must cry, find someone stronger than you and let them comfort you.
+And if you must cry, find someone stronger than you and let them comfort you.
 そうしていつかはお前が胸を貸してやれ。
- Someday, you'll be the one offering comfort.
+Someday, you'll be the one offering comfort.
 きっと誰かがお前の助けを待っているはずだ。
- There's always someone out there who needs your help.
+There's always someone out there who needs your help.
 だからお前はこんな消えるだけの亡霊など気にせず
- So don't dwell on a ghost like me.
+So don't dwell on a spirit like me.
 これからの事を考えると良い。
- Focus on what lies ahead.
+Focus on what lies ahead.
 過去は振り返られる。しかしそれだけだ。
- The past can be revisited, but it cannot be changed.
+The past can be revisited, but it cannot be changed.
 悔やんだり懐かしんだりはできても変わりはしない。………できない。
 You can regret it, you can cherish it, but it will always remain the same.
 だが、未来は同とでもなる。
- But the future is yours to shape.
+But the future is yours to shape.
 未来は常に変動し続けているのだから
- It's constantly changing, so
+It's constantly changing, so
 お前はお前らしく世界に振り回されずに生きることをまず目指せ。
- live your life on your own terms.  Don't let the world dictate your path.
+live your life on your own terms.  Don't let the world dictate your path.
 そして守りたいと思ったものは世界を敵にしてでも守り抜け。
- And if you find something worth protecting, protect it with all your might.  Even if the whole world stands against you.
+And if you find something worth protecting, protect it with all your might.  Even if the whole world stands against you.
 ………これが。
- ...That's...
+...That's...
 俺がお前に言えることの全てだと思う。
- ...All I can offer you.
+...All I can offer you.
 大丈夫。お前は良い剣士になれるさ。
- Don't worry. You're a fine swordsman.
+Don't worry. You'll be a fine swordsman.
 フェンサーの名に懸けて断言してやる。
- I know...
+I know...
 お前は。お前こそが勇者に相応しい。」
 You have the heart of a true hero."
 その言葉が終わると同時に彼は一段と薄くなっていき、
- As his words fade, so does he.
+As his words fade, so does he.
 精神体「………願わくは…また…あいつらが生きる世界へと…帰…り…つきたい。
-Wraith: "...I wish... I could go back... to my world...
+Spirit: "...I wish... I could go back... to my world...
 そして…あいつに…また…会い…たい………次こそは………守って…みせ…る………」
- to see them again...  To protect them..."
+to see her again...  To protect her..."
 最後にそう言い残し彼は空気へと溶けて消えた。
- His final words linger in the air as he vanishes, dissolving into nothingness.
+His final words linger in the air as he vanishes, dissolving into nothingness.
 元からそこには何もいなかったかのように部屋はがらんとしており、
- The room is empty once more, just as it was before.
+The room is empty once more, just as it was before.
 そこにいるべき部屋の主は見当たらない。
 As if nothing had happened.
 ?me?が。
- I...
+I...
 この手で彼を殺したのだ。
- I killed him.
+I killed him.
 モンスターと戦ったといえば聞こえはいいが、
 He called himself a monster, but...
 彼は、自分と同じ人間であり、何より自分とは覚悟も力も格段に違っていた。
 he was human, just like me.  And he was so much stronger, braver than I could ever be.
 しかし今。この部屋には?me?しかいない。
- But now... I'm alone.
+But now... I'm alone.
 ずしりとした、感覚。
- The weight...
+The weight...
 最後に彼を刺し貫いた際のあの重みが
- The weight of that final blow...
+The weight of that final blow...
 未だに料の手に圧し掛かっているかのような、そんな気がして、
- It still lingers in my hand,
+It still lingers in my hand,
 じっと自分の手とその手に握られた剣を見る。
 as I stare at my sword.
 ?me?は………、彼のように強く生きられるのだろうか？
- Can I... can I ever be as strong as he was?
+Can I... can I ever be as strong as he was?
 ?me?は、本当に勇者と言えるのだろうか………。
- Am I truly worthy of the title "hero"?
+Am I truly worthy of the title "hero"?
 リリア「………ねえ。外へ出ましょうよ。」
- Lilia: "...Let's go outside."
+Lilia: "...Let's go outside."
 不意にリリアがそう言ってくる。
- Lilia speaks, her voice soft.
+Lilia speaks, her voice soft.
 リリア「そ………その、………。そんな状態で戦ったら勝てるものも勝てないでしょう。」
- Lilia:  "You... You're not going to win any battles in this state."
+Lilia:  "You... You're not going to win any battles in this state."
 どうやら、?me?のことを心配してくれたらしい。
- She's worried about me.
+She's worried about me.
 リリア「ちが！！………違うからね。………ふ、ふんだ！」
- Lilia: "I-it's not like I'm...  Hmph!"
+Lilia: "I-it's not like I'm...  Hmph!"
 エレナ「わたしもね、君のこと心配してるんだよ。」
- Elena: "I'm worried about you too, ?name?."
+Elena: "I'm worried about you too, ?name?."
 そうだったな。?me?には二人がいる。
- That's right, I'm not alone.
+That's right, I'm not alone.
 ともに戦ってくれる、最高の仲間が。
 I have them. My companions.
 リリア「………む、………むう。」
- Lilia:  "...Hmm...  Hmm..."
+Lilia:  "...Hmm...  Hmm..."
 エレナ「そこは愛する二人とかって言うんじゃないの？」
- Elena: "Shouldn't you say something like 'We're in this together'?"
+Elena: "Shouldn't you say something like 'We're in this together'?"
 何故そうなるのか。
- Why would I say that?
+Why would I say that?
 というか彼女たちはどれほど?me?の世界について興味があるのだろう。
- And how much do they actually know about my world?
+And how much do you actually know about my world?
 リリア「………早く帰るわよ。」
 Lilia:  "...Let's go."
 エレナ「さあ、行こう。」
@@ -8535,235 +8535,235 @@ When we return.
 ?me?は、彼に言われた言葉の意味を理解できているだろうか………。
 Will I understand the meaning of his words?
 エレナ「今日は早く帰ってゆっくり休もうね。」
- Elena:  "Let's get back and rest up. You need it."
+Elena:  "Let's get back and rest up. You need it."
 そう、エレナが語りかけてくれる。
- Elena's concern warms me.
+Elena's concern warms me.
 リリア「べ………べつに心配とかしてないんだけど、
- Lilia:  "I-it's not like I'm worried about you or anything...
+Lilia:  "I-it's not like I'm worried about you or anything...
 ………してないんだけど、………。
- ...But...
+...But...
 早く、…元気…出しなさいよね。
- You need to... cheer up...
+You need to... cheer up...
 そ…うだんくらいになら、乗ってあげる…から。」
- I'll... I'll listen if you need to talk..."
+I'll... I'll listen if you need to talk..."
 と、リリアが励ましてくれる。
- Lilia's trying to cheer me up in her own way.
+Lilia's trying to cheer me up in her own way.
 エレナは優しいんだな
- Elena is kind.
+Elena is nice.
 リリアは優しいんだな
- Lilia is kind.
+Lilia is nice.
 二人とも、ありがとう
 Thank you, both of you.
 エレナ「ふふっ。そうでしょ。」
- Elena: "Heh, of course I am."
+Elena: "Heh, of course I am."
 嬉しそうに笑う彼女はどこまでも美しく、
- Her smile is beautiful, and I want to protect it.
+Her smile is beautiful, and I want to protect it.
 ついつい守りたいと思ってしまった。………何故だろう。
- Why do I feel this way?
+Why do I feel this way?
 エレナ「………早く気付いてくれなきゃダメだよ。」
- Elena: "...You'll figure it out eventually."
+Elena: "...You'll figure it out eventually."
 やはり、女の子の笑顔は良いものだ。
- The power of a girl's smile.
+The power of a girl's smile.
 リリア「………そう………。………もっと、あたしのこと頼っても………。」
- Lilia: "...You can... rely on me, too... if you need to..."
+Lilia: "...You can... rely on me, too... if you need to..."
 不器用ながらもこちらを気遣ってくれるリリアは、本当に優しい。
- Lilia's clumsy attempt to comfort me... she's so kind.
+Lilia's clumsy attempt to comfort me... it's so endearing.
 本当に………頼っても、良いのだろうか………。
- Can I... really rely on her?
+Can I... really rely on her?
 リリア「………バカ………。」
- Lilia: "...Idiot."
+Lilia: "...Idiot."
 二人とも、いつも迷惑をかけてしまうな。でも、ありがとう。
- I'm sorry for always burdening you both.  But thank you.
+I'm sorry for always burdening you both.  But thank you.
 エレナ「そんなこと…ないよ。わたしたちだって君に助けてもらってるんだし………。」
- Elena: "Don't worry about it.  You've saved us countless times..."
+Elena: "Don't worry about it.  You've saved us countless times..."
 リリア「それもそうね。あんたのおかげでこうやっていられるんだし………。」
- Lilia:  "She's right.  We wouldn't be here without you..."
+Lilia:  "She's right.  We wouldn't be here without you..."
 エレナ「それに、わたしたちは君の近くにいられて嬉しいんだよ。」
- Elena: "And besides, we're happy to be with you."
+Elena: "And besides, we're happy to be with you."
 リリア「………（ぽっ）」
- Lilia:  "..."
+Lilia:  "..."
 悲愴の慟哭第15フロアのセーブ陣だ。
-This is the save point on the 15th floor of the Dirge of Sorrow.
+The save point on the 15th floor of the Dirge of Sorrow.
 悲愴の慟哭第20フロアのセーブ陣だ。
- This is the save point on the 20th floor of the Dirge of Sorrow.
+The save point on the 20th floor of the Dirge of Sorrow.
 ここが、この《悲愴の慟哭》の最深部のようだ。
- This is it… the deepest part of the Dirge of Sorrow.
+This is it… the deepest part of the Dirge of Sorrow.
 あの青年………。彼と戦い、彼を殺した部屋と同様にがらんとしている。
- The room is empty, just like the one where I fought and killed that young man.
+The room is empty, just like the one where I fought and killed that young man.
 彼は…。彼自身の世界へと戻れたのだろうか？
- Did he...  Did he return to his world?
+Did he...  Did he return to his world?
 ？？？「それは、どうだろうな。」
- ???: "Who knows?"
+???: "Who knows?"
 不意に背後から声がする。
- A voice.  Right behind me.
+A voice.  Right behind me.
 あわてて前へと飛びのき、後ろを振り向くと
- I jump forward and spin around to see...
+I jump forward and spin around to see...
 ………そこには………。
- ...Him.
+...Him.
 彼が。消えていったはずの彼が?me?の目の前に立ち、こちらを睥睨していた。
- The young man, the one who vanished, is standing before me, staring me down.
+The young man, the one who vanished, is standing before me, staring me down.
 ………違う。
- ...No.
+...No.
 彼じゃない。
- It's not him.
+It's not him.
 彼は、このような表情は浮かべない。
- He wouldn't look at me like that.
+He wouldn't look at me like that.
 彼は勇敢で、それでいて、聡明な剣士だった。
- He was a brave, kind, intelligent swordsman.
+He was a brave, kind, intelligent swordsman.
 この男のように、気味の悪い笑いを浮かべてはいなかったし、
- He wouldn't wear that cruel smirk,
+He wouldn't wear that cruel smirk,
 こちらを馬鹿にしたような態度も見せなかった。
- nor would he treat me with such disdain.
+nor would he treat me with such disdain.
 それなのに。
- And yet…
+And yet…
 それなのに、この剣士は、あの青年に姿形がそっくりだった。
- And yet, this swordsman looks exactly like him.
+And yet, this swordsman looks exactly like him.
 剣士の亡霊？「驚いてるようだが、お前はすでに答えを知っている。」
- Swordsman Wraith?: "You seem surprised, but you already know the answer."
+Swordsman Wraith?: "You seem surprised, but you already know the answer."
 彼はそう言い、小ばかにした様にこちらを眺めてくる。
- He mocks me with his words and his gaze.
+He mocks me with his words and his gaze.
 ………どういうことだろうか。
- …What does he mean?
+…What does he mean?
 それでも悩み続けていると、彼はからからと、大げさに笑いながらこう言った。
- He laughs, a cruel, mocking sound.
+He laughs, a cruel, mocking sound.
 剣士の亡霊？「ふふっ。まあいい。この俺直々に教えてやるよ。
- Swordsman Wraith?: "Heh heh, very well.  I'll enlighten you.
+Swordsman Wraith?: "Heh heh, very well.  I'll enlighten you.
 俺の正体はな、お前が戦い、消滅させたあの魂体そのものだ。
- I am the very wraith you fought and extinguished.
+I am the very wraith you fought and extinguished.
 精神と剥離された俺もまた、この部屋に縛られ、化け物になっていたというわけだ。
 My soul, severed from my body, was trapped here, transformed into a monster.
 ………ふっ。皮肉な話だとは思わないか。
- ...Ironic, isn't it?
+...Ironic, isn't it?
 無限にも思えるほど長い時間。
- For what felt like an eternity,
+For what felt like an eternity,
 俺はここに一人だった。………いや、俺たちか。
- I was alone… Well, we were.
+I was alone… Well, we were.
 そして、探し続けていた。本来なら離れるはずのない、精神が、
- And all this time, I was searching for my lost soul…
+And all this time, I was searching for my lost soul…
 こんなに近くにあったと花。
- …And it was right here all along!
+…And it was right here all along!
 正直、お前が俺の精神体を消滅させるまで気づかなかったしな。
-I didn't even realize it until you destroyed my wraith.
+I didn't even realize it until you destroyed my ghost.
 ………だから、俺は今こそ、精神体と一つになり、本来の姿へと戻る。
- ...But now, my body and soul are reunited. I am whole once more.
+...But now, my body and soul are reunited. I am whole once more.
 そして、俺たちをこんな目に合わせた世界へと恨みを晴らさせてもらう。
- And I will have my revenge on this world.
+And I will have my revenge on this world.
 これは当然の結果だ。
- This is only natural.
+It's only natural.
 それだけのことをこの世界はやったのだからな。
- This world deserves it.
+This world deserves it.
 ………お前もそう思うだろう？
- ...Don't you agree?
+...Don't you agree?
 お前だってこの世界へと誘拐されてきた被害者なのだからな。」
- You were a victim too, dragged here against your will."
+You were a victim too, dragged here against your will."
 そうやって、彼は笑う。
- He laughs,
+He laughs,
 心底、この世界のことが嫌いのようだ。
 his hatred for this world palpable.
 ………被害者。
- ...A victim.
+...A victim.
 そう、思えてもしょうがないのかもしれない。
- He has a right to be angry.
+He has a right to be angry.
 彼はこの世界へと連れてこられただけで、訳も分からないうちにこの地へと縛られ、
 He was brought here against his will, imprisoned,
 化け物にされ、無理やり自分という存在を二つに分離させられたのだから。
- transformed into a monster, his very being split in two.
+transformed into a monster, his very being split in two.
 それでも、?me?は違う。それだけは分かる。
 But I'm different.  I know I am.
 確かに?me?にも元の世界での生活や、家族や、友達がいた。
- Yes, I had a life back in my world. A family, friends…
+Yes, I had a life back in my world. A family, friends…
 しかし、それ以上にこの世界の人々は救いを求めていた。
- But the people of this world need my help.  They need to be saved.
+But the people of this world need my help.  They need to be saved.
 そして、?me?にはそれをなすだけの力がある。
- And I have the power to do it.
+And I have the power to do it.
 そうは言っても、この力は所詮借り物なのかもしれない。
- Even though it's a borrowed power…
+Even though it's a borrowed power…
 この世界に来るまでの?me?は一般的な学生だったのだ。
- I was just an ordinary student before I came here.
+I was just an ordinary student before I came here.
 当然剣など振ったこともなければ、生き物を殺した経験もなかった。
 I had never held a sword, never killed anything.
 それでも?me?に誰かが救えるのだとしたら………。
- But if I can save someone...
+But if I can save someone...
 ?me?は救いたい。
- I will.
+I will.
 誰かが?me?のことを必要としてくれるのだとしたら、
- If there's someone who needs me…
+If there's someone who needs me…
 笑顔になれる人がそれで、一人でも増えるのだとしたら、
- If there's even one more person I can bring a smile to…
+If there's even one more person I can bring a smile to…
 なにより………。
- And most importantly...
+And most importantly...
 ?me?の仲間たちの世界のためとなるのなら、
- If it will protect my companions and their world…
+If it will protect my companions and their world…
 ?me?は戦う。
- I will fight.
+I will fight.
 この世界のために。
- For this world.
+For this world.
 たとえ同じような境遇の彼を敵としなければならなくても………。
- Even if it means fighting him.
+Even if it means fighting him.
 魂体「良い表情だ。だが、今の俺には不愉快極まりない。」
 Wraith: "That's a good look for you. But it disgusts me."
 そう吐き捨て、剣を構えるあの青年の魂体。
- The young man, now a vengeful wraith, draws his sword.
+The young man, now a vengeful wraith, draws his sword.
 魂体「………だがしかし、今現在のお前たちの力では、俺にはかなわん。」
 Wraith: "...But you're no match for me now."
 それはどういうことか。
- What does he mean?
+What does he mean?
 そう、彼に尋ねようとして、不意に体が強張るのを感じる。
- As I'm about to ask, my body freezes.
+As I'm about to ask, my body freezes.
 彼が、剣を振り上げ、こちらを睨みつけていた。
- He's raised his sword, his eyes locked on me.
+He's raised his sword, his eyes locked on me.
 未だ、彼と?me?との間には少なくない距離があるはずなのにもかかわらず、
- He's still some distance away,
+He's still some distance away,
 まるでそれを感じさせないほどの威圧感と、果てしないほどの殺気。
- but I feel his overwhelming power, his suffocating killing intent.
+but I feel his overwhelming power, his suffocating killing intent.
 そう思い、急いで脇へと飛び去ろうとするが、、間に合わない。
 I try to dodge,
 魂体「その身に刻むと良い。これが、俺とお前との力の差だ。」
- but it's too late.
+but it's too late.
 その言葉が終わりきらないうちに体へと大きな衝撃があり、
- Wraith: "Remember this. This is the difference between us."
+Wraith: "Remember this. This is the difference between us."
 足が浮き、吹き飛ばされる。
- Before he can finish, I'm struck with an immense force.
+Before he can finish, I'm struck with an immense force.
 まるで風に翻弄される木の葉のようだと思い、
- I'm lifted off my feet and sent flying.
+I'm lifted off my feet and sent flying.
 あの木の葉たちはこのような気分なのだろうかと、
- Like a leaf in the wind... I wonder if this is how they feel.
+Like a leaf in the wind... I wonder if this is how they feel.
 どこか場違いな思いが頭の中を駆け巡る。
- A strange, out-of-place thought flashes through my mind.
+A strange, out-of-place thought flashes through my mind.
 そして………。
- And then…
+And then…
 ………意識が浮上するような、不思議と安心する浮遊感のようなものを感じる。
- …Everything goes black.
+…Everything goes black.
 ………何故だ？
- …Why?
+…Why?
 何故、?me?は今、このような感覚を覚えているのだろう。
- Why am I feeling this way?
+Why am I feeling this way?
 その原因について考えてみる事にした。
- I need to figure out what's going on.
+I need to figure out what's going on.
 ………たしか、
- …I remember…
+…I remember…
 たしか?me?はあの青年の魂体と名乗る者と会い、戦い、………それから。
- …I met that young man, the wraith… We fought… And then…
+…I met that young man, the wraith… We fought… And then…
 それから？
- And then?
+And then?
 それから?me?はどうなったのだろう。
- What happened to me?
+What happened to me?
 ………負けたのだろうか。
- …Did I lose?
+…Did I lose?
 それとも
- Or…
+Or…
 それとも、死んでしまったのだろうか。
- …Am I dead?
+…Am I dead?
 まだ、浮遊感のようなものを感じる。
- I still feel like I'm floating.
+I still feel like I'm floating.
 このような感覚があるのだから、死んではいないのではないか？
- If I'm feeling something, I can't be dead, can I?
+If I'm feeling something, I can't be dead, can I?
 もしくは、この感覚こそが、死後の感覚なのだろうか。
- Or is this what it feels like to be dead?
+Or is this what it feels like to be dead?
 そう、答えの出ない自問自答を繰り返していると、
- As I'm lost in these unanswerable questions,
+As I'm lost in these unanswerable questions,
 不意に声が聞こえた。
- I hear a voice.
+I hear a voice.
 ？？？「お前は死んではいない。」
 ???: "You're not dead."
 かれだ。あの、魂体ではなく、精神体の彼だ。
@@ -8771,101 +8771,101 @@ It's him. Not the wraith, but the spirit.
 先ほど戦った相手とは明らかに声色が異なっているため容易に理解できた。
 His voice is different, gentler.
 彼は、消えたのではなかったのだろうか。
- But I thought he vanished…
+But I thought he vanished…
 精神体「俺は、お前のおかげであの部屋への呪縛を解くことができた。
 Spirit:  "Thanks to you, I was able to break free from this place.
 しかし、まだ俺の半身たる魂体が囚われているがために、
 But my other half, the wraith, is still trapped here.
 俺は………、ここにいる。」
- That's why… I'm still here."
+That's why… I'm still here."
 あの魂体も?me?によって解放されることを願っていたのか。
- He wanted to be freed, just like the spirit?
+He wanted to be freed, just like you?
 精神体「そうだ。
- Spirit:  "Yes.
+Spirit:  "Yes.
 だから、今お前はここにいる。
- That's why you're still alive.
+That's why you're still alive.
 もし、お前を殺すつもりならすでにそれは完了されているはずだ。」
 If he wanted to kill you, he would have."
 ………まさにその通りだ。
- …He's right.
+…He's right.
 ?me?はあの青年に手も足も出なかった。
- I was powerless against that young man.
+I was powerless against that young man.
 それなのに生きているとしたら、
- If I'm still alive,
+If I'm still alive,
 あの魂体自体が?me?を生かそうとしたということに他ならないのではないか。
- it's because he chose to spare me.
+it's because he chose to spare me.
 そう考えてみれば、辻褄が合う。
- It all makes sense now.
+It all makes sense now.
 彼もまた。
- He wanted the same thing as the spirit.
+He wanted the same thing as the spirit.
 精神体と同様に開放を願っていただけなのだろう。
- Freedom.
+Freedom.
 だとしたら………。
- So…
+So…
 ?me?は、彼を開放しなければならない。
- I have to set him free.
+I have to set him free.
 精神体と戦うと決めたときにそう、心に誓ったのだから。
- That was my promise when I chose to fight the spirit.
+That was my promise when I chose to fight the spirit.
 精神体「………ふっ。やはりお前は良い剣士になる。」
- Spirit:  "…Heh. You really will make a fine swordsman."
+Spirit:  "…Heh. You really will make a fine swordsman."
 その様な事を考えていると、
- His voice is cheerful,
+His voice is cheerful,
 どこか楽しげな彼の声が聞こえてきた。
 almost amused.
 それと同時に嬉しげな感情も伝わってくる。
- I can feel his joy.
+I can feel his joy.
 ………良い剣士…か…。
- …A fine swordsman…
+…A fine swordsman…
 本当に彼の言うような存在に?me?はなれるのだろうか。
- Can I really become that?
+Can I really become that?
 精神体「大丈夫だ。お前は一人ではないからな。」
- Spirit:  "Don't worry. You're not alone."
+Spirit:  "Don't worry. You're not alone."
 そう…だな。
- He's right.
+He's right.
 その通りだ。
 I'm not.
 こんな、未熟な?me?にも支えてくれる仲間がいる。
- I have my companions.  They're always there for me.
+I have my companions. They're always there for me.
 そうだ………。
- Yes…
+Yes…
 ?me?は一人ではない。
- I'm not alone.
+I'm not alone.
 いくつもの苦難を共にしてきた最高の仲間がいる。
- I have the best companions anyone could ask for.
+I have the best companions anyone could ask for.
 彼らとなら、何でもできる気がする。
- With them, I can do anything.
+With them, I can do anything.
 そんな予感というか
- It's not just a feeling…
+It's not just a feeling…
 疑いようのない自信が、心の底から湧き上がってくる。
- …It's a certainty.
+…It's a certainty.
 ………皆の所へ行かなければ………。
- I have to get back to them…
+I have to get back to them…
 そして、もう一度。
- And then…
+And then…
 今度こそ、彼に勝ってみせる！
- This time… I'll win!
+This time… I'll win!
 精神体「どうやら、心は決まったようだな。」
-Spirit: "It seems you've made up your mind."
+Spirit: "So you've made up your mind."
 もちろんだ。もう、迷ったりはしない。
 I have. I won't hesitate anymore.
 精神体「それなら、俺も共に行こう。」
 Spirit: "Then I'll come with you."
 いいのだろうか。
- Are you sure?
+Are you sure?
 これから?me?が戦おうとしている相手は、何を隠そう彼自身なのだ。
 I'm going to fight him, your other half.
 精神体「………構わないさ。彼は俺であり、俺でない。」
- Spirit: "...It's fine. He is me, and he is not."
+Spirit: "...It's fine. He is me, and he is not."
 それは…どういう………。
- What does that…
+What does that…
 精神体「簡単な話だ。彼は俺の中の負の感情を具現化したようなものだからな。
- Spirit:  "He's a manifestation of my negative emotions.
+Spirit:  "He's a manifestation of my negative emotions.
 本来なら、魂の奥底に潜めておくべきさまざまな感情。
- All the feelings I should have kept buried deep inside.
+All the feelings I should have kept buried deep inside.
 憎しみや、妬み、破壊衝動などが彼を構成している。」
- Hatred, jealousy, the urge to destroy... That's what he's made of."
+Hatred, jealousy, the urge to destroy... That's what he's made of."
 なるほど。そういうことか。
- I understand.
+I understand.
 元々は、表に出てくるはずでなかったさまざまな感情が、
 His negative emotions surfaced
 精神体と分離されることによって、表へと出てきたのだろう。
@@ -8875,123 +8875,123 @@ Spirit:  "That's part of it.  But there's another reason."
 恨み………か………。
 …Your resentment…
 精神体「そうだ。ここに縛られてからすぐのうちは、俺もこの世界を恨んだ。
- Spirit:  "Yes. When I was first trapped here, I hated this world.
+Spirit:  "Yes. When I was first trapped here, I hated this world.
 恐らく、いや、完全に魂体も恨んだのだろうな。
- And I'm sure my wraith felt that hatred too.
+And I'm sure my wraith felt that hatred too.
 その思いに引きずられるようにして、不の感情たちが表へと出てきたのだろう。
- Those negative emotions gave him form.
+Those negative emotions gave him form.
 ………我ながら哀れなことだ。」
- ...It's pathetic, isn't it?"
+...It's pathetic, isn't it?"
 そう言って彼は黙り込んだ。
- He falls silent.
+He falls silent.
 これ以上はもう、これといって言うべきことが無いのだろう。
 There's nothing more to say.
 精神体「それでは、勇者。仲間のもとへと帰るといい。
- Spirit: "Go back to your companions, hero.
+Spirit: "Go back to your companions, hero.
 それと、
 And...
 少しの間だが、世話になる。」
- ...I'll be with you for a while."
+...I'll be with you for a while."
 その言葉とともに、今までの浮遊感にも似た感覚は消え去り、
- The floating sensation disappears,
+The floating sensation disappears,
 一変して何かに沈み込むような、心地の良い気分になる。
 replaced by a warm, comforting feeling.
 同時に意識も………何かへと………
- My consciousness…
+My consciousness…
 ………沈み込んでゆく。
- …Fades.
+…Fades.
 ？？？「………え、………ねえ、………ねえったら」
 ???:  "...Hey... Hey... Wake up..."
 どこからか、?me?を呼ぶ声がする。
- A voice calls out to me.
+A voice calls out to me.
 その声は聞き覚えがある………。
- I know that voice...
+I know that voice...
 幾度となく助けられた声。
- A voice that has saved me countless times.
+A voice that has saved me countless times.
 そして、ともに戦ってくれた声。
- A voice that has fought alongside me.
+A voice that has fought alongside me.
 ?me?の………。
- My...
+My...
 ?me?の………仲間の声だ。
- My companions' voices.
+My companions' voices.
 それが分かった瞬間。
- As I realize this,
+As I realize this,
 急激に意識がはっきりとしていく…。
- My consciousness returns.
+My consciousness returns.
 エレナ「よかった。やっと、目が覚めたんだね。」
- Elena:  "Thank goodness! You're finally awake."
+Elena: "Thank goodness! You're finally awake."
 リリア「ち………ちょっと、早く目、覚ましなさいよね。」
- Lilia:  "H-hey... Wake up already."
+Lilia:  "H-hey... Wake up already."
 （心配…したんだから…）
 (We were... worried...)
 目を開けると、そこは魂体と戦った部屋だった。
- I open my eyes.  I'm in the same room where I fought the wraith.
+I open my eyes.  I'm in the same room where I fought the wraith.
 あのときにはなかった道の続きが見える………。
- But now, there's a path leading out of the room...
+But now, there's a path leading out of the room...
 こい………というわけだろうか。
- This is it…
+This is it…
 エレナ「わたしたち、ずっと君のことを心配してたんだよ。特にリリアちゃん。」
- Elena: "We were so worried about you.  Especially Lilia."
+Elena: "We were so worried about you. Especially Lilia."
 リリア「………ま、…まあ…ね。仲間…だし…。」
- Lilia:  "...W-well... yeah... You're our companion..."
+Lilia:  "...W-well... yeah... You're our companion..."
 そうだったのか。それはすまなかった。
- I'm sorry for worrying you.
+I'm sorry for worrying you.
 ?me?では意識を失っているつもりはあまりなかったのだが………。
- I didn't even realize I was unconscious...
+I didn't even realize I was unconscious...
 それはそうと、彼はどこだろう。
- Where is he?
+Where is he?
 リリア「彼って？」
- Lilia:  "He?"
+Lilia:  "He?"
 エレナ「誰のこと？」
- Elena:  "Who are you talking about?"
+Elena:  "Who are you talking about?"
 彼とは、あの魂体の半身。精神体のことだ。
- The spirit, the other half of the wraith.
+The spirit, the other half of the wraith.
 エレナ「でも、その人はわたしたちが………」
- Elena: "But we..."
+Elena: "But we..."
 精神体「倒したはず………と言いたいのだろうがな。」
-Spirit: "…Defeated him? Is that what you were going to say?"
+Spirit: "…Killed him? Is that what you were going to say?"
 その声とともに目の前に彼が出現した。
- The spirit appears before us.
+The spirit appears before us.
 まるで、虚空から、しみだすような登場の仕方だ。
 All of a sudden,
 そんな出方をすれば、
- as if he materialized from thin air.
+as if he materialized from thin air.
 エレナ「うわあ！！でででで、出たよ！！お化け！！」
- Elena:  "Ahhhh!  A-a ghost!"
+Elena:  "Ahhhh! A-a ghost!"
 リリア「みみみみ、見てない、見えない、見たくない！！」
- Lilia:  "I-I'm not looking! I can't see! I don't want to see!"
+Lilia: "I-I'm not looking! I can't see! I don't want to see!"
 こうなるにちがいない………。
- Of course that's their reaction.
+Of course that's their reaction.
 精神体「悪いな。一度やってみたかったんだ。」
- Spirit: "Sorry, I've always wanted to try that."
+Spirit: "Sorry, I've always wanted to try that."
 ………。しかも、彼の悪ふざけだったとは。
- ...And it was all just a prank.
+...And it was all just a prank.
 彼女たちを落ち着かせ、説明をするには少なくない時間がかかりそうだ。
- This is going to take a while to explain.
+This is going to take a while to explain.
 あの後、どうにか彼女たちを落ち着かせ、説明をすることができたが、正直疲れた。
 It took some time to calm them down and explain everything. I'm exhausted.
 この後は魂体との戦闘が控えているというのに、大丈夫だろうか。
- We still have to fight the wraith. Will I be okay?
+We still have to fight the wraith. Will I be okay?
 エレナ「それでねそれでね………」
- Elena: "So then, he said..."
+Elena: "So then, he said..."
 精神体「なるほど。それは………」
- Spirit:  "I see. That's..."
+Spirit:  "I see. That's..."
 リリア「な、何であんたが話についてこれるのよっ！」
 Lilia:  "Why do you even understand what we're talking about?!"
 それに、あの３人があそこまで打ち解けられるとは、思ってもみなかった。
- I didn't think they would get along so well.
+I didn't think they would get along so well.
 精神体「それでは行くか。」
- Spirit: "Let's go."
+Spirit: "Let's go."
 あれからもう暫くたってから、要約出発となった。
 We set off after a short break.
 今度こそ、勝たなければ。
- This time, I have to win.
+This time, I have to win.
 彼を。彼らを。
- I have to free him.
+I have to free him.
 開放するのだ。
- Free them both.
+Free them both.
 この、牢獄のような場所から。
- From this prison.
+From this prison.
 フェンサー（精神体）がパートナーになった！
 The Fencer (Spirit) has joined your party!
 〈走光波〉は、剣から放たれる煌く光線。
@@ -9001,11 +9001,11 @@ It's incredibly effective against the monsters in the Dirge of Sorrow.
 共に行こう。
 Let's go.
 決着の刻は近い！！
-The time for reckoning is near!
+The time of reckoning is near!
 魂体「来たな………。」
 Wraith:  "You've returned..."
 もう一度、この《悲愴の慟哭》の最奥まで辿り着き彼と対峙する。
- We reach the deepest part of the Dirge of Sorrow and face the wraith once more.
+We reach the deepest part of the Dirge of Sorrow and face the wraith once more.
 やはり、どこか気に障る笑いを顔に浮かべている。
 That same unsettling smirk is etched on his face.
 魂体「………それに、今度はもう一人増えている………か。」
@@ -9013,17 +9013,17 @@ Wraith: "...And you've brought another."
 ?me?たちの背後に立っている精神体を眺め、目を細めながらそう言った。
 He narrows his eyes at the spirit standing behind us.
 どことなく、いらだっているように感じる。
- He seems irritated.
+He seems irritated.
 魂体「お前は俺の半身のはずだ。何故そいつらに加勢する？」
 Wraith: "You're supposed to be my other half. Why are you siding with them?"
 精神体「確かに俺とお前は二人で一人だ。だが、長い年月の間にお前は変質していった。」
- Spirit:  "We may be two halves of the same whole, but you've changed.  You're not the same anymore."
+Spirit:  "We may be two halves of the same whole, but you've changed. You're not the same anymore."
 魂体「変質しただと？この俺が、どうなったというのだ？」
 Wraith: "Changed? What do you mean?"
 精神体「フェンサーとは、誰かを守るために剣を振るうもののこと。
 Spirit: "A fencer wields his sword to protect.
 今のお前は守るどころか奪うためにその力を使おうとしている。
- You're using your power to take, to destroy.
+You're using your power to take, to destroy.
 そんなお前が俺と同じなど、おこがましいにもほどがある。」
 You're not worthy of calling yourself my equal."
 そう吐き捨て、剣を抜き放つ精神体。
@@ -9031,49 +9031,49 @@ The spirit draws his sword,
 その表情からはふつふつと湧き出る怒りを感じる。
 his anger palpable.
 魂体「なるほど。だからそいつらとともに俺を打つのか。」
-Wraith:  "I see.  So you're going to defeat me with them."
+Wraith: "I see. So you're going to fight me with them."
 精神体「そうだ。」
- Spirit:  "Yes."
+Spirit:  "Yes."
 魂体もまた、剣を抜き構える。
- The wraith draws his sword.
+The wraith draws his sword.
 魂体「お前は忘れたか？あの日のことを。
- Wraith:  "Have you forgotten that day?
+Wraith:  "Have you forgotten that day?
 お前は納得できるのか？あいつの最後を。」
- Can you truly accept her fate?"
+Can you truly accept her fate?"
 精神体「忘れるわけが………忘れられるわけがない。
-Spirit:  "Forget? …How could I ever forget that day?
+Spirit: "Forget? …How could I ever forget that day?
 あの日、俺はあいつを守ってやれなかった。………だが、
 I couldn't protect her... but…
 彼女は臨んだはずだ。世界を救ってくれと。
- …She entrusted us with this.  She begged us to save the world.
+…She entrusted us with this. She begged us to save the world.
 逆に聞く。お前はそれを忘れたのか？」
 Tell me, have you forgotten?"
 魂体「だからと言って納得できるものか！！」
- Wraith: "That doesn't mean I have to accept it!"
+Wraith: "That doesn't mean I have to accept it!"
 精神体「納得はしなくても、理解はするべきだ。
 Spirit:  "You don't have to accept it, but you have to understand.
 今の俺たちが身を置いている現状を。」
 Understand our current situation."
 魂体「そして、お前はおまえ自身の消滅を………願うのか？」
- Wraith: "So you're saying... you want to disappear?"
+Wraith: "So you're saying... you want to disappear?"
 魂体「そして、お前は自分自身の消滅を………願うのか？」
- Wraith: "So you're saying... you want to disappear?"
+Wraith: "So you're saying... you want to disappear?"
 精神体「そうだ。これ以上俺のような存在がこの地にいるわけにもいかないし、
 Spirit:  "Yes.  There's no place for me in this world anymore.
 要約呪縛も解けた。ならば、俺はもう一度輪廻の輪へと帰りたい。」
- The curse is broken. It's time for me to return to the cycle of reincarnation."
+The curse is broken. It's time for me to return to the cycle of reincarnation."
 魂体「俺は、無限ともいえる時の中で希望を失い、絶望に染まっていった。
- Wraith: "I lost all hope, trapped in this endless darkness.
+Wraith: "I lost all hope, trapped in this endless darkness.
 そしてこの世界への恨みは増すばかり、もう抑えられる気はしない。
- My hatred for this world grew, festering within me.  I can't control it anymore.
+My hatred for this world grew, festering within me.  I can't control it anymore.
 この俺の命や何より最愛の人の、守ると誓ったあいつの命を奪った
- This world... the world that took my life... and hers... the one I swore to protect…
+This world... the world that took my life... and hers... the one I swore to protect…
 この俺の命や、何より最愛の人の、守ると誓ったあいつの命を奪った
 This world... the world that took my life... and hers... the one I swore to protect…
 この世界を俺は許せるはずがない。………はずが………ない。」
 I can never forgive it! Never!"
 そういって俯く魂体。
- The wraith hangs his head.
+The wraith hangs his head.
 それを見て精神体が声を上げる。
 The spirit raises his voice.
 精神体「わからないのなら、剣で教えてやる。
@@ -9083,123 +9083,123 @@ Your hesitant swordsmanship is no match for true resolve!"
 「負けた………のか………俺が。」
 Wraith:  "I... I lost..."
 そう言って地面へと倒れ伏す魂体。
- The wraith collapses to the ground, defeated.
+The wraith collapses to the ground, defeated.
 彼は負けたはずだというのにどことなく安堵しているように感じられた。
- He seems... relieved.
+He seems... relieved.
 もうそろそろ。
- It's time.
+It's time.
 《あの日》や《あいつ》について教えてもらっても良いだろうか？
- Tell me about "that day" and "her".
+Tell me about "that day" and "her".
 「そうだな。………本来ならもっと早くに説明をすべきだったな。」
 "Yes… I should have explained sooner."
 申し訳なさそうに言いながら説明を始めようとした精神体を魂体が引き止める。
- The spirit begins to speak, but the wraith stops him.
+The spirit begins to speak, but the wraith stops him.
 「俺が………いや、俺に説明させてくれないか。
- "Let me... let me tell you.
+"Let me... let me tell you.
 そうすれば、迷いが………。
- Maybe then...
+Maybe then...
 迷いに、踏ん切りがつくような気がするんだ。」
- …Maybe then I can finally let go."
+…Maybe then I can finally let go."
 「そうか………。」
 Alright...
 それなら、説明してくれないか？
- Tell me.
+Tell me.
 お前がどんな思いでここにいたのかを。
- Tell me what it was like to be trapped here.
+Tell me what it was like to be trapped here.
 お前たちがどのような人生を歩んできたのかを。
- Tell me about your life.
+Tell me about your life.
 「………分かった………。」
- "...Very well..."
+"...Very well..."
 あの日
- That Day
+That Day
 あの日もまた、いつも通りの平和な一日だった。…そのはずだった。
- It was supposed to be another peaceful day, just like any other.
+It was supposed to be another peaceful day, just like any other.
 そのはずだったのに。一瞬にして村は地獄と化した。
- But then… everything changed.  Our village was transformed into a living hell.
+But then… everything changed. Our village was transformed into a living hell.
 ………モンスターだ。この世界にもいるあの人類の敵。
- …Monsters.  Enemies of humanity, even in our world.
+…Monsters.  Enemies of humanity, even in our world.
 あいつらに俺の村は襲われ食い荒らされた。何もかも全て。
- They attacked my village, destroying everything.
+They attacked my village, destroying everything.
 当然俺は戦った。
 I fought back, of course.
 フェンサーである俺の剣は誰かを守るためにあるのだからな。
- I am a Fencer.  My sword exists to protect others.
+I am a Fencer. My sword exists to protect others.
 それでも奴らにはかなわなかった。
- But I was no match for them.
+But I was no match for them.
 俺の力など所詮はその程度だったのだ。
- I was weak.
+I was weak.
 一人、また一人と村の仲間は死んでいった。
- One by one, my friends fell.
+One by one, my friends fell.
 苦しみながら。
- Screaming in pain.
+Screaming in pain.
 悲しみながら。
- Crying out in sorrow.
+Crying out in sorrow.
 助けを求めながら。
- Begging for help.
+Begging for help.
 俺は戦い続けた。
 I kept fighting.
 たとえ村がなくなったとしても生きていれば何度でも作り直せる。
- Even if our village was destroyed, we could rebuild it.  As long as we were alive.
+Even if our village was destroyed, we could rebuild it.  As long as we were alive.
 だから俺の剣が、手が届く範囲の命は救うと心に決めて俺は戦った。
 I vowed to protect everyone within reach of my blade.
 そうしていると、不意に悲鳴が聞こえた。
- Then I heard a scream.
+Then I heard a scream.
 俺が急いで駆け付けると、そこには化け物に追い詰められているあいつがいた。
- I rushed over and saw her, cornered by those monsters.
+I rushed over and saw her, cornered by those monsters.
 俺は叫んだ、そいつの名前を。
- I called out her name.
+I called out her name.
 そしたらそいつはこっちを向いてとてもほっとした顔をしたんだ。
- She turned, and her face lit up with relief.
+She turned, and her face lit up with relief.
 俺はそんな顔を向けてくれるあいつを守りたくてすぐさまそちらへと駆けようとした。
- I wanted to protect that smile. I charged towards her.
+I wanted to protect that smile. I charged towards her.
 だが、それはできなかった。
 But I couldn't move.
 ………身動きがとれなかったんだ。
- I was paralyzed.
+I was paralyzed.
 俺は焦った。
- Panic surged through me.
+Panic surged through me.
 すぐにあいつを助けに行かないとあいつは死んでしまう。
- I had to reach her, or she would die.
+I had to reach her, or she would die.
 そんなのは、嫌だ。
- No!
+No!
 俺は何のために剣を持ったというのか。
- Why did I pick up a sword?
+Why did I pick up a sword?
 大事な人を。愛する人を守るためだ。
 To protect the people I cared about. To protect the one I loved.
 それなのに俺は動けなかった。
- And yet, I was helpless.
+And yet, I was helpless.
 気づけば足元には光り輝く魔法陣。
 A glowing magic circle appeared beneath my feet.
 俺は舌打ちした。
 I cursed.
 こんなもののせいで大事なあいつを失ってたまる者かと
- I wouldn't lose her to this.
+I wouldn't lose her to this.
 俺は暴れた。
- I struggled,
+I struggled,
 こんな下らない魔法陣のせいでこれ以上仲間を失うのは嫌だった。
- desperate to break free.
+desperate to break free.
 しかしあいつは違った。
- But she was different.
+But she was different.
 俺の足元の魔法陣を見て笑ったんだ。
- She smiled when she saw the magic circle.
+She smiled when she saw the magic circle.
 そしてこういった。
 And she said,
 「やっぱり君は勇者様だね。」
 "You really are a hero."
 とな。
- Then…
+Then…
 彼女は続けて言った。
- She continued,
+She continued,
 「君は私だけの勇者様だと思ってたけれどそれは違うんだね。」
 "I thought you were my hero, but I was wrong."
 そんなことはない。俺はそう叫んだ。
- "No!"  I shouted.
+"No!" I shouted.
 ？？？「そんなことあるよ。君は君を呼んだ世界を救うんだ。
-"It's true.  You're meant to save the world that summoned you.
+"It's true. You're meant to save the world that summoned you.
 きっとたくさんの人が君のおかげで助かるね。
- So many people will be saved because of you.
+So many people will be saved because of you.
 それってすごく素敵なことだと思うんだ。」
- That's a wonderful thing."
+That's a wonderful thing."
 そんなことどうでもいい。
 "I don't care about any of that!" I said.
 俺はそんな世界よりもお前の命を救いたい。
@@ -9207,87 +9207,87 @@ And she said,
 俺はお前の勇者だ。
 I'm your hero.
 そう、幼いころに約束したじゃないか。
- We made a promise, remember?  When we were kids.
+We made a promise, remember? When we were kids.
 俺は、こんな訳の分からない世界の勇者なんかじゃない。
 I'm not some random world's hero!"
 ？？？「それでも私は君にならたくさんの命を救えると思う。
 "But I believe you can save so many lives.
 だから、君は救ってあげて。
- So please, go and save them.
+So please, go and save them.
 助けを求めてる人のために戦うのがフェンサーなんだから。
-That's what a Fencer does.  He fights for those who need help.
+That's what a Fencer does. He fights for those who need help.
 君ならきっと………。」
- I know you can do it…"
+I know you can do it…"
 そんな彼女の言葉を遮り俺は力いっぱいに叫んだ。
- I cut her off, shouting with all my might.
+I cut her off, shouting with all my might.
 それなら早く助けを求めろと。
 "Call for help!
 俺が、この足を切ってでも、這いつくばってでもお前を救ってみせる。
 I'll crawl to you, I'll cut off my own leg if I have to! I'll save you!"
 それが俺が剣を持つ理由なのだから。
- That's why I carry a sword.
+That's why I carry a sword.
 そのとき一段と魔法陣の光が強まる。
- The magic circle's glow intensified.
+The magic circle's glow intensified.
 何故だ。
- Why?
+Why?
 何故俺がこんな目に合わなければならないのか。
- Why me?!
+Why me?!
 俺には、守るべき相手がいるというのに。
- I have someone I need to protect!
+I have someone I need to protect!
 俺は、あいつと共にありたいとこんなにも思っているのに。
- I want to be with her!
+I want to be with her!
 そして一段と強まる魔法陣の光。
- The magic circle's light blinds me.
+The magic circle's light blinds me.
 俺が最後に見た光景は、化け物に喉元を切り裂かれ、
- The last thing I see is her face. Her throat torn open by the monsters,
+The last thing I see is her face. Her throat torn open by the monsters,
 力なく倒れながらも、こちらに向かってやさしく微笑むあいつの顔だった………。
 collapsing, but still smiling at me…
 「だから、俺はこの世界を許さない。
 That's why... I can never forgive this world.
 ずっと、その一心だった。
- That was all that kept me going.
+That was all that kept me going.
 あるいは、そう思っていなければ自我を保てる気がしなかったのを
- If I hadn't held onto that hatred…
+If I hadn't held onto that hatred…
 無意識に分かっていたのかもしれないな。」
-I don't think I would have survived."
+I don't think I would have survived.
 そう、自嘲気味に笑う魂体を見ていると、とてもやりきれない気分になる。
- The wraith laughs, a bitter sound.
+The wraith laughs, a bitter sound.
 彼は、ただ愛する人を守りたかっただけなのだろう。
- He just wanted to protect the one he loved.
+He just wanted to protect the one he loved.
 それなのに、守れなかった。
- And he couldn't.
+And he couldn't.
 ………守らせてもらえなかったといってもいいくらいに。
- …He wasn't allowed to.
+…He wasn't allowed to.
 彼は言葉を続ける。
- He continues,
+He continues,
 「しかし、今もう一度思い返してみれば
- "But now that I think about it…
+"But now that I think about it…
 俺はあいつの願いを踏みにじろうとしていたのだろうな。
- …I was betraying her wish.
+…I was betraying her wish.
 あいつは俺にたくさんの人を救うように言った。
- She wanted me to save people.
+She wanted me to save people.
 それなのに、俺はこの世界自体を否定した。
- But I rejected this world entirely.
+But I rejected this world entirely.
 こんなんじゃ、だめだな。
 That's not right.
 俺はフェンサー。人々を守る刃。
- I'm a Fencer. A protector.
+I'm a Fencer. A protector.
 そんなことに今の今まで気づけなかったなんて
- I can't believe it took me this long to realize that.
+I can't believe it took me this long to realize that.
 俺もまだまだ修行が足りないということか。」
- I still have so much to learn."
+I still have so much to learn."
 弱弱しく、絞り出すようにして言葉を紡ぎ、彼はふうと一つ息を付く
- He speaks softly, each word filled with regret.
+He speaks softly, each word filled with regret.
 そして、こちらに向かって、
 He sighs, and then says,
 「精神体ともども、大変世話になったな。勇者。
- "Thank you for everything, hero.  You and the spirit."
+"Thank you for everything, hero. You and the spirit."
 と言い、精神体の時同様に存在を希薄なものへと変化させて行く。
- Like the spirit, his form begins to fade.
+Like the spirit, his form begins to fade.
 そこへ………
- Then…
+Then…
 精神体が近づいていき魂体に触れる。
- …The spirit approaches and touches the wraith.
+…The spirit approaches and touches the wraith.
 すると、精神体は掻き消え、魂体に吸い込まれていった。
 The spirit vanishes, absorbed by the wraith.
 精神体を吸収した魂体は軽く微笑みながら、天へと昇っていく………。
@@ -9295,7 +9295,7 @@ The wraith, now whole, smiles gently and ascends toward the heavens…
 そこには、数刻前までの気味の悪い笑いなどはなく、
 The cruel smirk is gone.
 精神体が自分に向けたような、暖かで、どこまでも相手を慈しむ表情をしていた。
- In its place is the same warm, compassionate expression I saw on the spirit.
+In its place is the same warm, compassionate expression I saw on the spirit.
 フェンサー（精神体）がパートナーから外れた…
 The Fencer (Spirit) has left your party.
 次の瞬間、彼の隣に一人の少女が寄り添うように現れた。
@@ -9303,147 +9303,147 @@ In the next moment, a young woman appears beside him, her hand gently resting on
 エレナ「………あれって………。」
 Elena: "Is that...?"
 例の少女なのだろう。
- It must be her.
+It must be her.
 彼が守りたいと願いながら、守ることのかなわなかった。
- The one he wanted to protect, the one he couldn't save.
+The one he wanted to protect, the one he couldn't save.
 「セアラ………。」
- "Ceara..."
+"Ceara..."
 セアラ。それが彼女の名前なのだろう。
- Ceara. That's her name.
+Ceara. That's her name.
 彼女は未だに言葉を発しない。
 She doesn't speak.
 ただ柔らかく、微笑んでいるばかりだ。
- She just smiles, a soft, gentle smile.
+She just smiles, a soft, gentle smile.
 そんな彼女に向かい合い、彼は声を発する。
- He turns to her and says,
+He turns to her and says,
 フェンサー「セアラ。俺はお前を守ってやれなかった。
- Fencer: "Ceara, I couldn't protect you.
+Fencer: "Ceara, I couldn't protect you.
 ………許してくれなどとは言わない。
- ...I'm not asking for forgiveness.
+...I'm not asking for forgiveness.
 だが、もしまだ俺に機会を与えてくれるのであれば、
 But if you'll give me another chance,
 頼む。
- Please…
+Please…
 もう一度、お前を守らせてくれ。」
 Let me protect you again."
 そう言い、彼女をまっすぐと見つめる彼。
- He looks at her, his eyes full of love and longing.
+He looks at her, his eyes full of love and longing.
 と、不意にセアラが口を開く。
- Then, Ceara speaks.
+Then, Ceara speaks.
 セアラ「アクセル。やっぱり君は勇者様だったんだね。
- Ceara: "Axel, you really are a hero.
+Ceara: "Axel, you really are a hero.
 私のことを今もまだ守ろうとしてくれるんだから。」
- You're still trying to protect me, even now."
+You're still trying to protect me, even now."
 アクセル「当たり前だ。俺が俺である限り。
- Axel: "Of course I am. As long as I live,
+Axel: "Of course I am. As long as I live,
 俺は、セアラを守る………何があってもだ。」
- I'll protect you, Ceara. No matter what."
+I'll protect you, Ceara. No matter what."
 セアラ「うん。ありがとう。」
 Ceara: "Thank you."
 そう言って互いを見つめあう二人。
- They gaze at each other, their eyes locked.
+They gaze at each other, their eyes locked.
 そして………
- And then…
+And then…
 二人の距離は縮んでいき………
- …They move closer…
+…They move closer…
 唇どうしが………
- …Their lips…
+…Their lips…
 ゆっくり、ゆっくりと触れ合っていった。
- …Meet in a soft, tender kiss.
+…Meet in a soft, tender kiss.
 エレナ「うわわわわっ！」
- Elena:  "Whoa!"
+Elena:  "Whoa!"
 リリア（………ゴクリッ）
- Lilia:  (Gulp.)
+Lilia:  (Gulp.)
 無垢な二人には、少し刺激が強かったようだ…。
 That was a bit much for our innocent companions.
 アクセル「愛している………セアラ。」
- Axel: "I love you, Ceara."
+Axel: "I love you, Ceara."
 セアラ「私も好きだよ………アクセル。」
- Ceara:  "I love you too, Axel."
+Ceara:  "I love you too, Axel."
 そう、互いに言葉を掛けあいながら、
 Having said that,
 二人は固く抱き合う。
 they embrace, holding each other close,
 もう何があっても、互いを離すまいとするように。
- as if they'll never let go.
+as if they'll never let go.
 そんな二人を祝福するかのように虚空から光が漏れ出し、彼らを包んでいく。
- Light pours down from the heavens, enveloping them in a warm glow.
+Light pours down from the heavens, enveloping them in a warm glow.
 アクセル「次の人生でも………」
- Axel:  "In our next life…"
+Axel:  "In our next life…"
 セアラ「一緒になろうね………」
- Ceara:  "…Let's be together again…"
+Ceara:  "…Let's be together again…"
 一段と光が強まり完全に彼らが見えなくなる。
- The light intensifies, blinding us.
+The light intensifies, blinding us.
 これで、彼はやっと、楽になれたのだろうか。
- Is he finally at peace?
+Is he finally at peace?
 光は輝き続ける。
- The light continues to shine,
+The light continues to shine,
 彼らの行く末すらも照らすように………。
- illuminating their path.
+illuminating their path.
 エレナ「これで、終わったのかな？」
- Elena:  "Is it over?"
+Elena:  "Is it over?"
 リリア「………キス………してた………」
- Lilia:  "...They were... kissing..."
+Lilia:  "...They were... kissing..."
 終わったのだろう。
- It's over.
+It's over.
 これでこの洞窟から《剣士の亡霊》は消え
 The Swordsman Wraith is gone from this cave,
 悲愴感に満ちた慟哭も聞こえなくなることだろう。
- and the sorrowful cries are silent.
+and the sorrowful cries are silent.
 光はますます輝きを強め、そして広がり、弾けた。
 The light expands, explodes,
 弾けた光は鱗粉のようにはらはらと空中を舞いながら、
- scattering shimmering particles like scales,
+scattering shimmering particles like scales,
 部屋中を神秘的な空間へと変化させていく。
 transforming the room into a place of serenity and peace.
 もう、二人の姿はない。
- They're gone.
+They're gone.
 無事、天へと昇れたのだろう。
- They made it.
+They made it.
 ？？？「アクセル。君は本当に勇者様だったんだね。
 ???: "Axel... you really were a hero."
 そこへ突然声が響く。
- A voice echoes through the chamber.
+A voice echoes through the chamber.
 だって、私のこと。
- "You tried to protect me...
+"You tried to protect me...
 私の住む世界、カレシアのことを。
- …To protect my world, Kareshia...
+…To protect my world, Kareshia...
 守ろうとしてくれたんだから………。
- Thank you.
+Thank you.
 ありがとう。本当にありがとう………アクセル。
 Thank you so much, Axel.
 そしてごめんね。………もう
- And I'm sorry.  ...I'm…
+And I'm sorry.  ...I'm…
 もう、私はセアラじゃないんだ………。………ごめんね。」
- …I'm not Ceara anymore… I'm sorry."
+…I'm not Ceara anymore… I'm sorry."
 どこまでも悲しげで、はかなげな声。
- A voice filled with sorrow,
+A voice filled with sorrow,
 触れてしまえばたちまち壊れてしまいそうな気さえしてくる。
 so faint it seems as if it could shatter at any moment.
 そんな声を?me?はどこかで聞いたことがある気がする。
- I've heard this voice before... somewhere.
+I've heard this voice before... somewhere.
 ………どこだったか。
- …Where?
+…Where?
 リリア「ね…、ねえ。」
- Lilia: "Hey... Hey..."
+Lilia: "Hey... Hey..."
 エレナ「この…声って………。」
- Elena:  "That voice..."
+Elena:  "That voice..."
 エレナ「アリアさん………だよね。」
- Elena:  "It's... Aria, isn't it?"
+Elena:  "It's... Aria, isn't it?"
 この声は、?me?が召喚されたときにも聞いた声だ。
- That's the voice I heard when I was summoned to this world.
+That's the voice I heard when I was summoned to this world.
 と、いうことは………。
- Which means…
+Which means…
 Ｔｏ　ｂｅ　ｃｏｎｔｉｎｕｅｄ．．．
 TO BE CONTINUED
 エクストラダンジョン〈悲愴の慟哭〉を制覇した………
- You've conquered the extra dungeon, "The Dirge of Sorrow."
+You've conquered the extra dungeon, The Dirge of Sorrow.
 〈ＴＲＵＥ　ＥＮＤ〉に到達できるようになった………
- You've unlocked the True Ending!
+You've unlocked the True Ending!
 悲愴の慟哭第26フロアのセーブ陣だ。
- This is the save point on the 26th floor of the Dirge of Sorrow.
+The save point on the 26th floor of the Dirge of Sorrow.
 悲愴の慟哭第30フロアのセーブ陣だ。
- This is the save point on the 30th floor of the Dirge of Sorrow.
+The save point on the 30th floor of the Dirge of Sorrow.
 今、この神殿の全ての制御権は、私に戻りました…。
 "Control of Shaintarium has been fully restored.
 今なら…、あなた方をルドルフのもとへと誘うことができます………。
