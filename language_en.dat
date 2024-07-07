@@ -691,25 +691,25 @@ To level up the sword, you need 100000 XP.
 今は、ＬＶアップの条件を満たしていないようだ………
 You don't satisfy the conditions needed to level up right now.
 ラストホープ〈エターナル〉は、すべての力を取り戻している。
-The Eternal Last Hope has regained all of its power.
+Last Hope Eternal has regained all of its power.
 もうこれ以上、強化することはできない………。
 It's impossible to strengthen the sword any further.
 ラストホープ〈エターナル〉は、LV16に成長した！！
-The Eternal Last Hope has increased to level 16!
+Last Hope Eternal has increased to level 16!
 剣のＬＶを上げるには、150000の経験値が必要だ。
 To level up the sword, you need 150000 XP.
 ラストホープ〈エターナル〉は、LV17に成長した！！
-The Eternal Last Hope has increased to level 17!
+Last Hope Eternal has increased to level 17!
 剣のＬＶを上げるには、225000の経験値が必要だ。
 To level up the sword, you need 225000 XP.
 ラストホープ〈エターナル〉は、LV18に成長した！！
-The Eternal Last Hope has increased to level 18!
+Last Hope Eternal has increased to level 18!
 剣のＬＶを上げるには、300000の経験値が必要だ。
 To level up the sword, you need 300000 XP.
 剣のＬＶを上げるには、330000の経験値が必要だ。
 To level up the sword, you need 330000 XP.
 ラストホープ〈エターナル〉は、LV19に成長した！！
-The Eternal Last Hope has increased to level 19!
+Last Hope Eternal has increased to level 19!
 剣のＬＶを上げるには、400000の経験値が必要だ。
 To level up the sword, you need 400000 XP.
 剣のＬＶを上げるには、500000の経験値が必要だ。
@@ -717,13 +717,13 @@ To level up the sword, you need 500000 XP.
 剣のＬＶを上げるには、550000の経験値が必要だ。
 To level up the sword, you need 550000 XP.
 ラストホープ〈エターナル〉は、すべての力を取り戻し、
-The Eternal Last Hope has regained all of its power,
+Last Hope Eternal has regained all of its power,
 世界最強の剣に覚醒した！！
 and is now the strongest sword in the world!
 すばらしいです！！
 Excellent!
 ラストホープ〈エターナル〉は、すべての力を取り戻しました！
-The Eternal Last Hope has regained all of its power!
+Last Hope Eternal has regained all of its power!
 この最強の剣があれば、どんな魔物も恐れるに足りません！
 With the strongest sword in the world, you don't have to be afraid of monsters ever again!
 しかし、まだまだ先があるようだ………
@@ -733,7 +733,7 @@ Keep gaining more experience and strengthening the sword!
 剣のＬＶを上げるには、999999の経験値が必要だ。
 To level up the sword, you need 999999 XP.
 ラストホープ〈エターナル〉は、ＬＶ%96%に成長した！！
-The Eternal Last Hope has increased to level %96%!
+Last Hope Eternal has increased to level %96%!
 剣のＬＶを上げるには、%100%の経験値が必要だ。
 To level up the sword, you need %100% XP.
 ラストホープの台座だ。
@@ -3233,7 +3233,7 @@ Lilia: "Alright!  Let's do this!"
 ゴポンガ「里のことは俺様に任せておけ。
 Goponga:  "Leave the village to me.
 この世界のことは、オマエらだけが頼りだ。必ずやつを打倒し、ここへ戻って来い…。
-You're the only ones who can stop this. Get him, and come back safe and sound...
+You're the only ones who can stop this. Defeat him, and come back safe and sound...
 それと…な。
 And...
 長い旅になるんだ。里を出るときには、皆に挨拶くらいはしていけよ。」
@@ -6807,9 +6807,9 @@ J-jufufu!
 き、今日も大人気、回復の呪符を販売中っす。
 I-it's me again, back with more Charms of Recovery!
 あっ、お客さん！ジュフフっすー！
-Jufufu!
+"Jufufu!
 また来てくれると思ってたっすよ。
-"Hello there, customer! Jufufu! I was hoping you'd come back.
+Hello there, customer! Jufufu! I was hoping you'd come back.
 売れ行き好調！残り少ないプレミア呪符！！
 Business is booming!  These premium charms are selling like hotcakes!
 お客さん！ジュフフっすー！
@@ -6981,7 +6981,7 @@ Well, maybe the developer will do better next time.  Jufufu.
 そんなことないっすよ、ジュフフ。…はぁ。
 Not at all! Jufufu! ...Sigh.
 ワタシ…すか？
-Me?
+"Me?
 やっぱり、元気ないようにみえるっすかね？
 Do I really seem that down?
 う～ん。やっぱりお客さんの目はごまかせないっすね。
@@ -7881,7 +7881,7 @@ This door has a keyhole surrounded by a radiant sigil. It is locked tight.
 持っていた光の鍵を使い、扉を開いた！！
 You used the Light Key to unlock the door!
 光と闇、二つの印放たれし時、深淵へと導かれるであろう
-"When the seals of light and darkness are broken, the path to the abyss shall be revealed."
+When the seals of light and darkness are broken, the path to the abyss shall be revealed.
 スイッチを踏んだ。
 You stepped on the switch.
 眩い光が天へと立ち上った！
@@ -7919,9 +7919,9 @@ Elena: "Look, there it is!"
 リリア「闇のオーブ！？」
 Lilia: "The Dark Orb?!"
 ルーライ「これが…、アリアさんが言っていた、ルドルフの置き土産かっ！」
-Rurai: "So this is Rudolph's parting gift!"
+Rurai: "So this is Rudolph's parting gift!
 ルーライ「父上の敵っ！！」
-Rurai:  "I'll avenge my father!"
+I'll avenge my father!"
 これは！？
 What?!
 ルーライ「どういう…ことだ！？僕の攻撃が効かないなんて！？」
@@ -9453,37 +9453,37 @@ I have connected Kareshia to Rudolph's world, Rudolphia, using the temple's pede
 　本当に、そんなことが可能なのだろうか。
 Is that even possible?
 可能ですよ。
- "It is.
+"It is.
 あなたをこの世界へ召喚した時の原理で、一時的に、別次元にある世界へのリンクを設けただけですから。
- I simply established a temporary link to a dimensional rift, using the same principles I used to summon you here.
+I simply established a temporary link to a dimensional rift, using the same principles I used to summon you here.
 ラストホープの台座に剣を突き立てれば、いつでもルドルフィアへ行くことができますよ。
 Thrust Last Hope into its pedestal, and the path to Rudolphia will open.
 ですが…、一度向こうへ行ってしまうとリンクは消失し、私の力はあなた方には届かなくなります。
- However…  Once you cross over, the link will vanish, and my power will no longer be able to reach you.
+However…  Once you cross over, the link will vanish, and my power will no longer be able to reach you.
 ルドルフの魔の力が消えるまで、こちらの世界に戻ってくることはできません。」
 You will not be able to return to this world until Rudolph's power is extinguished."
 エレナ「行ったら最後…」
- Elena:  "Once we go…"
+Elena:  "Once we go…"
 リリア「あたしたちが…ルドルフを倒すまで…」
- Lilia:  "...We can't come back... "
+Lilia:  "...We can't come back... "
 ルーライ「カレシアへ、戻ることはできない…」
- Rurai: "...Not until we defeat Rudolph..."
+Rurai: "...Not until we defeat Rudolph..."
 ?me?わ？
- What about me?
+What about me?
 この戦いが終わったら、?me?はどうなるのだろうか。
- What will happen to me when this is over?
+What will happen to me when this is over?
 ?name?様…。
 "?name?...
 あなたは、あなたが元いた世界へと帰ることができるでしょう。」
 You will be able to return to your world."
 それは、本当なのだろうか。
- Is that true?
+Is that true?
 嬉しいという気持ちと、安堵感。
- Relief washes over me.
+Relief washes over me.
 だが、それと同時に…。
- But at the same time…
+But at the same time…
 仲間たちのことが気がかりだ…
- I'm worried about my companions…
+I'm worried about my companions…
 仲間たちが…：
 My companions…:
 リリアと向き合う
@@ -9491,221 +9491,221 @@ Talk to Lilia
 エレナと向き合う
 Talk to Elena
 ルーライと向き合う
- Talk to Rurai
+Talk to Rurai
 リリア「そう、だよね…。
 Lilia: "So... you're...
 ?name?、帰っちゃうんだ…。」
- ...Leaving?"
+...Leaving?"
 リリアも、どこか寂しそうだ。
- She sounds sad.
+She sounds sad.
 リリア「べ、べつにあたしは…そんな…。」
 Lilia:  "N-not that I... care or anything..."
 それでも、リリアの心は悲しげだ。
- But her sadness is genuine.
+But her sadness is genuine.
 リリア「えと、あんたこそ、あたしたちと離れるの…いやなんじゃないの？」
- Lilia:  "Um, don't you... mind leaving *us*?"
+Lilia:  "Um, don't you... mind leaving us?"
 エレナ「?name?君がいなくなっちゃったら…、
 Elena:  "It'll be... lonely...
 なんだか、さびしくなるね…。」
 ...Without you, ?name?..."
 一緒に旅をしてきた皆と、別れたくない。
- I don't want to part ways with them. We've been through so much together.
+I don't want to part ways with them. We've been through so much together.
 だが、?me?には、これまで過ごしてきた?me?の世界があるのだ。
- But I have a life in my own world.
+But I have a life in my own world.
 エレナ「わたしは、ここで…?name?君やみんなと過ごしたい…。
- Elena: "I want to stay here...  with you and everyone else...
+Elena: "I want to stay here...  with you and everyone else...
 ねえ、君は、本当に帰っちゃうの？」
- Are you really leaving?"
+Are you really leaving?"
 ルーライ「この世界に来て、?name?君は大変な目にあってばかりだったね。
- Rurai: "You've been through so much since you came to this world, ?name?.
+Rurai: "You've been through so much since you came to this world, ?name?.
 だけど本当は、この世界は平和で、穏やかで。とても過ごしやすい場所なんだ。
- But Kareshia is a peaceful, beautiful place.
+But Kareshia is a peaceful, beautiful place.
 君には、いつものカレシアを見てほしい。いつもの人々を…。
- I want you to see it... the way it's supposed to be...
+I want you to see it... the way it's supposed to be...
 本当に…、帰ってしまうのかい？」
- Are you sure you're leaving?"
+Are you sure you're leaving?"
 …。?me?でも、どうしたら良いのか分からない…。
- I... I don't know what to do…
+I... I don't know what to do…
 ルーライ「…、仕方のないことなのかもしれないね。
- Rurai: "...Perhaps it's for the best.
+Rurai: "...Perhaps it's for the best.
 僕らと君では、もともと住む世界が違うんだから…」
- We come from different worlds, after all..."
+We come from different worlds, after all..."
 ここまで、お互いを信用しあい、助け合いながら旅をしてきた仲間たちと…
- To think that this journey, this bond we've forged,
+To think that after this journey, after forging this bond,
 この戦いが終わったら、別れなければならないなんて…。
-would end in separation…
+we'd have to say goodbye…
 この世界に残るか、それとも自分の世界へ帰るのか。
- "The choice is yours.
+"The choice is yours, ?name?.
 その選択権は、あなた様にあります。
- The choice is yours, ?name?.
+Decide for yourself."
 その選択権は、?name?様にあります。
- Decide for yourself."
+The choice is yours.
 ?me?のことは…?me?自身で…。
 I'll have to think about it,
 どちらにせよ、ルドルフの野望を阻止しなければならないということか。
- but no matter what I decide, we still have to stop Rudolph.
+but no matter what I decide, we still have to stop Rudolph.
 はい…。
- "Yes...
+"Yes...
 ですが、ルドルフィアは、ルドルフの創造した世界…。
- But Rudolphia is Rudolph's creation…
+But Rudolphia is Rudolph's creation…
 これまでとは比べ物にならないほどに、過酷な旅となるでしょう。
- Your journey will be more perilous than anything you've faced before.
+Your journey will be more perilous than anything you've faced before.
 進むか、とどまるか。それは、あなた方が決めてください。
- To go, or to stay... The decision is yours.
+To go, or to stay... The decision is yours.
 今回ばかりは、私は何も言えませんから…。
 I cannot tell you what to do."
 分かっている。
- I understand.
+I understand.
 だが、もう…
- But...
+But...
 ?me?は…、仲間たちは…
- My decision... our decision...
+It's not my decision... it's ours...
 リリア「行こう。あたしたちの世界を守らなきゃ！」
 Lilia:  "Let's go! We have to protect our world!"
 エレナ「他の世界からきてまでわたしたちの世界を…
 Elena: "You came from another world to save us...
 ううん、わたしたちを救ってくれた君のためにも。
- No... you saved *us*...
+No... you did save us...
 最後まで、あきらめない！」
 We won't give up!  Not now!"
 ルーライ「父上…レン…。
 Rurai:  "Father... Ren...
 見ていてください。
- Watch over us.
+Watch over us.
 行こう！！」
- Let's go!"
+Let's go!"
 そう。みんなの気持ちは、もう決まっているのだ！
- Their minds are made up.
+Their minds are made up.
 そう…ですか。
- "I see…
+"I see…
 では、これを…。私からのせめてもの気持ちです。
-Then please, accept this.  It's the least I can do."
+Then please, accept this.  It's the least I can do.
 受け取ってください。
- "Please, take it."
+Please, take it."
 　勇気の杯を受け取った…。
- You received the Chalice of Courage!
+You received the Chalice of Courage!
 それは、皆さんの内に眠る力を呼び覚ますゴブレット。
 "It's a goblet that awakens the power within you.
 杯を勇気で満たすことができたなら、その時は、必ず皆さんの助けとなります。
- If you can fill it with courage, it will surely aid you on your journey.
+If you can fill it with courage, it will surely aid you on your journey.
 ラストホープは魔を払う剣。世界の破壊をたくらむルドルフには、必ずその力は届くでしょう。
- Last Hope is a blade that banishes evil.  Its power will reach Rudolph.
+Last Hope is a blade that banishes evil. Its power will reach Rudolph.
 恐れず…、焦らず…、あきらめず…
- Do not fear… Do not falter… Do not give up…
+Do not fear… Do not falter… Do not give up…
 これまで通りのあなた方のように進んでください！
- Go forth, and be the heroes you are meant to be!"
+Go forth, and be the heroes you are meant to be!"
 分かりました…。
- "Very well…
+"Very well…
 それでは、ラストホープを…
- Then… drive Last Hope…
+Then… thrust Last Hope…
 台座に、突き立ててください！！
- …Into the pedestal!"
+…Into the pedestal!"
 意識が………
- My consciousness...
+My consciousness...
 遠のいて………
- …Fades...
+…Fades...
 …。勇者は…
 …The hero…
 決戦の地、ルドルフィアへ旅立ちました…。
- …Has departed for Rudolphia, the final battleground…
+…Has departed for Rudolphia, the final battleground…
 もう、私にできることは…なにも…
- There's… nothing more I can do…
+There's… nothing more I can do…
 いいえ、まだ。
- No, wait.
+No, wait.
 ルドルフィアは、いまだ不安定な世界。
- Rudolphia is still unstable.
+Rudolphia is still unstable.
 彼らが活動を開始すれば、その世界はさらに不安定となり、世界軸中を漂い始めるでしょう。
- Once they arrive, the world will become even more unstable, drifting through the dimensional rifts.
+Once they arrive, the world will become even more unstable, drifting through the dimensional rifts.
 私が見失えば、彼らはカレシアに戻ることができなくなる…
- If I lose sight of them, they won't be able to return to Kareshia…
+If I lose sight of them, they won't be able to return to Kareshia…
 急いでください…
- Hurry…
+Hurry…
 私の力が尽き、ルドルフィアを見失うその前に…
- Please… end this…
+Please… end this…
 どうか…、全てを終わらせてください…
- Before my strength fades and I lose sight of Rudolphia…
+Before my strength fades and I lose sight of Rudolphia…
 そうでなければ…、取り返しのつかないことになってしまう………
- Otherwise… it will be too late…
+Otherwise… it will be too late…
 リリア「鵜…ん？ここは…？」
- Lilia:  "Ugh... Where...? Where are we?"
+Lilia:  "Ugh... Where...? Where are we?"
 エレナ「！！なに！？、この魔物たち！！」
- Elena:  "What?! These monsters!"
+Elena:  "What?! These monsters!"
 ルーライ「囲まれてる…いつの間に！！
- Rurai: "We're surrounded!  When did this happen?!
+Rurai: "We're surrounded!  When did this happen?!
 と、とにかく戦おう。話はそれからだ！！」
- We have to fight!  We can talk later!"
+We have to fight!  We can talk later!"
 ルドルフィア平原のセーブ陣だ。
- This is the save point in the Rudolphia Plains.
+The save point in the Rudolphia Plains.
 エレナ「はあ、はあ。なんとか…なったよ…」
- Elena:  "Hah... hah...  We made it..."
+Elena:  "Hah... hah...  We made it..."
 リリア「ここは…もう大丈夫だけど…、
- Lilia:  "It's safe here for now... but...
+Lilia:  "It's safe here for now... but...
 まだ近くでたくさんの魔物の気配を感じるよ…」
- I can sense a lot of monsters nearby..."
+I can sense a lot of monsters nearby..."
 エレナ「ねえ…ここ、どこかで見たことがあるような気がするのだけど…」
- Elena: "This place… I feel like I've seen it before…"
+Elena: "This place… I feel like I've seen it before…"
 ルーライ「カレシア…平原！」
- Rurai: "The Kareshia Plains!"
+Rurai: "The Kareshia Plains!"
 そうか。真っ黒な空と沢山の魔物にすっかり気を取られ、この違和感に気付かなかったが、そういうことだったのか。
- That's it!  I was so focused on the black sky and the monsters that I didn't notice the familiarity of this place.
+That's it! I was so focused on the black sky and the monsters that I didn't notice the familiarity of this place.
 ルーライ「ルドルフは…いったいどこに…？」
- Rurai:  "Where's Rudolph?"
+Rurai:  "Where's Rudolph?"
 リリア「たぶん………」
 Lilia:  "I think..."
 リリアが、ゆっくりと北の方角を示す。
- Lilia slowly points north.
+Lilia slowly points north.
 その先には…、巨大な城がそびえ立っている！
- A massive castle stands in the distance!
+A massive castle stands in the distance!
 リリア「とてつもなく強大な魔の力を感じる…」
- Lilia:  "I can sense an incredibly powerful dark force..."
+Lilia:  "I can sense an incredibly powerful dark force..."
 エレナ「行ってみよう？」
- Elena:  "Let's go."
+Elena:  "Let's go."
 漆黒の空を突き破るように、巨大な塔が聳え立っている…。
- A giant tower pierces the black sky.
+A giant tower pierces the black sky.
 リリア「ひうっ…こ、怖い…」
- Lilia: "Eep! This place is creepy…"
+Lilia: "Eep! This place is creepy…"
 エレナ「強烈な魔の気配。
- Elena: "That aura…
+Elena: "That aura…
 うん、間違いない。この向こうにルドルフがいるよ…」
- …It’s definitely him. Rudolph’s in there..."
+…It’s definitely him. Rudolph’s in there..."
 ルーライ「だけど、この扉、何か強い力で閉ざされているようだね。」
- Rurai: "But this door… it feels like it’s sealed shut."
+Rurai: "But this door… it feels like it’s sealed shut."
 ルーライの言うとおり、入り口の門には４つの封印が施されているようだ。
- He’s right.  Four seals adorn the entrance.
+He’s right.  Four seals adorn the entrance.
 森の封印、炎の封印、水の封印、そして闇の封印…。
- The Seal of the Forest, the Seal of Flame, the Seal of Water, and the Seal of Darkness…
+The Seal of the Forest, the Seal of Flame, the Seal of Water, and the Seal of Darkness…
 エレナ「ここがカレシア平原だとするなら…。」
- Elena:  "If this is the Kareshia Plains..."
+Elena:  "If this is the Kareshia Plains..."
 リリア「森と、火山と、湖もあるのかな…？」
- Lilia:  "...Then there must be a forest, a volcano, and a lake somewhere, right?"
+Lilia:  "...Then there must be a forest, a volcano, and a lake somewhere, right?"
 二人の言う通りかもしれない。ひとまず、この塔は後回しにして、他の場所を探索してみよう。
- They might be right.  Let's explore the other areas before tackling this tower.
+They might be right.  Let's explore the other areas before tackling this tower.
 この城の最上階に、必ずルドルフがいるはずだ。
 Rudolph must be at the top of this castle.
 森の封印が解かれた…
- The Seal of the Forest is broken…
+The Seal of the Forest is broken…
 炎の封印が解かれた…
- The Seal of Flame is broken…
+The Seal of Flame is broken…
 水の封印が解かれた…
- The Seal of Water is broken…
+The Seal of Water is broken…
 闇の封印が解かれた…
- The Seal of Darkness is broken…
+The Seal of Darkness is broken…
 まだ、全ての封印を解いていない。
- We haven't broken all the seals yet.
+We haven't broken all the seals yet.
 全ての封印が解かれた…。
- All seals are broken…
+All seals are broken…
 キキキキキキキキ！！！
-KIKIKIKIKIKIKI!!!
+Khahahahahahaha!!!
 　　無双のコウモリ
- Unrivaled Bat
+The Ultimate Bat:
 　　ブラックバット
- Black Bat
+Black Bat
 キヤアアアアアアッ！！
- KYYYYAAAAAAA!!!
+KYYYYAAAAAAA!!!
 森の封印が解かれた…。
- The Seal of the Forest is broken…
+The Seal of the Forest is broken…
 くらう…くらう…くらう…
- Devour… Devour… Devour…
+Devour… Devour… Devour…
 くらうくらうくらう
 Devourdevourdevour
 くらうくらうグラウ
@@ -9713,169 +9713,169 @@ DevourdevourGROWL
 グラウグラウグラウ
 GROWLGROWLGROWL
 グラウグラウウウウウッ！！
- GROWLGROWLUUUUUUU!!!
+GROWLGROWLUUUUUUU!!!
 　　無双の竜神
- Unrivaled Dragon God
+The Ultimate Dragon God:
 　　ブラックドラゴン
- Black Dragon
+Black Dragon
 グオアアアアアアアアアッ！！
- GROOOOOOOOOAR!!!
+GROOOOOOOOOAR!!!
 炎の封印が解かれた…。
- The Seal of Flame is broken...
+The Seal of Flame is broken...
 ギュオオオオオン！！
- GYOOOOOOOOOOON!!!
+GYOOOOOOOOOOON!!!
 　　無双の大蛇
- Unrivaled Serpent
+The Ultimate Serpent:
 　　ブラックサーペント
- Black Serpent
+Black Serpent
 シュシャアアアアッ！！
- SHUSHAAAAAA!!!
+SHUSHAAAAAA!!!
 水の封印が解かれた…。
 The Seal of Water is broken…
 　　無双の漆黒
- Unrivaled Darkness
+The Ultimate Darkness:
 　　ブラックオーブ
- Black Orb
+Black Orb
 闇の封印が解かれた…。
- The Seal of Darkness is broken…
+The Seal of Darkness is broken…
 レバーだ。動かしてみようか？
 There's a lever here.  Should we try it?
 レバー：
- Lever:
+Lever:
 奥側に倒す
 Push back
 手前側へ引っ張る
 Pull forward
 レバーを奥側に倒した。
- You pushed the lever back.
+You pushed the lever back.
 レバーを手前側へ引っ張った。
- You pulled the lever forward.
+You pulled the lever forward.
 頑丈そうな扉だ。
 This door looks sturdy.
 リリア「ま、またこれ！？」
- Lilia:  "Not this again!"
+Lilia:  "Not this again!"
 ルーライ「扉の仕掛けを解除しなければ、先へは進めないってことだね。」
- Rurai: "We need to solve the puzzle to open the door."
+Rurai: "We need to solve the puzzle to open the door."
 エレナ「うん。
 Elena:  "Ugh,
 竜の祠で、わたしたちが何度この仕掛けに悩まされたか…。」
- …How many of these did we have to solve in the Dragon Shrine?"
+…How many of these did we have to solve in the Dragon Shrine?"
 立ち止まっていても始まらない。レバーを探さなければ。
- We can't just stand here. We need to find the lever.
+We can't just stand here. We need to find the lever.
 エレナ「よかった、開いたよ！」
 Elena:  "Yes!  It's open!"
 ルーライ「よし、行こう。」
- Rurai:  "Let's go!"
+Rurai:  "Let's go!"
 ルドルフ城のセーブ陣だ。
- This is the save point in Rudolph's Castle.
+The save point in Rudolph's Castle.
 ルーライ「もう、後戻りはできない…」
- Rurai: "There's no turning back now…"
+Rurai: "There's no turning back now…"
 エレナ「わたしたちの、最後の戦い…」
- Elena: "Our final battle..."
+Elena: "Our final battle..."
 リリア「みんな…がんばろう！！」
- Lilia: "Let's do this!"
+Lilia: "Let's do this!"
 ルドルフ城最上階：
- Top Floor of Rudolph's Castle:
+Top Floor of Rudolph's Castle:
 一度引き下がる
- Retreat
+Retreat
 「やはり…キサマらか…。
- "So... it's you...
+"So... it's you...
 ルドルフィアの柱を壊したのは…。」
- You destroyed the pillars of Rudolphia..."
+You destroyed the pillars of Rudolphia..."
 ルーライ「ルドルフ…」
- Rurai: "Rudolph!"
+Rurai: "Rudolph!"
 ルドルフ「キサマらが破壊した3つの柱。
 Rudolph: "You destroyed three pillars…
 やっとの思いで作り上げたこの世界が、不安定になってしまった。
- You destabilized this world I worked so hard to create…
+You destabilized this world I worked so hard to create…
 …どうしてくれるのだ？」
- What are you going to do about it?"
+What are you going to do about it?"
 リリア「ここは、あんたがあたしたちの世界から奪って作った世界でしょ？
 Lilia:  "You stole this world from ours!
 どうしてくれるも何も、もともとあんたのものじゃないじゃない！」
- What do you mean, 'What are we going to do about it'?  It was never yours to begin with!"
+What do you mean, 'What are we going to do about it'?  It was never yours to begin with!"
 ルドルフ「ふっ、いうな、小娘。
 Rudolph: "Hmph, silence, girl.
 だがな、忘れるな。カレシアはキサマらだけのものではない。
- Don't forget. Kareshia isn't just your world.
+Don't forget. Kareshia isn't just your world.
 俺の世界でもあるのだ。
- It's mine too!
+It's mine too!
 忘れるなよコマども。俺も、カレシアの生まれなのだぞ！
- I was born in Kareshia!  Don't forget that, pawns!
+I was born in Kareshia! Don't forget that, pawns!
 まあ、良い。ルドルフィアの柱ならば、もう１度復活できる。
-But it doesn't matter.  I can rebuild the pillars of Rudolphia.
+But it doesn't matter. I can rebuild the pillars of Rudolphia.
 キサマらの魂と…、
- With your souls…
+With your souls…
 そして、その聖剣…ラストホープでなあああっ！！」
- …And that holy sword…  Last Hope!  Aaaaaargh!"
+…And that holy sword… Last Hope! Aaaaaargh!"
 飛んだ！！
- He's flying!
+He's flying!
 あの時の[黒]だ！
- It's that black creature from before!
+It's that black creature from before!
 ルドルフ「この俺の大翼の餌食となれ、神殿のコマどもよ！」
-Rudolph:  "Become nourishment for my mighty wings, pawns of Shaintarium!"
+Rudolph: "Become nourishment for my mighty wings, pawns of Shaintarium!"
 ルーライ「それは、こっちのセリフだっ！」
- Rurai:  "We'll see about that!"
+Rurai:  "We'll see about that!"
 エレナ「覚悟しなさいっ！」
- Elena: "Prepare yourself!"
+Elena: "Prepare yourself!"
 リリア「カレシアを壊したこと、後悔させたげるっ！」
- Lilia: "You're gonna regret destroying Kareshia!"
+Lilia: "You're gonna regret destroying Kareshia!"
 　　大翼の虐殺者
- The Wings of Carnage
+The Wings of Carnage:
 　　ルドルフ
- Rudolph
+Rudolph
 ングッ…ゲハッ！
 "Ugh... Gah!"
 やった…。
- We did it...
+We did it...
 リリア「もう、あきらめなさいよ…」
- Lilia: "Give it up..."
+Lilia: "Give it up..."
 ルドルフ「まだ…」
- Rudolph: "Not yet..."
+Rudolph: "Not yet..."
 ルーライ「なに！！」
- Rurai: "What?!"
+Rurai: "What?!"
 ルドルフ「聞け…。俺はな、荒野の生まれなのだ…。」
- Rudolph: "Listen… I was born in the wasteland."
+Rudolph: "Listen… I was born in the wasteland."
 荒野。それは、カレシア南野荒野のことなのだろうか？
- The wasteland…  Does he mean the Kareshia Wilds in the south?
+The wasteland…  Does he mean the Kareshia Wilds in the south?
 ずいぶんと昔。そこには大きな町があった。そうだな、フェルマーレの数倍はあっただろうか。
- "A long time ago… There was a large town there.  Several times larger than Fermare.
+A long time ago… There was a large town there.  Several times larger than Fermare.
 俺は、そこの出だ。
- That's where I grew up.
+That's where I grew up.
 荒野の町フートは、それはすさまじいほどの格差社会だった。
- The town of Fult, in the wasteland... it was a place of unimaginable inequality.
+The town of Furt, in the wasteland... it was a place of unimaginable inequality.
 力あるものは豪邸を建て、
- The wealthy built mansions,
+The wealthy built mansions,
 貧しい者は路上で飢えに苦しみ、命を落としていった…次々と、な……。
- while the poor starved and died in the streets… One after another..."
+while the poor starved and died in the streets… One after another...
 そんな町だ…。
- "...That's what it was like."
+...That's what it was like.
 フートの全住民が十分な生活を送ることができなかった裏には、エネルギーの不足があった。
- "Fult was suffering from an energy shortage.
+Furt was suffering from an energy shortage.
 エネルギー分配の中心となった神殿が、フートを賄えるだけのエネルギーを供給できなかったのだ。
- Shaintarium, responsible for distributing energy, couldn't provide enough to sustain the town.
+Shaintarium, responsible for distributing energy, couldn't provide enough to sustain the town.
 それゆえ、生活に欠かせないエネルギーは高額で取引されるようになっていった。
- Essential energy became a luxury, traded at exorbitant prices.
+Essential energy became a luxury, traded at exorbitant prices.
 やがて町の人口は半分以下にまで減り、それに伴いエネルギー供給量も減少した。
 The town's population dwindled to less than half, and the energy supply decreased even further.
 まさに悪循環。
- A vicious cycle.
+A vicious cycle.
 そのうちに、町はすっかり干上がり…
- The town withered away…
+The town withered away…
 気付けば俺は神殿を許せなくなっていた…。
- …And I grew to hate Shaintarium.
+…And I grew to hate Shaintarium.
 俺が育った町を滅ぼした神殿を…。
- The temple that destroyed the only home I knew.
+The temple that destroyed the only home I knew.
 だからこそ、神殿襲撃を計画した。
- That's why I planned to attack it.
+That's why I planned to attack it.
 だがそこで、不測の原因は神殿にないことを知ったのだ。
 But then I learned that the temple wasn't the true cause.
 そもそもの原因は、4地域が生産できるエネルギーの総量を、使用量が上回っていたことにあった。
- The real problem was that the four regions of the world were consuming more energy than they could produce.
+The real problem was that the four regions of the world were consuming more energy than they could produce.
 …世界の不条理だ…。
- …The world's absurdity…
+…The world's absurdity…
 誰かがエネルギーを無駄にしていたのではない。
- It wasn't anyone's fault.
+It wasn't anyone's fault.
 そう、世界に暮らす者が悪いのではない。
 The people of the world weren't to blame.
 世界そのものの作りが悪かったのだっ！！
@@ -9883,467 +9883,467 @@ The world itself was flawed!
 だからこそ…世界を壊す力を欲し…身に着け…、磨き上げてきた。
 That's why… I sought the power to destroy… to rebuild…
 そうして俺は…、世界を作り替えようと決意したのだ…。」
- …And I resolved to create a new world."
+…And I resolved to create a new world."
 エレナ「そんな…。わたしたちの世界で、そんなことが起こっていたなんて…。」
- Elena: "I... I can't believe this happened in our world…"
+Elena: "I... I can't believe this happened in our world…"
 ルーライ「僕も知らなかった…。
- Rurai: "I had no idea…
+Rurai: "I had no idea…
 じゃあ、彼が世界を壊さずとも、いずれ僕らの世界は滅んでいたということか…」
- So even if he hadn't intervened, our world was doomed anyway?"
+So even if he hadn't intervened, our world was doomed anyway?"
 さて、キサマらはこの事実を知ってもなお、この俺を止めようと足掻くのか！？」
- "So, knowing this truth, will you still try to stop me?!"
+So, knowing this truth, will you still try to stop me?!"
 それは…間違っている！
- You're wrong, Rudolph!
+You're wrong, Rudolph!
 ルドルフ「何…？」
- Rudolph: "What...?"
+Rudolph: "What...?"
 カレシアがこれまで存在していたことが何よりもの証拠だ。
- Kareshia's continued existence proves it.
+Kareshia's continued existence proves it.
 世界に問題が起きたことには、必ずその原因があるはず。
- Every problem has a solution.
+Every problem has a solution.
 その問題を導き出し、改善できれば、世界の再創造など行わずとも解決は可能だったはずだ。
- If the imbalance had been addressed, the world could have been saved without resorting to destruction and rebirth.
+If the imbalance had been addressed, the world could have been saved without resorting to destruction and rebirth.
 ルドルフ「何を…」
- Rudolph: "What are you..."
+Rudolph: "What is this?"
 リリア「それに、今の世界に住む人たちを犠牲にしたら、世界の人たちを救うことにはならないよ！？」
- Lilia: "And sacrificing the people of this world won't save anyone!  Not really!"
+Lilia: "And sacrificing the people of this world won't save anyone!  Not really!"
 ルドルフ「何をっ！何を何を何をっ！！
- Rudolph:  "What?! What, what, what?!
+Rudolph:  "What?! What, what, what?!
 フートを知らず、今までのうのうと生きてきたキサマらに、俺の決意など分かるものかっ！！
-You… You who lived carefree lives, oblivious to the suffering of Fult… You can't possibly understand my resolve!
+You… You who lived carefree lives, oblivious to the suffering of Furt… You can't possibly understand my resolve!
 ルドルフィアはユートピアだっ！
 Rudolphia is a utopia!
 俺の理想！世界中の人々の理想郷！
-My ideal world!  A paradise for all!
+My ideal world! A paradise for all!
 キサマらには柱となってもらう！
- You will become its pillars!
+You will become its pillars!
 ギュオアアアッ！！」
 GYAAAAAAARGH!"
 ルーライ「せ、世界が！！回るうっ！！」
- Rurai: "The world… it's spinning!"
+Rurai: "The world… it's spinning!"
 ここは…？
- Where are we?
+Where are we?
 エレナ「よ、溶岩流！まさか…！」
 Elena: "L-lava!  No way..."
 ルドルフ「さあ、コマどもよ！柱となれっ！！」
- Rudolph:  "Now, pawns!  Become the pillars!"
+Rudolph: "Now, pawns! Become the pillars!"
 エレナ「恐竜！？
- Elena:  "A dinosaur?!
+Elena:  "A dinosaur?!
 ま、負けないっ！！」
 I won't lose!"
 　　灼熱の顎門
- Blazing Jaws
+Blazing Jaws:
 グオオオオオオオッ！！
- GROOOOOOOOAR!!!
+"GROOOOOOOOAR!!!"
 ルドルフ「こ…これでもまだ、たりぬというのかっ！！」
- Rudolph: "This… This still isn't enough?!"
+Rudolph: "This… This still isn't enough?!"
 リリア「もう、あきらめなさいよ！！」
- Lilia:  "Just give up!"
+Lilia:  "Just give up!"
 ルーライ「僕らは…、カレシアを…皆を守ると誓った！」
- Rurai: "We swore... to protect Kareshia... to protect everyone!"
+Rurai: "We swore... to protect Kareshia... to protect everyone!"
 エレナ「だから…、今のあなたに勝ち目なんかないっ！！」
- Elena:  "You can't win!  Not now!"
+Elena:  "You can't win!  Not now!"
 ルドルフ「まだ…、まだだあっ！！」
- Rudolph:  "No... not yet..."
+Rudolph: "No... not yet..."
 エレナ「ひっ、また！！」
- Elena: "He's transforming again!"
+Elena: "He's transforming again!"
 ここは…。
- Where... where are we?
+Where... where are we?
 ルーライ「封印の…ま？」
- Rurai: "The Sealed... Chamber?"
+Rurai: "The Sealed... Chamber?"
 エレナ「ルドルフが…、巨大化したの！？」
- Elena:  "He's gigantic!"
+Elena:  "He's gigantic!"
 リリア「これまでのルドルフとはまるで違う…
- Lilia:  "This is different...
+Lilia:  "This is different...
 とても大きな…怒りの感情…」
- ...Such intense rage..."
+...Such intense rage..."
 ルドルフの故郷への思いが…世界への憎しみが…
- His feelings for his lost home… his hatred for this world…
+His feelings for his lost home… his hatred for the world…
 彼をあのような姿へと変えたというのか！？
- Is that what transformed him?
+Is that what transformed him?
 ルドルフ「柱となれ！柱となれ！
- Rudolph: "Become the pillars!  Become the pillars!
+Rudolph: "Become the pillars!  Become the pillars!
 柱とっ！！」
- Pillars!"
+Pillars!"
 リリア「黒い思念が…」
- Lilia:  "Dark energy..."
+Lilia:  "Dark energy..."
 エレナ「あれに当たったら大変だよ。
- Elena: "Watch out! We have to dodge those attacks!
+Elena: "Watch out! We have to dodge those attacks!
 魔弾をよけながら、慎重に戦おう！」
- Stay focused!"
+Stay focused!"
 ルーライ「よし、これで最後にしてやるっ！！
- Rurai: "Let's finish this!
+Rurai: "Let's finish this!
 行くぞ！！」
- Now!"
+Now!"
 　　凶器の破壊者
- The Destroyer of Hope
+The Destroyer of Hope:
 グォォォォォーーアァァァァーーーーッ！！
 "Ugh... Gah!"
 ルーライ「今度こそ…やった！！」
- Rurai:  "We did it! This time for sure!"
+Rurai:  "We did it! This time for sure!"
 ルドルフ「グッ…。
- Rudolph:  "Ugh...
+Rudolph:  "Ugh...
 この俺が…、間違っていたというのかっ…？」
- Was I... wrong all along?"
+Was I... wrong all along?"
 リリア「世界を…戻して！？
- Lilia:  "Restore the world!
+Lilia:  "Restore the world!
 森、火山、湖、荒野、そして神殿。
- The forest, the volcano, the lake, the wasteland, and the temple!
+The forest, the volcano, the lake, the wasteland, and the temple!
 世界中の人たちが集まって話し合えば、きっと…」
- If everyone works together, we can…"
+If everyone works together, we can…"
 ルドルフ「ふん…。
- Rudolph:  "Hmph…
+Rudolph:  "Hmph…
 話し合い…か。
- Work together…?
+Work together…?
 そうか、そうだったのか…。
- So that’s it…
+So that’s it…
 ふっ、俺は…最初から間違っていたと…そういうことなのだろうな…」
- ...Perhaps I was mistaken from the very beginning..."
+...Perhaps I was mistaken from the very beginning..."
 ルーライ「さあ、帰ろう。」
- Rurai: "Let's go home."
+Rurai: "Let's go home."
 ルドルフ「ふっ、こんな俺にまで手を差し伸べるか…。
- Rudolph:  "You would… offer me a hand, after all I've done…?
+Rudolph:  "You would… offer me a hand, after all I've done…?
 フ、フハハ。その甘さがっ！
 H-hahaha!  Such naivete!
 ハアアッ！！」
- HAAAAAAAA!"
+HAAAAAAAA!"
 リリア「ラ…ラストホープがっ！！」
- Lilia:  "L-Last Hope!"
+Lilia:  "L-Last Hope!"
 エレナ「ただの1激で…刀身が砕けるなんて！？」
- Elena:  "The blade... it shattered! From a single blow!"
+Elena:  "The blade... it shattered! From a single blow!"
 ルーライ「…だめだ。僕の弓も使えない！！」
- Rurai:  "No! My bow… it’s gone!"
+Rurai:  "No! My bow… it’s gone!"
 ルーライの弓も、エレナの剣も…。全てはラストホープが変形を遂げた姿…。
- Rurai's bow, Elena's sword… They were all extensions of Last Hope's power.
+Rurai's bow, Elena's sword… They were all extensions of Last Hope's power.
 ラストホープが砕かれた今、二人も戦うことができない。
- Now that Last Hope is broken, they can't fight.
+Now that Last Hope is broken, they can't fight.
 ルドルフ「フッハハハハハハ！！
- Rudolph: "HAHAHAHAHA!
+Rudolph: "HAHAHAHAHA!
 いくらコマとはいえ、剣が無ければただの非力な個にすぎまい！
-You may be pawns, but without your sword, you're nothing but weaklings!
+Pawns of Shaintarium! Without that sword, you are nothing!
 さあ、おとなしく、ルドルフィアの柱となれっ！！」
- Now, become the pillars of Rudolphia!"
+Now, become the pillars of Rudolphia!"
 リリア「もう、だめなの…？」
- Lilia: "Is this… the end?"
+Lilia: "Is this… the end?"
 剣が…消えていく…。
- The sword... It's disappearing...
+The sword... It's disappearing...
 エレナ「帰れないの？わたしたち…」
 Elena:  "We… We can't go home?"
 剣の柄は光となり…形を失っていく…。
- The hilt of the sword turns to light and vanishes…
+The hilt of the sword turns to light and vanishes…
 ルーライ「くっ………。もう…終わりなのか…。」
- Rurai: "It’s… over…"
+Rurai: "It’s… over…"
 剣が無ければただの非力な個…。
- "Without your sword, you're nothing but weaklings..."
+"Without that sword, you are nothing..."
 ルドルフの言葉が、?me?たちの心に突き刺さる…。
- Rudolph's words pierce our hearts.
+Rudolph's words pierce our hearts.
 ラストホープを失うということは…、戦う力の全てを失うと同義。
- We've lost Last Hope…  We've lost everything.
+We've lost Last Hope…  We've lost everything.
 ?me?たちは………
- We…
+We…
 敗れたのだ………
- …Are defeated.
+…Are defeated.
 カレシアへと召喚されたあの時…
- When I was summoned to Kareshia…
+When I was summoned to Kareshia…
 ?me?は思ったはずなのに…。
- …I thought…
+…I thought…
 この世界でなら、?me?は変われる…。
- …I could change…
+…I could save it…
 いや、変わりたい！
- No… I *wanted* to change!
+No… I wanted to save it!
 この世界の人々を守り…、この世界のために尽くしたい…
- I wanted to protect the people of this world… to fight for them…
+I wanted to protect the people of this world… to fight for them…
 それなのに………
- And yet…
+And yet…
 このままでは…、一緒に旅をしてきた仲間たちすら守ることができない！！
- We can't even protect ourselves!
+We can't even protect ourselves!
 「あたし、リリア。道案内してあげるから、一緒に連れて行って。」
- "My name is Lilia.  Take me with you, and I'll be your guide."
+"My name is Lilia. Take me with you. I'll be your guide."
 「わたしは、山王の巫女。全てが終わる時まで、もう泣かないって決めたんだ。」
- "I'm the Volcano Drake’s Chosen. I can't afford to cry anymore. Not until this is over."
+"I'm the Volcano Drake’s Chosen. I can't afford to cry anymore. Not until this is over."
 「都の皆。そして父上の敵を。この僕が蹴りを付ける。…付けてみせる！！」
- "I will avenge my father... and the people of this city!"
+"I will avenge my father... and the people of this city!"
 仲間たちとの旅の記憶がよみがえる…。
- Memories of our journey together…
+Memories of our journey together…
 思い返せば、この旅で、沢山の人々と出会った…。
- I met so many people…
+I met so many people…
 「わしが思うに、お前さんは召喚された際に特別な力を授かったのではないかと思う。」
- "I believe you were granted a special power upon your arrival."
+"I believe you were granted a special power upon your arrival."
 「行け！このままでは、そなたたちは祠の下敷きとなるぞ！」
- "Go!  You'll be crushed if you stay!"
+"Go! You'll be crushed if you stay!"
 「この世界のことは、オマエらだけが頼りだ。必ずやつを打倒し、ここへ戻って来い…。」
- "You're the only ones who can stop this.  Defeat him, and come back safe and sound..."
+"You're the only ones who can stop this. Defeat him, and come back safe and sound..."
 「世の都は土足厳禁！無断で踏み入り、民を傷つけるなど見過ごせまい！！」
- "No one trespasses in my city! I won't tolerate those who harm my people!"
+"No one trespasses in my city! I won't tolerate those who harm my people!"
 「ルーライ…そしてみなさん。必ず、帰ってきてください。決して、無理はしないで…。」
- "Please... come back safely. All of you. And don't push yourselves too hard..."
+"Please... come back safely. All of you. And don't push yourselves too hard..."
 「精神体ともども、大変世話になったな。
- "Thank you for everything, hero.  You and the spirit…
+"Thank you for everything, hero. You and the spirit…
 勇者。
 Hero,
 俺も、お前は良い剣士になれると思うぜ………。」
- I believe you can be a fine swordsman…"
+I believe you can be a fine swordsman…"
 そして、
- And…
+And…
 「…助けて…ください。
- "…Please… help me…
+"…Please… help me…
 どうか、私たちを助けてください。」
- Please, you have to save us."
+Please, you have to save us."
 カレシアに生きる全ての人々の思いは…、このまま失われてしまうのか？
- The hopes and dreams of the people of Kareshia…  Will they vanish?
+The hopes and dreams of the people of Kareshia… Will all be extinguished...
 ここで?me?たちがあきらめてしまったら………
- If we give up now…
+If we give up now…
 だめだ！！
- No!
+No!
 そんなことは、絶対に許されない！！
 We can't let that happen!
 「ラストホープは魔を払う剣。世界の破壊をたくらむルドルフには、必ずその力は届くでしょう。」
- "Last Hope is a blade that banishes evil.  Its power will reach Rudolph."
+"Last Hope is a blade that banishes evil. Its power will reach Rudolph."
 その時だった…
- And then...
+And then...
 「恐れず…、
- "Do not fear…
+"Do not fear…
 焦らず…、
- Do not falter…
+Do not falter…
 あきらめず…」
- Do not give up…"
+Do not give up…"
 ここへ来る前、アリアから聞いた言葉が蘇る！！
- Aria's words, spoken before we left, echo in my mind!
+Aria's words, spoken before we left, echo in my mind!
 「これまで通りのあなた方のように進んでください！」
- "Go forth, and be the heroes you are meant to be!"
+"Go forth, and be the heroes you are meant to be!"
 そうだ、そうだとも！
- Yes!
+Yes!
 まだ、あきらめてはいけない！！
- We can't give up now!
+We can't give up now!
 ?me?たちは多くの苦難を超え、ここまでやってきたではないか！
- We've come too far!
+We've come too far!
 こんな所で…終わったりなんてできるものか！！
- We can't let it end here!
+We can't let it end here!
 諦めと焦り………
- Doubt…  desperation…
+Doubt… desperation…
 悲しみと苦しみ………
- Sorrow…  suffering…
+Sorrow… suffering…
 畏怖と恐怖………
- Fear…  terror…
+Fear… terror…
 不安と絶望………
- Anxiety…  despair…
+Anxiety… despair…
 心に渦巻いていた負の感情は………
- The negativity that swirled within me…
+The negativity that swirled within me…
 旅の中で出会った人々の強い意志と、
- …Is replaced by hope.
+…Is replaced by hope.
 仲間たちとの絆によって、
- The hope of the people I met on my journey…
+The hope of the people I met on my journey…
 希望に代わっていく！！
- The unbreakable bond I share with my companions…
+The unbreakable bond I share with my companions…
 ?me?・リリア・エレナ・ルーライ
 ?name?, Lilia, Elena, Rurai:
 「！！！！！！！」
- "!!!"
+"!!!"
 右手に…
- In my right hand...
+In my right hand...
 確かな、存在感！！
- ...A familiar presence!
+...A familiar presence!
 リリア「剣が！！
- Lilia:  "The sword!
+Lilia:  "The sword!
 そうだよ！あたしたちはまだ、負けられない！」
- That's right! We haven't lost yet!"
+That's right! We haven't lost yet!"
 エレナ「ルドルフ？あなたは、間違っている！
 Elena: "You're wrong, Rudolph!
 わたしたちが、これからそのことを証明してみせるっ！」
- We'll prove it to you!"
+We'll prove it to you!"
 今、確信した。
- Now I understand.
+Now I understand.
 ラストホープは《最後の希望》などではない！
- Last Hope isn't just the "final hope"!
+Last Hope isn't just the "final hope"!
 手にした者が望む限り！?me?たちが望む限り！
- As long as its wielder desires it… as long as *we* desire it…
+As long as its wielder desires it… as long as we desire it…
 何度でも、いつまでも力を与えてくれる、
- It will grant us its power…
+It will grant us its power…
 どこまでも希望を運び、世界を守る力を永遠に与えてくれる…
- A sword that brings hope, a sword that protects the world, a sword with endless potential…
+A sword that brings hope, a sword that protects the world, a sword with endless potential…
 そんな剣だったのだ！
 That's what Last Hope truly is!
 エレナ「続いていく希望…」
- Elena: "A hope that never dies..."
+Elena: "A hope that never dies..."
 リリア「あたしたちが、あきらめるまで、力を与えてくれる剣…」
- Lilia:  "A sword that grants us strength… as long as we don't give up…"
+Lilia:  "A sword that grants us strength… as long as we don't give up…"
 ルーライ「復活した！ラストホープが！！」
-Rurai: "It's back!  Last Hope is back!"
+Rurai: "It's back! Last Hope is back!"
 ルドルフ「なん…だと！？
- Rudolph:  "What?!
+Rudolph:  "What?!
 ありえん！ありえん！！
- Impossible! Impossible!
+Impossible! Impossible!
 このようなことはっ！！」
 This can't be happening!"
 リリア「もう…負けないっ！！」
- Lilia: "We won't lose!"
+Lilia: "We won't lose!"
 エレナ「最後の決着…」
- Elena: "Time to settle this..."
+Elena: "Time to settle this..."
 ルーライ「これで、僕らの戦いは終わる！！」
 Rurai:  "This is where our battle ends!"
 ルドルフ！
 Rudolph!
 覚悟してもらおう！！
- Prepare yourself!
+Prepare yourself!
 ルドルフ「フハハハハハハ！！面白い！
-Rudolph: "HAHAHAHA!  This is amazing!
+Rudolph: "HAHAHAHA! This is amazing!
 オモシロイゾォォォッ！！
 Very well then.
 剣が砕けない希望なら、キサマらの魂を砕くまでっ！！
- I'll crush your souls, even if I can't break your hope!
+I'll crush your souls, even if I can't break your hope!
 全力を持って、屠り去ってくれよう！！」
- I will annihilate you with everything I have!"
+I will annihilate you with everything I've got!"
 　　黒き魔の担い手
- The Wielder of Darkness
+The Wielder of Darkness:
 グッ…。
- Rudolph: "Ugh...
+Rudolph: "Ugh...
 やはり…俺の力は…世界を砕くに至らなかった…。
- It seems... my power... wasn't enough to break this world...
+It seems... my power... wasn't enough to break this world...
 破壊が…許されないのであれば…、
- If destruction is not permitted...
+If it must not be destroyed...
 キサマらのできうる限りの方法で、カレシアを救って見せろ…。
- Then do what you must... Save Kareshia, in whatever way you can...
+Then do what you must... Save Kareshia, in whatever way you can...
 キサマらが、この俺の過去を理解できぬように…、
- Just as you couldn't understand my past...
+Just as you couldn't understand my past...
 俺にも…理解できんことがあったということか…。
- ...There are things... I will never understand..."
+...There are things... I will never understand..."
 リリア「ルドルフ…」
- Lilia:  "Rudolph..."
+Lilia: "Rudolph..."
 エレナ「こ、今度はなに！？」
- Elena: "What's happening now?!"
+Elena: "What's happening now?!"
 ルドルフィア城？
- Rudolph's Castle?
+Rudolph's Castle?
 いや、この世界全土が…。
- No…  The entire world…
+No… The entire world…
 皆さん、聞こえますか！？
- "Can you hear me?!"
+"Can you hear me?!"
 ルーライ「その声は、神殿の…アリアさん！！」
- Rurai: "That voice… it’s Aria… from the temple!"
+Rurai: "That voice… it’s Aria… from the temple!"
 ルドルフを止めてくださり…、本当にありがとうございました…。
- "Thank you... for stopping Rudolph...
+Thank you... for stopping Rudolph...
 今、あなた方のいる世界《ルドルフィア》は、創造主を失い、崩壊を始めています。
- Rudolphia, the world you now stand upon, is collapsing… its creator is gone…
+Rudolphia is collapsing… its creator is gone…
 さあ、ラストホープを天に掲げてください！
- Raise Last Hope to the heavens!
+Raise Last Hope to the heavens!
 このままでは…、この世界ごとあなた方の存在までも消滅してしまう………。
 If you don't… your existence… and this world… will vanish…"
 リリア「ねえ、アリアさん？あたしたち、カレシアに帰れるんだよね？」
- Lilia:  "Aria, we can go back to Kareshia, right?"
+Lilia:  "Aria, we can go back to Kareshia, right?"
 ごめんなさい………。
- "I… I’m sorry…
+"I… I’m sorry…
 ！！！
- !!!"
+!!!
 今の私に残された力では…あなた方を蘇らせることは…
- "With the power I have left… I cannot restore you…
+With the power I have left… I cannot restore you…
 魂を…世界に呼び戻すにとどまってしまいます。
- …I can only guide your souls… back to your world…
+…I can only guide your souls… back to your world…
 あと少し…
- If only…
+If only…
 あとほんの少しだけ早ければ…
- …If only it had been a little sooner…
+…If only it had been a little sooner…
 皆さんをお救いすることができましたが…
- I could have saved you…
+I could have saved you…
 私にはもう…その力は…
- But I no longer have the strength…"
+But I no longer have the strength…"
 エレナ「じゃ、じゃあ…。
- Elena:  "So…
+Elena:  "So…
 わたしやルーライ、リリアちゃんは…
- …Rurai, Lilia, and I…
+…Rurai, Lilia, and I…
 もう、世界を感じることも…」
- We won’t be able to…  feel the world anymore…?"
+We won’t be able to…  see the world anymore…?"
 リリア「もう、あんたにも…会えない…の？」
- Lilia:  "We... won't be able to see you… again...?"
+Lilia:  "We... won't be able to see you… again...?"
 でも、仕方のないことなのかもしれない。
- "Perhaps… it’s unavoidable.
+Perhaps… it’s unavoidable.
 僕等は、1度命を失った身なんだ…。」
- We… we already died once…"
+We… we already died once…"
 リリア「そんなこと…そんなの、いやだよ…」
- Lilia: "No…  I don’t want that…"
+Lilia: "No…  I don’t want that…"
 エレナ「みんな…」
- Elena:  "Everyone…"
+Elena:  "Everyone…"
 時間がありません…。
- "There's no time…
+"There's no time…
 ?name?様？あなたは、どうされますか？
- ?name?…? What will you do?
+?name?…? What will you do?
 カレシアに残りますか？
- Will you stay in Kareshia?
+Will you stay in Kareshia?
 それとも、元いた世界へ戻られますか？
- Or will you return to your world?"
+Or will you return to your world?"
 ?me?は…
- I…
+I…
 ?me?はどうすれば…？
- What should I do?
+What should I do?
 皆と共に生きていきたい！！
- I want to be with them!
+I want to be with them!
 リリアのことを助けたい！
- I want to help Lilia!
+I want to help Lilia!
 エレナのことを守りたい！
- I want to protect Elena!
+I want to protect Elena!
 ルーライを支えたい！
- I want to support Rurai!
+I want to support Rurai!
 皆がいない世界になんて…残りたくない………
- I don't want to be… in a world without them…
+I don't want to be… in a world without them…
 それが?me?の本当の願いだ。
- That's my true desire.
+That's my true desire.
 だが、それがかなわないことも分かっている………。
- But I know it's impossible…
+But I know it's impossible…
 もう、どうすることもできないのだ。
- There's nothing I can do.
+There's nothing I can do.
 だから、?me?は、
- That's why…
+That's why…
 皆がいなくなったカレシアになど…、?me?は残っていたくない。
- …I don't want to stay in Kareshia… Not without them…
+…I don't want to stay in Kareshia… Not without them…
 …残る意味もない………
- …There would be no point…
+…There would be no point…
 それではあなたを、あなたの元いた世界へ送り届けましょう。
-"Then I will return you… to your world…
+Then I will return you… to your world…
 最後まで…皆さんにはご迷惑をおかけしてばかりで…。
- I am sorry… I couldn’t do more for you…
+I am sorry… I couldn’t do more for you…
 カレシアは救われたのに…。あなた方をお救いすることができないなんて…。
- Kareshia is safe… but I couldn't save you…
+Kareshia is safe… but I couldn't save you…
 本当に…、本当に私は………
- I truly… I am so…"
+I truly… I am so…"
 何故なんだ！？
- Why?!
+Why?!
 ?me?たちは、ルドルフを倒し…、そしてカレシアを救ったではないか！！
- We defeated Rudolph!  We saved Kareshia!
+We defeated Rudolph! We saved Kareshia!
 ?me?たちもアリアも…
- We… and Aria…
+We… and Aria…
 全力を尽くして世界の危機に立ち向かったというのに………
- We did everything we could to save this world…
+We did everything we could to save this world…
 …それなのに…
- …And yet…
+…And yet…
 リリア「ねえ、もう、会えないのかな？」
- Lilia:  "Will we… never see each other again…?"
+Lilia:  "Will we… never see each other again…?"
 そんなことは…ない。
- "That's not true."
+That's not true.
 エレナ「だけれど、わたしたちは…もう、天へ行かなければならないって…」
- Elena:  "But… we have to… return to the heavens…"
+Elena: "But… we have to… return to the heavens…"
 ルーライ「きっと、大丈夫。
- Rurai: "It'll be okay.
+Rurai: "It'll be okay.
 信じよう！必ず、また会えると…。」
- We have to believe!  We'll meet again, I know it…"
+We have to believe!  We'll meet again, I know it…"
 そう…そうだとも。
- Yes… You're right!
+Yes… You're right!
 ラストホープは、所有者の望みを…
- Last Hope grants the wishes of its wielder…
+Last Hope grants the wishes of its wielder…
 信じる心を…
- It turns our belief…
+It turns our belief…
 希望に変えてくれるのだから！
- …Into hope!
+…Into hope!
 リリア「うん…。そう…だね。」
 Lilia:  "Yeah… you’re right…"
 信じよう、リリアに会える日が訪れることを。
- I believe.  I believe I'll see Lilia again someday.
+I believe.  I believe I'll see Lilia again someday.
 エレナ「きっと…また会える…」
- Elena:  "We'll… meet again…"
+Elena:  "We'll… meet again…"
 信じよう、再びエレナと話せる時を。
- I believe.  I believe I'll talk to Elena again someday.
+I believe.  I believe I'll talk to Elena again someday.
 ルーライ「そうさ。僕らはまた、どこかで出会える。」
- Rurai:  "Yes. We'll meet again, somewhere."
+Rurai:  "Yes. We'll meet again, somewhere."
 信じよう、ルーライと再び出会う日を。
- I believe.  I believe I'll see Rurai again someday.
+I believe.  I believe I'll see Rurai again someday.
 皆に、また会えるようにと…
- So that I can see them all again…
+So that I can see them all again…
 ブルソン「空が…青いのう………」
 Bulson: "The sky... it's blue..."
 サフラ「長老様！！森にいた魔物たちがいなくなったよ！！」
@@ -10351,109 +10351,109 @@ Safra: "Elder! The monsters in the forest are gone!"
 ブルソン「この世界から、黒き魔の根源が消えた………。
 Bulson: "The source of the dark evil… it’s gone from this world…
 リリアたちなんじゃろ？やはり、わしのみこんだ通りじゃったのう。」
- It must be Lilia and the others.  Just as I predicted."
+It must be Lilia and the others. Just as I predicted."
 ブルソン「次はわしらの番じゃ！
- Bulson:  "Now it’s our turn!
+Bulson:  "Now it’s our turn!
 このリゼンの森を…生命の源たるこの森を………
 We have to protect Rysen Forest… the source of life…
 わしらが守っていかねばな！」
- We must protect it!"
+We must protect it!"
 クレーネ「山が…、いつもの穏やかさを取り戻しましたね…」
- Krene: "The mountain… it’s peaceful again…"
+Krene: "The mountain… it’s peaceful again…"
 フルト「ゲーラス様がなくなって…エレナが旅に出て…」
- Fult: "Geras is gone… and Elena left on a journey…"
+Fult: "Geras is gone… and Elena left on a journey…"
 ドドラ「この１連の出来事は…、わしの人生の中でも、１位２位を争うほどに波乱に満ちとったのう。」
- Dodora:  "These events… they've been the most tumultuous of my long life…"
+Dodora: "In all my years, I've never seen anything like this..."
 ヴィオ「やっぱさ…、あたしらは、こんな洞窟にこもってるだけじゃだめだと思うんだよね。」
- Vio:  "We can’t just… stay holed up in this cave forever…"
+Vio: "We can’t just… stay holed up in this cave forever…"
 ガードン「そうだな。俺たちがこのままここにいたのでは、これまでと何も変わらん…！」
- Gordon:  "You're right.  If we don't do anything, nothing will change…"
+Gordon:  "You're right.  If we don't do anything, nothing will change…"
 ペトラ「ねえ…。エレナおねえちゃん…帰ってきてくれるかな？」
-Petra: "Do you think…  Sister Elena will come back?"
+Petra: "Do you think… Elena will come back?"
 ゴポンガ「ガッハッハッハッハ！あったりめえだろう！！
- Goponga: "GAHAHAHAHAHA! Of course she will!
+Goponga: "GAHAHAHAHAHA! Of course she will!
 俺様たちが信じてやらねえでどうすんだ、坊主！？
-We gotta believe in them!  Don’t you agree, kid?
+We gotta believe in them! Don’t you agree, kid?
 俺様たちは…、何も考えず、ただ前に進んでいきゃいいんだよ！！」
 We just gotta… keep moving forward!"
 ゴポンガ「なあ、これで良いんだろ、ゲーラス様よ…！？
- Goponga:  "This is what you wanted, right, Geras…?
+Goponga:  "This is what you wanted, right, Geras…?
 エレナ…。オマエの居場所はここにあるんだぜ……。生き残って、必ず帰ってこい！」
- Elena…  Your home is here…  Survive…  and come back to us…"
+Elena…  Your home is here…  Survive…  and come back to us…"
 レン「湖周辺から魔物が消えました………。
- Ren:  "The monsters around the lake are gone…
+Ren:  "The monsters around the lake are gone…
 皆さん…ルーライ…。きっと、あなた方のおかげなのでしょうね…。
- You…  Rurai…  It must be thanks to you…
+You…  Rurai…  It must be thanks to you…
 私たちは、ルーライ様が戻られるまで、この都を…。
- We will protect this city…
+We will protect this city…
 いいえ、この世界を守っていかねばなりません！
- No, we will protect this world… until Rurai returns!
+No, we will protect this world… until Rurai returns!
 皆さん、神殿へ向かいましょう。
- Everyone, let us go to Shaintarium!
+Everyone, let us go to Shaintarium!
 そして、私たちがこれから何をすべきなのか…、皆で話し合おうじゃありませんか。
- And together, we will decide what we must do next.
+And together, we will decide what we must do next.
 ルーライ…。早く、帰ってきてください……。
- Rurai… please, come back to us…
+Rurai… please, come back to us…
 私は………、あなたがいつ戻られても良いよう、この都を…この世界を…
- I… I’ll protect this city… this world…
+I… I’ll protect this city… this world…
 守っていますから…！」
- …So you can return to us…"
+…So you can return to us…"
 う…ん？
- "Ugh…"
+Yawn…
 携帯のアラームを止め、布団から起き上がると、
- I hit the snooze button on my phone and sit up in bed.
+I hit the snooze button on my phone and sit up in bed.
 そこには、見慣れた風景が広がっていた…。
- A familiar scene greets me.
+A familiar scene greets me.
 カーテンを開くと、自分の部屋に朝日が差し込んでくる。
- I open the curtains, and sunlight streams into my room.
+I open the curtains, and sunlight streams into my room.
 いつものように、学校へ向かうための身支度を整え、荷物を持って階下へと降りていく。
- I get dressed for school, grab my bag, and head downstairs.
+I get dressed for school, grab my bag, and head downstairs.
 ?me?は…夢を見ていたのだろうか？
- …Was I dreaming?
+…Was I dreaming?
 とても大きな世界…そう、カレシアを駆け回り、強大な敵と戦っていたような…。
- A vast world... Kareshia... I was fighting powerful enemies...
+A vast world... Kareshia... I was fighting powerful enemies...
 そうだ。ラストホープという県の力で、理不尽な死を遂げた3人の仲間を助け、
- I used the power of a sword called Last Hope to save three companions who had died unfair deaths,
+I used the power of a sword called Last Hope to save three companions who had died unfair deaths,
 一緒に旅をした…。
 and we journeyed together.
 ３人は、今どうしているのだろう…。
- I wonder how they're doing…
+I wonder how they're doing…
 最後は、本当に悲しい別れだった…。
- Our parting was so painful…
+Our parting was so painful…
 母「おはよう、?name?。」
- Mom: "Good morning, ?name?."
+Mom: "Good morning, ?name?."
 階下へと降りてきた?me?に、母が声をかけてくる。
 My mom greets me as I enter the kitchen.
 これまでのことが、まるでなかったかのように、見慣れた平穏な朝…。
 A normal, peaceful morning… as if nothing had happened.
 食事をし、身だしなみを整え、カバンを持って家を出る…。
- I eat breakfast, get ready, and head out the door.
+I eat breakfast, get ready, and head out the door.
 母「あ、そうだ。今日は燃える火だから。
- Mom:  "Oh, right, today's burnable day.
+Mom:  "Oh, right, today's burnable day.
 玄関の袋、よろしくね。」
- Can you take the bag by the door?"
+Can you take the bag by the door?"
 燃える…日。
- Burnable… day.
+Burnable… day.
 そう、今日は燃えるごみの日…。
 Right… It’s trash day.
 両手に袋を持って、玄関を出た。
- I grab the bags and leave the house.
+I grab the bags and leave the house.
 ずっと考え事をしていた性か、今日は朝からボーっとしてしまっている。
- Lost in thought, I feel dazed.
+Lost in thought, I feel dazed.
 両手の袋の重みも重なって、足元がふらつく。
- The weight of the bags makes me stumble.
+The weight of the bags makes me stumble.
 今日がごみ出しの日ということは、昨夜はＦｉｇｈｔｉｎｇＣｏｒｅｓの放送日だったはず…。
 If today's trash day… then Fighting Cores was on last night.
 だが、それを見たのは随分と前だったように思う………。
- But it feels like I haven’t watched it in ages…
+But it feels like I haven’t watched it in ages…
 そう。カレシアという世界で冒険する前…。
- …Since before I went to Kareshia.
+…Since before I went to Kareshia.
 ということは、?me?はあの世界にたった一晩いただけ…？
- So I was only in that world for one night...?
+So I was only in that world for one night...?
 ひょっとして、あの出来事はすべて夢だったのか…？
- Was it all just a dream?
+Was it all just a dream?
 そんなことをぼんやりと考えながらしばらく歩くと、ごみ捨て場が見えてくる。
- I reach the garbage disposal area.
+I reach the garbage disposal area.
 ごみを捨て、今度こそ学校へ向かって歩いていく…。
 I toss the bags in and head towards school.
 平原をかけるさわやかな風…。
@@ -10467,37 +10467,37 @@ The city lights reflected in the lake…
 そして、剣をふるう重み…、魔物との死闘…。
 The weight of the sword in my hand… the battles against the monsters…
 夢とは思えないほど鮮明に、この体に刻まれた感覚…。
- These sensations, etched into my being, are too vivid to be just a dream.
+These sensations, etched into my being, are too vivid to be just a dream.
 でもここは、そんなカレシアとは違う…。これまで?me?が生きてきた日常の世界…。
- But this… this is my everyday world.  Not Kareshia.
+But this… this is my everyday world. Not Kareshia.
 あの世界へ戻りたい…。
- I want to go back.
+I want to go back.
 いや…一緒に旅をした仲間たちに…もう1度会いたい…。
- No… I want to see my companions again.
+No… I want to see my companions again.
 気が付くと、いつものように学校の正門をくぐっていた。
- I find myself standing at the school gate.
+I find myself standing at the school gate.
 とても久しい感じがした。
 It feels like I've been gone for years.
 重い足取りで教室を目指す。
- I drag my feet towards my classroom.
+I drag my feet towards my classroom.
 途中、懐かしい顔ぶれが声をかけてきたが、あいまいな受け答えしかできなかった。
- I barely respond to the greetings from my friends.
+I barely respond to the greetings from my friends.
 目を疑った。
- I can't believe my eyes.
+I can't believe my eyes.
 だって、教室には…。
- Because… there they are…
+Because… there they are…
 どうして？
- Why?
+How?
 最初に浮かんだのはそんな思いだった。
- That’s the first thought that crosses my mind.
+That’s the first thought that crosses my mind.
 なぜなら…
- Because…
+Because…
 教団の前に立っていたのは…
- …Standing in front of the classroom…
+…Standing in front of the classroom…
 かつて、ともに冒険した仲間たち。
- …Are my companions.
+…Are my companions.
 ?me?を見とめるなり、まだ幼さの残るような小柄な少女が、ニコリと微笑んだ。
- The petite girl, her face still retaining a hint of childishness, smiles brightly when she sees me.
+The petite girl, her face still retaining a hint of childishness, smiles brightly when she sees me.
 もう一人の少女も嬉しそうに、手を振ってくれた。
 The other girl waves excitedly,
 手を振るたび、小馬の尻尾のように束ねられた髪の毛が左右に揺れている。
@@ -10505,15 +10505,15 @@ her ponytail swaying from side to side.
 そしてもう一人。
 And then…
 さわやかな笑顔の美少年が、そう、親友にいつもするように、
- …The handsome young man, with his bright, cheerful smile, raises his hand in greeting.
+…The handsome young man, with his bright, cheerful smile, raises his hand in greeting.
 片手を軽く上げて「やあ」と挨拶をくれた。
- It’s like he always used to.
+Just like he always used to.
 とたんに、ぽっかりと開いた心の穴が満たされていき、自然と涙がこぼれた。
- A wave of emotion washes over me, and tears well up in my eyes.
+A wave of emotion washes over me, and tears well up in my eyes.
 この出会いが、かつての仲間たちとの、新しい物語の始まりとなった。
- This reunion… this is the beginning of a new adventure.
+This reunion… this is the beginning of a new adventure.
 ？？？「ねえ…」
-???:  "Hey..."
+???: "Hey..."
 不意に、背後から声をかけられた。
 A voice calls out from behind me.
 この声…。
@@ -10521,145 +10521,145 @@ That voice...
 この感じ…。
 That feeling...
 振り返らずともわかる…。
- I know who it is without even turning around.
+I know who it is without even turning around.
 だが、彼女がここにいるはずはない…。
- But she can't be here…
+But she can't be here…
 だって彼女は…カレシアの空へ帰ったと…。
- She returned to the sky of Kareshia…
+She returned to the heavens of Kareshia…
 ？？？「あの…あたし…」
- ???:  "Um... It's me..."
+???:  "Um... It's me..."
 リリア…。
- Lilia…
+Lilia…
 間違いない、リリアがそこにいた…。
 It's her.  Lilia is standing right there…
 リリア「やっぱり…?name?だった！
- Lilia:  "?name?!  It is you!
+Lilia:  "?name?!  It is you!
 もう！人が勇気を出して声をかけてあげてるのに無視するなんてっ！！
- Geez! I finally worked up the courage to talk to you, and you just ignore me!
+Geez! I finally worked up the courage to talk to you, and you just ignore me!
 他の誰かに声かけちゃったんじゃないかって…」
- I thought you were going to talk to someone else..."
+I thought you were going to talk to someone else..."
 本当に…リリアだ。
- It’s really her.
+It’s really her.
 リリアが…いる。
- Lilia is… here.
+Lilia is… here.
 リリア「何よ？あたしがいちゃ、ダメなの？」
 Lilia: "What?  Is it weird to see me here?"
 いや、むしろ、とてもうれしいくらいだ。
- No, not at all! I'm incredibly happy to see you!
+No, not at all! I'm incredibly happy to see you!
 リリア「！！もう…なにいって………」
- Lilia: "What are you talking about…?"
+Lilia: "What are you talking about…?"
 でも…、本当にリリアと会えてよかった…。
- It's so good to see you again, Lilia.
+It's so good to see you again, Lilia.
 しかし、その格好は何なのだろう？
- But… what's with the outfit?
+But… what's with the outfit?
 リリア「あ…こ、これは…その……
- Lilia:  "Oh…  Well… this is… um…
+Lilia:  "Oh…  Well… this is… um…
 あたしも…、あんたと…同じ学校に行くことになったから…」
- …I’m going to… attend this school… with you…"
+…I’m going to… attend this school… with you…"
 それは、本当なのだろうか？
- Is she serious?
+Are you serious?
 リリア「うん…。ねえ、遅れちゃう。
 Lilia: "Yeah… Hey, we’re going to be late!
 ほら！早く、いこ！？
- Come on! Let's go!
+Come on! Let's go!
 ほかのみんなにも…、きっと会えるから…」
- You’ll see the others soon, too..."
+You’ll see the others soon, too..."
 隣を歩く妖精の少女。
- She walks beside me, this fairy girl.
+She walks beside me, this fairy girl.
 今では羽はなくなり、もうすっかり人間と変わらない姿になってしまったが、?me?にはわかる。
-Her wings are gone, and she looks just like any other human now.  But I know.
+Her wings are gone, and she looks just like any other human now. But I know.
 あのカレシアを訪れ、彼女たちと一緒に旅をした?me?だけは…。
- Only I know…  I was there, in Kareshia, with them.
+Only I know… I was there, in Kareshia, with them.
 リリア「ふうん、ここが学校、ね…
 Lilia: "Hmm, so this is a school…
 こんなところリゼンの森にはなかったから、なんか新鮮かも。
- We don't have anything like this in Rysen Forest. It’s kinda cool.
+We don't have anything like this in Rysen Forest. It’s kinda cool.
 それじゃ、あたし、先生に挨拶してくるから。」
- I'm gonna go say hi to the teacher. See ya!"
+I'm gonna go say hi to the teacher. See ya!"
 そういうなり、校舎の中へ走りこみ、
- She runs into the school building
+She runs into the school building
 登校中の他の生徒に混じり見えなくなった…。
- and disappears into the crowd of students.
+and disappears into the crowd of students.
 ？？？「ああっ！？」
 ???: "Whoa?!"
 路地を、一人の少女が曲がってきた。
- A girl turns the corner.
+A girl turns the corner.
 こちらに気付き、とても驚いている…。
- She's startled to see me...
+She's startled to see me...
 いや、驚いて…、喜んで…？
- No…  startled, and happy…?
+No…  startled, and happy…?
 そうだ。?me?も彼女に見覚えがある。
- I recognize her.
+I recognize her.
 忘れるはずなんてない。
- I could never forget her.
+I could never forget her.
 エレナ…。
- Elena...
+Elena...
 エレナ「やっぱり、?name?君だったんだ！」
- Elena:  "?name?! It really is you!"
+Elena:  "?name?! It really is you!"
 どうして、彼女がここに…。
- Why is she here?
+Why are you here?
 彼女はすでに、カレシアの空へ…。
- She should be in Kareshia…
+You should be in Kareshia…
 エレナ「わたしにも、わからないんだ…。
  Elena:  "I… I don't know how I got here.
 そんなことより、君が両手に持っているそれは何？」
- Anyway, what are those things you're carrying?"
+Anyway, what are those things you're carrying?"
 言うなり、ごみ袋の片方を取り上げる。
- She takes one of the garbage bags from my hands.
+She takes one of the garbage bags from my hands.
 エレナ「んくっ、なにこのにおい…
- Elena:  "Ugh, what is this smell?
+Elena:  "Ugh, what is this smell?
 学校には、こんなものを持っていかなければいけないの？」
- Do you have to bring this to school?"
+Do you have to bring this to school?"
 それは、ちがう！
- No!
+No!
 ごみ袋は、捨てるものだ。
- You’re supposed to *throw away* garbage.
+It's garbage. You throw it away.
 エレナ「あ、そうなんだ。それじゃ…
- Elena: "Oh, you do?  Then…
+Elena: "Oh, you do?  Then…
 えいっ！！」
- Hup!"
+Hup!"
 ごみ袋が…放物線を描いて飛んでいく…。
- The bag arcs through the air…
+The bag arcs through the air…
 そしてごみ置き場とは全く別の路上に…。
- …Landing on the street, far from the designated garbage area.
+…Landing on the street, far from the designated garbage area.
 不法投棄は…いけない…。
- Littering is wrong…
+That's... not exactly what I meant.
 エレナ「ふ…ほう…？」
- Elena:  "Huh?"
+Elena:  "Huh?"
 ごみは、ごみ捨て場に捨てるものなのだ。
- You’re supposed to throw garbage in the garbage bins.
+You’re supposed to throw garbage in the garbage bins.
 エレナ「あ、なるほど！」
 Elena: "Ah, I see!"
 ごみを拾いに走ったエレナは、
- Elena runs to retrieve the bag,
+Elena runs to retrieve the bag,
 ?me?が支持したごみ捨て場に向けてごみを投げる…。
- then throws it towards the garbage bins I pointed out.
+then throws it towards the garbage bins I pointed out.
 何とか…、ごみを捨てることができた。
- We managed to dispose of the trash properly.
+We managed to dispose of the trash properly.
 学校へ向かう道の途中、公園の水道で手を洗う。
- We wash our hands at a park fountain on our way to school.
+We wash our hands at a park fountain on our way to school.
 エレナ「わたし、?name?君が通ってる…学校…だっけ？
- Elena: "I’m going to… attend your school, right?
+Elena: "I’m going to… attend your school, right?
 そこに転校するんだ。」
- I’m transferring here."
+I’m transferring here."
 エレナ「うん。この世界じゃ、わたしくらいの子は、そこで学ばないといけないんだよね？
- Elena: "Yeah, in this world, kids our age have to go to school, right?
+Elena: "Yeah, in this world, kids our age have to go to school, right?
 だから、わたしも行くことにしたんだよ。」
- So I decided to enroll."
+So I decided to enroll."
 エレナと二人で通う通学路。
- Walking to school with Elena...
+Walking to school with Elena...
 二人で歩く通学路は、とても新鮮だった。
 It feels strange, yet familiar.
 エレナ「すごい！ここが君の通っている学校なんだ。
- Elena:  "Wow!  This is your school?
+Elena:  "Wow!  This is your school?
 わたしたちと同じくらいの子がたくさん。
- There are so many kids our age!
+There are so many kids our age!
 友達、できるといいな。
 I hope I can make some friends.
 あ、そうだ！ちょっと挨拶してくるから、先に行ってて。」
- Oh, I’m going to say hello to someone.  Go ahead without me!"
+Oh, I’m going to say hello to someone. Go ahead without me!"
 そういうと、エレナは人ごみの中へ分け入っていった…。
- She disappears into the crowd.
+She disappears into the crowd.
 ？？？「すみません！」
 ???: "Excuse me!"
 誰かに、呼び止められた。
@@ -10669,275 +10669,275 @@ Someone calls out to me.
 私は今日、この近くの学校へ転校する者なのですが、道がわからなくて…
 but I'm transferring to a school near here today, and I'm a little lost...
 って…あれ？」
- Wait a minute..."
+Wait a minute..."
 振り返り、目があった。
- I turn around and our eyes meet.
+I turn around and our eyes meet.
 そんな…ありえない…。
 This… This can’t be…
 彼がここに、いるはずが…。
- He shouldn’t be here…
+He shouldn’t be here…
 ルーライ！
- Rurai!
+Rurai!
 ルーライ「君は…
- Rurai:  "You're...
+Rurai:  "You're...
 やっぱり、?name?君だったのか！！」
- …It's ?name?! "
+…It's ?name?! "
 どうして、ルーライがここにいるのだろう？
- Why is Rurai here?
+Why are you here?
 ルーライ「僕にも、わからない…。
- Rurai:  "I don't know…
+Rurai:  "I don't know…
 みんなで剣を空に掲げた後、僕はすぐに意識を失って…
- After we raised the sword… I lost consciousness…
+After we raised the sword… I lost consciousness…
 気が付くと、僕はこの世界にいた…。
- When I woke up, I was here…
+When I woke up, I was here…
 そして、この近くにある、学校というところに通うことになっていた…」
- …And I’m supposed to attend this… 'school' nearby…"
+…And I’m supposed to attend this… 'school' nearby…"
 このあたりに、?me?たちと同じ年頃の少年が通える学校は、１校しかない。
- There’s only one school for kids our age in this area.
+There’s only one school for kids our age in this area.
 ルーライも、?me?と同じ学校に入学するのだろうか？
- Is Rurai going to the same school as me?
+Is Rurai going to the same school as me?
 念のため、?me?が通う高校の名前を挙げてみた。
- I tell him the name of my high school.
+I tell him the name of my high school.
 ルーライ「あ、そう。その学校だ！」
- Rurai:  "Oh, that's it!  That's the one!"
+Rurai:  "Oh, that's it!  That's the one!"
 こうしている間に、登校時間は刻々と迫っている。急いだ方がいい。
- We're going to be late if we don't hurry.
+We're going to be late if we don't hurry.
 積もる話もあるが、それはあとだ。
- We have so much to talk about, but we can do that later.
+We have so much to talk about, but we can do that later.
 とにかく、学校へ急ごう。
- Let's get to school!
+Let's get to school!
 ルーライ「…。何というか…。
 Rurai: "...This is...
 僕ら２人だけってのは…なんか変な感じがするよ。」
- ...Kind of weird, just the two of us."
+...Kind of weird, just the two of us."
 確かに、カレシアでは、いつも４人だったから…。
- We were always a group of four back in Kareshia.
+We were always a group of four back in Kareshia.
 ルーライ「いや…、そういうことではなくてだね？
- Rurai: "No, I mean...
+Rurai: "No, I mean...
 男二人、ぴったり隣り合って歩いてるっていうのが…」
- ...Two guys, walking side by side like this..."
+...Two guys, walking side by side like this..."
 すまない。?me?はレンじゃないんだ…。
- I'm sorry, Rurai.  I'm not Ren.
+I'm sorry, Rurai. I'm not Ren.
 はあ………
- "...Right."
+"...Right."
 ルーライ「………」
- Rurai:  "..."
+Rurai: "..."
 そうか…。
 Oh,
 言ってしまってから後悔する。
 I shouldn't have said that.
 ルーライはここにいるが、あの戦いの後、レンとはまだ会えていないのだ。
- Rurai is here, but I haven't seen Ren since the battle.
+Rurai is here, but I haven't seen Ren since the battle.
 ルーライ「いや、いいんだ…
- Rurai:  "No, it’s fine…
+Rurai:  "No, it’s fine…
 僕は…、一緒に旅をした仲間に会えただけで…。
 I’m just… happy to see one of my companions…
 さ、行こうか！遅刻してしまってからでは遅すぎる。」
- Come on, let’s go!  We can’t be late!"
+Come on, let’s go! We can’t be late!"
 いや…一緒に旅をした仲間たちに…もう一度会いたい…。
- I want to see my companions again…
+I want to see my companions again…
 そんなことを考えている間に通いなれた校舎にたどり着いていた。
- Lost in thought, I find myself standing in front of my familiar school building.
+Lost in thought, I find myself standing in front of my familiar school building.
 そのまま教室へ向かう………。
- I head towards my classroom.
+I head towards my classroom.
 小野沢「うっす！皆、おはよう！さあ、朝のホームルームを始めるぞ！
- Onozawa: "Alright, everyone, good morning!  Time for homeroom!
+Onozawa: "Alright, everyone, good morning!  Time for homeroom!
 全員席に着けえっ！」
- Get to your seats!"
+Get to your seats!"
 いつも元気の良い担任の小野沢先生が教室へ入ってくると、それまでにぎやかに談笑していた生徒たちが一斉に席に着いた。
- Our energetic homeroom teacher, Mr. Onozawa, enters the classroom, and the chattering students quickly settle down.
+Our energetic homeroom teacher, Mr. Onozawa, enters the classroom, and the chattering students quickly settle down.
 小野沢「さてと、今日は皆に嬉しいお知らせがある。
- Onozawa:  "Now then, I have some good news for you all today!
+Onozawa:  "Now then, I have some good news for you all today!
 聞け、男子諸君！かわいい美少女が二人も、このクラスに転入してくるぞっ！」
- Listen up, boys!  We have not one, but two beautiful girls joining our class!"
+Listen up, boys!  We have not one, but two beautiful girls joining our class!"
 クラスの片隅で、どっと歓声が沸いた。
- Cheers erupt from one corner of the classroom.
+Cheers erupt from one corner of the classroom.
 小野沢「そして聞けっ、女子諸君！
- Onozawa:  "And listen up, girls!
+Onozawa:  "And listen up, girls!
 王子顔負けの美少年も、このクラスにやってくるぞっ！」
- We also have a handsome young man joining us, someone who could rival any prince!"
+We also have a handsome young man joining us. He's as charming as a prince!"
 こちらも負けず劣らず…。
- More cheers, this time from the other side of the room.
+More cheers, this time from the other side of the room.
 扉を開けて現れたのは…
- The door opens, and there they are…
+The door opens, and there they are…
 もう見慣れた仲間たち…
- …My companions.
+…My companions.
 ここで会うことはないと、自分自身に言い聞かせていたあの仲間たちが…。
- The ones I told myself I would never see again…
+The ones I thought I'd never see again…
 「は…はじめまして…。
- "H-hello…
+"H-hello…
 あたし…森野音　李璃亜です。
- My name is… Morinoto Lilia.
+My name is… Lilia.
 前までは、リゼンの森っていうところで、妖精のみんなと暮らしてて………」
- I used to live in a place called Rysen Forest, with all the fairies…"
+I used to live in a place called Rysen Forest, with all the fairies…"
 クラスメイトたちが、不思議そうにリリアを見る。
- The other students stare at Lilia, confused.
+The other students stare at Lilia, confused.
 リリア「あれ？あたし…
- Lilia: "Uh…
+Lilia: "Uh…
 と、とにかく、よろしく！」
- Anyway, nice to meet you!"
+Anyway, nice to meet you!"
 「えと、わたし、火龍　詠麗奈と言います。
- "Um, my name is Karyu Elena.
+"Um, my name is Elena.
 ここに来るまでは、巫女をやっていました。
- I was a shrine maiden before coming here.
+I was the Volcano Drake's Chosen  before coming here.
 学校なんて初め…じゃなかった、
- School is… well, it’s new to me.
+School is… well, it’s new to me.
 初めて会うみんなと、仲良くできるのかとても心配だけれど、どうかよろしくお願いします！」
- I’m a little nervous about making friends, but I’ll do my best!"
+I’m a little nervous about making friends, but I’ll do my best!"
 「湖王　流宇雷です。
- "I’m Koryu Rui.
+"I’m Rurai.
 趣味は王室図書館での読書、特技は投擲、特に光る石を投げるのは得意です。
- My hobbies are reading in the royal library and throwing things.  I’m especially good at throwing shiny stones.
+My hobbies are reading in the royal library and throwing things. I’m especially good at throwing shiny stones.
 こう…、フェルマー……おっと。
- I… I like… Fermat-… I mean…
+I… I like… Fermat-… I mean…
 好きな女性のタイプは…、問題ごとを解決して回る、みんなのあこがれのような存在みたいな人…かな？
- My ideal girl is… someone who solves problems and inspires others…
+My ideal girl is… someone who solves problems and inspires others…
 この世…いやいや、この学校のことは分からないことばかりで迷惑をかけるかもしれないけど、皆、これからよろしく！」
- This… uh, school is a little overwhelming, so please bear with me.  Nice to meet you all!"
+This… uh, school is a little overwhelming, so please bear with me.  Nice to meet you all!"
 妖精の女の子に学校を知らない巫女、王室に出入りできる少年…。
- A fairy girl, a shrine maiden who’s never been to school, and a young man who talks about royal libraries…
+A fairy girl, a dragon's chosen who’s never been to school, and a young man who talks about royal libraries…
 ?me?にはわかるのだが、ほかのクラスメイトにとってはどこかおかしな3人組に見えただろう。
 I understand, but to everyone else, they must seem strange.
 小野沢「何なんだ、お前ら…？
- Onozawa: "What’s going on here?
+Onozawa: "What’s going on here?
 面白いな。コントでもやってるつもりか？
- Is this some kind of comedy routine?
+Is this some kind of comedy routine?
 まあ、いい。
- Well, no matter.
+Well, no matter.
 妖精君は、窓際の1番前、その隣に巫女さん、
- Fairy Girl, you’re in the front row by the window. Shrine Girl, you’re next to her,
+Fairy Girl, you’re in the front row by the window. Dragon Girl, you’re next to her,
 そして妖精君の後ろが王子君の席だ。さ、座りたまえ。」
- and Prince Charming, you’re behind Fairy Girl.  Go ahead and take your seats."
+and Prince Charming, you’re behind Fairy Girl. Go ahead and take your seats."
 なぜに、3人とも?me?の近くの席なのだろうか。
- Why are they all sitting near me?
+Why are they all sitting near me?
 小野沢「さて、１カ月後まで迫った文化祭だが……」
- Onozawa: "Now then, the Cultural Festival is only a month away..."
+Onozawa: "Now then, the Cultural Festival is only a month away..."
 ともかく3人は、皆の温かい拍手で、このクラスに迎え入れられたのだった。
- The three of them are welcomed to our class with warm applause.
+The three of them are welcomed to our class with warm applause.
 ホームルームが終わると、?me?を含め、4人が一斉にお互いの存在を確認しあう…。
-As homeroom ends, the four of us?me, Lilia, Elena, and Rurai?exchange glances.
+As homeroom ends, the four of us--me, Lilia, Elena, and Rurai--exchange glances.
 エレナ「みんな…また、会えたね…」
- Elena: "We... we're together again..."
+Elena: "We... we're together again..."
 どうして、皆がここにいるのだろうか？
- How did we all end up here?
+How did we all end up here?
 ルーライ「僕らにも、わからない。
- Rurai: "We don't know.
+Rurai: "We don't know.
 けれど気づけばここにいて、?name?君のいるこの学校への天候が決まっていたんだ。
-But somehow, we're here.  In your world, ?name?.  And we're all going to this school.
+But somehow, we're here. In your world, ?name?. And we're all going to this school.
 どうしてってみんなが思うのは当たり前だけど、僕たちはこうして、新しい世界…
- It's strange, I know, but we're alive… in a new world…
+It's strange, I know, but we're alive… in a new world…
 ?name?君がもともと住んでいた世界で生きている。
- Your world, ?name?.
+Your world, ?name?.
 それだけで、今は十分だと僕は思うよ。」
- I think that's enough for now."
+I think that's enough for now."
 確かに、ルーライの言うとおりだ。
 He's right.
 気付けば?me?はカレシアにいて…。
- I woke up in Kareshia…
+I woke up in Kareshia…
 リリアやエレナ、ルーライと出会い、世界を破壊してしまうほどの強大な魔の力に立ち向かった。
- I met Lilia, Elena, and Rurai… and together, we faced a powerful evil that threatened to destroy everything.
+I met Lilia, Elena, and Rurai… and together, we faced a powerful evil that threatened to destroy everything.
 だから、みんなが?me?の世界にいたとしても、何も心配することはない。
- There’s nothing to worry about now.  They’ll be fine here, in my world.
+There’s nothing to worry about now. They’ll be fine here, in my world.
 そうだ。こうして皆に再び出会えたこと…、
- We’re together again…
+We’re together again…
 今、皆と一緒にいられること！
- We’re here, together!
+We’re here, together!
 それだけで…、十分じゃないか。
- Isn’t that enough?
+Isn’t that enough?
 エレナ「わたしたちの願い…。ラストホープがかなえてくれたのかもしれないね…」
- Elena: "Maybe… maybe Last Hope granted our wish..."
+Elena: "Maybe… maybe Last Hope granted our wish..."
 ?me?たちの思いが…世界を超えて届いた…！！
- Our desire… it transcended worlds…
+Our desire… it transcended worlds…
 エレナ「ふふ。がんばったね、わたしたち！」
- Elena: "We did it!  We really did it!"
+Elena: "We did it!  We really did it!"
 リリア「ねえ、ここがあんたの世界なんでしょ？
- Lilia:  "This is your world, right?
+Lilia:  "This is your world, right?
 あたしたちがカレシアでできなかった楽しいこと…、
 Let's do all the fun things we couldn't do in Kareshia!
 みんなでたくさんやろうよ！」
- Together!"
+Together!"
 そうだ。ここは、?me?が元いた世界。
- This is my world…
+This is my world…
 とても平和な世界…。
- A peaceful world…
+A peaceful world…
 ?me?たちにはこれからがある！
- We have a future here!
+We have a future here!
 皆で楽しもう。
 Let’s have fun.
 皆で笑おう。
- Let’s laugh together.
+Let’s laugh together.
 皆で泣こう。
 Let's cry together.
 そしてこれからも…、皆で協力し、
- And let’s face the future…
+And let’s face the future…
 未来へと突き進もう！！
 …Together!
 あれから数日後…。
- Several days later…
+Several days later…
 「ねえ…?name?？」
- "Hey, ?name?..."
+"Hey, ?name?..."
 リリアと二人で帰る放課後。
- Lilia and I are walking home from school.
+Lilia and I are walking home from school.
 この世界で初めて会った日の朝のように、リリアが話かけてきた。
- Just like that morning when we first met in this world, Lilia calls out to me.
+Just like that morning when we first met in this world, Lilia calls out to me.
 今日は、エレナは手芸部、ルーライは陸上部で、リリアと２人なのだ。
- Elena is at Handicrafts Club and Rurai is at Track and Field Club, so it’s just the two of us today.
+Elena is at Handicrafts Club and Rurai is at Track and Field Club, so it’s just the two of us today.
 エレナが手芸部というのは少し意外だったが、さすがは女の子。今は文化祭に向け、作品作りに励んでいるようだ。
- It’s a little surprising that Elena joined Handicrafts Club, but I guess it makes sense.  She's busy making things for the Cultural Festival.
+It’s a little surprising that Elena joined Handicrafts Club, but I guess it makes sense. She's busy making things for the Cultural Festival.
 ちなみにルーライは、砲丸投げしかやらないらしい。毎度のごとく、お決まりのセリフを叫んでいるといううわさも耳にしたことがある。
- Rurai, of course, only does shot put.  I even heard a rumor that he shouts his usual catchphrase every time he throws.
+Rurai, of course, only does shot put. I even heard a rumor that he shouts his usual catchphrase every time he throws.
 皆すっかりこの学校になじみ、思い思いの活動に参加し始めたのだ。
- Everyone has settled into school life and found their own activities.
+Everyone has settled into school life and found their own activities.
 そして?me?は、たまたまリリアと帰る時間が一緒になり、こうして２人で帰っているというわけだ。
- And somehow, Lilia and I ended up leaving school at the same time today.
+And somehow, Lilia and I ended up leaving school at the same time today.
 しかし………。
- But…
+But…
 今日のリリアは、様子がおかしかった。何か、思い悩んでいる様子だ…。
- …Something’s different about Lilia today. She seems troubled.
+…Something’s different about Lilia today. She seems troubled.
 「あの…、あたし…みんなを守れるようになれたかな？
- "Do you think... I'm strong enough to protect everyone now?
+Lilia: "Do you think... I'm strong enough to protect everyone now?
 初めて?name?と会ったとき、あたしは、みんなを見捨てて逃げ出す臆病者だった…。
- When we first met, I was a coward.  I abandoned everyone and ran away…
+When we first met, I was a coward. I abandoned everyone and ran away…
 でもそれから、あんたと一緒になって…、みんなとも同化して…。
- But then I became a part of you… and then we merged with everyone else…
+But then I became a part of you… and then we merged with the others…
 世界を巡るうちに何か変われたかなって…。」
- …And I think I changed.  Do you think so?"
+…And I think I changed. Do you think so?"
 リリアは、本当に強くなったと思う。
- I think Lilia has become incredibly strong.
+I think you've become incredibly strong.
 その土地に住む人たちを救おうと一生懸命に考えてくれた。
- She always thought about the people around her, doing everything she could to help them.
+You always thought about the people around you, doing everything you could to help them.
 凶悪な魔物と遭遇しても逃げ出さず、一緒に戦ってくれた…。
-She never ran away from those terrifying monsters. She fought alongside us.
+You never ran away from those terrifying monsters. You fought alongside us.
 溶岩流や切り立った崖でも、リリアが一緒だったからこそ、先へ進むことができたではないか。
-We couldn’t have crossed those lava flows or those treacherous cliffs without her.
+We couldn’t have crossed those lava flows or those treacherous cliffs without you.
 「………。
- "…
+Lilia: "…
 ほんとに…そう思ってる？」
- Do you… really think so?"
+Do you… really think so?"
 ああ。
- Yes.
+Yes.
 もちろんだ。
- Of course.
+Of course.
 「えへへ。
- "Heh heh.
+Lilia: "Heh heh.
 けど…ね、あたしが変われたのは…?name?の…おかげなんだよ？
- But… I changed because of you, ?name?.
+But… I changed because of you, ?name?.
 あんたががんばってるのを見て、あたしもがんばろうって思えたから…。」
- Seeing you working so hard… it made me want to be strong, too."
+Seeing you working so hard… it made me want to be strong, too.
 「ねえ?name?？
- "Hey, ?name?...?
+Hey, ?name?...?
 これからもずっと…、一緒に…いてくれる？」
  Will you... stay with me…?  Always...?"
 当然だ。リリアを一人にするなんて、危なっかしくて見ていられない。
- Of course. You're way too reckless to be left alone, Lilia.
+Of course. You're way too reckless to be left alone, Lilia.
 「そっ！そういうことじゃ…なくって…。
- "Th-that's not... what I meant...
+Lilia: "Th-that's not... what I meant...
 えと、そういうことでも…いいから。
- Well, that's okay too…
+Well, that's okay too…
 これからも…あたしに、あんたの勇気を分けてほしい…。
- I... I still need your courage…
+I... I still need your courage…
 だから…ね！」
- So…"
+So…"
 皆との再開から、まる１週間が経過した。
 A week has passed since our reunion.
 ３人もこのクラスにすっかりなじみ、それぞれが思い思いの活動に参加しているようだ。
@@ -10949,447 +10949,447 @@ She's overcome her fear of water, thanks to Rurai.
 ルーライは、図書委員になったようだ。
 Rurai joined the library committee.
 王室図書館での読書が趣味だといったあの時から、図書委員に狙われていたらしい。
-It seems he was targeted by the committee from the moment he mentioned his love of reading.
+I think he was targeted by the committee from the moment he mentioned his love of reading.
 本人いわく、これまでに読んだことのない本がたくさんある（おもに物語本のようだが）ので、それなりに充実しているといっていた。
- He says he’s enjoying himself, discovering all sorts of new books he's never read before.
+He says he’s enjoying himself, discovering all sorts of new books he's never read before.
 だがエレナは…。
 But Elena…
 最近あまり元気がないのだ。
 …She hasn’t been herself lately.
 「ねえ、?name?君…？」
- "Hey, ?name?..."
+"Hey, ?name?..."
 放課後、何も用事のないエレナと二人で帰る道すがら、彼女が声をかけてきた。
- We're walking home from school, and she speaks up.
+We're walking home from school, and she speaks up.
 エレナは、クラスメイトになじめずにいるのだろうか。それとも、授業についていけないのだろうか。
- Is she having trouble making friends?  Or keeping up with the schoolwork?
+Are you having trouble making friends?  Or keeping up with the schoolwork?
 「ううん、そういうのじゃないの…。
-"No, it's not that…
+Elena: "No, it's not that…
 あのね、最近よく考えちゃうんだ…カレシアのこと…。
- I've been thinking about Kareshia a lot…
+I've been thinking about Kareshia a lot…
 里のみんなは元気にやってるかなとか…、
- I wonder if everyone in the village is doing okay…
+I wonder if everyone in the village is doing okay…
 ゴポンガ様一人で、里は大丈夫かな、とか…。
- Can Goponga handle everything on his own?
+Can Goponga handle everything on his own?
 わたしが帰ってこないこと、心配してくれているかもしれないし…。」
- They must be worried that I’m not coming back..."
+They must be worried that I’m not coming back..."
 それは、心配しているだろう。エレナが、里の皆を心配するのと同じだ。
- I’m sure they are, Elena.  Just like you're worried about them.
+I’m sure they are, Elena. Just like you're worried about them.
 「そう…だよね。
-"Yeah…
+Elena: "Yeah…
 でも、またあの里に危険がせまったら、わたしは山王の巫女としてみんなを守らないといけない。
- But if something happens, if that danger returns… I have to protect everyone, as the Volcano Drake’s Chosen.
+But if something happens, if that danger returns… I have to protect everyone, as the Volcano Drake’s Chosen.
 だけれど、今のわたしは、カレシアとは別の世界にいる…。
- But I’m in a different world now…
+But I’m in a different world now…
 ねえ、?name?君？
- ?name?…?
+?name?…?
 どうやって里のみんなを守ればいいのかな？」
- How can I protect them?"
+How can I protect them?"
 ?me?は………、そんなことは当分ないと思っている。
- I don't think anything will happen for a while.
+I don't think anything will happen for a while.
 カレシアは、１度崩壊寸前にまで追い込まれた世界だ。
- Kareshia was on the verge of collapse.
+Kareshia was on the verge of collapse.
 二度と同じことが起こらないよう、アリアを中心に、世界中の人々が協力し合い、
 Aria and everyone else are working together to rebuild it,
 誰もが安心して暮らすことのできる世界を作ってくれるだろう。
- to create a world where everyone can live in peace.
+to create a world where everyone can live in peace.
 エレナ「誰もが…安心して暮らせる世界…」
- Elena: "A world... where everyone can live in peace..."
+Elena: "A world... where everyone can live in peace..."
 エレナは、ゲーラスから託された、ルドルフを倒し世界を救うという使命を果たした。
- She fulfilled her duty. She defeated Rudolph and saved the world.
+You've fulfilled your duty. You defeated Rudolph and saved the world.
 この旅は、とても過酷なものだった。
- It was a difficult journey.
+It was a difficult journey.
 だからエレナにも、心と体を休めてほしい。
- She deserves a chance to rest and recover.
+You deserve a chance to rest and recover.
 今まで忙しくて、やりたくてもできなかったことをして、楽しんでほしい。
- To do all the things she’s always wanted to do.
+To do all the things you've always wanted to do.
 「楽しむ…？
- "Enjoy myself…？
+Elena: "Enjoy myself…？
 けれど、わたしは山王の巫女。
- But I’m the Volcano Drake’s Chosen.
+But I’m the Volcano Drake’s Chosen.
 皆をおいて自分だけがなにかを楽しむなんて…」
- I can’t just… have fun while everyone else…"
+I can’t just… have fun while everyone else…"
 エレナはエレナだ。
- You’re still Elena, even if you’re the Chosen.
+You’re still Elena, even if you’re the Chosen.
 巫女としての仕事も大切かもしれないが、
 Your duties are important,
 まずは、自分を大切にした方がいい。
- but you need to take care of yourself too.
+but you need to take care of yourself too.
 「?name?君…。
- "?name?...
+Elena: "?name?...
 …あれ？、わたし…どうしちゃったんだろう？
- …What’s… wrong with me?
+…What’s… wrong with me?
 わたし、ほんとはたくさんやりたいことがあって、
- There are so many things I want to do…
+There are so many things I want to do…
 でも…山王の巫女だからって…ずっと我慢して…。
- But I kept telling myself I couldn’t… because I’m the Chosen…
+But I kept telling myself I couldn’t… because I’m the Chosen…
 皆を守ってあげられれば、それでいいかなって…。
- All that mattered was protecting everyone…
+All that mattered was protecting everyone…
 でも、それだけじゃいけないね…。
- But that's not enough.
+But that's not enough.
 君の言うとおり、わたし自身も幸せにならないと…。
- You're right, I have to be happy too…
+You're right, I have to be happy too…
 ふふ。なんか、もやもやしたのが全部なくなったみたい！」
- Heh.  I feel… lighter."
+Heh.  I feel… lighter."
 そこにはいつもの、元気なエレナの姿があった。
 She's back.  The Elena I know.
 「ねえ？わたし、世界の不思議なこと、たくさん知りたい。
- "You know…  I want to learn about all the wonders of this world.
+Elena: "You know…  I want to learn about all the wonders of this world.
 だからね…その………
- So… um…
+So… um…
 ?name?きみが知っている不思議なこと、わたしにたくさん教えてほしい。」
- …Will you teach me, ?name??"
+…Will you teach me, ?name??"
 そしてこれからは、二人で探そう。世界の不思議を。
- Let's explore this world's wonders together.
+Let's explore this world's wonders together.
 「うん！」
- "Okay!"
+Elena: "Okay!"
 あれから数日…。
 A few days pass...
 転校してきた３人も、すっかりこの学校の一因だ。
 The three transfer students have become a part of our school.
 リリアはクラスメイトに誘われ、駅前の喫茶店でアルバイトを始めたようだ。
- Lilia started working part-time at a cafe near the station, after one of our classmates invited her.
+Lilia started working part-time at a cafe near the station, after one of our classmates invited her.
 どこの店で働いているのかと聞いたところ、
- When I asked her where she was working,
+When I asked her where she was working,
 リリア「なっ！なんであんたなんかに教えなくちゃいけないの！？
- Lilia:  "Why do I have to tell you?!
+Lilia: "Why do I have to tell you?!
 その…あたしがどこで働いてたって、あんたには…関係ないでしょ？」
- It's... none of your business where I work!"
+It's... none of your business where I work!"
 と、この頃は一段と厳しくなった。
- She's gotten a lot more assertive lately.
+She's gotten a lot more assertive lately.
 エレナは、剣道部で頑張っている。
- Elena joined the Kendo Club.
+Elena joined the Kendo Club.
 初めて剣道部を見学した時、模擬戦であっさり部長を倒してしまい、現在は剣道部期待の星となったそうだ。
- She effortlessly defeated the club captain during her first practice session, and now everyone has high hopes for her.
+She effortlessly defeated the club captain during her first practice session, and now everyone has high hopes for her.
 そして今日。ルーライが、一緒に帰らないかと声をかけてきた。
- And today…  Rurai asked if I wanted to walk home with him.
+And today…  Rurai asked if I wanted to walk home with him.
 「すまないね。?name?君も忙しいのに…。
- "Sorry to bother you, ?name?, especially when you're so busy.
+Rurai: "Sorry to bother you, ?name?, especially when you're so busy.
 だけど僕、最近どうしても考えてしまうことがあって夜もなかなか寝付けないんだ。」
- But there's something I've been struggling with lately.  I can't sleep at night."
+But there's something I've been struggling with lately. I can't sleep at night."
 それは、もしやレンのことだろうか。
- Is he thinking about Ren?
+You're thinking about Ren?
 「え？どうして…」
- "What? How did you..."
+Rurai: "What? How did you..."
 ルドルフに都を襲撃されたあの時、ルーライはレンに留守を任せ、必ず帰ってくると誓った。
- When Rudolph attacked Fermare, Rurai promised Ren he would return.
+When Rudolph attacked Fermare, you promised Ren he would return.
 しかし、?me?たちは今、カレシアとは別の世界にいる。
- But we're in a different world now.
+But we're in a different world now.
 そう。もともと?me?が暮らしていた世界だ。
- My world.
+My world.
 「そうか。君は本当に何でも分かるんだ。
- "I see…  You really can read my mind.
+Rurai: "I see…  You really can read my mind.
 レンとの約束を僕は守れなかった。
- I broke my promise to Ren.
+I broke my promise to Ren.
 レンに…会いたい。
- I... I want to see her.
+I... I want to see her.
 僕は…これからどうすればいいんだろう？」
- What should I do?"
+What should I do?"
 ラストホープ…。
- Last Hope…
+Last Hope…
 「！！」
- "!!"
+Rurai: "!!"
 願い続ければ、再びカレシアへ戻ることもできるかもしれない…。
- If we keep wishing… maybe we can return to Kareshia…
+If we keep wishing… maybe we can return to Kareshia…
 「願い続ければ。
- "If we keep wishing…
+Rurai: "If we keep wishing…
 そうか、そうだよね！
- …That’s it!
+…That’s it!
 僕らには、ラストホープがある。
- We have Last Hope.
+We have Last Hope.
 きっと、僕の願いも届くはずだよね。」
- It will grant my wish, I know it."
+It will grant my wish, I know it.
 レン。
- Ren…
+Ren…
 必ず…必ず君に会いに行きます。
- I’ll see you again. I promise.
+I’ll see you again. I promise.
 だから、あと少しの間…都のこと、よろしくお願いします…。
- Until then…  please… take care of the city…
+Until then…  please… take care of the city…"
 ；　レンの最後
- ; Ren's Final Moments
+; Ren's Final Moments
 　時は変わり、世界を超えたその先で、
 Time passes, and in a world beyond,
 　一人の老いた女性がその生涯に別れを告げようとしていた。
- an elderly woman lies on her deathbed.
+an elderly woman lies on her deathbed.
 　もはや床から動くことさえ叶わず、弱弱しくその場に横たわり、薄く開かれた双眼はどこか遠くを見つめていた。
- Too weak to move, she rests peacefully, her eyes gazing into the distance.
+Too weak to move, she rests peacefully, her eyes gazing into the distance.
 　周囲には親族や多くの部下たちが勢揃いし、沈痛な面持ちでベッドの中の女性を見つめている。
- Her family and loyal subjects surround her, their faces etched with sorrow.
+Her family and loyal subjects surround her, their faces etched with sorrow.
 　中には声を押し殺して涙を流すものまでいるほど、この場の雰囲気は重く、場の全員にどっしりと圧し掛かっていた。
- Some weep silently. The atmosphere is heavy, a weight pressing down on everyone present.
+Some weep silently. The atmosphere is heavy, a weight pressing down on everyone present.
 レン「………。」
- Ren:  "..."
+Ren:  "..."
 女性が何事かを発した。が、あまりにも弱弱しく、紡がれた言葉は誰に聞きとがめられることもなく虚空へと溶けて消えていった。
- She whispers something, but her voice is so faint that her words are lost to the air.
+She whispers something, but her voice is so faint that her words are lost to the air.
 次の瞬間、それまで開かれていた両目がゆっくり、ゆっくりと閉じられようとする。
 Her eyelids slowly begin to close.
 もう、誰も声を潜めようとはしなかった。
 No one tries to stifle their sobs now.
 ベットに駆け寄り懸命に彼女の名を呼ぶ親族や部下たち。
- Her loved ones rush to her bedside, calling her name.
+Her loved ones rush to her bedside, calling her name.
 いくら心を込めても。
- But no amount of love,
+But no amount of love,
 どれだけ願っても。
- no amount of hope,
+no amount of hope,
 人は、老いから逃げ延びることなどできはしない。
- can stop the inevitable march of time.
+can stop the inevitable march of time.
 とうとう、彼女の瞼が静かに閉じられる。
- Her eyelids flutter closed.
+Her eyelids flutter closed.
 最後の表情は、まるで神話に出てくる女神のように柔らかく、安らかなものであった。
- A serene smile graces her face, a gentle expression befitting a goddess.
+A serene smile graces her face, a gentle expression befitting a goddess.
 その日、フェルマーレを守り抜き、発展させてきた永愛の女王こと、レンが。その生涯に別れを告げた。
- Ren, the beloved queen who protected and nurtured Fermare, breathed her last.
+Ren, the beloved queen who protected and nurtured Fermare, breathed her last.
 ；　レンの転生
- ; Ren's Reincarnation
+; Ren's Reincarnation
 レン「私は…。」
- Ren: "I..."
+Ren: "I...
 レン「確か私は多くの家族たちに囲まれて、この命の営みを終えたはず……。
- "I was surrounded by my family…  I should be gone…
+I was surrounded by my family…  I should be gone…
 それなのに、何故私は今こうして考えを巡らせることができているのでしょうか？」
- Why… Why can I still think?  Why am I still here?"
+Why… Why can I still think?  Why am I still here?"
 ？？？「教えてやろうか？今のあんたが置かれてる状況と、そうなった理由とを。」
- ???:  "Want me to tell ya?  About your current situation, and how it came to be?"
+???: "Well, want me to tell ya how it all happened?"
 レン「！！あなたは？
- Ren: "!!  Who…
+Ren: "!!  Who…
 ……どなたでしょう？
- …Who are you?
+…Who are you?
 もしや、神と名がつかれるお方でしょうか？」
- Are you… a god?"
+Are you… a god?"
 ？？？「さあな。まっ、気にスンナって。」
- ???:  "Who knows? Don’t sweat the small stuff."
+???: "Who knows? But don’t you worry yourself about that."
 レン「しかし……。」
- Ren: "But…"
+Ren: "But…"
 ？？？「……そうだな……。
- ???:  "…Hmm…
+???:  "…Hmm…
 ……ううむ。悩むぜ。
- …Tough one…
+…This is a tough one…
 何ていえばいいんだろうな？
- How should I put this?
+How should I put this?
 あたしは世界を。見守ってんだ。
- I watch over worlds.
+I watch over worlds.
 ただただずっと。ここで。見守り続けてる。……ずっとな。」
- That's all I do.  Watch…  forever."
+That's all I do. Watch… forever."
 レン「それを神というのでは？」
 Ren: "Isn’t that what a god does?"
 ？？？「そうかもしれないし、そうでないかもしれない。
 ???: "Maybe, maybe not.
 んま、ともかくだ。
- Anyway, long story short,
+Anyway, long story short,
 あんたらの世界《カレシア》を見守ってるやつから、レン。あんたのことを頼まれたのさ。あたしは。
- Someone asked me to look after you, Ren.  Someone who's watching over your world… 'Kareshia'.
+Someone asked me to look after you, Ren. Someone who's watching over your world… 'Kareshia'.
 『力を枯渇させた私の代わりに、彼女を救ってほしい』んだと。
- They said, 'Save her, in my stead…  I can’t do it anymore.'
+They said, 'Save her, in my stead… I can’t do it anymore.'
 そこで、あたしはそいつと一つの賭けをして、それを了承した。」
- So we made a bet, and I agreed."
+So we made a bet, and I agreed."
 レン「それは……。
 Ren: "This is…
 あまりにも現実離れしすぎていて、そう簡単には信じ難い話ですね。」
- …Hard to believe."
+…Hard to believe."
 ？？？「そりゃあそうだろうなあ。
- ???:  "I get it.
+???:  "I get it.
 ……まあでもいいじゃねえか。
- …But don’t worry about it.
+…But don’t worry about it.
 あんたんとこのが助けてくれるっていうんならお言葉に甘えちまえばさ。
- If they’re willing to help, we might as well go for it, right?
+If I’m willing to help, you might as well go for it, right?
 それに、これ以上知っちまったらさ。
- Besides, if you know too much…
+Besides, if you know too much…
 あんた、大事な大事なあの王子様に会えなくなっちまうぜ？
- …You might not be able to see that prince of yours again, y’know?
+…You might not be able to see that prince of yours again, y’know?
 それでも良いって言うんなら教えてやるけどな。」
- Still wanna know?"
+Still wanna know?"
 レン「ちょっと待ってください！
- Ren:  "Wait a minute!
+Ren:  "Wait a minute!
 今……。今、王子と言われましたか？
- Did you just say…  'prince'?
+Did you just say…  'prince'?
 それはもしや……！！」
- You mean…?!"
+You mean…?!"
 ？？？「あんたの思ってる通りだぜ。
- ???:  "You got it.
+???:  "You got it.
 あんたの最愛の人、ルーライの住む世界へとあんたを転生させてやるよ。
- I’m gonna reincarnate you into your beloved Rurai’s world.
+I’m gonna reincarnate you into your beloved Rurai’s world.
 ……約束した品。」
- …Consider it a reward."
+…Consider it a reward."
 レン「約束…ですか。
- Ren:  "A reward… for what?
+Ren:  "A reward… for what?
 もしよろしければどのような賭けをしたのか。
- What was the bet,
+What was the bet,
 教えてはいただけませんか？」
 If you don’t mind me asking…"
 ？？？「いいぜ。
- ???:  "Sure.
+???:  "Sure.
 っていっても簡単な話さ。
- It's simple, really.
+It's simple, really.
 もしあんたが死ぬまであの王子のことを愛していたら。
- If you loved that prince till the day you died…
+If you loved that prince till the day you died…
 あたしが助けてやるってやつだ。
- …I’d help you out.
+…I’d help you out.
 なんかそれを聞くなりそっちのは自信満々に大丈夫だって言ってたけどな。
- When they heard that, they were all confident that you’d be fine.
+When they heard that, they were all confident that you’d be fine.
 まさか。本当とはなあ。少なからず驚きだぜ。」
- Never thought it’d be true, though.  Color me surprised."
+Never thought it’d actually happen though. Color me surprised."
 レン「そう……なのですか……。
- Ren: "So… that’s…
+Ren: "So… that’s…
 私が頑なにあの方だけを慕い、誰が何と言おうとも独り身でいたことは……。
- …My unwavering devotion, my refusal to even consider anyone else…
+…My unwavering devotion, my refusal to even consider anyone else…
 無意味なものでは。なかったのですね。」
- …It wasn’t…  in vain…"
+…It wasn’t… in vain…"
 ？？？「まあ、そうなるな。
- ???:  "Nope.
+???:  "Nope.
 それじゃあ、そろそろ行きな。
- Now, off you go!
+Now, off you go!
 時代は遡り、あんたの王子様方がこっちの世界へときたころだ。
- Back to a time when your prince and his friends were visiting your world.
+Back to a time when your prince and his friends were visiting your world.
 今度こそ。幸せになんな。」
- Go get your happy ending."
+Go get your happy ending."
 ？？？「ああ、そうそう。
- ???:  "Oh, yeah!
+???:  "Oh, yeah!
 齢もそのころのものにしとくから。
- I’ll rewind your age, too.
+I’ll rewind your age, too.
 がんばんな。
- Good luck!
+Good luck!
 ……いろいろとな。」
- …With everything."
+…With everything."
 レン「えっ！それはいったい！？」
- Ren:  "What?! What does that mean?!"
+Ren:  "What?! What does that mean?!"
 ？？？「さあ、それじゃあ、行ってきな。
- ???:  "Off you go!
+???:  "Off you go!
 いや、ようこそか？」
- Or… welcome back, I guess?"
+Or… welcome back, I guess?"
 ；　再び、主人公とルーライ
- ;  The Hero and Rurai, Once More
+;  The Hero and Rurai, Once More
 ？？「もう、待ちくたびれました。」
- ??: "I'm tired of waiting."
+??: "I'm tired of waiting."
 不意に響き渡る女性の声。
- A woman's voice echoes through the air.
+A woman's voice echoes through the air.
 その声の主は小走りにこちらへと駆けてくる。
- The owner of the voice is running towards us.
+The owner of the voice is running towards us.
 ルーライ「！！」
- Rurai:  "!!"
+Rurai:  "!!"
 声を聞くなり、瞬時にそちらを向いたルーライが石像のように固まった。
- Rurai freezes, his gaze fixed on the approaching figure.
+Rurai freezes, his gaze fixed on the approaching figure.
 あれは。
- Could it be…?
+Could it be…?
 もしや！！
- No way!
+No way!
 その人物が、とうとうこちらにたどり着く。
 The person reaches us.
 　その姿は………。
- …It’s…
+…It’s…
 ルーライ「レ……。レ！！ぐはあ！！」
- Rurai:  "Re…  Re…  Ugh!"
+Rurai: "Re… Re… Ugh!"
 　ルーライが、何事かを言おうとした瞬間。
- Before Rurai can finish speaking,
+Before Rurai can finish speaking,
 見事な右ストレートが、彼の鳩尾に突き刺さる。
- a perfect right hook connects with his stomach.
+a perfect right hook connects with his stomach.
 ………いい突きだ。
- …That was a clean hit.
+…That was a clean hit.
 ついついそう思ってしまうほどの流れるような動作だった。
- Her movements were fluid and precise.
+Her movements were fluid and precise.
 ルーライはその場にへたり込み咳こんでいる。それに、少し涙目だ。
- Rurai collapses, coughing and teary-eyed.
+Rurai collapses, coughing and teary-eyed.
 その女性はすがすがしい表情をその顔いっぱいに浮かべこういった。
- The woman beams, a triumphant smile on her face.
+The woman beams, a triumphant smile on her face.
 レン「待つのは。もう、こりごりです。」
- Ren: "I'm…  done waiting."
+Ren: "I'm…  done waiting."
 そう、柔らかく微笑みながら言う。
- Her voice is soft, but her words are firm.
+Her voice is soft, but her words are firm.
 レン「だから……。
- Ren: "That's why…
+Ren: "That's why…
 だから。私があなたのお側に。
- …I’m going to stay by your side.
+…I’m going to stay by your side.
 今度こそ私は。あなたと添い遂げてみせます。
-This time…  I’ll be with you… forever.
+This time… I’ll be with you… forever.
 この身は、御身のために。
 My life…  is yours.
 愛する、あなたの……」
- My beloved…  Rurai…"
+My beloved…  Rurai…"
 　ROOLAY END
 Rurai END
 ；　以下は文字なし。
- ; The Epilogue
+; The Epilogue
 これから語られる物語は、世界の果…
- (No dialogue; scenes depicting the aftermath of the battle and the state of the world)
+(scenes depicting the aftermath of the battle and the state of the world)
 誰にも知りえない世界の果で交わされた、一つの約束………
- The story that follows… is a promise made… at the edge of the world… known only to a select few…
+The story that follows is a promise made at the edge of the world, known only to a select few…
 …何も…できませんでした…。
- …I failed…
+…I failed…
 世界を救うためとはいえ、私の勝手な都合で呼び出してしまった勇者?name?様に…
 I summoned ?name?, the hero, to this world for my own selfish reasons, to save Kareshia…
 そして、空へ帰るはずだった魂を、ラストホープの力で強引に引き止め、
- I used the power of Last Hope to bind their souls, preventing them from returning to the heavens…
+I used the power of Last Hope to bind their souls, preventing them from returning to the heavens…
 世界を守るという使命を与えてしまった皆さんにも…
- And I forced them to bear the burden of saving this world…
+And I forced them to bear the burden of saving this world…
 世界は、平和を取り戻しました。
- Kareshia is at peace now.
+Kareshia is at peace now.
 ですが、この世界を救ってくださった皆さんは…
- But those who saved us…
+But those who saved us…
 何一つ、幸せを得られなかったではありませんか！
- …They gained nothing!  They sacrificed everything!
+…They gained nothing! They sacrificed everything!
 私は…どうすれば…？
- What…  What have I done?
+What…  What have I done?
 お？あんたは確か…カレシアの…。
- "Oh?  You're from… Kareshia, right?"
+"Oh?  You're from… Kareshia, right?"
 あなたは、?name?様の世界の…。
 "And you're from… ?name?'s world…"
 いやいや、あんたが勝手にアイツを引っ張っていくから、こっちはひやひやしてたんだぜ？
- "Listen, you dragged them into this mess, and we were sweating bullets over here, y’know?
+"Listen, you dragged them into this mess, and we were sweating bullets over here, y’know?
 世界が無数に存在するなんてことが、その世界に住む人々に知れ渡ったら、世界軸をも狂わす、ものすごい研究とかするやつがあらわれて、
- If people found out about the existence of countless worlds, someone would try to exploit that knowledge, and it would throw the entire dimensional axis into chaos!
+If people found out about the existence of countless other worlds, someone would try to exploit that knowledge, and it would throw the entire dimensional axis into chaos!
 これまで以上に混沌とした無数の世界が出来上がっちまうんだから。
-We'd have even *more* worlds to worry about!
+We'd have even more worlds to worry about!"
 …申し訳…ありません。
- …I… I’m sorry.
+"…I… I’m sorry."
 まあ、いいってことよ。結果的に、?name?はほかの世界のことを広めたりしそうにないし。
-"Well, it's fine.  It doesn't seem like ?name? is going to tell anyone about other worlds.
+"Well, it's fine. It doesn't seem like ?name? is going to tell anyone about other worlds.
 それに、カレシアもどうにか救われたんだろ？
- And you managed to save Kareshia, right?"
+And you managed to save Kareshia, right?"
 はい…。ですが…。
- "Y-yes…  But…"
+"Y-yes…  But…"
 魂を繋ぎ止められてまで世界を救う使命を課された３人は、帰らなかった…。
- "Those three souls… bound to this world to save it… they didn't return."
+"Those three souls… bound to this world to save it… they didn't return.
 後悔、してるのか？
- "Are you… regretting your decision?"
+Are you… regretting your decision?"
 でもさ、この一連の出来事で、命を落としたやつは、それこそ蟻の大群ほどもいるんだぜ？
- "Countless lives were lost during this whole ordeal, y’know? More than you can imagine."
+"Countless lives were lost during this whole ordeal, y’know? More than you can imagine."
 …ですが…。
- "…But…"
+"…But…
 彼らは、世界を救ってくれた…。それなのに…。
- "They saved the world…  And yet…"
+They saved the world…  And yet…"
 ああ、もう見てらんねえよ！
- "Ugh, I can't stand this!
+"Ugh, I can't stand this!
 あんたがしっかりしなくて、カレシアはどうすんだよ！？
- What’s gonna happen to Kareshia if you fall apart?!"
+What’s gonna happen to Kareshia if you fall apart?!
 しかたねえな。あたしが、救ってやるよ。
-"Don’t worry. I’ll save them."
+Don’t worry. I’ll save them."
 え？
- "What?"
+"What?"
 あんたは、力を使い切ってる…。
- "You’ve exhausted your power…
+"You’ve exhausted your power…
 人間の感覚でいうなら…そうだな、何百年も先まで転生の儀なんてできねえだろ？
- In human terms… you wouldn’t be able to reincarnate anyone for centuries…
+In human terms… you wouldn’t be able to reincarnate anyone for centuries…"
 …。
- …"
+"…"
 だから、あたしがやってやる。それで、どうだ？
- "So I’ll do it.  What do you say?"
+"So I’ll do it.  What do you say?"
 …。私は、あなたや、あなたの世界に助けられてばかりで…。
- "…I… I’ve relied on you… and your world… for too long…"
+"…I… I’ve relied on you… and your world… for too long…"
 そんなことねえさ。
- "Don't mention it.
+"Don't mention it.
 あたしの世界からそっちへ行ったあいつ、ずいぶんと立派になって戻ってきたんだぜ？
- That kid who came from my world to yours… he came back a changed person, y'know? He’s gonna do great things… I can feel it.
+That kid who came from my world to yours… he came back a changed person, y'know?
 将来アイツは、あたしの世界に大きな影響を与えてくれる…。そんな気がするんだよ。
- So, we good?  Ready to do this?"
+So, we good? Ready to do this?"
 さあ、いいだろ？そろそろ始めようか。
- "We have to hurry…
+"We have to hurry…
 じゃねえと、もうすぐアイツが目覚めちまうからな。
- …He’ll be waking up soon."
+…He’ll be waking up soon."
 ありがとう…。本当に…ありがとうございます。
- "Thank you… Thank you so much…
+"Thank you… Thank you so much…
 ３人を…どうかよろしくお願いします…。
- Please… take care of them…"
+Please… take care of them…"
 ああ。もちろんだぜ。
- "I will."
+"I will."
 　;　以下、トゥルーエンド
- ; True Ending
+; True Ending
 アリア「…何も…できませんでした…。
 Aria: "…I failed…
 世界を救うためとはいえ、私の勝手な都合で呼び出してしまった勇者に…いえ、勇者たちに…
@@ -11399,21 +11399,21 @@ I used the power of Last Hope to bind their souls, preventing them from returnin
 私は…、何も……。
 I… I have done nothing…
 この地へと呼ばれたものの、完全に召喚できず、捨て置かれた人々は…
- Those souls who were summoned here incompletely, abandoned and forgotten…
+Those souls who were summoned here incompletely, abandoned and forgotten…
 寧ろ、最悪を与えてしまったと言ってもおかしくありません。
- It would not be an exaggeration to say that I condemned them to a fate worse than death.
+It would not be an exaggeration to say that I condemned them to a fate worse than death.
 私は…どうすれば…？」
- What… What have I done?"
+What… What have I done?"
 ？？？「お？あんたは確か…カレシアの…。」
- ???: "Oh?  You're from Kareshia, right?"
+???: "Oh?  You're from Kareshia, right?"
 アリア「あなたは、?name?様の世界の…。」
- Aria: "And you're from…  ?name?’s world…"
+Aria: "And you're from…  ?name?’s world…"
 ？？？「いやいや、あんたが勝手にアイツを引っ張っていくから、こっちはひやひやしてたんだぜ？
- ???:  "Listen, you dragged them into this mess, and we were sweating bullets over here, y’know?
+???:  "Listen, you dragged them into this mess, and we were sweating bullets over here, y’know?
 これまで以上に混沌とした無数の世界が出来上がっちまうんだから。」
-If people found out about the existence of countless worlds, it would throw the whole dimensional axis into chaos!  We'd have even *more* worlds to worry about!"
+We'd have even more worlds to worry about!"
 アリア「…申し訳・・・ありません。」
- Aria:  "I… I’m sorry…"
+Aria:  "I… I’m sorry…"
 ？？？「まあ、いいってことよ。結果的に、?name?はほかの世界のことを広めたりしそうにないし。
 ???: "Well, it's fine. It doesn't seem like ?name? is going to tell anyone about other worlds.
 それに、カレシアもどうにか救われたんだろ？」
@@ -11421,235 +11421,235 @@ And you managed to save Kareshia, right?"
 アリア「はい…。ですが…。」
 Aria: "Yes…  But…"
 ？？？「魂をつなぎとめられてまで世界を救う使命を課された３人は、帰らなかった…。
- ???: "Those three souls, bound to this world to save it… they didn't return.
+???: "Those three souls, bound to this world to save it… they didn't return.
 後悔、してるのか？」
- Are you… regretting your decision?"
+Are you… regretting your decision?"
 アリア「…。」
 Aria: "…"
 ？？？「でもさ、この一連の出来事で、命を落としたやつは、それこそ蟻の大群ほどもいるんだぜ？」
- ???: "Countless lives were lost during this whole ordeal, y’know? More than you can imagine."
+???: "Countless lives were lost during this whole ordeal, y’know? More than you can imagine."
 アリア「…ですが…。
 Aria:  "…But…
 彼らは、世界を救ってくれた…。それなのに…。」
-they saved the world…  And yet…"
+they saved the world… And yet…"
 ？？？「そんなことを言ってしまえば、あいつの前によばれた不幸な勇者たちはどうなる？
- ???: "What about those unfortunate heroes who were summoned before him?
+???: "What about those unfortunate heroes who were summoned before him?
 まさかとは思うが、そいつらのことまでどうにかしようなんて思ってんじゃねえだろうな？」
- Don't tell me you're thinking about trying to save them too."
+Don't tell me you're thinking about trying to save them too."
 アリア「それは……。」
-Aria: "That's..."
+Aria: "I..."
 ？？？「ああ、もう見てらんねえよ！
- ???:  "Ugh, I can't stand this!
+???:  "Ugh, I can't stand this!
 しかたねえな。あたしが、救ってやるよ。」
- Fine.  I’ll save them."
+Fine. I’ll save them."
 アリア「え？」
- Aria:  "What?"
+Aria:  "What?"
 ？？？「あんたは、力を使い切ってる…。
-???:  "You’ve exhausted your power…
+???: "You’ve exhausted your power…
 人間の感覚でいうなら…そうだな、何百年も先まで天生の儀なんてできねえだろ？」
 In human terms… you wouldn’t be able to perform a reincarnation ceremony for centuries…"
 ？？？「だから、あたしがやってやる。それで、どうだ？」
- ???: "So I’ll do it.  What do you say?"
+???: "So I’ll do it.  What do you say?"
 アリア「…。私は、あなたや、あなたの世界に助けられてばかりで…。」
- Aria:  "…I… I’ve relied on you… and your world… for too long…"
+Aria: "…I… I’ve relied on you… and your world… for too long…"
 ？？？「そんなことねえさ。
- ???:  "Don't mention it.
+???:  "Don't mention it.
 将来アイツは、あたしの世界に大きな影響を与えてくれる…。そんな気がするんだよ。」
-That kid who came from my world to yours… he came back a changed person, y’know? He’s gonna do great things… I can feel it."
+He’s gonna do great things… I can feel it."
 ？？？「さあ、いいだろ？そろそろ始めようか。
- "So, we good?  Ready to do this?
+???: "So, we good? Ready to do this?
 じゃねえと、もうすぐあいつが目覚めちまうからな。」
- We have to hurry… He’ll be waking up soon."
+We have to hurry… He’ll be waking up soon."
 アリア「ありがとう…。ほんとうに…ありがとうございます。
 Aria: "Thank you… Thank you so much…
 ３人を…どうかよろしくお願いします…。」
 Please… take care of them…"
 ？？？「もちろんだぜ。
- ???:  "Of course.
+???:  "Of course.
 ……だがな、もう一人こっちへ貰ってくぜ。」
- …But I’m taking one more with me."
+…But I’m taking one more with me."
 アリア「それは…いったい…？」
- Aria: "What?  Who...?"
+Aria: "What?  Who...?"
 ？？？「分かってんだよ、あんたが一番会いたい奴が、あの剣士だったってことくらいな。
- ???: "Don't play dumb.  I know you want to see that swordsman again.
+???: "Don't play dumb. I know you want to see that swordsman again.
 そのために、あんたはずっと心を痛めながらも、絶望に押しつぶされようとも、罪の意識に苛まれようとも。召喚をあきらめなかったんだよな？
- You've been carrying that guilt and pain, tortured by your conscience… but you never gave up on summoning him, did you?
+You've been carrying that guilt and pain, tortured by your conscience… but you never gave up on summoning him, did you?
 まあ、その剣士は召喚されたものの魂のみだったなんて、皮肉な話だがな。」
- It’s ironic, though… he was summoned, but only his soul arrived."
+It’s ironic, though… he was summoned, but only his soul arrived."
 アリア「はい。私は彼に頼り、依存し、執着していたのです。
 Aria:  "Yes… I relied on him, I depended on him, I was obsessed with him.
 そんなことにも気づかず私は、彼をこの地へと呼び出し、人外の存在として縛り付けてしまいました。
 I was blind to my own feelings… and I summoned him here, trapping him in this monstrous form.
 それでも、彼は私を守れなかったことを悔やみ、次こそは守るといってくれました。
- Even then, he regretted not being able to protect me… and promised to protect me in the future…
+Even then, he regretted not being able to protect me… and promised to protect me in the future…
 でも、もう私はセアラでもなければアリアという人間の魂でもない。
- But I'm not Ceara anymore… I'm not even Aria, the human soul…
+But I'm not Ceara anymore… I'm not even Aria, the human soul…
 私もまた、この世界へと縛られ、輪廻の輪に戻ることなど叶わない存在へとなってしまいました。
- I too am bound to this world, unable to return to the cycle of reincarnation…
+I too am bound to this world, unable to return to the cycle of reincarnation…
 これは、私にとっての贖罪なのでしょう。
 This is my punishment…
 理解はできますし、納得もしているつもりです。……でも」
- I understand…  I accept it… but…"
+I understand… I accept it… but…"
 ？？？「嫌なんだろ？
- ???:  "You don't want him to leave, do you?  You don't want him to go away again.
+???:  "You don't want him to leave, do you?  You don't want him to go away again.
 そいつが自分から離れていくことが。再び遠くへと行っちまうことが。
- Am I right?
+Am I right?
 なあ？そうなんだろ？
- You may be stuck in this world for now… but that doesn't mean you have to abandon your desires!
+You may be stuck in this world for now… but that doesn't mean you have to abandon your desires!
 確かに今のあんたはこの世界にいなくちゃなんねえけどよ、でもそれとこれとは別の話だぜ。
- Don't get it twisted.
+Don't get it twisted.
 そこんとこ勘違いしちゃいけねえ。
 You can try to atone by looking after Kareshia, but
 カレシアを見守り、より良い物にしていくっていうのを自分が今までやってきたことの贖罪にするのは、まあ勝手だが、
-don't use that as an excuse to bury your true feelings!  I won't stand for it!
+don't use that as an excuse to bury your true feelings! I won't stand for it!
 それを隠れ蓑にして本当の気持ちを押し殺すのは感心しないぜ。寧ろ気に入らねえ！
 You’re human, right?
 あんた、元は人なんだろ？
- Humans are weak and fragile. Their lives are short.
+Humans are weak and fragile. Their lives are short.
 人っていう生き物はとても力が弱いし、寿命も短い。
- So what do they do?  They don't try to shoulder everything alone. They can't.
+So what do they do?  They don't try to shoulder everything alone. They can't.
 でも、だからこそあいつらは何でも一人でしようとなんかしない。できないといってもいいくらいだ。
- How do they solve problems?  How do they overcome challenges?
+How do they solve problems?  How do they overcome challenges?
 それをどうすると思う？どうやって解決すると思う？」
- Think about it."
+Think about it."
 アリア「……分かりません……。」
- Aria:  "I… I don't know…"
+Aria:  "I… I don't know…"
 ？？？「おいおい、あんたそれでも元人間かよ？」
- ???:  "Come on, you’re supposed to be a human!  Don’t you remember?"
+???:  "Come on, you’re supposed to be a human!  Don’t you remember?"
 アリア「すみません…。」
- Aria: "I’m sorry…"
+Aria: "I’m sorry…"
 ？？？「……ま、まあいいや。
- ???: "…Whatever.
+???: "…Whatever.
 そのことについてはまた別の機会に追及させてもらうとして、話を本題に戻させてもらうぜ。
 We can discuss this later. Let’s get back on track, shall we?
 人っていう生き物は、一人じゃ何もできないことが多い。だからこそあいつらは誰かに助けを求めることを知ってんだよ。
- Humans can't do much on their own.  That’s why they learned to ask for help.
+Humans can't do much on their own.  That’s why they learned to ask for help.
 助けを求め、人に手を貸し、夢を思い描き、また誰かと協力する。
- They ask for help, they lend a hand, they dream together, they work together.
+They ask for help, they lend a hand, they dream together, they work together.
 なあ、これってすごいことだと、あたしは思うんだ。
- That’s… that’s pretty amazing, don’t you think?
+That’s… that’s pretty amazing, don’t you think?
 自分たちが弱いことを知ってるからこそ、互いを補うことでその弱さを強さに変えることをあいつらは編み出したんだぜ。
- They know they’re weak, so they figured out how to turn that weakness into strength by working together.
+They know they’re weak, so they figured out how to turn that weakness into strength by working together.
 ……すげえよな。」
- …They’re awesome."
+…They’re awesome."
 ？？？「あたしが言いたいこと分かったか？」
- ???: "Get what I'm saying?"
+???: "Get what I'm saying?"
 ？？？「頼っていい。
- ???: "It's okay to ask for help.
+???: "It's okay to ask for help.
 あんたはまだこっちの一因になってからあまりにも日が浅い。
 You haven’t been here long.
 それにあたしはあんたみたいな人間臭いやつがいてもいいと思うしな。
- And besides…  I kinda like having someone around with a bit of humanity left in them.
+And besides…  I kinda like having someone around with a bit of humanity left in them.
 どっちかっちゃあ、そういうやつがいたほうがあたしとしては面白くていい。」
 Makes things more interesting."
 アリア「本当に。
- Aria: "I…
+Aria: "I…
 本当に、私は何かを望み、助けを求めても、良いのでしょうか？
 Can I really…  ask for something?
 私はそんな……。」
 I mean…  I shouldn’t…"
 ？？？「かまわねえ！
- ???: "Don't worry about it!
+???: "Don't worry about it!
 あんたは、何でもかんでも一人でしようとしすぎなんだよ。
 You’re trying to do everything yourself.
 それだけの力があるんだったらあたしは何も言いやしないが、今のあんたじゃなんもできねえだろうが。
- If you were strong enough to pull it off, I’d keep my mouth shut, but you’re not!
+If you were strong enough to pull it off, I’d keep my mouth shut, but you’re not!
 そりゃあ、あんたが今までやってきたことによって不幸になった奴はいたかもしんねえ。
- You might’ve screwed things up for some people.
+You might’ve screwed things up for some people.
 だけどな、そのことを思って一人でどうにかしようとして、でもできなくて。
- But that doesn’t mean you have to wallow in guilt
+But that doesn’t mean you have to wallow in guilt
 それで結局くよくよするのは違うんじゃねえのか？
 and try to fix everything on your own!
 もし、あんたが本気で償いをしたいと思うんなら、なりふり構わず助けを求め、贖罪の日々を終わらせることだけを考えたらどうだ？
- If you truly want to atone, you gotta ask for help!  Don't be afraid to rely on others!
+If you truly want to atone, you gotta ask for help!  Don't be afraid to rely on others!
 さあ、言ってみろよ！
- Come on, say it!
+Come on, say it!
 あんたの、本当の気持ちをな。」
- Tell me what you really want!"
+Tell me what you really want!"
 アリア「……助けて……ください。
- Aria:  "…Help me…
+Aria:  "…Help me…
 私は、彼とともにありたい！…だから。
- …I want to be with him…  Please…
+…I want to be with him… Please…
 お願いです……私（わたくし）いえ、私（わたし）をどうか。助けてください！」
- …Please, help me!"
+…Please, help me!"
 ？？？「よしっ！よく言った！！
- ???:  "There ya go! That’s the spirit!
+???:  "There ya go! That’s the spirit!
 やっぱりあんたは本当の姿でいたほうがいいぜ。……セアラ。
- It’s better this way, isn’t it, Ceara?
+It’s better this way, isn’t it, Ceara?
 もう、無理にアリアという人間の仮面をかぶる必要なんてねえんだ。
 You don’t need to hide behind that ‘Aria’ mask anymore.
 あんたはあんたなんだからな。」
- Just be yourself."
+Just be yourself."
 セアラ（アリア）
 Ceara (Aria)
 「はい。ありがとうございます。
 "Yes…  Thank you.
 やっと、本来の自分に戻れた気がします。
- I finally feel… like myself again.
+I finally feel… like myself again.
 今度こそ、私は自分の意志で行動してみせます。……今度こそ。」
- This time… I’ll make my own choices. I promise."
+This time… I’ll make my own choices. I promise."
 ？？？「そうか。まあ、あまり張り切りすぎない程度にしろよ。
 ???: "Good. But don't overdo it, alright?
 んじゃ、お前の剣士、確かアクセルとかいったか？は、こっちの世界に連れて行かせてもらうぜ。
- Now, I'm taking your swordsman… what was his name again? Axel?  He's coming with me.
+Now, I'm taking your swordsman… what was his name again? Axel? He's coming with me.
 そこでいろいろなことを経験し、感じ、考え、身にしていけば。いつかこっちの一因になれるさ。
- He can learn and grow in my world.  Maybe someday, he can help us out here too.
+He can learn and grow in my world. Maybe someday, he can help us out here too.
 なんたって勇者に選ばれたくらいの器の持ち主だ。
- He was chosen to be a hero, after all.
+He was chosen to be a hero, after all.
 きっと良い世界を作れるんじゃねえか。まあ、心配せずに待っててやんな。」
- I’m sure he’ll build a great world. Don't worry about him."
+I’m sure he’ll build a great world. Don't worry about him."
 「ありがとう…ございます。
- "Thank you...
+"Thank you...
 彼なら。アクセルならきっと……。
- Axel…  I know he can…
+Axel… I know he can…
 私も彼を信じて待ちたいと思います。
- I believe in him.
+I believe in him.
 いつか。もう一度。
- Someday…
+Someday…
 会い、話ができることを……。」
- …We’ll meet again…"
+…We’ll meet again…"
 ？？？「ああ、そうだな。
- ???:  "Yeah, someday.
+???:  "Yeah, someday.
 んじゃ、そろそろあたしはいくぜ。」
- Well, I gotta go."
+Well, I gotta go."
 「あっ、すみません。
 "Um…  excuse me.
 こんなことを言うのはとてもおこがましいこととは承知しているのですが、
- I know this is presumptuous of me, but…
+I know this is presumptuous of me, but…
 もう一つ、もう一つだけ。私の願いを聞いてはいただけませんか？」
- …Could you grant me… one more wish?"
+…Could you grant me… one more wish?"
 ？？？「うん？なんだ？
 ???: "Hmm? What is it?
 とりあえず話だけは聞くぜ。……ほら、言ってみな。」
 I'm listening…  Go on, tell me."
 「彼女を。
- "There’s… another person…
+"There’s… another person…
 最愛の人を失い、計り知れない悲しみをその身に抱きながらも、
- She lost the one she loved…
+She lost the one she loved…
 己のなすべき使命を忘れることなく、精一杯果たそうとする、彼女を。
 She carries an unimaginable burden of grief…  But even so, she never forgets her duty…
 救っては…、いただけませんか？
- Could you… save her?
+Could you… save her?
 この先、数多の苦難や波乱に満ちた人生を負わせてしまう原因を作ってしまったのは、ほかでもないこの私です。
- It was my fault…  I’m the one who forced her onto this path, a path filled with hardship and turmoil.
+It was my fault…  I’m the one who forced her onto this path, a path filled with hardship and turmoil.
 本来であれば、私自身が彼女へと償いをすべきなのですが、今の私では先ほどもおっしゃったように何もしてあげることができません。
- I should be the one to atone… but as you said… I’m powerless.
+I should be the one to atone… but as you said… I’m powerless.
 それに……。
- And…
+And…
 大切な人を失う辛さを。私は知ってしまった……だから。
- …I know how it feels…  to lose someone you love… So…
+…I know how it feels…  to lose someone you love… So…
 お願いです。彼女を。
- …Please, I beg of you…
+…Please, I beg of you…
 救ってはいただけませんか？」
- …Save her."
+…Save her."
 ？？？「……。
- ???: "…
+???: "…
 本来であれば、あたしたちみたいのが世界に生きるやつらに干渉するのはあまり感心されねえことだ。
 It's not really our place to interfere with the lives of mortals, you know?
 そこんとこは分かってんだよな？」
- You understand that, right?"
+You understand that, right?"
 「はい…。」
- "Yes…"
+"Yes…"
 ？？？「それでも、あんたは彼女を救いたいと。そういうことだよな？」
 ???:  "But you still want to save her."
 「そう…です。」
@@ -11657,157 +11657,157 @@ It's not really our place to interfere with the lives of mortals, you know?
 ？？？「うむ……。」
 ???: "Hmm…"
 ？？？「…。いいぜ、やってやる…。
- ???: "…Alright, I'll do it.
+???: "…Alright, I'll do it.
 そいつのことも含めてあたしがすくってやるよ。
- I’ll save her.
+I’ll save her.
 でも、一つだけ条件があるぜ。
- But there’s one condition.
+But there’s one condition.
 その女をすくうのは、そいつが死ぬまで相手のことを愛していたらのことだ。
- I'll only help if she loved him… truly loved him… until the very end.
+I'll only help if she loves him… truly loves him… until the very end.
 もし、愛が覚めていたり、新しい愛を育んでいたりしたら。あたしは何もしねえ。
- If her love has faded…  or if she's found someone new… I won’t do anything.
+If her love fades…  or if she finds someone new… I won’t do anything.
 ……どうだ？これでいいか？」
- …Deal?"
+…Deal?"
 彼女なら絶対に。
- I know she did.
+I know she will.
 再び彼に会えることでしょう。」
- She’ll see him again… someday…
+She’ll see him again… someday…"
 ？？？「まったく。あんたもお人よしだよなあ。
- ???:  "You're too kind, you know that?
+???:  "You're too kind, you know that?
 でも、あたしはそんなのも嫌いじゃないぜ。」
- But I don’t mind."
+But I don’t mind."
 ？？？「おっと、結構長話しちまってたな。
- ???: "Whoa, we've been chatting for a while now.
+???: "Whoa, we've been chatting for a while now.
 んじゃ、今度こそあたしは行くぜ。」
- I gotta go. For real this time."
+I gotta go. For real this time."
 「本当に何から何までありがとうございました。
- "Thank you for everything.
+"Thank you for everything.
 いつか、このご恩をお返しできれば……。」
- I hope… someday…  I can repay your kindness…"
+I hope… someday…  I can repay your kindness…"
 ？？？「ん？いや、気にスンナって。
- ???:  "Huh?  Don't worry about it.
+???:  "Huh?  Don't worry about it.
 あたしも、あんたみたいなやつと話せて楽しかったしな。」
- It was fun talking to someone like you."
+It was fun talking to someone like you."
 「本当に、ありがとうございました。」
- "Thank you."
+"Thank you."
 ?me?たちが決して知りえない、世界の果で交わされた約束………。
- ; A Promise Fulfilled
+; A Promise Fulfilled
 その約束に従って、?me?たちはここにいる！
- A promise exchanged at the edge of the world… a promise we could never know…
+A promise exchanged at the edge of the world… a promise we could never know…
 そして、それぞれの希望に満ちた新しい生活は続いていく………
- And so, we find ourselves here,
+And so, we find ourselves here,
 ずっと、ずっと…
- embarking on new lives filled with hope…
+embarking on new lives filled with hope…
 ?me?たちの新しい生活………
- Our new lives…
+Our new lives…
 ?me?たちの１日は、こんな風に始まる。
- Our days begin like this.
+Our days begin like this.
 エレナ「おはよう、?name?君！」
 Elena: "Good morning, ?name?!"
 リリア「?name?……おはよう。」
 Lilia:  "?name? …Good morning."
 二人とも、おはよう。
- Good morning, you two.
+Good morning, you two.
 エレナ「なんか夢みたいだよ。?name?君とこんなに楽しく生活できるなんて。」
- Elena:  "It feels like a dream.  To be living this peaceful life with you, ?name?."
+Elena: "It feels like a dream. To be living this peaceful life with you, ?name?."
 リリア「あたしたちにはよく分からないものとかいっぱいで暇しないのよね。」
- Lilia:  "There's so much we don't understand.  It's never boring!"
+Lilia: "There's so much we don't understand. It's never boring!"
 エレナ「そうそう。リリアちゃんがメイ」
- Elena:  "You said it.  Remember when Lilia-"
+Elena:  "You said it.  Remember when Lilia-"
 リリア「そういえば！！
- Lilia:  "Oh! Speaking of which!
+Lilia: "Oh! Speaking of which!
 ……そういえば、　－－」
- …Speaking of which?"
+…Speaking of which..."
 ルーライとレン。
- Rurai and Ren.
+Rurai and Ren.
 二人はいつも仲がいい。
 They’re always together.
 ；　ルーライとレン。
- ; Rurai and Ren
+; Rurai and Ren
 ルーライ「レン。次はどこに行こうか？」
- Rurai:  "Ren, where should we go next?"
+Rurai:  "Ren, where should we go next?"
 レン「そうですね。……でも、こうして二人でいられるだけでも私は十分楽しいし、
- Ren: "Hmm, good question. …But I’m happy just being with you.
+Ren: "Hmm, good question. …But I’m happy just being with you.
 とても、満ち足りた気分です……。」
- …I feel… complete…"
+…I feel… complete…"
 ルーライ「れん！！つ、次は、ア、ア、アクセサリーなんてどうかな？
- Rurai: "Ren!  H-how about… a-accessories?
+Rurai: "Ren!  H-how about… a-accessories?
 ……今も幸せだけど、これからもっと楽しいことや心躍らせることがあるって……！！
- …I’m happy now, but I know there are even more exciting things… more adventures… waiting for us!
+…I’m happy now, but I know there are even more exciting things… more adventures… waiting for us!
 だ、だから。
- So…
+So…"
 レン「……はい。そうですね。」
- Ren:  "…Yes, alright."
+Ren:  "…Yes, alright."
 ；　アクセル。
- ; Axel
+; Axel
 そして、剣士の青年。
 And the young swordsman…
 彼もまた、?me?たちのいる世界に。
- …He’s here in our world too.
+…He’s here in our world too.
 アクセル「……うむ。
 Axel:  "…Hmm.
 この日本刀という武器はなかなか使い勝手が良いな。」
-This 'katana'... it’s a fascinating weapon."
+This 'katana'... it’s a fascinating weapon.
 アクセル「さて、もう少しやるか。」
- Axel:  "Time for more practice."
+Time for more practice."
 最後に、もう一つ………
- One more scene…
+One more scene…
 ；　放課後、主人公、リリア、エレナ、ルーライ、レンの５人で帰りながら
- ;  Walking home after school with ?name?, Lilia, Elena, Rurai, and Ren
+;  Walking home after school with ?name?, Lilia, Elena, Rurai, and Ren
 エレナ「結局、文化祭何やるんだろ？」
- Elena:  "So, what are we doing for the Cultural Festival?"
+Elena:  "So, what are we doing for the Cultural Festival?"
 ルーライ「ううん。やっぱり……。」
- Rurai: "Well…"
+Rurai: "Well…"
 　やはりというか、?me?はほとんど何も知らないのだが。
- …I have no idea what they’re talking about.
+…I have no idea what you’re talking about.
 エレナ「ああ、そっかあ。
 Elena:  "Oh, right.
 ?name?君は今日のホームルーム寝てたもんね。」
 You were asleep during homeroom today, ?name?."
 　確かに、そういえばそうだった気がする。
- Now that she mentions it… I think I was.
+Now that you mention it… I think I was.
 レン「それで…、その内容なのですが……。」
- Ren:  "So…  the plan is…"
+Ren:  "So…  the plan is…"
 リリア「ああ！！レン！！
- Lilia:  "Ren!
+Lilia:  "Ren!
 その髪飾りかわいいね！
- That hair ornament is so cute!
+That hair ornament is so cute!
 だ、誰からもらったの？」
- W-who gave it to you?"
+W-who gave it to you?"
 　あからさますぎる。
- That’s not subtle at all, Lilia.
+Very subtle, Lilia.
 リリア「な、何よ！！だ、だいたい　－－」
- Lilia:  "W-what?! It’s… it’s just…"
+Lilia: "W-what?! It’s… it’s just…"
 エレナ「あははは。もうリリアちゃんってば　－－」
- Elena:  "Ahahaha, Lilia…"
+Elena: "Ahahaha, Lilia…"
 ルーライ「はははっ。だってリリアは　－－」
- Rurai:  "Hahaha!  Come on, Lilia…"
+Rurai: "Hahaha! Come on, Lilia…"
 レン「ルーライ様。あまり女の子をいじめるものではありませんよ。まったくあなたは　－－」
- Ren:  "Rurai! Don't tease her so much!  Honestly..."
+Ren:  "Rurai! Don't tease her so much!  Honestly..."
 　飛び交う楽しげな声たち。
- Their laughter fills the air.
+Their laughter fills the air.
 弾む会話、たわいのない話題。
- Lighthearted conversation, silly jokes…
+Lighthearted conversation, silly jokes…
 それはほかでもない、大切な?me?の仲間たちだ。
- My precious companions.
+My precious companions.
 　もう会えないのかと、一時はそう思ったこともあった。
- I thought I would never see them again…
+I thought I would never see them again…
 けれど、今、こうして?me?たちはともにいる。
- But here we are…
+But here we are…
 ここに、生きている！
- …Together.
+…Together.
 それこそが、?me?たちが度重なる困難を乗り越え、
- This is the “Eternal Hope”…
+This is the “Eternal Hope”…
 掴み取った『永久の希望』！！
 …We fought so hard to achieve.
 この掛け替えのない時を、二度と失いたくないと…
- I never want to lose this…
+I never want to lose this…
 あまりにも平凡なひと時が、
 this ordinary happiness…
 そっと、教えてくれた。
- …Ever again.
+…Ever again.
 The TRUE END
- The TRUE END
+The TRUE END
 「初めまして。
 "Greetings.
 私の名前はティチャ。この不思議な空間で、あなたに知識を授ける者………。
@@ -11827,7 +11827,7 @@ Eh? You already know... is that so?
 まあまあ。人の話は最後まで聞くものですよ。………コホン。
 Now, now, it's important to listen to others until the very end...ahem.
 この不思議な空間で、あなたにいろいろな知識を授ける者………、言ってしまえば、ここで説明をするためだけに作者に作られたキャラクター、ですね。
- Within this mysterious space, I am the one who grants you various kinds of knowledge...or to put it simply, a character created by the developers solely to explain things here.
+Within this mysterious space, I am the one who grants you various kinds of knowledge...or to put it simply, a character created by the developers solely to explain things here.
 名前も適当ですし………。
 Even my name was chosen randomly...
 これは、作者と一戦交えなければいけませんね。………ふふふ。
@@ -12583,7 +12583,7 @@ This password has already been activated.
 「シャドウライン　フルボイス体験版」をプレイしていただき、
 Thank you very much
 ありがとうございました。
-for playing the ShadowRine Full Voice demo.
+for playing the ShadowRine FullVoice demo.
 「初心冒険者のアイテムセット」をプレゼントいたします。
 We present you with the "Beginner Adventurer's Item Set."
 「スタミナイト」を手に入れた。
@@ -12599,13 +12599,13 @@ Please note that this password can be used multiple times whenever you complete 
 「シャドウライン　フルボイス体験版」を隅々までプレイしてくださり、
 Thank you very much for thoroughly playing through
 本当にありがとうございました。
-the ShadowRine Full Voice Demo.
+the ShadowRine FullVoice Demo.
 無限摩天楼の新コース「パスワー道」をプレゼントいたします。
 We present you with the new course "Password Way" in the Infinite Skyscraper.
 無限摩天楼は、ゲームクリア後に解放される「Extra」から、いつでもプレイすることができます。
-The Infinite Skyscraper can be accessed and played at any time from the "Extra" section, which is unlocked after completing the game.
+The Infinite Skyscraper can be accessed and played at any time from the Extra section, which is unlocked after completing the game.
 「シャドウライン～永久の希望～　プレイ後アンケート」にご回答いただき、まことにありがとうございました。
-Thank you very much for responding to the "ShadowRine: Eternal Hope" post-play survey.
+Thank you very much for responding to the ShadowRine: Eternal Hope post-play survey.
 無限摩天楼の新コース「ダンジョンＲＴＡ」をプレゼントいたします。
 We present you with the new course "Dungeon RTA" in the Infinite Skyscraper.
 これまでに登場した５つのダンジョンで、タイムアタックに挑戦できます。
@@ -12627,7 +12627,7 @@ You received 300 Karen.
 なお、この合言葉は、「Ｎｅｗ　Ｇａｍｅ」でゲームを開始するたび、何度でも使用することができます。
 Please note that this password can be used any number of times whenever you start a new game with "New Game."
 引継ぎデータでは使用できませんので、予めご了承ください。
-However, it cannot be used when carrying over your data.
+However, it cannot be used in New Game+.
 「ＳｈａｄｏｗＲｉｎｅ　Ｖｅｒ３．００リリース記念カウントダウン」に毎日アクセスしていただき、ありがとうございました。
 Thank you for visiting the "ShadowRine Ver 3.00 Release Commemoration Countdown" every day.
 「制作者からの金一封」をプレゼントいたします。
@@ -12637,7 +12637,7 @@ You received 3000 Karen.
 「〈Ver3.0公開記念〉シャドウと駆ける新世界～みんなのための快説実況～」
 Thank you for tuning in to
 お聞きいただき、ありがとうございました。
-"<Ver3.0 Release Commemoration> A New World Running with Shadows ~ A Pleasant Commentary for Everyone~".
+"Ver3.0 Release Commemoration: A New World Running with Shadows ~ A Pleasant Commentary for Everyone~".
 ささやかではありますが、実況者からプレゼントをご用意しましたので、
 Although it's modest, the commentators have prepared a gift for you.
 冒険に役立ててください。
@@ -12672,3 +12672,401 @@ If you quit the game,
 your progress up to this point will be lost.
 終了する
 Quit
+物語は、こうして幕を閉じた…
+And so… the story comes to a close…
+リリア「ゲームクリア、おめでと！
+Lilia: "Congratulations on clearing the game!
+ねえねえ、あたしのエンディング見てくれた！？」
+Did you see my ending?"
+エレナ「そんなこと言ってる場合じゃないでしょ、リリアちゃん。」
+Elena: "This isn’t the time for that, Lilia."
+ルーライ「僕らは、ゲームをクリアしてくれた君に、新しく開放されたモードの紹介をするためにここへ来たんだ。」
+Rurai: "We're here to tell you about the new features you unlocked!"
+エレナ「よし、じゃんじゃんいくよ！！
+Elena: "Let's get this show on the road!
+まずは、これっ！！」
+First up, we have…"
+タイトル画面に、『EXTRA』モードが追加されました！！
+A new "EXTRA" option has been added to the title screen!
+ルーライ「ヤッホーイ、エクストラだって！おまけだぜ、おまけえっ！」
+Rurai: "Woohoo! Extra content! Bonus features!"
+リリア「あの…、ルーライって、そういうキャラだったっけ？」
+Lilia: "Um… isn't that kinda out of character, Rurai?"
+ルーライ「リリアだけがツンツンして目立っていたから、僕もなにかやらないとって思ってね。
+Rurai: "Well, you're always hogging the spotlight with your 'tsun tsun' act, so I figured I needed to do something to stand out!
+この、《おまけ》ってところが重要なんだ。子供心をくすぐられるというか…。」
+And the word 'bonus' has a nice ring to it, don't you think? Appeals to my inner child!"
+エレナ「ふふ。ルーライ、おもしろい！」
+Elena: "Heh heh, you’re so funny, Rurai!"
+リリア「それで、エクストラって何？」
+Lilia: "So, what's in the Extra mode?"
+ルーライ「音楽や声を聞いたり、サイドストーリーを読むことができるそうだよ。」
+Rurai: "It looks like you can listen to music and voice clips, and read side stories."
+エレナ「そしてもう一つの特典は、これ！」
+Elena: "And here's the other bonus!"
+「New Game」から、新規難易度「Impossible」がプレイできるようになりました。
+A new difficulty, Impossible, has been unlocked!
+リリア「不可能だなんて…。
+Lilia: "Impossible?
+そんなの…、クリアできるわけないじゃない！」
+No way… no one can clear that!"
+エレナ「うん。不可能っていうくらいなんだから。」
+Elena: "Well, it is called 'Impossible'."
+ルーライ「大丈夫！みなで力を合わせれば、きっとクリアできるさ。
+Rurai: "Don't worry! We believe in you!
+僕等は信じよう！プレイヤーさんの指裁きを！！」
+We believe in your gaming skills!"
+リリア「なんか…今日のルーライ、あいつみたい…」
+Lilia: "Rurai… you're acting just like him…"
+エレナ「そっか！彼がいないと、収拾がつかなくなるんだね。だれかがまとめないと…。」
+Elena: "You're right! We need someone to keep things under control now that he's gone…"
+ルーライ「そこおおおっ！
+Rurai: "Hey!
+僕がせっかく、締めくくろうとしていたというのに！」
+I was just about to wrap things up!"
+リリア「あはは、ごめんね、ルーライ。」
+Lilia: "Ahaha, sorry, Rurai."
+エレナ「以上、わたしたちから君へ。クリア特典の紹介でした！」
+Elena: "That's all for the bonus content!  Enjoy!"
+ルーライ「君が再びラストホープを手にするのを、僕等は楽しみにしているよ。」
+Rurai: "We look forward to seeing you wield Last Hope again!"
+リリア「次の冒険も、また一緒に頑張ろうね！」
+Lilia: "Let's go on another adventure together!  Soon!"
+ゲーム難易度「Easy」を初めてクリアしました。
+You cleared the game on Easy difficulty for the first time!
+ここまでクリアすることのできたあなたなら、
+If you made it this far,
+さらに難しい難易度にも挑戦できるはず！
+you can definitely handle a tougher challenge!
+次は、Normalモードに挑戦です！
+Time to try Normal mode!
+ゲーム難易度「Normal」を初めてクリアしました。
+You cleared the game on Normal difficulty for the first time!
+今回の冒険で得た経験を生かし、新しい冒険へ出発しましょう！
+Use the experience you gained to embark on a new adventure!
+ゲーム難易度「hard」を初めてクリアしました。
+You cleared the game on Hard difficulty for the first time!
+作者も手こずるHardを難なくクリアしたあなた。
+You conquered Hard mode, which even the developer struggled with!
+あなたのその指捌きは、作者を超えた！！
+Your gaming skills surpass the creator's!
+これからも、さらなる高みを目指してくださいね！
+Keep reaching for new heights!
+ゲーム難易度「impossible」を初めてクリアしました。
+You cleared the game on Impossible difficulty for the first time!
+ゲームクリアおめでとうございます。
+Congratulations on clearing the game!
+Impossibleをクリアしたあなたこそ、ＳＲマスターにふさわしい！！
+You, the conqueror of Impossible mode, are a true ShadowRine Master!
+まさかの「Metallic」クリアです！！
+You cleared the game on Metallic difficulty!
+おめでとうございます！！
+Congratulations!
+そして、本当にお疲れ様でした。
+And thank you for playing!
+まさかの「Ｄｅｓｐｅｒａｔｅ」クリア、おめでとうございます！！
+Congratulations on clearing the game on Desperate difficulty!
+ボーナスポイントにも色を付けておきました。
+We even added a little color to your bonus points.
+今後とも、ＳＲをどうぞよろしくお願いします！！
+Thank you for supporting ShadowRine! We hope you continue to enjoy the game!
+「英雄の書」を手に入れた。
+You obtained the "Hero's Record."
+今回のゲーム成績が記されている。
+It contains a record of your performance in this playthrough.
+アイテム回収：%1302%個
+Items collected: %1302%
+収拾率：%1303%パーセント
+Completion rate: %1303%
+歩いた歩数：%951%歩
+Steps taken: %951%
+攻撃した回数：%952%回
+Attacks performed: %952%
+敵に与えた総ダメージ:%953%ポイント
+Total damage dealt: %953% points
+総獲得カレン：%954%カレン
+Total Karen earned: %954% Karen
+セーブした回数：%955%回
+Times saved: %955%
+ゲームオーバーになった回数%961%回
+Times game over: %961%
+今回のクリア成績を記した「英雄の書」を作成しました。
+The Hero's Record detailing your performance has been created.
+デスクトップに「ShadowRine_Fullvoice_GameLog」フォルダを作成し、
+A folder named "ShadowRine_Fullvoice_GameLog" will be created on your desktop,
+「英雄の書」が、新規テキストファイルとして作成されます。
+and the Hero's Record will be saved as a new text file within that folder.
+ボーナスポイントを
+Bonus Points
+%100%BP
+ %100% BP
+獲得しました！
+earned!
+シャドウラインは、クリアした時点での剣ＬＶや所持金、所持アイテムを引き継いで、さまざまな追加要素をプラスした2周目を遊ぶことができます。
+You can start a New Game+ in ShadowRine, carrying over your sword level, money, and items from your previous playthrough.
+現在使用中のデータは上書きされ、次周をプレイするための引き継ぎができる状態になりました。
+Your current save data has been updated for New Game+.
+データをロードすることで、手に入れたBPを使って、引き継ぎ項目を購入することができます。
+You can load your save data and use your BP to purchase carry-over bonuses.
+さらに、勇者の殿堂に英雄の書を送信すると、クリア成績を皆と共有することができます。
+You can also share your accomplishments with others by submitting your Hero's Record to the Hall of Heroes.
+今回のクリア成績を「Galaxy Laboratory」に送信しますか？
+Would you like to submit your data to Galaxy Laboratory?
+英雄の書を送信しますか？：
+Submit Hero's Record?:
+送信する
+Submit
+送信しない
+Don't submit
+勇者の殿堂には、プレイヤーネームを含め、英雄の書の内容がほぼすべて送信されます。
+Submitting your Hero's Record will share your player name and most of your playthrough data.
+送信する前に、プレイヤーネームを変更しますか？
+Would you like to change your player name before submitting?
+プレイヤーネームを変更してから送信する
+Change player name and submit.
+?name?で送信する
+Submit as "?name?".
+この名前でエントリーしますか？
+Submit with this name?:
+プレイヤーネームを変更する
+Change player name.
+エントリーが完了しました。
+Submission complete!
+今回のクリア成績は、ShadowRineの公式ホームページからいつでも確認することができます。
+You can view your playthrough data on the official ShadowRine website.
+決定キーを押すと、ゲームを終了します。
+Press Enter to exit the game.
+ゲームを再起動し、
+Restart the game,
+クリアデータをロードして
+load your clear data,
+次周をお楽しみください！
+and enjoy New Game+!
+ボーナスショップへようこそ。
+Welcome to the Bonus Shop!
+ここでは、%960%周目をクリアするまでに獲得したボーナスポイントを使って、次周への引き継ぎ要素を購入できます。
+You can spend the Bonus Points you earned during your previous playthrough to unlock carry-over bonuses for your New Game+.
+次のメニューの中から、引き継ぎたい項目を選択してください。
+Choose the bonuses you want from the menu below.
+引き継ぎ要素の中には、ゲームを有利に進められるボーナスや、一度購入すれば何度でも利用できるシステム解放券などがあります。
+Carry-over bonuses include items that give you an advantage in the game and one-time system unlocks that you can use repeatedly.
+また、使用しなかったBPは、次周へ持ち越すことができます。
+Any unspent BP will be carried over to your next New Game+.
+引き継ぎが終わったら、メニュー下部の「ゲーム開始！」を押してください。
+Once you're done, select Start Game! at the bottom of the menu.
+ボーナスショップメニュー：
+Bonus Shop Menu:
+所持BP：%941%ＰＴ
+BP: %941%
+所持金引き継ぎ：2000PT
+Carry over Karen: 2000 BP
+ステータスアイテム引き継ぎ：2000PT
+Carry over Status Items: 2000 BP
+剣レベル引き継ぎ：2000PT
+Carry over Sword Level: 2000 BP
+回復陣引き継ぎ：2000PT
+Carry over Healing Points: 2000 BP
+プレイ時間引き継ぎ：250PT
+Carry over Play Time: 250 BP
+セーブ回数の引き継ぎ：250PT
+ Carry over Save Count: 250 BP
+クイックマリンの引き継ぎ：500PT
+ Carry over Quick Marine: 500 BP
+取得経験値２倍：12500PT
+Double Experience Points: 12500 BP
+取得カレン２倍：8500PT
+ Double Karen Earned: 8500 BP
+Ｎｏ　Ｈｅａｒｔ：9500PT
+ No Heart: 9500 BP
+リリア加入：6000PT
+ Start with Lilia: 6000 BP
+エレナ加入：6500PT
+ Start with Elena: 6500 BP
+ルーライ加入：7500PT
+ Start with Rurai: 7500 BP
+「ダッシュ」使用可：3000PT
+Unlock Dash: 3000 BP
+技用アイテム「救剣の回激書」所持：3500PT
+Start with Scroll of Salvation's Fury: 3500 BP
+技用アイテム「救刀の連激書」所持：3500PT
+Start with Scroll of Salvation's Flurry: 3500 BP
+技用アイテム「救弓の射激書」所持：3500PT
+Start with Scroll of Salvation's Volley: 3500 BP
+Extra「プレーンロード」：5000PT
+ Extra: "Plains Road": 5000 BP
+System「１人称追加パック」：7000PT
+System: "First-Person Perspective Pack": 7000 BP
+System「難易度『Metallic』解放」：15000PT
+System:  Unlock Metallic Difficulty: 15000 BP
+System「難易度『Desperate』解放」：30000PT
+System: Unlock Desperate Difficulty: 30000 BP
+Extra「ラストホープ〈エターナル〉」：15000PT
+Extra: Last Hope Eternal: 15000 BP
+Extra『After E.P.』：20000PT
+Extra: "After E.P.": 20000 BP
+Extra『オープニングテーマ』：5000PT
+Extra: Opening Theme: 5000 BP
+Extra『挿入歌』：10000PT
+Extra: Insert Song: 10000 BP
+Extra『エンディングテーマ』：15000PT
+Extra: Ending Theme: 15000 BP
+ゲーム開始！
+Start Game!
+タイトルへ戻る
+Back to Title
+タイトルメニューへ戻りますか？
+Return to the title menu?
+ゲームをクリアした時点の所持金、%6%カレンを引き継ぎます。
+Carry over your Karen from the end of the game: %6% Karen.
+引き継ぎには、2000BP必要です。
+This will cost 2000 BP.
+引き継ぐ
+Carry over.
+ゲームをクリアした時点で所持している、ステータスアップ系アイテムの１部、
+Your stat boosting items:
+スタミナイト%91%個、エモートパーズ%95%個、パワフルビー%92%個、フィールダイヤ%93%個
+Staminites: %91%, Skill Topazes: %95%, Power Rubies: %92%, Shield Diamonds: %93%,
+を引き継ぎます。
+will be carried over.
+アイテム引き継ぎ：2000PT
+Carry over Items: 2000 BP:
+ラストホープのレベルと経験値を引き継ぎます。
+Carry over Last Hope's level and experience points.
+剣LV引き継ぎ：2000PT
+Carry over Sword Level: 2000 BP:
+回復陣の起動状況と、所持している回復の呪符を引き継ぎます。
+Carry over the status of healing points and your Recovery Charms.
+これまでのプレイ時間を引き継ぎます。
+Carry over your play time.
+引き継ぎには、250BP必要です。
+This will cost 250 BP.
+これまでにセーブした回数を引き継ぎます。
+Carry over your total number of saves.
+セーブ回数引き継ぎ：250PT
+Carry over Save Count: 250 BP:
+敵を倒した時に獲得できる経験値が、通常の２倍になります。
+Double the amount of experience points you gain from defeating monsters.
+ボーナスの適用には、12500BP必要です。
+This bonus costs 12500 BP to activate.
+適用する
+Activate.
+敵を倒した時に獲得できる取得カレンが、通常の２倍になります。
+Double the amount of Karen you earn from defeating monsters.
+ボーナスの適用には、8500BP必要です。
+This bonus costs 8500 BP to activate.
+ゲームを始めた直後から、操作キャラクタとしてリリアを使用できます。
+Start the game with Lilia as a playable character.
+ボーナスの適用には、6000BP必要です。
+This bonus costs 6000 BP to activate.
+ゲームを始めた直後から、操作キャラクタとしてエレナを使用できます。
+Start the game with Elena as a playable character.
+ボーナスの適用には、6500BP必要です。
+This bonus costs 6500 BP to activate.
+ゲームを始めた直後から、操作キャラクタとしてルーライを使用できます。
+Start the game with Rurai as a playable character.
+ボーナスの適用には、7500BP必要です。
+This bonus costs 7500 BP to activate.
+移動速度がアップする「クイックマリン」を引き継ぎ、最初から使用できます。
+Carry over the Quickmarine and be able to use it from the start of the game.
+クイックマリンの宝箱からは、エモートパーズを入手できます。
+Skill Topaz can now be found in place of the Quickmarine.
+「クイックマリン」の引き継ぎ：500PT
+Carry over Quickmarine: 500 BP:
+「クイックマリン」を入手していないため、本ボーナスを適用できません………。
+You cannot activate this bonus because you haven't obtained Quickmarine yet…
+ゲームを始めた直後から、ダッシュをすることができます。
+Start the game with the ability to dash.
+ボーナスの適用には、3000BP必要です。
+This bonus costs 3000 BP to activate.
+技用アイテム「救剣の回激書」を所持した状態からゲームをスタートします。
+Start the game with the Scroll of Salvation's Fury.
+ラストホープを入手すると、すぐに技「回転切り」を使用できます。
+You can use the Spinning Slash skill as soon as you obtain Last Hope.
+ボーナスの適用には、3500BP必要です。
+This bonus costs 3500 BP to activate.
+「救剣の回激書」を入手していないため、本ボーナスを適用できません………。
+You cannot activate this bonus because you haven't obtained the Scroll of Salvation's Fury yet…
+技用アイテム「救刀の連激書」を所持した状態からゲームをスタートします。
+Start the game with the Scroll of Salvation's Flurry.
+エレナが加入すると、すぐに技「連続切り」を使用できます。
+Elena can use the Flaming Flurry skill as soon as she joins your party.
+「救刀の連激書」を入手していないため、本ボーナスを適用できません………。
+You cannot activate this bonus because you haven't obtained the Scroll of Salvation's Flurry yet…
+技用アイテム「救弓の射激書」を所持した状態からゲームをスタートします。
+Start the game with the Scroll of Salvation's Volley.
+ルーライが加入すると、すぐに技「３連射」を使用できます。
+Rurai can use the Triple Torrent skill as soon as he joins your party.
+「救弓の射激書」を入手していないため、本ボーナスを適用できません………。
+You cannot activate this bonus because you haven't obtained the Scroll of Salvation's Volley yet…
+ハートの変わりにカレンを入手できるようになるオプションです。
+Activate the "No Heart" option, which replaces Hearts with Karen.
+敵を倒したりフィールドを探索しても、ハートを入手できません。
+You will no longer find Hearts when defeating enemies or exploring the world.
+回復手段は、回復陣と宿に限られますが、莫大な富を気づくことができるでしょう。
+Your only means of healing will be healing points and inns, but you'll be able to amass a fortune!
+ボーナスの適用には、9500BP必要です。
+This bonus costs 9500 BP to activate.
+NO Heart：9500PT
+No Heart: 9500 BP:
+Extraモード内のゲームスポット・無限摩天楼の新たなコース
+Unlock "Plains Road",
+「プレーンロード」を解放します。
+a new course for the Infinite Skyscraper in Extra Mode.
+一度このボーナスを購入すれば、タイトル画面の「Extra」から、何度でも遊ぶことができます。
+Once you purchase this bonus, you can play Plains Road anytime from the Extra menu on the title screen.
+ゲーム開始時に選択できる１人称を増やします。
+Add more first-person pronouns to choose from at the start of the game.
+（オイラ、アタシ、ワシ、余、ミーなど）
+(Including:  "Ore", "Atashi", "Washi", "Yo", "Me", etc.)
+一度このボーナスを購入すれば、ゲーム開始時に何度も使用できます。
+Once you purchase this bonus, you can use it in any new game.
+ゲーム開始時に選択できる難易度に、
+A new difficulty will be added to the difficulty selection screen,
+登場する全ての魔物がキンピカになる
+Metallic.
+最強最悪の難易度「Metallic」を追加します。
+All monsters will be shiny.
+難易度「Impossible」をクリアすると、本ボーナスを適用できるようになります。
+ This bonus will be available after clearing the game on Impossible difficulty.
+究極の難易度「Desperate」を追加します。
+Add the ultimate difficulty, Desperate, to the difficulty selection screen.
+難易度「Metallic」をクリアすると、本ボーナスを適用できるようになります。
+ This bonus will be available after clearing the game on Metallic difficulty.
+ラストホープが、ラストホープ〈エターナル〉に変化！
+Transform Last Hope into Last Hope Eternal!
+まだまだラストホープを強化したいという方のため、ラストホープのＬＶ上限を解放します。
+Unlock the level cap for Last Hope.
+一度このボーナスを購入すれば、何度でも使用できます。
+This bonus can be used repeatedly.
+ラストホープのＬＶが15になると、このボーナスを適用できるようになります。
+This bonus will be available once Last Hope reaches level 15.
+『Ｒｅｃｏｎｎｅｃｔｅｄ　Ｔｈｅ　Ｗｏｒｌｄ．』
+"Reconnected the World"
+あらすじ：平和な時を過ごす勇者たち。しかし、彼らの中にはその後のカレシアの人たちへの届かない思いがあった………
+ Synopsis:  The heroes enjoy a peaceful life, but they can't help but think about the people they left behind in Kareshia…
+難易度選択画面から、続編シナリオをプレイできるようになります。
+Unlock a sequel scenario accessible from the difficulty selection screen.
+エクストラボーナス「ラストホープ〈エターナル〉」を適用し、
+This bonus will be available after activating the Last Hope Eternal bonus
+ある特定のエンディングを見ると、このボーナスを適用できるようになります。
+and viewing a specific ending.
+ＥｘｔｒａＲｏｏｍにて、ゲームのオープニングテーマ『変わる強さ ～ 追い風の道標』のフルサイズを視聴できます。
+Unlock the full version of the opening theme, "Changing Strength - A Tailwind's Guide", in the Extra Room.
+さらに、曲の歌詞と、制作者の思いを読むこともできるようになります。
+You will also be able to view the lyrics and the composer's thoughts.
+Extra『変わる強さ ～ 追い風の道標』：5000PT
+ Extra: "Changing Strength - A Tailwind's Guide": 5000 BP:
+ＥｘｔｒａＲｏｏｍにて、悲愴の慟哭のエンディングテーマ『雨歌』を視聴できるようになります。
+Unlock the ending theme of the Dirge of Sorrow, "Rain Song", in the Extra Room.
+Extra『雨歌』：10000PT
+Extra: "Rain Song": 10000 BP:
+エクストラダンジョンをクリアすると、このボーナスを適用できるようになります。
+This bonus will be available after clearing the extra dungeon.
+ＥｘｔｒａＲｏｏｍにて、Ｔｒｕｅ　ＥＮＤテーマ『再会』を視聴できるようになります。
+ Unlock the True Ending theme, "Reunion", in the Extra Room.
+Extra『再会』：15000PT
+ Extra:  "Reunion": 15000 BP:
+引き継ぎ処理が完了しました。
+Carry-over process is complete.
+続けて、難易度選択を行ってください。
+ Please select a difficulty to begin the game.
