@@ -413,7 +413,7 @@ Water Key
 地の鍵
 Earth Key
 闇の鍵
-Darkness Key
+Shadow Key
 風の鍵
 Wind Key
 雷の鍵
@@ -847,7 +847,7 @@ First, head west to the Rysen Forest.
 その森から、世界の破滅をたくらむ者たちの邪悪な気配を感じます。
 I sense a dark presence emanating from the forest, the taint of those who would see Kareshia destroyed.
 神殿を出て、まっすぐ西の方角へお進みください。リゼンフォレストの入り口前にはセーブ陣がありますので目印となるでしょう。
- Leave the temple and head west. There's a save point just before the entrance to Rysen Forest.
+Leave the temple and head west. There's a save point just before the entrance to Rysen Forest.
 森には、たくさんの妖精たちが住んでいます。
 The forest is home to many fairies.
 まずは、妖精たちの住処へ立ち寄り、彼らから話を聞き、魔の元凶について探ってください。
@@ -989,7 +989,7 @@ I would never...
 妖精の少女「違う…の？」
 Fairy Girl: "You... you're not?"
 ?me?は、その妖精に話を聞こうと、彼女に歩み寄った。
-I took a step toward the fairy, hoping to talk to her.
+I take a step toward the fairy, hoping to talk to her.
 うきゃっ！こっちに来ないでよ！」
 Fairy Girl: "Eek! Stay back!"
 だめだ。
@@ -1029,7 +1029,7 @@ I'm here to capture you!
 妖精の少女「やっぱり！あんたも、あいつらの仲間なんでしょ？」
 Fairy Girl: "I knew it! You're one of them, aren't you?!"
 半ば冗談のつもりで行ってみたのだが、
- I only meant it as a joke,
+I only meant it as a joke,
 彼女の警戒をさらに強めてしまう結果となってしまった。
 but it only made her more suspicious.
 彼女は本気でおびえている様子だ。
@@ -1037,7 +1037,7 @@ She's absolutely terrified.
 逃げ出そうとする彼女を何とか引き止め、何度も誤った。
 I manage to stop her from running away and apologize profusely.
 何とか誤解を解くことができたようだ。
- I think she understands now.
+I think she understands now.
 そんなつもりはない
 I would never do that.
 妖精の少女「ほんとに…そう…なの？」
@@ -1073,9 +1073,9 @@ I can't believe something so awful happened in this peaceful forest...
 森の妖精たちをさらった魔物………
 Monsters kidnapping fairies...
 もしや、この世界に迫る危機と何らかの関係があるのかもしれない！
- Could this have something to do with the danger threatening this world?
+Could this have something to do with the danger threatening this world?
 妖精たちを助けることができれば、
- If I can rescue them,
+If I can rescue them,
 この森に潜む邪悪に近づくこともできるだろう。
 maybe I can get closer to the evil lurking here.
 ?me?は今から、君の仲間たちを助けに行く。
@@ -1101,13 +1101,13 @@ Thank you, ?name?.
 ほら、早くいくよ！」
 Come on, let's hurry!"
 恥ずかしそうに俯く彼女に、力強く答えた。
- She looks down shyly, and I answer with a reassuring nod.
+She looks down shyly, and I answer with a reassuring nod.
 そして?me?とリリアは、住処の西の出口から、森のさらなる奥地へと進んでいく…
- And so, Lilia and I leave the fairies' home through the western exit and venture deeper into the forest...
+And so, Lilia and I leave the fairies' home through the western exit and venture deeper into the forest...
 リリア「その鍵があれば、閉ざされた遺跡の扉を開くことができるよ。
 Lilia: "That key will open the sealed door in the ruins.
 これで、先に進めるね、?name?！」
- Go on ahead, ?name?."
+Go on ahead, ?name?."
 　「遺跡の鍵」を入手しました。
 Ruins Key acquired.
 このように入手したアイテムは、ステータス画面からいつでも確認することができます。
@@ -1155,7 +1155,7 @@ Lilia: "I...I'm alright...are you?
 あたし？大丈夫なわけ…ないじゃない…
 Me? I'm...fine. Of course I...
 ちゃんと…トドメ、刺しといて…よね。」
- That's...quite the blade...you've got there... "
+That's...quite the blade...you've got there... "
 魔物に一撃を見舞われ、リリアは瀕死の状態だ。
 Lilia lies mortally wounded, struck down by the monster.
 それもこれも、全ては?me?のせいだ。
@@ -1191,7 +1191,7 @@ I thought maybe...maybe you could save everyone...and that gave me the courage t
 あたしもあんたと一緒なら、みんなを助けられるかもって思ったのに…。
 I thought...maybe together, we could save everyone...
 …もう、だめ…みたい。
- I...it's no good...
+I...it's no good...
 せめて…みんな…に、ごめんねって…いいたかっ…」
 I just wanted...to say...I'm sorry..."
 地に倒れ伏したリリアの命の炎が、今、消えた。
@@ -1425,9 +1425,9 @@ Everyone... I'm so sorry... I..."
 ？？？「何を謝る必要があるのだ、リリアよ。」
 ???: "Whatever for, Lilia?"
 リリア「長老様、無事だったのですね！？」
- Lilia: "Elder! You're alright?!"
+Lilia: "Elder! You're alright?!"
 森の長老・ブルソン
- Bulson, Elder of the Forest:
+Bulson, Forest Elder:
 「あたりまえじゃ。
 "Of course I am.
 わしだけでなく、森の皆も無事じゃよ。
@@ -1441,27 +1441,27 @@ Thank you, Lilia.
 そして、お前さん。」
 And thank you as well."
 森の妖精たちの長老は、リリアだけでなく?me?の存在にも気づいているようだ。
- The fairies' elder acknowledges me as well as Lilia. He knows we're connected somehow.
+The fairies' elder acknowledges me as well as Lilia. He knows we're connected somehow.
 「事情は分からんが、リリアがここまでくることができたのは、お前さんが導いてくれたからなんじゃろ？
 "I don't know the details, but I reckon Lilia wouldn't have made it this far without you.
 本当に感謝しておる。」
 I'm in your debt."
 リリア「みんな、帰ろう。あたしたちの場所へ。」
- Lilia: "Come on, everyone. Let's go home."
+Lilia: "Come on, everyone. Let's go home."
 リリアたちの住処まで戻る途中、?me?がなぜここに来たのか、
- As we make our way back to the fairies' home, I explain everything to the elder:
+As we make our way back to the fairies' home, I explain everything to the elder:
 そして、?me?とリリアとの間におこったことについて長老に説明した。
 why I'm here, and what happened between Lilia and me.
 「そうか、そのようなことが。
 "I see... So that's what happened.
 では今は、リリアもお前さんも、自分たちのおかれている状況が分かっておらんということなのじゃな。」
- You're both in uncharted territory, then."
+You're both in uncharted territory, then."
 リリア「そうです…ね。」
 Lilia: "That's...one way to put it."
 「?name?殿はこの世界に召喚されたといっておったな？
 "You said you were summoned here, ?name??
 わしが思うに、?name?殿は召喚された際に特別な力を授かったのではないかと思う。
- I believe you were granted a special power upon your arrival.
+I believe you were granted a special power upon your arrival.
 詳しいことは、わしにも分からんが、お前さんをこの世界へ誘った神官殿は、すべてを知っておるはずじゃ。
 I don't have the answers you seek, but the priests of Shaintarium...they summoned you here.
 これから二人で、シェイントアリアムへ戻り、森で起こったことについて尋ねるとよい。」
@@ -1475,9 +1475,9 @@ Then you must go together.
 あとは、わしらだけでも大丈夫じゃ。」
 We'll be alright on our own."
 リリア「あたし…も？
- Lilia: "You really think so?
+Lilia: "You really think so?
 ねぇ?name?、もう少し、一緒にいても、良いのかな？」
- Um... ?name?... Would it be alright if I stayed with you a little while longer?"
+Um... ?name?... Would it be alright if I stayed with you a little while longer?"
 もちろんだ。リリアの力を借りられるのなら、?me?もとても助かる。
 Of course. I could use your help.
 リリア「うん！
@@ -1485,9 +1485,9 @@ Lilia: "Yes!
 長老様、あたし、行きます。
 Elder, I'll go.
 自分のこと、このリゼンの森のこと、そして世界のこと。?name?と一緒に行って、お話を聞いてきます。」
- We'll go to Shaintarium and learn everything we can."
+We'll go to Shaintarium and learn everything we can."
 「そうじゃな。
- "Good.
+"Good.
 強くなったな、リリア。本当に強くなった…。
 You've grown strong, Lilia.  Stronger than you realize...
 だれよりも小さく、誰にでも好戦的だったお前が、今となっては…」
@@ -1501,7 +1501,7 @@ Take care, you two."
 リリア「んもぅ。分かってますって。」
 Lilia: "We will!"
 「お、そうじゃ。一つ言い忘れとったことがある。
- "Oh, one last thing.
+"Oh, one last thing.
 戻ってきた者の中に、万屋を開いとる者がおる。2人の旅の助けとなるアイテムもあると思うぞ。
 One of those who returned to us has opened a shop. You might find something useful for your travels.
 時間があれば除いていくのもよかろう。」
@@ -1509,7 +1509,7 @@ Stop by if you have the time."
 遺跡の鍵を使い、扉を開いた！！
 You used the Ruins Key to unlock the door!
 なんと！秘密の合言葉を発見した！！
- You found a secret password!
+You found a secret password!
 シャドウラインの正式版で、
 In the official version of ShadowRine,
 ひらがなで「りりあのきもち」と入力すると、素敵なアイテムがプレゼントされるぞ！
@@ -1517,15 +1517,15 @@ Enter the password "lilia feeling"  in all lowercase to receive a special gift!
 立札がある。
 There's a sign here.
 『万屋リゼン、臨時営業中』
- "Rysen General Store - Open for Business!"
+"Rysen General Store - Open for Business!"
 「リリア、そして?name?よ。
 "Lilia, and you, ?name?.
 今ここカレシア各地には、凶悪な魔物が出没しておる。
 Dangerous monsters are appearing all over Kareshia.
 道中、気をつけるんじゃぞ。」
- Be careful out there."
+Be careful out there."
 ?name?君、リリア！
- "?name?, Lilia!
+"?name?, Lilia!
 遺跡の魔物を倒してくれてありがとう。
 Thank you for getting rid of the monsters in the ruins.
 だけど、実はまだ、森には沢山の魔物がいて、僕たちも安心して出歩けないんだ。
@@ -1549,83 +1549,83 @@ You received 30 Karen!
 妖精の女の子・サフラ
 Safra, the Fairy Girl:
 「あ、リリ！
- "Lili!
+"Lili!
 助けてくれてありがと！
 Thanks for saving us!
 神殿に行くんでしょ？
- Are you going to the temple?
+Are you going to the temple?
 わたしね、聞いたことがあるの。
- I heard something...
+I heard something...
 平原の出口から北に少し行くと、とても危険な洞窟があるんだって。
 They say there's a dangerous cave a little ways north of the plains exit.
 神殿は、森を出てまっすぐ東に行ったところ。
- The temple is east of here, past the forest.
+The temple is east of here, past the forest.
 危ないから、絶対北に行っちゃだめだよ。」
 It's dangerous, so whatever you do, don't go north!"
 宿屋の主人・ルフレ「やあ、リリア。
- Rufre, the Innkeeper: "Well, if it isn't Lilia.
+Rufre, the Innkeeper: "Well, if it isn't Lilia.
 そして?name?さんも。
- And you must be ?name?.
+And you must be ?name?.
 宿屋《ルフレ》へようこそ。
 Welcome to the Rufre Inn.
 1泊3カレンだけど、泊まるかい？」
- Can I interest you in a room for the night? Only 3 Karen."
+Can I interest you in a room for the night? Only 3 Karen."
 現在の所持金は、%6%カレンだ。どうしようか？
 You currently have %6% Karen.
 泊まるかい？：
- Will you stay the night?:
+Will you stay the night?:
 泊まる
- Stay the night.
+Stay the night.
 さすがに…、宿代も払ってもらえないんじゃあ泊められないよ。
 "I'm afraid I can't let you stay for free...
 すまないね。
- Sorry."
+Sorry."
 ゆっくり休んで行くんだよ。
-  "Make yourselves at home.
+"Make yourselves at home.
 おはよう。この先も気を付けて。
- Rest well, and stay safe out there."
+Rest well, and stay safe out there."
 万屋店主・プラム
- Plum, the Shopkeeper: "Hey, Lilia!
+Plum, the Shopkeeper: "Hey, Lilia!
 「よ、リリア！
 You really saved our hides back there in the ruins.
 遺跡の時は本当に助かったぜ。
- And you too, ?name?.
+And you too, ?name?.
 そっちの?name?兄ちゃんも、あんがとな。
 I run the shop here in town.
 俺は、ここで万屋をやってるんだ。そうそう、最近面白いもんが手に入ってたっけ。
- Say, I got my hands on something real interesting recently. It's called a Staminite.
+Say, I got my hands on something real interesting recently. It's called a Staminite.
 スタミナイトって言ってな、生命力を向上させてくれるアイテムだ。
 It's this little gemstone, see?  Increases your life force or something like that.
 これを持っているだけで、体力の最大値がアップするっていう代物だぜ。
-  Carry one with you and your health shoots right up!
+Carry one with you and your health shoots right up!
 この間のの恩もあるし、譲ってやりたいのはやまやまなんだが。魔物のせいで店もめちゃくちゃになっちまって、俺も生活がピンチなんだ…
- I'd love to give it to you as thanks for the other day... but things have been tough since those monsters trashed my shop...
+I'd love to give it to you as thanks for the other day... but things have been tough since those monsters trashed my shop...
 安くしとくから。…そうだなぁ、100カレンでどうだ？」
- Tell you what, how about 100 Karen?"
+Tell you what, how about 100 Karen?"
 現在の所持金は、%6%カレンだ。
 You currently have %6% Karen.
 100カレンでどうだ？：
- 100 Karen, what do you say?:
+100 Karen, what do you say?:
 スタミナイトを買う
 Buy the Staminite.
 今は買わない
- Don't buy it.
+Don't buy it.
 そうか、そりゃ残念だ。
 "Ah, too bad.
 また欲しくなったら、いつでも声をかけてくれよ。
 Come back anytime if you change your mind."
 …ああ、ちょっとお金が足りないような気がするんだが。
- "Hmm, you're a little short on Karen, aren't you?
+"Hmm, you're a little short on Karen, aren't you?
 100カレン。これ以上は…負けられないんだ。すまん。
- 100 Karen is the lowest I can go. Sorry about that.
+100 Karen is the lowest I can go. Sorry about that.
 お前らなら、魔物を倒したり、草を刈ったりしてカレンを稼げるだろう？
- I'm sure you can scrounge up 100 Karen. Just kill some monsters or something.
+I'm sure you can scrounge up 100 Karen. Just kill some monsters or something.
 100カレン、集めて持ってきてくれ。
- Bring me 100 Karen, and it's yours."
+Bring me 100 Karen, and it's yours."
 よしきた！
 "You got it!
 ほら、持ってきな！
- Here you go!"
+Here you go!"
 最近物騒だからなあ。外を歩く時は気をつけろよ。
 "It's dangerous out there. Be careful!"
 「最近物騒だからなあ。
@@ -1641,13 +1641,13 @@ Lilia: "I never knew there was a cave this close to the forest.
 　もしかしたら、貴重なアイテムが手に入るかもしれないね。
 We might find some rare treasures in here!
 　でも、とっても危険な気を感じる。
- But something feels off...
+But something feels off...
 ?name?、気を付けて進みましょ。」
- Stay alert, ?name?."
+Stay alert, ?name?."
 ようこそ、リゼンの森へ！
 Welcome to Rysen Forest!
 西へ進むと、妖精たちのすみか、森の遺跡
- West: The fairies' home and the forest ruins.
+West: The fairies' home and the forest ruins.
 東へ進むとカレシア平原
 East: Kareshia Plains.
 この先、森の遺跡。
@@ -1661,17 +1661,17 @@ Tell me, what was Rysen Forest like?
 さらわれた森の妖精たち…。
 The kidnapped fairies...
 遺跡から現れたたくさんの魔物…。
- The monsters swarming from the ruins...
+The monsters swarming from the ruins...
 そして、【ルドルフの僕】…。
- And... one of Rudolph's servants...
+And... one of Rudolph's servants...
 そうですか、そのようなことが…。
- Yes... That's...
+Yes... That's...
 何にせよ、本当にご無事で何よりでした。
 I see... You faced a great peril, and yet you returned safely.  That is what matters most.
 申し訳ありません。
 I must apologize.
 森へ向かわれるあなたに、私は名乗りもせず…。そして、この世界のことを何一つお伝えしていませんでした。
- I sent you into the forest without even revealing my name, without telling you anything about this world.
+I sent you into the forest without even revealing my name, without telling you anything about this world.
 正直なところ、私は、あなたのことを完全には信じられていなかったのです…。
 The truth is... I did not fully trust you.
 …それなのに…。
@@ -1705,33 +1705,33 @@ Please, forgive me...
 しかし、魔の手に立ち向かうのは、あなた一人ではありません。
 But you are not alone in this fight.
 ラストホープには、肉体と魂を分離し、結合する力が秘められています。
-Last Hope harbors a hidden power?the ability to separate and bind souls together.
+Last Hope harbors a hidden power: the ability to separate and bind souls together.
 ?name?様はすでに、魂の同化を経験されているようですね。」
 You have already experienced this firsthand, have you not?"
 「あの、あたし…」
 Lilia: "Um...hi..."
 リリアが前に出る。
- Lilia steps forward.
+Lilia steps forward.
 あなたは、リゼンの森の妖精さんですね。
 "You are a fairy of Rysen Forest, are you not?"
 「えと、あたし…リリアって言います。あたしは、いったい…。」
-Lilia: "Yes, my name is Lilia.  What's going... on?"
+Lilia: "Yes, my name is Lilia. What's going... on?"
 リリアさんとおっしゃるのですね？
 "Lilia, was it?
 リリアさん、あなたは、勇者の目の前で命を落とされましたね？
 You died, did you not? Right before the hero's eyes."
 リリア「あ、えと…そうなんだと…思います。あたし自身も、よく覚えていなくって。」
- Lilia: "I...  I think that's right? It's all kind of a blur..."
+Lilia: "I...  I think that's right? It's all kind of a blur..."
 あなたの肉体は壊れてしまい、あなたの魂は肉体を離れました。そして、そのまま天へ上るはずだったのです。
 "Your physical form was destroyed, your soul ripped from its vessel. You should have ascended to the heavens."
 リリア「はずって…」
- Lilia: "Should have...?"
+Lilia: "Should have...?"
 ですが、その魂をラストホープが捕え、あなたは?name?様と同化されたのです。
-"But Last Hope intervened.  It captured your soul and merged it with ?name?'s."
+"But Last Hope intervened. It captured your soul and merged it with ?name?'s."
 …そういう、ことだったのか。
 So...that's what happened...
 あの時、剣から発せられた光が、リリアの魂を?me?の中へ取り込んでいたと………。
- The light from the sword...it drew Lilia's soul into me...
+The light from the sword...it drew Lilia's soul into me...
 「それって…。じゃあ、あたしは…やっぱり、一度……」
 Lilia: "Then...does that mean... I really did..."
 リリアの、なんとも言葉にできないような感情が、?me?にも直接伝わってくる。
@@ -1753,7 +1753,7 @@ I want to save this world.
 それはたぶん、?me?にしかできないことだから。
 Perhaps it is my destiny.
 だが、リリアを巻き込んでしまったことを申し訳ないとも思っている。
- But I also feel responsible for Lilia. It wasn't her fight to begin with.
+But I also feel responsible for Lilia. It wasn't her fight to begin with.
 しかし、彼女の力を借りたいというのも、紛れもない事実なのだ。
 But there's no denying it. I need her help.
 ?me?はリリアに…：
@@ -1767,13 +1767,13 @@ Lilia: "Really? I can go with you?
 ありがと、?name?！
 Thank you, ?name?!
 あたし、誰かに頼りにされたことなんてなかったから、今すごく嬉しいよ！
- No one's ever needed my help before! This is so exciting!
+No one's ever needed my help before! This is so exciting!
 あたしも頑張るから、一緒に、いこ！」
- I'm ready! Let's go!"
+I'm ready! Let's go!"
 「森に…。
 Lilia: "Back to the forest...
 やっぱり…あたし、足手まとい…なのかな？」
- Am I... holding you back?"
+Am I... holding you back?"
 そんなことは、ない。
 Not at all.
 「本当に？
@@ -1785,7 +1785,7 @@ I promise, I'll do my best!"
 ?name?様、リリアさん。
 "?name?, Lilia.
 沢山お話をしてしまいましたね。この世界やラストホープのことで、頭がいっぱいになっていませんか？
-We've discussed many things.  You must be overwhelmed with the weight of this world and the burden of Last Hope.
+We've discussed many things. You must be overwhelmed with the weight of this world and the burden of Last Hope.
 しかしもう…時間がありません。
 But we have no time for doubt.
 お二人には、まだお伝えできていないことがありますが、それは次の機会に…。
@@ -1799,15 +1799,15 @@ Be warned: Geryua Volcano teems with vicious monsters loyal to Rudolph, and its 
 ところで、ラストホープの経験値は確認されましたか？
 Incidentally, have you been keeping track of Last Hope's experience?
 一定量の経験値を獲得してから台座に剣を突き立てると、ラストホープを強化することができますよ。
- By offering a sufficient amount of experience to the pedestal, you can enhance its power.
+By offering a sufficient amount of experience to the pedestal, you can enhance its power.
 火山へ向かわれる前に、剣を強化されることをお勧めします。
 I highly recommend strengthening your blade before venturing towards the volcano.
 それでは、お気をつけて。
 Be safe, you two."
 登山口のようだ。
- This must be the trailhead.
+This must be the trailhead.
 しかし、今はここに来る用事はない。
- But it's not our destination yet.
+But it's not our destination yet.
 リリア「ここが、ゲリュア火山？
 Lilia: "So this is... Geryua Volcano?
 …なんか、すごく暑いよ。」
@@ -1819,21 +1819,21 @@ Lilia points to...
 溶岩の川、溶岩流！
 A river of molten lava!
 リリア「あの川に落ちたら、あたしたち…」
- Lilia: "If we fall in there, we'll..."
+Lilia: "If we fall in there, we'll..."
 ひとたまりもない。たちまち跡形もなくなってしまうだろう。
-...be incinerated instantly.  There wouldn't even be ashes left.
+...be incinerated instantly. There wouldn't even be ashes left.
 リリア「そんなあ…」
- Lilia: "No way..."
+Lilia: "No way..."
 ともかく、気を付けて進もう。
- We'd better watch our step.
+We'd better watch our step.
 　「チュートリアル」の「高低差のあるフィールド」が解放されました。
 Navigating Uneven Terrain is now unlocked in the Tutorials section.
 ゲリュア火山、中腹のセーブ陣だ。
- The save point on the slopes of Geryua Volcano.
+The save point on the slopes of Geryua Volcano.
 やっとの思いでここまで来た。
- We made it this far.
+We made it this far.
 リリア「あっついねぇ。…くてぇ……」
- Lilia: "It's so... so hot..."
+Lilia: "It's so... so hot..."
 リリアと?me?は、今同じ暑さを共有している。リリアの体力的にも、ここで一休みしたほうがいいだろうか。
 We're one now. It's probably best if we rest here for your sake as well.
 リリア「そ、そうだね。あたし、もうへとへと…
@@ -1905,11 +1905,11 @@ Lilia: "Oh my! ?name?, look!
 ほら、東の崖の上！」
 Up there, on the eastern cliff!"
 人だ！
- Someone's there!
+Someone's there!
 誰が倒れている！！
 They've collapsed!
 リリア「黒焦げ！どうして！？」
- Lilia: "They're burned! What happened?!"
+Lilia: "They're burned! What happened?!"
 とにかく、様子を見に行こう。
 We have to get up there.
 たぶん、あそこは山頂付近。
@@ -1917,11 +1917,11 @@ That must be near the summit.
 北の登山道から行けるかな？」
 Can we reach it from the northern path?"
 北の山道をさらに進み、ここの東の崖の上まで回っていけばいいということか。
- So we need to take the northern path and circle around to the eastern cliffs?
+So we need to take the northern path and circle around to the eastern cliffs?
 よし、すぐに出発しよう！
 Right, let's get going!
 出発の前に、セーブ陣で旅の記録を残しておこうか？
- Should we save our progress at the save point before we head off?
+Should we save our progress at the save point before we head off?
 ？？？「とまれ！」
 ???: "Halt!"
 ん？
@@ -1931,9 +1931,9 @@ I hear a voice from beyond the gate.
 ？？？「お前は…、里のものではないな？
 ???: "You... you're not one of us.
 帰れ。部外者をここに入れるわけにはいかん。」
- Turn back. Outsiders are forbidden here."
+Turn back. Outsiders are forbidden here."
 ん？何かがおかしい。
- That's strange.
+That's strange.
 さっきまで、誰かいたのだろうか。
 I thought I saw someone here just a moment ago.
 リリア「ちょっと！ねぇ、大丈夫？」
@@ -1945,7 +1945,7 @@ Oww..."
 リリア「うごいちゃだめ。今、運ぶから。
 Lilia: "Don't move, I'll get you out of here!
 あんた、竜眷族の娘でしょ？どうしてこんなところに？
- You're one of the Dragonkin, aren't you? What are you doing out here all alone?"
+You're one of the Dragonkin, aren't you? What are you doing out here all alone?"
 ？？？「そんなに沢山質問されても…答えられないよ。
 ???: "I... I can't... answer all those questions...
 とりあえず、わたしを運ぶのは…しなくて、いい。」
@@ -1965,11 +1965,11 @@ How do I explain this?
 ？？？「ま、いっか。この世界は…不思議なことだらけ…。
 ???: "Well, it doesn't matter.  This world is full of mysteries.
 わたしの知らないことの1つや2つ。あっても、おかしくないよね。
- I'm sure there are plenty of things I don't understand.
+I'm sure there are plenty of things I don't understand.
 えと、君？ひとつお願いしたいことがあるのだけど、いいかな？
- Listen...could you do me a favor?
+Listen...could you do me a favor?
 里のみんなに…知らせて。
- Warn the others...tell them...
+Warn the others...tell them...
 この山は、とっても危険。早く、里を離れて山を下りて…って。
 This mountain is dangerous. They need to leave... now.
 大丈夫…だよ。山王の巫女、エレナが…そう言ってたって伝えてくれれば…
@@ -1985,21 +1985,21 @@ It's too late. She's gone.
 リリア「そんな…」
 Lilia: "I can't believe..."
 手遅れだということは分かっている。
- I know it's too late.
+I know it's too late.
 だが?me?は、本心から納得していない。
 But I refuse to accept it.
 また自分の目の前で、一つの命が失われていく………。
- Another life extinguished right before my eyes...
+Another life extinguished right before my eyes...
 ?me?は救えないのか？
- Why can't I save anyone?
+Why can't I save anyone?
 この山王の巫女という、竜眷族の少女を！！
 I have to save her!
 ラストホープが！
- Last Hope!
+Last Hope!
 リリア「え？今、光った？
 Lilia: "Did... did it just glow?
 まさか！」
- No way..."
+No way..."
 まただ。またこの感覚だ。誰かが、誰かが?me?の中に入ってくる！
 It's happening again! Someone is entering my body!
 リリア「ね、ねぇ！これってもしかして、魂の同化！？」
@@ -2013,9 +2013,9 @@ Dragonkin Girl: "What's...?
 そうだ、みんな！里のみんなを助けに行かなきゃ。
 We have to warn everyone! We have to save them!
 え！？動…ける？
- What...? I can move!
+What...? I can move!
 今まで、体が全くいうこと聞かなかったのに！」
- I couldn't even twitch before!"
+I couldn't even twitch before!"
 リリア「落ち着いて…」
 Lilia: "Easy now..."
 竜眷族の少女「うわっ！だれ？…ていうか、どこから？でも、今わたしの口がかってに動いたし…。やっぱりおかしい！どうなって…？」
@@ -2023,29 +2023,29 @@ Dragonkin Girl: "Whoa! Who's talking?! Where... Where am I? What's going on? My 
 リリア「落ち着いて？あたしの話、聞いて？」
 Lilia: "Just breathe. Listen to my voice."
 竜眷族の少女「……」
- Dragonkin Girl: "..."
+Dragonkin Girl: "..."
 彼女は、少しずつ落ち着きを取り戻したようだ。
 She seems calmer now.
 リリアと一緒に、彼女の身に起きたこと、魂の同化のこと、?me?のこと、リリアのこと。
-I explain everything, with Lilia's help?what happened to her, about soul merging,
+I explain everything, with Lilia's help: what happened to her, about soul merging,
 そして、?me?たちがここに来た目的まで。全てを話した。
 about who we are, and why we're here.
 竜眷族の少女「そう、なんだ。変だね。わたしたち、みんな同じなんて。
 Dragonkin Girl: "So that's... That's crazy.  We're all connected now.
 でも、信じるよ！この世界は、不思議でいっぱいだもの。
- But I believe you.  This world is full of strange things.
+But I believe you. This world is full of strange things.
 じゃあ、これから私たち、一緒なんだよね？
 So we're a team now, then?
 あらためて自己紹介するね。わたし、エレナ。竜眷族のエレナ。
- Let me properly introduce myself. I'm Elena, of the Dragonkin.
+Let me properly introduce myself. I'm Elena, of the Dragonkin.
 リリアちゃん、そして?name?君も。よろしくね。」
 It's nice to meet you, Lilia, ?name?.
 エレナ「とりあえず、里に戻りたいのだけど。族長に、山王様のことお伝えしたいから。
 We need to get back to my village. I have to warn the chieftain about the Volcano Drake.
 良いかな？」
- Will you come with me?"
+Will you come with me?"
 もちろんだ。そのついでに、?me?たちも魔の元凶について情報を集めたい。
- Of course. We need to find out more about this evil, too.
+Of course. We need to find out more about this evil, too.
 エレナ「オッケー。それじゃ…あれ？」
 Elena: "Great!  Then let's... huh?"
 リリア「どうしたの、エレナ？」
@@ -2053,9 +2053,9 @@ Lilia: "What is it, Elena?"
 エレナ「ああっ！わたしの剣が！」
 Elena: "My sword! It's..."
 エレナが取り出した剣の刃は、途中でぽきりと折れている。
- The blade of Elena's sword is snapped in two.
+The blade of Elena's sword is snapped in two.
 ラストホープに比べれば細身の剣であるとはいえ、どれだけの衝撃を加えればこのような状態になるのだろうか。
- It was a slender blade compared to Last Hope, but even so... what kind of force could have broken it like that?
+It was a slender blade compared to Last Hope, but even so... what kind of force could have broken it like that?
 エレナ「うー。これじゃあわたし、魔物と戦えないよ…。」
 Elena: "This is no good. I can't fight like this...
 エレナ「やっぱり、君が使ってるラストホープを借りても、こんなに幅広で長い剣は、わたしには重くて振り回せない…。」
@@ -2063,27 +2063,27 @@ Maybe I could borrow Last Hope? But it's so big and heavy... I could never wield
 エレナ「ーー！！」
 Huh?!"
 ラストホープが…変化した！？
- Last Hope... it's changing!
+Last Hope... it's changing!
 リリア「エレナの剣とそっくり…。どうなってるの！？」
- Lilia: "It looks just like Elena's sword! How...?"
+Lilia: "It looks just like Elena's sword! How...?"
 これも、ラストホープの力なのだろうか…。
 This must be another one of Last Hope's powers.
 エレナ「本当に不思議な剣…。だけど、これでわたしも戦える！
 Elena: "What an amazing sword. I can fight now!
 さあ、二人とも、竜眷族の里へ行こう。」
- Come on, you two. Let's head back to the village."
+Come on, you two. Let's head back to the village."
 エレナが仲間に加わった！！
 Elena has joined your party!
 チェンジボタンで、エレナと交代することができるぞ。
- You can now switch to Elena using the Change button.
+You can now switch to Elena using the Change button.
 エレナに交代すれば、素早い動きと隙のない攻撃を繰り出すことができる。
 Elena is swift and precise.
 攻撃力や防御面で劣るが、立ち回り次第で強力なパートナーとなってくれること間違いなしだ！
- She may lack raw power and defense, but her agility makes her a valuable asset.
+She may lack raw power and defense, but her agility makes her a valuable asset.
 エレナ「お～い、おじさん！」
 Elena: "Hey there, old timer!"
 里の門番・ガードン「誰が、おじさんってか！
- Gordon, the Gatekeeper: "Who're you calling old?!
+Gordon, the Gatekeeper: "Who're you calling old?!
 俺はまだ、成人して3年目だぞ！
 I've only been an adult for three years!
 ………って、エレナか？
@@ -2091,7 +2091,7 @@ I've only been an adult for three years!
 無事だったのか！本当に皆心配していたんだぞ？」
 You're alright! Everyone was worried sick!"
 エレナ「あ、えと…」
- Elena:  "Well, you see..."
+Elena:  "Well, you see..."
 里の門番・ガードン「とにかく、早く中に入るといい。」
 Gordon, the Gatekeeper: "Just get inside, quickly."
 エレナ「ただ今、おじさん。」
@@ -2105,13 +2105,13 @@ Gordon, the Gatekeeper:  "Huh?
 里の門番・ガードン「キサマ、エレナでは、ないのか？」
 You... You're not Elena."
 エレナ「ち、違うの、おじさん。実は、山頂でいろいろあって…。
- Elena: "Well, not exactly. A lot happened back on the summit...
+Elena: "Well, not exactly. A lot happened back on the summit...
 今のわたしは、わたしでもあり、リリアちゃんや勇者様でもある…。」
- I'm me... but I'm also Lilia and the hero, all at the same time."
+I'm me... but I'm also Lilia and the hero, all at the same time."
 里の門番・ガードン「…？なんだ、お前は？いや、お前たちは何を言っている？」
- Gordon, the Gatekeeper: "...What in the...?  What are you talking about?"
+Gordon, the Gatekeeper: "...What in the...?  What are you talking about?"
 エレナ「とにかく、族長に会いたいの。それから、里のみんなにも。みんなを広間に集めてくれない？」
- Elena: "Just trust me. I need to see the chieftain, and everyone else. Can you gather them in the hall?"
+Elena: "Just trust me. I need to see the chieftain, and everyone else. Can you gather them in the hall?"
 里の門番・ガードン「し、しかし…お前は、本当にエレナなのか？」
 Gordon, the Gatekeeper: "B-but... how do I know you're really Elena?"
 エレナ「わかった。私が直接広間へ行く。だから、ここを通して？」
@@ -2119,11 +2119,11 @@ Elena: "Alright, fine. I'll go myself. Just let us through, please?"
 里の門番・ガードン「………」
 Gordon, the Gatekeeper: "..."
 エレナ「ごめんね、二人とも。
- Elena: "Sorry about him, you two.
+Elena: "Sorry about him, you two.
 でも最近、この山はとても危険になったから、みんなピリピリしてるんだと思うの。
- It's just that things have been tense around here with the mountain acting up. Everyone's on edge.
+It's just that things have been tense around here with the mountain acting up. Everyone's on edge.
 おじさんも、それで警戒しているんだよ。だから、さっきのことは許してあげて、ね？
-  He's just trying to do his job.  Don't take it personally, okay?
+He's just trying to do his job.  Don't take it personally, okay?
 族長のゴポンガ様は、里の南東の広間にいらっしゃると思う。
 Chieftain Goponga should be in the hall on the southeast side of the village.
 入り口は大きな扉で閉ざされてると思うんだけど、わたしたちが行けばあけてくれると思うよ。」
@@ -2137,17 +2137,17 @@ Elena: "Don't worry, it's not too far.
 わたしに任せて！」
 Leave it to me!"
 ダッシュを習得した！
- You learned Dash!
+You learned Dash!
 SPを消費しながら走ることができるようになった。
- You can now run by expending SP.
+You can now run by expending SP.
 方向キーを素早く２回入力し、そのまま入力し続けるか、
- Double-tap a direction and hold,
+Double-tap a direction and hold,
 武器をしまった状態で、歩きながらアクションボタンを入力すれば、ダッシュすることができるぞ。
 or hold the action button while walking with your weapon sheathed to dash.
 これで、長い道のりもあっという間だ！
 You'll be covering ground in no time!
 SPが足りなくなったら、立ち止まってしばらく休むか、
- If you run out of SP, stop and rest for a bit,
+If you run out of SP, stop and rest for a bit,
 ゆっくり歩いて回復しよう。
 or just walk to recover.
 　「チュートリアル」の「ダッシュの基本」が解放されました。
@@ -2167,31 +2167,31 @@ All right. If Goponga says so, who am I to say otherwise?
 よし。時間までにはかけつけよう。」
 I'll be there soon."
 心配するな。必ず行くと約束しよう。
- Don't worry, we'll be there. You have my word.
+Don't worry, we'll be there. You have my word.
 さあ、先に行ってくれ。
- Go on ahead.
+Go on ahead.
 ガードン「エレナ…、それに?name?様とリリアさんも。
- Gordon: "Elena... ?name?, and Lilia as well...
+Gordon: "Elena... ?name?, and Lilia as well...
 先ほどは本当に失礼したな。
 Sorry about earlier.
 これから、竜の祠へ行くと言っていたな。
 You're going to the Dragon Shrine, yeah?
 あそこはそんなに広いところではないが、現在は多くの魔物がすみついている。
- It isn't a large place, but it's crawling with monsters these days.
+It isn't a large place, but it's crawling with monsters these days.
 溶岩流地帯も多いから、体力には、十分に注意して進むんだぞ。
 And be mindful of the lava flows. Watch your step.
 ゲーラス様のこと、よろしく頼む。」
- May Geras guide you."
+May Geras guide you."
 ガードン「エレナ。ここはお前の里だ。いつでも帰ってきていいんだからな。
 Gordon: "Elena... this will always be your home.  Don't forget that.
 皆、エレナをよろしく頼む。この先も、気をつけてな。」
- Safe travels, all of you."
+Safe travels, all of you."
 宿屋のおかみ・エリー
- Ellie, the Innkeeper:
+Ellie, the Innkeeper:
 「あら、エレナちゃん！無事だったのね。
 "Elena! You're safe!
 山頂まで行ったなら、とても疲れているでしょ？休んでいくかい？」
- You must be exhausted after going all the way up to the summit.  Why don't you come inside and rest?"
+You must be exhausted after going all the way up to the summit.  Why don't you come inside and rest?"
 エレナ「あ、うん。今はちょっと急いでるの。また今度、止まってくよ。」
 Elena:  "Thanks, but I'm in a bit of a hurry.  I'll take a raincheck."
 「あらあら、ゴポンガさんがねぇ。わかったわ。
@@ -2203,53 +2203,53 @@ Elena:  "Thanks, but I'm in a bit of a hurry.  I'll take a raincheck."
 1泊5カレンだけど、泊まってくかい？」
 Rooms are only 5 Karen a night. Can I interest you in a stay?"
 1泊5カレン：
- 5 Karen a night:
+5 Karen a night:
 あら、お金も持ってないのかい？
- "Oh dear, are you short on funds?
+"Oh dear, are you short on funds?
 まあ…、球速は必要だろうからねえ。残りの分はつけとくから、泊まってきな。
- Well... everyone needs a place to lay their head. It's on the house.  Get some rest."
+Well... everyone needs a place to lay their head. It's on the house. Get some rest."
 いつもありがとうね。ゆっくり休んできな。
- "Always a pleasure to have you. Get some rest."
+"Always a pleasure to have you. Get some rest."
 お目覚めかい？おはようさん。
 "Good morning, sleepyheads!
 この先も気を付けるんだよ。
 Take care out there!"
 山の商人・ウリタ
- Urita, the Merchant:
+Urita, the Merchant:
 「あ、エレナ。お帰り。
 "Elena, welcome back.
 ごめんね。僕は今、店の準備で忙しいんだ。
-  I'm afraid I'm swamped with inventory right now.
+I'm afraid I'm swamped with inventory right now.
 準備が終わったら店を開くから、その時はまた買いに来てね。」
- Come back later and we'll talk business."
+Come back later and we'll talk business."
 「え？族長様が？
 "The chieftain wants to see us?
 今仕入時で1番忙しいのになぁ…。
- But this is the worst possible time!
+But this is the worst possible time!
 ま、しかたないか。
- Oh well, it can't be helped.
+Oh well, it can't be helped.
 皆を待たせるわけにもいかないしね。
 I wouldn't want to keep him waiting.
 先に行ってるよ。サンキュ。」
- Catch you later!"
+Catch you later!"
 ごめん。あと少しなんだ。
- Sorry for the wait. I just need to finish up here.
+Sorry for the wait. I just need to finish up here.
 ウリタ「いらっしゃい。
- Urita:  "Welcome...
+Urita:  "Welcome...
 …っといいたいとこなんだけど、まだ仕入れが終わらなくてさ。
- ...or at least, I wish I could say that. Inventory's killing me!
+...or at least, I wish I could say that. Inventory's killing me!
 また時間のある時にでも見に来てよ。」
- Come back later, alright?"
+Come back later, alright?"
 ウリタ「あ、ちょうどいいところに。
 Urita: "Well, this is perfect timing!
 君たち、ちょっと珍しいものが手に入ったんだ。
- I just got my hands on something special.
+I just got my hands on something special.
 ほら、これ。パワフルビーって言って、攻撃力を強化してくれるアイテムなんだ。
- Take a look at this!  It's called a Power Ruby.  Boosts your attack power, see?
+Take a look at this! It's called a Power Ruby. Boosts your attack power, see?
 これを持っているだけで、攻撃力が少しアップする。
- Carry one around and you'll be hitting harder in no time!
+Carry one around and you'll be hitting harder in no time!
 君たちには、ゲーラス様のことで里のみんなが迷惑をかけちゃったからな。
- Tell you what, I'll give you a discount,
+Tell you what, I'll give you a discount,
 特別に安く売ってあげるよ。
 what with all the trouble Geras has caused and everything.
 そうだな、120カレンでどうかな？」
@@ -2261,7 +2261,7 @@ Buy the Power Ruby
 そうか。
 Alright then.
 また欲しくなったらいつでも買いに来てね。
- Come back anytime.
+Come back anytime.
 …お客さん？お金が足りないよ。
 "Ah, I'm afraid you're a little short.
 僕も商売人だから、ことがお金のこととなればは厳しいんだ。
@@ -2281,11 +2281,11 @@ Petra, the Village Kid:
 「あぁ、エレナおねぇちゃんだぁ！」
 "Elena!  It's Elena!"
 エレナ「ただいま。元気だった？」
-Elena: "Hey there!  How are you?"
+Elena: "Hey there! How are you?"
 ペトラ「うん！ねぇねぇ、また一緒に遊んでくれる？」
-Petra: "I'm good!  Will you play with me?"
+Petra: "I'm good! Will you play with me?"
 エレナ「ごめんね。今、ちょっと忙しいんだ。また後で、ね。」
-Elena: "I'm sorry, I'm busy right now.  Another time, okay?"
+Elena: "I'm sorry, I'm busy right now. Another time, okay?"
 ペトラ「そうなんだ…。分かったよ。」
 Petra:  "Aww... Okay."
 「え？広間に行くの？
@@ -2331,7 +2331,7 @@ Petra is such a sweet kid, isn't she?"
 族長ゴポンガの側近・クレーネ
 Krene, Goponga's Advisor:
 「エレナ様、無事にお戻りになられたのですね！」
-"Lady Elena!  Welcome back."
+"Lady Elena! Welcome back."
 エレナ「ねぇクレーネ、そのエレナ様っての、やっぱりやめてくれないかな？
 Elena:  "Come on, Krene.  We're practically the same age.
 わたしたち、年も近いのに、そんな敬語だなんて…」
@@ -2361,7 +2361,7 @@ Thanks, Krene."
 「はい？皆を集められているのですか？
 "Hmm?  You wish to address the entire village?
 了解しました。では、お先に失礼します。」
-Very well.  Please, go on ahead.
+Very well. Please, go on ahead.
 先に行ってください。私は、皆が集まったのを確認してからかけつけます。
 I'll join you once everyone has gathered."
 クレーネ「まさか、エレナ様と?name?様が同化されておられたとは…」
@@ -2377,7 +2377,7 @@ Lilia: "Don't worry! We're all friends here... I think?"
 クレーネ「…。
 Krene:  "...
 私も、あなたがエレナ様と一緒にいなければ、さまなんて呼びたくないのですが。むしろ、ちゃんづけで呼んで、一緒に私の部屋まで連れて行って、それから…」
-It pains me to use such formal language with you, Lilia.  Ideally, I'd prefer to call you 'Lilia, my dear', and whisk you away to my chambers where we could..."
+It pains me to use such formal language with you, Lilia. Ideally, I'd prefer to call you 'Lilia, my dear', and whisk you away to my chambers where we could..."
 その辺にしておこうか。
 Let's not go there.
 クレーネ「ぐっ、クールなツッコミですね、?name?様。」
@@ -2393,7 +2393,7 @@ Krene: "Yes, of course.  Please forgive me for rambling.
 くれぐれもお気をつけて。」
 Be safe, you three."
 クレーネ「ゴポンガ様が、山王様になるなんて…。正直信じられません。」
-Krene: "Chieftain Goponga...as the volcano's guardian? I must confess, it's a little difficult to imagine."
+Krene: "Chieftain Goponga...guardian of the mountain? I must confess, it's a little difficult to imagine."
 エレナ「そうかな？わたしは適任だと思うけれど。」
 Elena: "Really?  I think he'll be perfect."
 クレーネ「何といいますか。ゲーラス様と比べて、威厳が感じられないというか…。」
@@ -2403,11 +2403,11 @@ Lilia: "I think you're being a little too strict, Krene."
 クレーネ「！！」
 Krene:  "!!"
 エレナ「確かにゴポンガ様は、里のみんなととても親しげで、今までの山王様って感じじゃないかもしれないけれど………」
- Elena:  "It's true that Goponga is very close to everyone in the village. He's not your typical Guardian..."
+Elena:  "It's true that Goponga is very close to everyone in the village. He's not your typical Guardian..."
 厳しさだけでは、みんなの心を束ねることはできない。
 ...But strength alone cannot unite the hearts of others.
 エレナ「そうそう…って、わたしが言おうと思ってたのにぃ。
- Elena:  "Exactly!  Hey, that's what I was going to say!
+Elena:  "Exactly!  Hey, that's what I was going to say!
 なんか、?name?においしいところだけ持ってかれちゃったな。」
 You stole my line, ?name?."
 クレーネ「…
@@ -2417,21 +2417,21 @@ Krene: "...
 リリア「うんうん。
 Lilia: "There you go.
 じゃ、このさいだから、あたしたちにも、もっと友達みたいに話しかけてみてよ。」
- Now that we're all friends here, how about dropping the formalities? Talk to us like we're actual people."
+Now that we're all friends here, how about dropping the formalities? Talk to us like we're actual people."
 クレーネ「へ？」
 Krene: "Huh?"
 エレナ「無理、しなくてもいいよ。
 Elena: "Only if you want to, of course.
 わたしも、楽しみだったのだけれど………」
- I was enjoying our little chat..."
+I was enjoying our little chat..."
 エレナ「次にわたしたちが帰ってきたときの楽しみに、ね？」
 Elena: "Next time, then!"
 リリア「うん！期待してるからね。」
- Lilia: "Yeah!  Don't leave us hanging!"
+Lilia: "Yeah!  Don't leave us hanging!"
 クレーネ「あ…その…」
 Krene: "R-right..."
 魔物好きの少女・ヴィオ
- Vio, the Monster Enthusiast:
+Vio, the Monster Enthusiast:
 「ああ、エレナじゃん！
 "Elena!  Is that you?
 ひどく疲れているみたいね。新種の魔物にでもやられた？」
@@ -2439,7 +2439,7 @@ You look exhausted.  Did you run into a new breed of monster?"
 エレナ「あはは。別に、そういうわけじゃないんだけど、ね。
 Elena: "Haha, it wasn't anything like that.
 あなたも、本当に魔物が好きなんだね。」
- You really love monsters, don't you?"
+You really love monsters, don't you?"
 「だってさぁ、すごいじゃん。あたしらなんか、こんな洞窟の中にこもってないとすぐにやられちゃうんだよ。
 "Of course, I do! They're amazing! We're stuck hiding in caves, terrified of getting squashed,
 それなのに、彼らは自分の力で生きてるんだ。あたしらは、魔物と言って恐れているけど、彼らから学ぶこともあるはずだと思うんだ。」
@@ -2451,7 +2451,7 @@ Elena: "Interesting."
 エレナ「あ、ははは。わたし、今からゴポンガ様に会いに行かなきゃいけないんだ。
 Elena:  "Of course, of course. Look, I have to go see Goponga.
 また今度、お話聞きに来るから。それじゃ！」
-I'll catch up with you later.  See you!"
+I'll catch up with you later. See you!"
 「あ、ちょっと！」
 "Hey, wait up!"
 「え～、広間にぃ～？
@@ -2463,7 +2463,7 @@ Well, if you're gonna tell us about the monsters you encountered, count me in!"
 ヴィオ「もう行くの？ま、気を付けてね。
 Vio:  "Off you go?  Stay safe, you hear?
 そうそう。ここから山の山頂に向かう途中に生息してるファイアリザードなんだけど、ものすごく体力があるの。
-Oh, and watch out for the Fire Lizards on the way to the summit.  Tough little critters, those ones.
+Oh, and watch out for the Fire Lizards on the way to the summit. Tough little critters, those ones.
 おまけに、長いしたを出して遠くから攻撃してくるから、結構戦いづらいよね。
 Tons of health, and they spit fire from miles away!
 でもあいつ、熱に弱いから、溶岩流に誘導すると簡単に倒せるんだよ？
@@ -2473,9 +2473,9 @@ See? My monster obsession isn't so useless after all, huh?"
 ヴィオ「ゲーラス様のこと、ほんとに大変だったね。
 Vio: "I heard about Geras. I'm so sorry.
 あたしだって、心配してるんだよ、これでも。
-I was worried, you know...  Even though I don't always show it.
+I was worried, you know... Even though I don't always show it.
 あ、そうだ。役に立つかはわからないんだけどさ、ゲリュア火山のふもとを南へ少し行くと、小さな洞窟があるらしいんだ。
-Oh!  I almost forgot!  This might be helpful, or it might not... there's a small cave just south of here, at the base of the volcano.
+Oh! I almost forgot! This might be helpful, or it might not... there's a small cave just south of here, at the base of the volcano.
 なんでも魔物の巣窟になってて、かなり危険だとか。
 It's supposedly overrun with monsters, so be careful!
 ま、ちょっとした腕試しくらいにはなるんじゃない？たぶん、それなりの見返りは期待できると思うよ。」
@@ -2497,9 +2497,9 @@ Dodora: "It's a dangerous time for our mountain.
 山王様が暴れておるとは。
 To think the Volcano Drake has gone berserk...
 山の祠に行くんなら、気をつけるんじゃぞ。あそこは、魔物の巣窟じゃからな。」
-You be careful up at the shrine, Elena.  It's crawling with monsters now."
+You be careful up at the shrine, Elena. It's crawling with monsters now."
 ドドラ「エレナもこの山を下り、世界に旅立つんじゃの。本当に立派なこって。
-Dodora: "So, you're leaving the mountain, Elena?  Going out into the world? You've grown so much!
+Dodora: "So, you're leaving the mountain, Elena? Going out into the world? You've grown so much!
 そういやあ昔、「夢を探す旅に出る」とかなんとか抜かして山を下ったもんもおったのう。
 Reminds me of another young one who left these parts to 'find his dreams'...
 里のことをほっぱかして、一人のうのうと遊び歩いておるとは…エレナとは大違いじゃのう。
@@ -2539,9 +2539,9 @@ But all I can do right now is... cheer you on from the sidelines..."
 エレナ「ありがとう。少し、楽になったよ。」
 Elena:  "Thank you, Fult. That means a lot."
 フルト「ごめん。ぼく、自分にできること、見つけるから。そしたらきっと、みんなの役に立つから。だからいまは、
-Fult: "I'm sorry.  I'll find my purpose someday. I'll find a way to help.  But until then...
+Fult: "I'm sorry. I'll find my purpose someday. I'll find a way to help.  But until then...
 気を付けてね、エレナ。そして、リリアさんたちも。」
-Be careful, Elena.  Both of you, Lilia too."
+Be careful, Elena. Both of you, Lilia too."
 フルト「やあみんな！
 Fult: "Everyone!
 僕もやっと、自分にできることを見つけたよ。
@@ -2571,7 +2571,7 @@ Please consider donating again when you have a chance."
 募金が目標額の５００カレンに達したようだ！
 You helped reach the fundraiser goal of 500 Karen!
 やった！これだけ集まれば、この里をこれまで通りに復旧できる！！
-"We did it!  With this much, we can rebuild our village!
+"We did it! With this much, we can rebuild our village!
 皆、本当にありがとう！
 Thank you, everyone!
 あ、そうだ。
@@ -2595,7 +2595,7 @@ Fult: "Yeah. He said it means a lot to you, and he wants to honor Geras's memory
 だから、後でゴポンガ様のところに行ってみて。」
 You should go see him later."
 エレナ「うん。フルト、ありがとう」
-Elena:  "I will.  Thanks, Fult."
+Elena: "I will. Thanks, Fult."
 フルト「?name?さん、エレナ。
 Fult: "?name?, Elena...
 みんな本当にありがとう。
@@ -2655,7 +2655,7 @@ Everyone: "!!"
 里の門番・ガードン
 Gordon, the Gatekeeper:
 「やはり、おかしい。」
-"I knew it!  Something wasn't right."
+"I knew it! Something wasn't right."
 ゴポンガ「まあ、2人とも落ち着け。一度最後まで話を聞かせてもらおうじゃないか。」
 Goponga: "Calm down! Let's hear them out."
 「………」
@@ -2663,7 +2663,7 @@ Goponga: "Calm down! Let's hear them out."
 エレナ「彼女はリリア。見ての通り、リゼンの森の妖精さんです。
 Elena: "This is Lilia. As you can see, she's a fairy from Rysen Forest.
 瀕死のわたしは、彼女から応急処置を受けましたが、完全に消耗していたために手当は間に合わず…命を失いました…」
-She did what she could to heal me... but I was too far gone.  I died."
+She did what she could to heal me... but I was too far gone. I died."
 全員「………」
 Everyone: "..."
 エレナ「だけど、そんなわたしを勇者様…?name?君が助けてくれました。」
@@ -2689,7 +2689,7 @@ Goponga: "Just rumors I've heard.
 世界の均衡を保っている神殿、シェイントアリアムに封印されていた剣の力、だそうだ。」
 It's said to be the power of a legendary blade, sealed within Shaintarium, the temple that maintains the balance of the world."
 リリア「はい。あたしもエレナも、自分の体を失ってしまいました。
-Lilia: "It's true.  Elena and I lost our bodies.
+Lilia: "It's true. Elena and I lost our bodies.
 でも、その剣のおかげで、今もこうして生きていられるんです。」
 But we're alive because of that sword."
 「そんな。信じられない…」
@@ -2711,7 +2711,7 @@ This world is full of wonders and mysteries..."
 ゴポンガ「ま、何はともあれ。エレナは生きてるんだろ？なら、いいじゃねえか。」
 Goponga: "Well, no matter. Elena's alive, ain't she? That's all that matters."
 「そうだよ。本当に、元気そうじゃないかい？」
-"You said it!  She seems to be in good spirits."
+"You said it! She seems to be in good spirits."
 エレナ「皆、分かってくれてありがとう。
 Elena:  "Thank you all for understanding.
 むしろわたし、一緒にいてくれる仲間ができてうれしいくらいなんだよ。」
@@ -2833,13 +2833,13 @@ Lilia: "Wow, what is this place? It's huge!"
 祠か何かだろうか。とても強い気を感じる。
 It looks like some kind of shrine.  I can sense a powerful presence here.
 リリア「あたしも、そう思う。ここ、危険だよ。いまは、近づかないほうがいいとおもう。」
-Lilia: "I have a bad feeling about this.  Maybe we should stay back for now."
+Lilia: "I have a bad feeling about this. Maybe we should stay back for now."
 エレナ「ついた。
 Elena:  "We're here.
 ここが、竜の祠だよ。」
 This is the Dragon Shrine."
 リリア「うわぁ、中はもっと暑いのかなぁ。ぐてぇ。」
-Lilia:  "Ugh, I bet it's even hotter inside.  Just great."
+Lilia: "Ugh, I bet it's even hotter inside. Just great."
 この奥に、山王様がいるということなのだろうか。
 Could the Volcano Drake be in there?
 エレナ「間違いないよ。でも、中はとっても危険だから、十分準備して進んだほうがいいと思うな。」
@@ -2923,7 +2923,7 @@ Lilia: "That's a sturdy looking door."
 …だめだ。びくともしない。
 No good. It won't budge.
 リリア「エレナは、前に1度来たことがあるんだよね？何か知ってる？」
-Lilia: "You've been here before, right Elena?  Know any tricks?"
+Lilia: "You've been here before, right Elena? Know any tricks?"
 エレナ「えと、前に来た時は、どこかでスイッチをガチャガチャいじったら開いたんだけど…」
 Elena: "Hmm, last time I messed with a switch somewhere and it opened..."
 どこかって…。
@@ -2945,7 +2945,7 @@ What do you think?:
 先へ進む
 Press onward
 リリア「うきゃっ！なに！？」
-Lilia: "Yikes!  What is that?!"
+Lilia: "Yikes! What is that?!"
 うん。実に巨大だ。
 Hmm, yes, quite large indeed.
 エレナ「たぶん、この辺一帯のファイアリザードを束ねているんだよ。
@@ -2959,7 +2959,7 @@ No time to argue! It's big and fast!
 2人とも、気を付けて戦おう。
 Be careful, you two.
 巨大な竜の像がある。レバーを操作すると、奥の像が回転するようだ。
-There's a giant dragon statue here.  The lever controls another statue deeper inside.
+There's a giant dragon statue here. The lever controls another statue deeper inside.
 竜の像：
 Dragon Statue:
 東へ向ける
@@ -3009,11 +3009,11 @@ He who seeks to free me from this prison of flame, let three dragons guide your 
 我らは、出口無き炎の中より、竜の空に輝く1点の光を見据えん。
 I shall gaze upon a single point of light, shining in the dragon's sky, from this inescapable inferno.'
 これ、どういう意味だろう…。あんた、分かる？」
-What does it mean?  Do you understand this, ?name?"
+What does it mean? Do you understand this, ?name?"
 全ての封印が解かれ、扉が開いた！
 All seals are broken! The door creaks open!
 リリア「よし、開いた！」
-Lilia:  "We did it!  It's open!"
+Lilia: "We did it! It's open!"
 エレナ「山王様、ご無事でいてください。」
 Elena: "Please be alright, Geras..."
 リリア「準備は大丈夫？」
@@ -3025,7 +3025,7 @@ Okay, let's go!
 リリア「うきゃっ！あ、あれ…。」
 Lilia: "Whoa! What... what is that?!"
 魔物を束ねる魔物、ドラゴン。ということは、おそらく…
-A dragon... a leader of monsters.  Which means...
+A dragon... a leader of monsters. Which means...
 リリア「このドラゴンが…山王…様！？」
 Lilia: "That dragon...is the Volcano Drake?!"
 ？？？「そなたは…」
@@ -3033,39 +3033,39 @@ Lilia: "That dragon...is the Volcano Drake?!"
 エレナ「うん。ゲリュア火山の守り神、ゲーラス様。」
 Elena: "Yes. Geras, the guardian of Geryua Volcano."
 ゲーラス「いかにも。我はゲーラス。里の者からは、山王、と呼ばれておったな。」
-Geras: "Indeed. I am Geras.  Those of the village call me the Volcano Drake."
+Geras: "Indeed. I am Geras. Those of the village call me the Volcano Drake."
 エレナ「山王様…。ご無事ですか？」
 Elena: "Geras... are you alright?"
 ゲーラス「…エレナ。そなたはやはり、エレナであったか？
 Geras: "...Elena.  Is that truly you?
 我は、そなたを襲い、命を奪ってしまったとばかり。」
-I thought... I thought I struck you down.  I thought I took your life."
+I thought... I thought I struck you down. I thought I took your life."
 エレナ「わたしは…命を、救われました。
-Elena:  "I... I was saved.
+Elena: "I... I was saved.
 わたしと一緒に…いいえ、わたしの中にいる2人、
 By the two who are with me... no, the two who are within me now.
 勇者の少年…?name?君と、それからリリアちゃんに。」
 ?name?, the hero, and Lilia."
 ゲーラス「すまなかった…。本当にすまないことをした…。」
-Geras:  "I am...so sorry. I never intended..."
+Geras: "I am...so sorry. I never intended..."
 リリア「ゲーラス？どうしてエレナを襲ったりしたの？
 Lilia: "Geras! Why did you attack her?!
 あんたは、あたしたちと…、こうやって普通に話すことができるんでしょ？それなのに…
-You can talk to us, can't you?  You understand! So why...
+You can talk to us, can't you? You understand! So why...
 どうして…どうして彼女を突然攻撃したの！？」
 Why would you hurt her?!"
 ゲーラス「…わからぬ」
 Geras: "...I don't know."
 なに？自分のしたことを、覚えていないとでもいうのか？
-What?  You don't even remember?
+What? You don't even remember?
 守り神というものは、法を作って民を守り、法を犯したものを裁く。そのような存在だと思っていたのだが…
-I always thought guardians were supposed to be wise and just.  To protect their people and punish those who break the law.
+I always thought guardians were supposed to be wise and just. To protect their people and punish those who break the law.
 ゲーラス「うむ。そなたの言う通り、我はそうあろうとし、つい先日までそうであった…」
-Geras: "Indeed.  I strived to be such a guardian.  And until recently... I was."
+Geras: "Indeed. I strived to be such a guardian. And until recently... I was."
 リリア「そう…だった？」
 Lilia: "Until recently?"
 ゲーラス「つい先日のことだ。黒き霧がこの祠を包み込んだ。その時より、我の心より強い欲望が湧きあがるようになった…
-Geras:  "It was a few days ago. A black fog descended upon the shrine. And then... a hunger grew within me.
+Geras: "It was a few days ago. A black fog descended upon the shrine. And then... a hunger grew within me.
 …すべてを食らいたい…そして、全てを破壊したい…
 A desire to devour, to destroy...
 いつしかその感情は、時より吾の制御下を離れるようになっていったのだ。」
@@ -3087,11 +3087,11 @@ Geras's eyes...
 獲物を捕らえる、狩人の眼だ！
 They're like a predator's, locked on its prey!
 リリア「どうしよう、また暴れだしちゃったのかな？」
-Lilia:  "Oh no, he's losing control again!"
+Lilia: "Oh no, he's losing control again!"
 食らう、くらう、クラウ…クラウクラウクラウクラウクラウクラウクラウウウウッ！！！
 "Consume! Destroy! Devour! DEVOUR EVERYTHING!"
 エレナ「ゲーラス様！ゲーラス様！お気を確かに！！わたしの声が聞こえますか！？
-Elena: "Geras!  Snap out of it! Can you hear me?!
+Elena: "Geras! Snap out of it! Can you hear me?!
 …だめ、なのかな？」
 ...It's... no use..."
 ゲーラス「エレナ…
@@ -3099,7 +3099,7 @@ Geras: "Elena...
 我を、殺せ！」
 Kill me!"
 エレナ「っ！そんなこと…」
-Elena: "No!  I can't..."
+Elena: "No! I can't..."
 ゲーラス「このままでは、そなただけで…なく、3人とも…助からん…！
 Geras: "If you don't... none of you will survive!
 さあ、やれ！」
@@ -3119,7 +3119,7 @@ Dark Geras
 エレナ「ゲーラス、さま…」
 Elena: "Geras..."
 ゲーラス「見事だ、エレナ。そして、シェイントアリアムの使いの者と…、リゼンの子よ…」
-Geras:  "Well fought, Elena... and you as well, servant of Shaintarium... and child of Rysen."
+Geras: "Well fought, Elena... and you as well, servant of Shaintarium... and child of Rysen."
 リリア「ゲーラス…」
 Lilia: "Geras..."
 ゲーラスは、?me?たちとの戦いの中で力を使い果たし、正気に戻ったようだ。
@@ -3133,9 +3133,9 @@ Lilia: "Debris! The ceiling is collapsing!"
 先ほどの戦闘で、祠が崩れ始めているようだ！
 The shrine is falling apart from our battle!
 ゲーラス「行け！このままでは、そなたたちは祠の下敷きとなるぞ！」
-Geras:  "Go!  You'll be crushed if you stay!"
+Geras: "Go! You'll be crushed if you stay!"
 エレナ「ゲーラス様も、一緒に！」
-Elena:  "Come with us, Geras!"
+Elena: "Come with us, Geras!"
 ゲーラス「我はそなたたちの退路を確保する！
 Geras: "I'll buy you some time!
 ここより外へ出たところで、再び先ほどの感情に操られてしまう。
@@ -3147,19 +3147,19 @@ Elena: "But..."
 ゲーラス「我が言葉、ゴポンガに伝えてくれ。今日、この瞬間から、そなたがこの山を守るのだ、と。」
 Geras: "Tell Goponga this: From this moment forward, he is the protector of this mountain."
 エレナ「ゲーラス様…」
-Elena:  "Geras..."
+Elena: "Geras..."
 時間がない。エレナ、行こう！
 There's no time, Elena! We have to go!
 エレナ「?name?君…」
 Elena: "?name?..."
 リリア「ゲーラスの言葉、聴いたでしょ？エレナには、やらなきゃいけないことができたじゃない！」
-Lilia:  "You heard him, Elena! He's right! We have to leave!"
+Lilia: "You heard him, Elena! He's right! We have to leave!"
 エレナ「リリアちゃん…。
 Elena:  "Lilia...
 分かった、行こう。ゲーラス様…」
 Alright. Let's go.  Geras..."
 ゲーラス「もう良い。何も言うな。
-Geras: "Enough!  Save your words.
+Geras: "Enough! Save your words.
 神殿の勇者…?name?よ。
 Hero of Shaintarium, ?name?....
 おそらく我の感情は、ルドルフによって植えつけられたものに違いない。」
@@ -3197,7 +3197,7 @@ I knew Geras just as long as Elena did. I'm hurting just as much as everyone els
 クレーネ「………」
 Krene: "..."
 ゴポンガ「エレナ。辛いのは分かるが、オマエにも俺様にも、やらなきゃならねえことがあるはずだ。ゲーラス様から言われたこと、もう忘れちまったのか！？」
-Goponga:  "Elena, I know this is tough, but we both got duties to fulfill. Don't you remember what Geras told you?!"
+Goponga: "Elena, I know this is tough, but we both got duties to fulfill. Don't you remember what Geras told you?!"
 エレナ「ゲーラス様に、いわれたこと…。
 Elena:  "What Geras told me...
 ゴポンガ様が…この山を治める…
@@ -4509,9 +4509,9 @@ You found a Small Key!
 鍵を開けて、次の部屋へ進もう。
 Use the key to unlock the next room.
 大当たりでゲス！
-"Jackpot!
+Jackpot!
 みごと、すんばらしい商品にたどり着いたゲス！
-You found the grand prize!"
+You found the grand prize!
 こんにちは、雑貨屋《シャレーニ》へようこそ！
 "Welcome to Shaleni's Sundries!
 といっても、観光の方がお使いになるような商品は、うちにはないと思います。ごめんなさいね。
@@ -4673,7 +4673,7 @@ Lilia: "Hey, wait up!
 ともかく、これでやっと、フェルマーレ王との謁見がかなう。
 We can finally meet King Rufus!
 あ、レンさん行っちゃう。早く行こう。」
-Hey, Ren's leaving! Come on!
+Hey, Ren's leaving! Come on!"
 「やあ。
 "Hello.
 レンさんから話は聞いているよ。君があの悪徳商人を見つけてくれたんだってね。」
@@ -7803,11 +7803,11 @@ This door has a keyhole surrounded by an earthy sigil. It is locked tight.
 持っていた地の鍵を使い、扉を開いた！！
 You used the Earth Key to unlock the door!
 「闇の鍵」を手に入れた。
-You acquired the Darkness Key.
+You acquired the Shadow Key.
 扉には闇の陣を縁取った鍵穴があり、固く閉ざされている…
 This door has a keyhole surrounded by a shadowy sigil. It is locked tight.
 持っていた闇の鍵を使い、扉を開いた！！
-You used the Darkness Key to unlock the door!
+You used the Shadow Key to unlock the door!
 地下1階へと続く階段がある…
 There's a staircase leading to B1.
 階段を登ろうか？
@@ -7881,7 +7881,7 @@ This door has a keyhole surrounded by a radiant sigil. It is locked tight.
 持っていた光の鍵を使い、扉を開いた！！
 You used the Light Key to unlock the door!
 光と闇、二つの印放たれし時、深淵へと導かれるであろう
-When the seals of light and darkness are broken, the path to the abyss shall be revealed.
+When the seals of light and shadow are broken, the path to the abyss shall be revealed.
 スイッチを踏んだ。
 You stepped on the switch.
 眩い光が天へと立ち上った！
@@ -8717,17 +8717,17 @@ He's still some distance away,
 まるでそれを感じさせないほどの威圧感と、果てしないほどの殺気。
 but I feel his overwhelming power, his suffocating killing intent.
 そう思い、急いで脇へと飛び去ろうとするが、、間に合わない。
-I try to dodge,
+I try to dodge, but it's too late.
 魂体「その身に刻むと良い。これが、俺とお前との力の差だ。」
-but it's too late.
-その言葉が終わりきらないうちに体へと大きな衝撃があり、
 Wraith: "Remember this. This is the difference between us."
+その言葉が終わりきらないうちに体へと大きな衝撃があり、
+Before he can even finish speaking, I'm struck with an immense force.
 足が浮き、吹き飛ばされる。
-Before he can finish, I'm struck with an immense force.
-まるで風に翻弄される木の葉のようだと思い、
 I'm lifted off my feet and sent flying.
+まるで風に翻弄される木の葉のようだと思い、
+Like a leaf in the wind...
 あの木の葉たちはこのような気分なのだろうかと、
-Like a leaf in the wind... I wonder if this is how they feel.
+I wonder if this is how they feel.
 どこか場違いな思いが頭の中を駆け巡る。
 A strange, out-of-place thought flashes through my mind.
 そして………。
@@ -9091,17 +9091,17 @@ It's time.
 《あの日》や《あいつ》について教えてもらっても良いだろうか？
 Tell me about "that day" and "her".
 「そうだな。………本来ならもっと早くに説明をすべきだったな。」
-"Yes… I should have explained sooner."
+Spirit: "Yes… I should have explained sooner."
 申し訳なさそうに言いながら説明を始めようとした精神体を魂体が引き止める。
 The spirit begins to speak, but the wraith stops him.
 「俺が………いや、俺に説明させてくれないか。
-"Let me... let me tell you.
+Wraith: "Let me... let me tell you.
 そうすれば、迷いが………。
 Maybe then...
 迷いに、踏ん切りがつくような気がするんだ。」
 …Maybe then I can finally let go."
 「そうか………。」
-Alright...
+Spirit: "Alright..."
 それなら、説明してくれないか？
 Tell me.
 お前がどんな思いでここにいたのかを。
@@ -9109,7 +9109,7 @@ Tell me what it was like to be trapped here.
 お前たちがどのような人生を歩んできたのかを。
 Tell me about your life.
 「………分かった………。」
-"...Very well..."
+Wraith: "...Very well..."
 あの日
 That Day
 あの日もまた、いつも通りの平和な一日だった。…そのはずだった。
@@ -9281,7 +9281,7 @@ He speaks softly, each word filled with regret.
 そして、こちらに向かって、
 He sighs, and then says,
 「精神体ともども、大変世話になったな。勇者。
-"Thank you for everything, hero. You and the spirit."
+"Thank you for everything, hero. You and the spirit.
 と言い、精神体の時同様に存在を希薄なものへと変化させて行く。
 Like the spirit, his form begins to fade.
 そこへ………
@@ -9427,9 +9427,9 @@ I've heard this voice before... somewhere.
 リリア「ね…、ねえ。」
 Lilia: "Hey... Hey..."
 エレナ「この…声って………。」
-Elena:  "That voice..."
+Elena:  "That voice...
 エレナ「アリアさん………だよね。」
-Elena:  "It's... Aria, isn't it?"
+It's... Aria, isn't it?"
 この声は、?me?が召喚されたときにも聞いた声だ。
 That's the voice I heard when I was summoned to this world.
 と、いうことは………。
@@ -9673,7 +9673,7 @@ Rurai: "But this door… it feels like it’s sealed shut."
 ルーライの言うとおり、入り口の門には４つの封印が施されているようだ。
 He’s right.  Four seals adorn the entrance.
 森の封印、炎の封印、水の封印、そして闇の封印…。
-The Seal of the Forest, the Seal of Flame, the Seal of Water, and the Seal of Darkness…
+The Seal of the Forest, the Seal of Flame, the Seal of Water, and the Seal of Shadow…
 エレナ「ここがカレシア平原だとするなら…。」
 Elena:  "If this is the Kareshia Plains..."
 リリア「森と、火山と、湖もあるのかな…？」
@@ -9689,7 +9689,7 @@ The Seal of Flame is broken…
 水の封印が解かれた…
 The Seal of Water is broken…
 闇の封印が解かれた…
-The Seal of Darkness is broken…
+The Seal of Shadow is broken…
 まだ、全ての封印を解いていない。
 We haven't broken all the seals yet.
 全ての封印が解かれた…。
@@ -9737,7 +9737,7 @@ The Ultimate Darkness:
 　　ブラックオーブ
 Black Orb
 闇の封印が解かれた…。
-The Seal of Darkness is broken…
+The Seal of Shadow is broken…
 レバーだ。動かしてみようか？
 There's a lever here.  Should we try it?
 レバー：
@@ -10719,7 +10719,7 @@ Rurai: "No, I mean...
 すまない。?me?はレンじゃないんだ…。
 I'm sorry, Rurai. I'm not Ren.
 はあ………
-"...Right."
+...Right.
 ルーライ「………」
 Rurai: "..."
 そうか…。
@@ -10731,9 +10731,9 @@ Rurai is here, but I haven't seen Ren since the battle.
 ルーライ「いや、いいんだ…
 Rurai:  "No, it’s fine…
 僕は…、一緒に旅をした仲間に会えただけで…。
-I’m just… happy to see one of my companions…
+I’m just… happy to see one of my companions…"
 さ、行こうか！遅刻してしまってからでは遅すぎる。」
-Come on, let’s go! We can’t be late!"
+Come on, let’s go! We can’t be late!
 いや…一緒に旅をした仲間たちに…もう一度会いたい…。
 I want to see my companions again…
 そんなことを考えている間に通いなれた校舎にたどり着いていた。
@@ -11097,13 +11097,13 @@ Rurai: "If we keep wishing…
 僕らには、ラストホープがある。
 We have Last Hope.
 きっと、僕の願いも届くはずだよね。」
-It will grant my wish, I know it.
+It will grant my wish, I know it."
 レン。
 Ren…
 必ず…必ず君に会いに行きます。
 I’ll see you again. I promise.
 だから、あと少しの間…都のこと、よろしくお願いします…。
-Until then…  please… take care of the city…"
+Until then…  please… take care of the city…
 ；　レンの最後
 ; Ren's Final Moments
 　時は変わり、世界を超えたその先で、
@@ -11137,7 +11137,7 @@ Her eyelids flutter closed.
 最後の表情は、まるで神話に出てくる女神のように柔らかく、安らかなものであった。
 A serene smile graces her face, a gentle expression befitting a goddess.
 その日、フェルマーレを守り抜き、発展させてきた永愛の女王こと、レンが。その生涯に別れを告げた。
-Ren, the beloved queen who protected and nurtured Fermare, breathed her last.
+Ren, the beloved queen who protected and nurtured Fermare, breathes her last.
 ；　レンの転生
 ; Ren's Reincarnation
 レン「私は…。」
@@ -11237,7 +11237,7 @@ Ren: "So… that’s…
 それじゃあ、そろそろ行きな。
 Now, off you go!
 時代は遡り、あんたの王子様方がこっちの世界へときたころだ。
-Back to a time when your prince and his friends were visiting your world.
+Back to a time when your prince and his friends were visiting my world.
 今度こそ。幸せになんな。」
 Go get your happy ending."
 ？？？「ああ、そうそう。
@@ -12777,7 +12777,7 @@ It contains a record of your performance in this playthrough.
 アイテム回収：%1302%個
 Items collected: %1302%
 収拾率：%1303%パーセント
-Completion rate: %1303%
+Completion rate: %1303% percent
 歩いた歩数：%951%歩
 Steps taken: %951%
 攻撃した回数：%952%回
