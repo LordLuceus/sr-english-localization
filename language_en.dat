@@ -191,11 +191,11 @@ No! The Ring of Time and Space doesn't work…
 Ｓｙｓｔｅｍ　Ｍｅｓｓａｇｅ：
 System Message:
 ～注意！～
-~ attention! ~
+attention!
 難易度を変更しようとしています。
 Are you sure you want to change the difficulty?
 難易度を、「Normal」に変更します。
-The difficulty will be changed to "Normal".
+The difficulty will be changed to Normal.
 一度難易度を下げてしまうと、
 Once you reduce the difficulty,
 ゲームをクリアするまで、二度と難易度変更は行えません。
@@ -243,9 +243,9 @@ Stick with ?name?.
 別の名前にする
 Choose Another Name
 続いて、物語中のあなたの１人称を選択してください。
-Now, please select your first person pronoun. Please note that, due to differences between Japanese and English, this will not do anything in the English version so you can choose whatever you wish.
+Now, please select your first-person pronoun. Please note that, due to differences between Japanese and English, this will not do anything in the English version so you can choose whatever you wish.
 １人称を?me?に設定しました。
-first person was set to "?me?".
+first-person was set to "?me?".
 冒険を記録するためのセーブデータを作成します。
 Create save data to record the adventure.
 次のセーブメニューで、セーブしたいスロットを選択してください。
@@ -565,7 +565,7 @@ Soul of Fencer
 ボイス選択：
 Voice selection:
 戦闘メンバー：%100%人目
-Party member %100%
+Party member %100%:
 リリア：ジャンプ
 Lilia: Jump
 エレナ：ダッシュ
@@ -2393,11 +2393,11 @@ Krene: "Yes, of course. Please forgive me for rambling.
 くれぐれもお気をつけて。」
 Be safe, you three."
 クレーネ「ゴポンガ様が、山王様になるなんて…。正直信じられません。」
-Krene: "Chieftain Goponga...guardian of the mountain? I must confess, it's a little difficult to imagine."
+Krene: "Chieftain Goponga...Guardian of the mountain? I must confess, it's a little difficult to imagine."
 エレナ「そうかな？わたしは適任だと思うけれど。」
 Elena: "Really? I think he'll be perfect."
 クレーネ「何といいますか。ゲーラス様と比べて、威厳が感じられないというか…。」
-Krene: "Well, it's just... he lacks a certain...authority. Compared to Geras, at least."
+Krene: "Well, it's just... he lacks a certain...gravitas. Compared to Geras, at least."
 リリア「あたしは、あんたはちょっと、厳しすぎるんじゃないかなって。」
 Lilia: "I think you're being a little too strict, Krene."
 クレーネ「！！」
@@ -2447,7 +2447,7 @@ but they're out there, surviving on their own terms! People call them monsters, 
 エレナ「…へぇ。」
 Elena: "Interesting."
 「エレナ、聞いてる？あたしは今、まじめな話をしてるんだよ。」
-"Elena? Are you even listening? This is serious!"
+"Elena? Are you even listening? I'm serious!"
 エレナ「あ、ははは。わたし、今からゴポンガ様に会いに行かなきゃいけないんだ。
 Elena: "Of course, of course. Look, I have to go see Goponga.
 また今度、お話聞きに来るから。それじゃ！」
@@ -2457,7 +2457,7 @@ I'll catch up with you later. See you!"
 「え～、広間にぃ～？
 "Hmm...to the hall, you say?
 そうだねえ、エレナが出会った魔物の話も聞かせてくれるんなら、行ってもいいかな。」
-Well, if you're gonna tell us about the monsters you encountered, count me in!"
+Well, if you're gonna tell us about the monsters you saw, count me in!"
 あたしもすぐいくから。先に行って待っててよ。
 "I'll meet you there. Don't wait up!"
 ヴィオ「もう行くの？ま、気を付けてね。
@@ -2679,7 +2679,7 @@ And when she died...
 このラストホープが彼女の魂を?me?たちと引き合わせた、というわけだ。
 Last Hope bound her soul to ours.
 ゴポンガ「聞いたことが、ある。魂の同化というのではないか、それは。」
-Goponga: "I've heard about stuff like this. Soul merging, ain't it?"
+Goponga: "I've heard about this sort of thing. Soul merging, isn't it?"
 子供・ペトラ
 Petra, the Child:
 「族長様、知ってるの？」
@@ -3031,7 +3031,7 @@ Lilia: "That dragon...is the Volcano Drake?!"
 ？？？「そなたは…」
 ???: "You are..."
 エレナ「うん。ゲリュア火山の守り神、ゲーラス様。」
-Elena: "Yes. Geras, the guardian of Geryua Volcano."
+Elena: "Yes. Geras, the Guardian of Geryua Volcano."
 ゲーラス「いかにも。我はゲーラス。里の者からは、山王、と呼ばれておったな。」
 Geras: "Indeed. I am Geras. Those of the village call me the Volcano Drake."
 エレナ「山王様…。ご無事ですか？」
@@ -3137,7 +3137,7 @@ Geras: "Go! You'll be crushed if you stay!"
 エレナ「ゲーラス様も、一緒に！」
 Elena: "Come with us, Geras!"
 ゲーラス「我はそなたたちの退路を確保する！
-Geras: "I'll buy you some time!
+Geras: "No. I'll buy you some time!
 ここより外へ出たところで、再び先ほどの感情に操られてしまう。
 If I go with you, this darkness will take hold of me again.
 さあ！行くのだ！」
@@ -3145,7 +3145,7 @@ Go now!"
 エレナ「でも！」
 Elena: "But..."
 ゲーラス「我が言葉、ゴポンガに伝えてくれ。今日、この瞬間から、そなたがこの山を守るのだ、と。」
-Geras: "Tell Goponga this: From this moment forward, he is the protector of this mountain."
+Geras: "Tell Goponga this: From this moment forward, he is the Guardian of this mountain."
 エレナ「ゲーラス様…」
 Elena: "Geras..."
 時間がない。エレナ、行こう！
@@ -3201,7 +3201,7 @@ Goponga: "Elena, I know this is tough, but we both got duties to fulfill. Don't 
 エレナ「ゲーラス様に、いわれたこと…。
 Elena: "What Geras told me...
 ゴポンガ様が…この山を治める…
-You... becoming the new guardian of the mountain...
+You... becoming the new Guardian of the mountain...
 でも、わたしには、何も…」
 But I... What about me?..."
 ゴポンガ「ルドルフとかってのを探して、倒す。
@@ -3655,7 +3655,7 @@ Racing.
 リリアか、それともエレナだろうか？
 Is it Lilia? Or Elena?
 エレナ「ゲリュアには泳げるような場所はなかったから、わたしは泳いだことがないのだけれど、水に入るのは抵抗ないかな。いざとなったら君に泳いでもらえばいいし。
-Elena: "There weren't many places to swim in Geryua, so I've never really tried. But I'm not afraid of the water. And you're a good swimmer, right?
+Elena: "There aren't many places to swim in Geryua, so I've never really tried. But I'm not afraid of the water. And you're a good swimmer, right?
 リリアちゃんも、大丈夫？」
 How about you, Lilia?"
 リリア「へ？？
@@ -3791,7 +3791,7 @@ I apologize for intruding at such a busy time.
 「いいえ、問題ありません。
 "Not at all.
 王の間は、ここから入ってまっすぐ進み、中央広間を抜けた先にあります。
-The throne room is straight ahead, past the central plaza.
+The castle is straight ahead, past the central plaza.
 都には宿屋や万屋などもありますので、ご用がお済になりましたら、ぜひ見ていってください。」
 We also have inns and shops here in the city. Please feel free to explore once your business with the king is concluded."
 ここから南は都の外周路。
@@ -3883,9 +3883,9 @@ A book?
 あ！おきゃくさんだ！！
 "Look! A customer!
 ぼくの ねえちゃん、いっつも ほんばっかりよんでるんだ。
-I love doing readings for people.
+My sister is always reading books.
 なにか たのしいおはなし きかせてよ！
-Let's see!
+Tell me a fun story!
 ふーん。
 Hmm...
 おきゃくさんは、%951%歩もあるいてきたんだね、すごいね！
@@ -4517,7 +4517,7 @@ You found the grand prize!
 といっても、観光の方がお使いになるような商品は、うちにはないと思います。ごめんなさいね。
 Though, I doubt you'll find anything of interest to tourists here. Sorry about that."
 貸店舗。経営者募集中。
-"Shop for Rent: Seeking entrepreneur."
+Shop for Rent: Seeking entrepreneur.
 こんにちは。私はここで珍しい宝石を売っているんだよ。
 "Hello there! I sell rare jewels here.
 だけど最近、私の留守中にこの場所を使う輩がいて手を焼いているんだ。
@@ -4801,7 +4801,7 @@ Ren: "Your Majesty, I have brought the envoy from Shaintarium."
 王「うむ、ご苦労だったな、レンよ。」
 King: "Good work, Ren."
 王座に座った大柄な男。間違いない、彼こそが、ここフェルマーレの最高権力者。
-A large man sits upon the throne. There's no mistaking him?he is the ruler of Fermare.
+A large, imposing man sits upon the throne. There's no mistaking him: he is the ruler of Fermare.
 王「うむ。余はフェルマーレ21世、ルスアス。
 King: "I am Rufus, the twenty-first king of Fermare.
 この一帯を治めるものとして、おぬしら神殿の使者の話を聞こう。」
@@ -5181,7 +5181,7 @@ Rurai: "We have to swim across the river to reach the Wind Forest.
 もしかして、リリアは泳ぎは苦手なのかい？」
 Are you not a strong swimmer, Lilia?"
 リリア「そ、そんなことないよ！
-Lilia: "No, I can swim just fine!
+Lilia: "No, that's not it!
 あたしは…ただ、跳び越えたりできないのかなあ、とか…
 I was just wondering... if we could just jump across...
 ほら、あたし、この羽と脚力には自信あるから…」
@@ -6141,7 +6141,7 @@ Security Captain: "Y-yes!
 全員配置につけ！侵入者を取り押さえろっ！！」
 All units, engage! Apprehend the intruder!"
 治安部隊員1「デビット…。ここは俺に任せろっ！！」
-Security Guard 1: "Devit... I'll avenge you!"
+Security Guard 1: "Devit... I'll take care of this!"
 治安部隊員1「ウォォォォォ！」
 Security Guard 1: "WAAAAAAAARGH!"
 侵入者「邪魔だ…」
@@ -19908,3 +19908,103 @@ This bonus will be available once you complete the Sequel Story.
 Kazaoto Yuki:
 ＫＡＮＪＩ
 Kanji:
+シェイントアリアム入口
+Shaintarium Entrance
+シェイントアリアム剣の間
+Shaintarium Sword Chamber
+カレシア平原中央
+Kareshia Plains Center
+カレシア平原東
+Kareshia Plains East
+マグマの洞
+Magma Cave
+ゲリュア火山登山口
+Geryua Volcano Trailhead
+ゲリュア火山登山道
+Geryua Volcano Trail
+ゲリュア火山分かれ道
+Geryua Volcano Crossroads
+ゲリュア火山中腹
+Halfway up Geryua Volcano
+ゲリュア火山　山頂付近
+Near the summit of Geryua Volcano
+ゲリュア火山　祠前
+Geryua Volcano in front of the Dragon Shrine
+ゲリュア火山　山頂
+Geryua Volcano Summit
+カレシア平原西
+Kareshia Plains West
+カレシア平原北西
+Kareshia Plains Northwest
+リゼン洞窟
+Rysen Cave
+風の森・手前
+In front of the Wind Forest
+フェルマーレ 正面ゲート
+Fermare Main Gate
+フェルマーレ 裏ゲート
+Fermare Back Gate
+フェルマーレ 市場
+Fermare Market
+フェルマーレ 商店街
+Fermare Shopping Street
+フェルマーレ 水泳スポット
+Fermare Swimming Spot
+フェルマーレ 民家外
+Fermare Residential Area
+フェルマーレ 怪しい市街地
+Fermare, a suspicious area
+ギャラボ1F
+Galabo 1F
+ギャラボ2F
+Galabo 2F
+フェルマーレ城エントランス
+Fermare Castle entrance
+フェルマーレ城1F
+Fermare Castle 1F
+フェルマーレ城2F
+Fermare Castle 2F
+フェルマーレ城階段
+Fermare Castle Stairs
+フェルマーレ城 治安部隊本部
+Fermare Castle Security Force HQ
+フェルマーレ城図書室
+Fermare Castle Library
+フェルマーレ城王の間
+Fermare Castle Throne Room
+フェルマーレ城バルコニー
+Fermare Castle Balcony
+宿屋『ヒーラ』
+Heela Inn
+ドリーム・アトラクション
+Dream Attraction
+憩いの原っぱ
+Respite Meadow
+安置の洞窟
+Anti Cave
+大樹の根本
+Root of the Great Tree
+見晴らしの丘
+Overlook Hill
+封印の間
+The Sealed Chamber
+フェルマーレ城宝物庫
+Fermare Castle Treasury
+フェルマ洞窟
+Fermat Cave
+シェイントアリアム B1F
+Shaintarium B1
+シェイントアリアムB2F
+Shaintarium B2
+シェイントアリアムB3F
+Shaintarium B3
+滅びた市街地
+Ruined City
+朽ち果てたオアシス
+Decayed Oasis
+森の遺跡　入口
+Forest Ruins Entrance
+森の遺跡　最深部
+Forest Ruins Boss Chamber
+ルドルフ城
+Rudolph's Castle
