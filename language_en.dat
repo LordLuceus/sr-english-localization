@@ -3779,7 +3779,7 @@ City Gatekeeper:
 「お待ちしておりました。神殿の使いの方ですね。」
 "I've been expecting you. You're the envoys from Shaintarium, correct?"
 そのとおりだが…。
-That's right, but...
+That's right.
 さきほどのレンの話は、都の警備に伝わっているということだろうか。
 Word of our arrival must have reached the city guard.
 「はい。何やら急ぎの用で、フェルマーレ王との謁見を希望されているとか。」
@@ -3807,7 +3807,7 @@ There's a path to the south, just east of this swimming spot. Take that one."
 ここは、フェルマーレの水泳スポットなの。毎日ここで泳がないと、私の1日は終わらないんだ。
 "This is Fermare's favorite swimming spot. My day isn't complete without a dip in the water."
 ここフェルマーレでは、年に１度、水泳の祭典、王都大会が開かれているの。
-"We hold a swimming festival here every year?the Royal City Tournament.
+"We hold a swimming festival here every year, the Royal City Tournament.
 今年の大会はごたごたが全部片付いて、ルーライ王子が戻ってきてからになるでしょうね。
 I imagine this year's tournament will be postponed until things settle down and Prince Rurai returns.
 まだ先になると思うけど、そのときはぜひ遊びに来てちょうだいね。
@@ -3965,7 +3965,7 @@ Please accept this, as a token of my gratitude.
 最後まで、私の話を聞いてくれてありがとう。」
 Thank you for listening."
 悲愴の慟哭への道が開かれた…
-The path to the "Dirge of Sorrow" is now open...
+The path to the Dirge of Sorrow is now open...
 勇者が、勇者を救う、ね。
 "A hero... saving other heroes.
 ふふ。
@@ -4189,7 +4189,7 @@ Use the Ring of Time and Space from the save point menu.
 現在は研究段階なもので、世界各地に点在する4つのセーブ陣へ移動することしかできません。
 It's still in the experimental stages, so you can only warp to four specific save points located throughout the world.
 また、時々不具合を起こすこともあるかもしれませんが、その時は、物語を進めてから再度試してみてください。
-You may encounter occasional bugs. If that happens, simply progress further in the story and try again.
+Sometimes the ring may not work. If that happens, simply progress further in the story and try again.
 ここから一番近いセーブ陣は…、フェルマーレの正面ゲート前のセーブ陣です。
 The nearest save point from here is the one in front of Fermare's main gate.
 では、私は続きがありますので。よい旅を…
@@ -4303,7 +4303,7 @@ Play for 10 Karen
 遊び方の説明を聞く
 Explain the rules
 また遊んでね。
-Come play again!
+"Come play again!"
 ガイラのハイ＆ローのルールを説明するよ。
 "Let me explain the rules of High & Low.
 １ゲーム１０カレンでプレイできるんだ。
@@ -4565,7 +4565,7 @@ That didn't look like an "important business transaction" to me.
 レン「私の見る限り、今のは単なる押し売りです！
 Ren: "That was nothing more than extortion!
 それに、いつもここで商いをしている商人は、この時間は仕入れに出ているはずですが…。」
-And the real owner of this shop should be out buying stock right now."
+And besides, the real owner of this shop should be out buying stock right now."
 商人？「………。その商人から、ここを使っても良いと言われているんです。」
 Shady Merchant: "B-but... he said I could use his shop!"
 レン「そうでしたか。それでは、治安部の商い許可もあなたに降りていると…。」
@@ -6231,7 +6231,7 @@ The intruder deflects Rufus's arrows mid-air, closing the distance between them.
 そのまま侵入者は、?me?たちのいるバルコニーに降り立った。
 He lands on the balcony, facing us.
 ルスアス「余に剣をトラストは、キサマ、何やつっ！！」
-Rufus: "Who are you?! To dare draw blade against me?!"
+Rufus: "Who are you, to dare draw blade against me?!"
 侵入者「ふん。この俺に名を問うか。
 Intruder: "Hmph. You don't know my name?
 まあ、いいだろう。」
@@ -6293,17 +6293,17 @@ Rudolph blocks Rufus's attack with one hand, and gathers energy in the other.
 ルドルフの右手には禍々しい力が収縮し、暗黒の球体画家たち図倉れた。
 A sphere of dark energy forms in his hand, a menacing ball of pure darkness.
 黒の魔弾が打ち出される。
-He fires a volley of dark projectiles.
+He fires a bolt of dark magic.
 が、それらはルスアスにではなく、
-But they're not aimed at Rufus...
+But it's not aimed at Rufus...
 ?me?たち、いや、ルーライに向けて放たれた！
-They're aimed at us! At Rurai!
+It's aimed at us! At Rurai!
 ルスアス「いかんっ、ルーライ！」
 Rufus: "Rurai, no!"
 ルスアスが振り返り、
 Rufus turns
 黒の魔弾を打ち落とす。
-and intercepts the projectiles.
+and intercepts the bolt.
 ………が、しかし。
 ...But...
 次の瞬間！
@@ -6327,7 +6327,7 @@ He was stabbed from behind!
 先ほどの一瞬…。
 That moment of distraction...
 魔弾を打ち落とすため振り返ったその一瞬の隙の出来事だった………
-When he turned to block the projectiles...
+When he turned to block the bolt...
 ぽたり、と。
 Drip.
 剣先から、赤黒い液体が床にこぼれ落ち、
@@ -6535,11 +6535,11 @@ We're going to the temple!
 ルドルフを追って…。
 We're going after Rudolph.
 ルーライ「ああ。僕も、?name?君と同じ意見だ。
-Rurai: "I agree.
+Rurai: "I'm with you, ?name?.
 都の皆。そして父上の敵を。
 I will avenge my father... and the people of this city!
 この僕が蹴りを付ける。…付けてみせる！！」
-He'll regret the day he killed my father!"
+He'll pay for this!"
 リリア「だけど、だけど！
 Lilia: "But...
 あたしたちじゃ、かなわないよ！」
@@ -7041,7 +7041,7 @@ See? The scar on my arm still hasn't healed."
 同じ治安部の先輩から話を聞いたんだけど、ごくまれに、きらきら光りながら襲い掛かってくる魔物がいるらしいよ。
 "A senior member of the Security Force told me that there are rare monsters that shimmer and sparkle when they attack.
 通常の魔物よりも強い分、倒した時に獲得できる戦闘の経験は、魔物１０匹分程度に相当するんだってさ。
-Apparently they're stronger than normal monsters, but they also give you a ton of experience?like defeating ten regular monsters!
+Apparently they're stronger than normal monsters, but they also give you a ton of experience, like defeating ten regular monsters!
 偶然にも遭遇できたなら、積極的に倒した方がよさそうだね。
 If you're lucky enough to encounter one, make sure to take it down.
 ところで…。
@@ -7107,7 +7107,7 @@ There's a sign with the following letters:
 Ｇ．Ｌ．
 G. L.
 未来を知る方だけが入れます。
-"Only those who know the future may enter."
+Only those who know the future may enter.
 ここの川、でっけえ魚がよく釣れるんだ。
 "I caught some huge fish in this river."
 エレナ「よいしょ…ッと。
@@ -7693,17 +7693,17 @@ Lilia: "This is awful... completely destroyed..."
 強引に壊したのか、神殿の扉は跡形もなく消し飛び、
 The temple doors have been obliterated, likely forced open.
 壁にも大きな傷跡が多数みられる。
-Deep scars mar the surrounding walls.
+Deep scars mar the walls.
 ルーライ「ルドルフは…どこに？」
 Rurai: "Where's Rudolph?"
 エレナ「それよりも、アリアさんは！？」
 Elena: "More importantly, where's Aria?!"
 私なら…大丈夫…です。
-"I... I'm alright..."
+"I... I'm here..."
 エレナ「アリアさん！
 Elena: "Aria!
 元気がないようですけれど、本当に大丈夫ですか？」
-You seem weak... Are you sure you're okay?"
+You seem weak... Are you okay?"
 ええ…。
 "Yes...
 しかし………、この世界は…もう…。
@@ -7743,7 +7743,7 @@ Elena: "And...
 アリアさんがいなかったら、わたしたちは滅びる世界で何もできないままだったもの。」
 Without you, Aria, we would have been lost. Powerless to stop the world's destruction."
 ルーライ「僕らにできることなら、何でもします！何か手はないのですか！？」
-Rurai: "We'll do anything! What can we do to help?!"
+Rurai: "We'll do whatever it takes! What can we do to help?!"
 …皆さん…本当にありがとうございます…
 "...Thank you... all of you...
 皆さんの覚悟…。確かにお聞きしました。
@@ -7777,7 +7777,7 @@ A wave of dark energy washes over us.
 闇のオーブは、黒き魔の力を放ち続けています。
 The Dark Orb is emanating a powerful dark energy.
 神殿の地下も黒き魔の力に冒され、凶悪な魔物の巣窟と成り果てていることでしょう。
-The underground must be corrupted as well, overrun with dangerous monsters.
+The basement must be corrupted as well, overrun with dangerous monsters.
 皆さん…どうか、お気をつけて……
 Be careful, everyone."
 ルーライ「皆…、いこう！」
@@ -7921,7 +7921,7 @@ Lilia: "The Dark Orb?!"
 ルーライ「これが…、アリアさんが言っていた、ルドルフの置き土産かっ！」
 Rurai: "So this is Rudolph's parting gift!
 ルーライ「父上の敵っ！！」
-I'll avenge my father!"
+This is for my father!"
 これは！？
 What?!
 ルーライ「どういう…ことだ！？僕の攻撃が効かないなんて！？」
@@ -9089,7 +9089,7 @@ He seems... relieved.
 もうそろそろ。
 It's time.
 《あの日》や《あいつ》について教えてもらっても良いだろうか？
-Tell me about "that day" and "her".
+Tell me about "that day", and "her".
 「そうだな。………本来ならもっと早くに説明をすべきだったな。」
 Spirit: "Yes… I should have explained sooner."
 申し訳なさそうに言いながら説明を始めようとした精神体を魂体が引き止める。
@@ -9457,7 +9457,7 @@ Is that even possible?
 あなたをこの世界へ召喚した時の原理で、一時的に、別次元にある世界へのリンクを設けただけですから。
 I simply established a temporary link to a dimensional rift, using the same principles I used to summon you here.
 ラストホープの台座に剣を突き立てれば、いつでもルドルフィアへ行くことができますよ。
-Thrust Last Hope into its pedestal, and the path to Rudolphia will open.
+Drive Last Hope into its pedestal, and the path to Rudolphia will open.
 ですが…、一度向こうへ行ってしまうとリンクは消失し、私の力はあなた方には届かなくなります。
 However… Once you cross over, the link will vanish, and my power will no longer be able to reach you.
 ルドルフの魔の力が消えるまで、こちらの世界に戻ってくることはできません。」
@@ -9597,7 +9597,7 @@ Go forth, and be the heroes you are meant to be!"
 分かりました…。
 "Very well…
 それでは、ラストホープを…
-Then… thrust Last Hope…
+Then… drive Last Hope…
 台座に、突き立ててください！！
 …Into the pedestal!"
 意識が………
@@ -9695,17 +9695,17 @@ We haven't broken all the seals yet.
 全ての封印が解かれた…。
 All seals are broken…
 キキキキキキキキ！！！
-Khahahahahahaha!!!
+"Khahahahahahaha!!!"
 　　無双のコウモリ
 The Ultimate Bat:
 　　ブラックバット
 Black Bat
 キヤアアアアアアッ！！
-KYYYYAAAAAAA!!!
+"KYYYYAAAAAAA!!!"
 森の封印が解かれた…。
 The Seal of the Forest is broken…
 くらう…くらう…くらう…
-Devour… Devour… Devour…
+"Devour… Devour… Devour…
 くらうくらうくらう
 Devourdevourdevour
 くらうくらうグラウ
@@ -9713,23 +9713,23 @@ DevourdevourGROWL
 グラウグラウグラウ
 GROWLGROWLGROWL
 グラウグラウウウウウッ！！
-GROWLGROWLUUUUUUU!!!
+GROWLGROWLUUUUUUU!!!"
 　　無双の竜神
 The Ultimate Dragon God:
 　　ブラックドラゴン
 Black Dragon
 グオアアアアアアアアアッ！！
-GROOOOOOOOOAR!!!
+"GROOOOOOOOOAR!!!"
 炎の封印が解かれた…。
 The Seal of Flame is broken...
 ギュオオオオオン！！
-GYOOOOOOOOOOON!!!
+"GYOOOOOOOOOOON!!!"
 　　無双の大蛇
 The Ultimate Serpent:
 　　ブラックサーペント
 Black Serpent
 シュシャアアアアッ！！
-SHUSHAAAAAA!!!
+"SHUSHAAAAAA!!!"
 水の封印が解かれた…。
 The Seal of Water is broken…
 　　無双の漆黒
@@ -9779,7 +9779,7 @@ Top Floor of Rudolph's Castle:
 一度引き下がる
 Retreat
 「やはり…キサマらか…。
-"So... it's you...
+"So... it was you...
 ルドルフィアの柱を壊したのは…。」
 You destroyed the pillars of Rudolphia..."
 ルーライ「ルドルフ…」
@@ -9793,7 +9793,7 @@ What are you going to do about it?"
 リリア「ここは、あんたがあたしたちの世界から奪って作った世界でしょ？
 Lilia: "You stole this world from ours!
 どうしてくれるも何も、もともとあんたのものじゃないじゃない！」
-What do you mean, 'What are we going to do about it'? It was never yours to begin with!"
+What do you mean, 'What are you going to do about it'? It was never yours to begin with!"
 ルドルフ「ふっ、いうな、小娘。
 Rudolph: "Hmph, silence, girl.
 だがな、忘れるな。カレシアはキサマらだけのものではない。
@@ -10301,7 +10301,7 @@ I am sorry… I couldn’t do more for you…
 カレシアは救われたのに…。あなた方をお救いすることができないなんて…。
 Kareshia is safe… but I couldn't save you…
 本当に…、本当に私は………
-I truly… I am so…"
+I truly… I am so sorry…"
 何故なんだ！？
 Why?!
 ?me?たちは、ルドルフを倒し…、そしてカレシアを救ったではないか！！
@@ -10373,7 +10373,7 @@ Petra: "Do you think… Elena will come back?"
 ゴポンガ「ガッハッハッハッハ！あったりめえだろう！！
 Goponga: "GAHAHAHAHAHA! Of course she will!
 俺様たちが信じてやらねえでどうすんだ、坊主！？
-We gotta believe in them! Don’t you agree, kid?
+We gotta believe in her! Don’t you agree, kid?
 俺様たちは…、何も考えず、ただ前に進んでいきゃいいんだよ！！」
 We just gotta… keep moving forward!"
 ゴポンガ「なあ、これで良いんだろ、ゲーラス様よ…！？
@@ -18533,7 +18533,7 @@ Rudolph, Blazing Jaws: 1200
 凶器の破壊者　ルドルフ：1200
 Rudolph, the Destroyer of Hope: 1200
 魔弾のルドルフ：1500
-Rudolph, Magic Bullet: 1500
+Rudolph, Magic Bolt: 1500
 剣術のルドルフ：1500
 Rudolph, Swordsmanship: 1500
 スプリットフェンサー：2000
@@ -18717,7 +18717,7 @@ Rudolph's third form. A giant?
 それにしても、こんなに姿を自由に変えられるなんてすごいよね。あたしもルドルフに弟子入りすれば…て、何言ってんだろうね、あたし。
 It's amazing how he can transform like that. Maybe I should ask Rudolph to take me as his apprentice... What am I saying?
 ルドルフ最終形態。武器は魔弾よ。
-Rudolph's final form: Magic Bullet type.
+Rudolph's final form: Magic Bolt type.
 遠くからちまちま、相手にすると面倒そうね。
 He’s a real pain to deal with if you fight him from a distance.
 カードを買う：1500カレン
@@ -19229,7 +19229,7 @@ Black Dragon
 ブラックサーペント
 Black Serpent
 魔弾のルドルフ
-Rudolph (Magic Bullet)
+Rudolph (Magic Bolt)
 剣術のルドルフ
 Rudolph (Swordsmanship)
 スプリットフェンサー
