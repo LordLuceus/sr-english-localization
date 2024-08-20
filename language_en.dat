@@ -12601,7 +12601,7 @@ Thank you very much for thoroughly playing through
 本当にありがとうございました。
 the ShadowRine FullVoice Demo.
 無限摩天楼の新コース「パスワー道」をプレゼントいたします。
-We present you with the new course "Password Way" in the Infinite Skyscraper.
+We present you with the new course "Password Path" in the Infinite Skyscraper.
 無限摩天楼は、ゲームクリア後に解放される「Extra」から、いつでもプレイすることができます。
 The Infinite Skyscraper can be accessed and played at any time from the Extra section, which is unlocked after completing the game.
 「シャドウライン～永久の希望～　プレイ後アンケート」にご回答いただき、まことにありがとうございました。
@@ -13941,21 +13941,21 @@ Lilia: "We can do it! We’ll save Kareshia together!"
 ブルソン「森のエレメントは、森の最も奥深くにあるといわれておる。
 Bulson: "They say the Element is located in the deepest part of the forest.
 ここの西から森の奥に進み、〈樹陰の密林〉と呼ばれる場所を探すのじゃ。
-Head west from here, through the heart of the forest, and search for a place called the Sunken Grove.
+Head west from here, through the heart of the forest, and search for a place called the Shaded Grove.
 残念ながら、わしらにも、その場所はよくわかっておらんのじゃが………」
-I'm afraid even we don’t know much about that place…"
+I'm afraid even we don’t know much about it…"
 レン「いえ、それだけのことがわかれば十分です。
 Ren: "That’s enough information to go on.
 ご助言いただきありがとうございます。」
 Thank you for your guidance."
 では早速、樹陰の密林を探しに行こう。
-Let’s find the Sunken Grove.
+Let’s find the Shaded Grove.
 サフラ「リリ、エレメント探し、気を付けてね。」
 Safra: "Be careful out there, Lili. Good luck finding the Element."
 「リリアよ。
 "Lilia,
 森の奥へ向かい、樹陰の密林を探すのじゃ。
-head into the heart of the forest and search for the Sunken Grove.
+head into the heart of the forest and search for the Shaded Grove.
 命のエレメントは、その奥にあるといわれておる。
 They say the Element of Life is hidden within its depths.
 ?name?殿、よろしく頼みましたぞ。」
@@ -13977,7 +13977,7 @@ Lilia: "I’ve never been here before."
 ルーライ「と、いうことは…？」
 Rurai: "Which means…"
 レン「どうやら長老様の言う、樹陰の密林にたどり着いたようですね。」
-Ren: "I guess this must be the Sunken Grove."
+Ren: "I guess this must be the Shaded Grove."
 アクセル「視界が悪い。
 Axel: "I can’t see far ahead.
 先の通路まで見通せないな。」
@@ -13993,7 +13993,7 @@ There's a sign here.
 己を信じ暗闇を突き進め。
 trust in yourselves and venture into the darkness."
 樹陰の密林、入り口のセーブ陣だ。
-The save point at the entrance to the Sunken Grove.
+The save point at the entrance to the Shaded Grove.
 目の前には、小さな社の入り口がある。
 There's a small shrine here.
 社の中へ入ろうか？：
@@ -16939,7 +16939,7 @@ That voice…
 儚げで…触れてしまえば消えてしまいそうな…
 So faint… like it could disappear at any moment…
 ア…リア
-Ar… ia…
+Aria…
 アリアの声が聞こえる！！
 It’s Aria’s voice!
 だが、これまでの彼女とは違う。
@@ -17023,7 +17023,7 @@ Lilia: "I remember now.
 カレシアのみんなを助けたいって思ったこと。
 I wanted to save everyone in Kareshia…
 そして、平和になったリゼンの森に皆を…?name?を…呼んで…その………
-…And bring everyone… bring ?name? … to a peaceful Rysen Forest… and…"
+…And bring everyone… bring ?name? … to a peaceful Rysen Forest… and…
 と、とにかく！あたしたちは新しい明日に向かってる！！
 We’re moving towards a brighter future!
 あたしたちの未来は、これからなんだから！！」
@@ -17095,9 +17095,9 @@ The Dragonkin village… Kareshia… our future is just beginning!"
 ライン「よかろう。
 Line: "Very well.
 ならば、見せてみよ！！
-Then show me… your strength!
+Then show me… your strength!"
 ライン「グヌハハハハハ！！」
-GNUHAHAHAHA!"
+"GNUHAHAHAHA!"
 エレナ「どうして！？」
 Elena: "What?!"
 とても不思議だった。
@@ -17157,7 +17157,7 @@ But I didn’t feel anything…
 いったい、どうすれば…
 What do I have to do…?
 オマエが倒した存在は…我の一部に過ぎぬ…
-"The one you defeated… was but a fragment of myself…
+The one you defeated… was but a fragment of myself…
 己を信じ、進むが良い………」
 Believe in yourself, and move forward…"
 やれやれ。
@@ -17177,15 +17177,15 @@ Line: "No!
 それでは………また繰り返す…同じ過ちを………
 You will only repeat… the same mistakes…
 アクセル…といったな………
-Axel, you say…?
+Axel, is it?
 オマエはなぜ、この世界を救おうとするのだ…？」
-Why… do you fight for this world…?"
+Why do you fight for this world…?"
 アクセル「勇者召喚の失敗作となった俺は、あの場所に長い間閉じ込められていた…。
 Axel: "They summoned me… a failed hero… and trapped me in that place for what felt like an eternity…
 セアラを救えなかった悔しさと、この世界への憎しみが、俺を二つの存在へと分離し、俺の慟哭は長い間荒野に響きわたっていた…。
 My grief over failing Ceara… my hatred for this world… they split me in two… and my sorrowful cries echoed through the wasteland…
 だがな…、俺は?name?とその仲間たちに救われた…。
-But then… ?name? and their companions… they saved me.
+But then… ?name? and his companions… they saved me.
 そして、今回の旅の中で、カレシアの姿に初めて触れ、この世界も捨てたものではないと、そう感じたのだ。
 And on this journey… I saw the true beauty of Kareshia… I realized this world wasn’t so bad after all.
 今となっては…あの場所に縛られていたことを、ほんの少しだが有り難かったとも思う。
@@ -17199,7 +17199,7 @@ Line: "One whose soul cries in anguish…
 手加減はできぬぞ！！」
 I will not hold back!"
 さすがはフェンサーの名を持つものだ………」
-"…Impressive… worthy of the title ‘Fencer’…"
+…Impressive… worthy of the title ‘Fencer’…"
 ラインは砕け…闇が霧散していく………
 Line shatters… the darkness dissipates…
 だが、倒した手ごたえを感じない。
@@ -17283,7 +17283,7 @@ I can feel it…
 ここは………
 This is…
 戻ってきた…シェイントアリアムに！！
-…Shaintarium! We’re back!
+…Shaintarium! I’m back!
 ライン「?name?よ………
 Line: "?name? …
 なぜ…戻ってきたのだ？
@@ -17309,13 +17309,13 @@ Everyone’s voices!
 皆がどんなに離れ離れになっても、それぞれが明日を信じ、生きようと必死に戦っていることが分かった！！
 Even though we were separated… they still believed in tomorrow… they were fighting to survive!
 だから、戻ってきた！！
-That’s why… I came back!
+That’s why I came back!
 ライン「あの孤独の中で…待ち続けた…のか………？
 Line: "You… waited… in that loneliness…
 聞こえてくるかどうかさえも分からない…皆の声を………」
 …For their voices… even though you didn't know if you could hear them…"
 影の支配者…シャドウ・ライン。
-The Shadow Ruler… Shadow Line…
+Shadow Ruler… Shadow Line…
 ?me?は…、
 I…
 ?me?が！
@@ -17325,7 +17325,7 @@ I…
 ライン「グヌハハハ！！
 Line: "GNUHAHA!
 たとえオマエが我を倒そうとあがこうが…カレシアに住む者たちの心が一つにならねば我は砕けぬぞ！！」
-Even if you try to defeat me… I will not fall… until the hearts of Kareshia are united!
+Even if you try to defeat me… I will not fall… until the hearts of Kareshia are united!"
 それしきのことでは我は倒せぬぞ！！」
 You cannot defeat me alone!"
 攻撃が…効かない！！
@@ -17363,7 +17363,7 @@ Rurai: "Because of our journey together, ?name?, I was able to overcome my fathe
 父上が都の皆を…この世界のことをどれほど強く思っていたのか、今ならはっきりと分かるよ。
 Now I understand… how much he cared about Fermare… about this world…
 次は、僕たちの番だ。
-It’s our turn now.
+It’s my turn now.
 僕は父上を継ぎ、フェルマーレを…カレシアを守っていくんだ！！」
 I will succeed my father and protect Fermare… I will protect Kareshia!"
 アクセル「待たせたな、?name?。
@@ -17381,9 +17381,9 @@ Fult: "B-but… it’s dangerous for a girl to travel the plains alone…"
 ドドラ「昔から、かわいい子には旅をなんちゃら、というでのう。
 Dodora: "There’s an old saying: 'A journey of a thousand miles begins with a single…' well, you know the rest!
 フルトや、心配ならお前さんが連れてきてやるとええ。」
-If you’re worried, Fult, why don’t you take her?"
+If you’re worried, Fult, why don’t you take her yourself?"
 プラム「パワフルビーは、森の方ではなかなか手に入らねえんだ。」
-Plum: "Power Bees are hard to find in the forest."
+Plum: "Power Rubies are hard to find in the forest."
 ウリタ「うちは、そういうの良く取り扱ってるよ。」
 Urita: "We have a great selection!"
 エリー「おやおや。
@@ -17407,11 +17407,11 @@ The threat hasn't passed completely, and yet…"
 ゴポンガ「いいじゃねえか、楽しそうでよ！
 Goponga: "Let them have their fun!
 リリアんとこのじいさんに、ルーライんとこの姉ちゃん。
-The old geezer from the forest… and Rurai's girl…
+Come on, you old geezer… and Rurai's girl…
 俺様たちも、始めねえとな。」
 We gotta get in on this!"
 「…ええ。
-Ren: "Yes…
+"Yes…
 世界の復興………。
 …Rebuilding the world…
 魔物の討伐に交易の準備。
@@ -17435,7 +17435,7 @@ We are friends… united by this world.
 ライン………。
 Line…
 あなたが求めていたものは…、私たちのこんな姿ではないのですか？」
-…Isn’t this… what you were looking for?"
+…Isn’t this what you were looking for?"
 ライン「なぜだ………あれほど絶望の淵に立たせたというのに………
 Line: "Why… After I showed you the depths of despair…
 なぜ？お前たちは戻って………！！」
@@ -17457,7 +17457,7 @@ Perhaps… your power can reach me now…
 さあ………お前たちの正しさ…
 Come…
 我に示すが良い！！！
-…Show me your righteousness!
+…Show me your righteousness!"
 アリア「?name?様、カレシアの皆さん！
 Aria: "?name?! Everyone!
 聞いてください。
@@ -17497,11 +17497,11 @@ This is it… our final battle…
 戦闘メンバーを慎重に選ばなければ。
 We need to choose our battle party carefully.
 オマエたち………
-You…
+"You…
 よくやった…
 …You have done well…
 これぞ…我が求めし…世界の輝き………
-…This is… the light I have been searching for…
+…This is… the light I have been searching for…"
 ラインの存在が…闇から光へと変わっていく！！
 Line’s shadow… is transforming… into light!
 レン「皆さん！やりましたね！！」
@@ -19883,7 +19883,7 @@ Extra: Sequel Story Music: 10000 BP:
 『Reconnected the World』メインテーマ
 Worlds Reconnected Main Theme
 樹陰の密林
-The Sunken Grove
+The Shaded Grove
 熱波の火口
 Heatwave Crater
 原水の洞穴
@@ -20008,3 +20008,9 @@ Forest Ruins Entrance
 Forest Ruins Boss Chamber
 ルドルフ城
 Rudolph's Castle
+水源の洞窟
+Source Cave
+樹陰の森
+Shaded Grove
+樹陰の社
+Shaded Shrine
