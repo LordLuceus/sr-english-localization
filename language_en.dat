@@ -7263,7 +7263,9 @@ It doesn’t look magical…
 何かずっと動いてるっぽいけど、なんなの？」
 and it’s always making noise… What is it?"
 ＭＭ「ああこれ？
-MM: "Oh, this? It's a computer.
+MM: "Oh, this?
+パソコン？
+The computer?
 マップエディターとか、シナリオ編集ソフトとか動いてる。
 It's running the map editor and the scriptwriting software.
 俺たちの生命線みたいなものだよ。」
@@ -20030,3 +20032,13 @@ City Crushing Line
 The monsters seem to have calmed down a lot.
 君たちのおかげだよ。
 It's all thanks to you guys.
+どのアイテムを壊しますか？
+What type of object would you like to destroy?
+ツボ
+Pots
+クサ
+Bushes
+イワ
+Rocks
+上下キーでステータス確認
+Use the up and down keys to review status.
