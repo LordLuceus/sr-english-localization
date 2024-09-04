@@ -4,12 +4,6 @@ Save
 Confirm Copy
 変更を適応しますか？　
 Would you like to apply the changes?
-プレイヤ表示
-Player display
-魔物表示
-Monster display
-アイテム表示
-Item display
 ゲーム設定を保存しました。
 Options saved.
 　剣ＬＶ%96%
@@ -20050,3 +20044,11 @@ Bushes
 Rocks
 上下キーでステータス確認
 Use the up and down keys to review status.
+ステータスについて
+Status:
+プレイヤ表示
+Player Display
+魔物表示
+Monster Display
+アイテム表示
+Item Display
