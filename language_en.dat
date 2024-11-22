@@ -2,7 +2,9 @@
 Save
 ここにコピー
 Confirm Copy
-変更を適応しますか？　
+上書きしてコピー
+Copy and overwrite
+変更を適応しますか？
 Would you like to apply the changes?
 ゲーム設定を保存しました。
 Options saved.
@@ -17899,7 +17901,7 @@ We move closer…
 意図も簡単に彼女の小さな体は自分の腕の中へと納まっていた。
 Lilia’s small frame fits perfectly in my arms.
 　「……ち、ちょっと、?name?。何課いいなさいよ」
-"…H-hey, ?name? … what are you doing?"
+"…H-hey, Hero … what are you doing?"
 何かといわれても。何背こういったことは初めてなもので、どうも勝手が分からない。
 I have no idea. This is new territory for me…
 　「そ……。それじゃ、次は」
@@ -17915,7 +17917,7 @@ Her face is so close… and so red.
 そうして、二人の距離はゼロへと……。
 We close the distance…
 　「起きなさい！?name?！！」
-"Wake up, ?name?!!"
+"Wake up, Hero!!"
 自室の扉が凄まじい勢いで開け放たれる。
 My door bursts open.
 よく音が鼓膜を叩くという表現を使うが。たった今その意味を思い知ったところである。
@@ -17935,7 +17937,7 @@ An intense impact in my stomach.
 再び遠くなってゆく意識のはざまで、これも平穏な証拠かと納得してしまっている自分に苦笑してしまった。
 As my consciousness fades, I find myself thinking… "This must be part of a peaceful life…"
 　「あ、あれ？　ちょっと？　ど、どうしたの？?name?？」
-"Huh? Wait, ?name? Are you okay?"
+"Huh? Wait, Hero? Are you okay?"
 　その後、ようやく目覚めることができた自分は、その前に見た夢についてリリアに話してみたのだが……。
 I wake up and tell Lilia about my dream.
 　「な！？　何言ってんのよ、あんたはっ！」
@@ -18003,7 +18005,7 @@ What if Elena turns into Ms. Sakito 2.0?
 恐ろしい。恐ろしすぎる。だが……。
 That would be terrifying. But…
 「ねえ、?name?君ってば……！」
-"Hey, ?name? ! Pay attention!"
+"Hey, Hero! Pay attention!"
 だがしかし、想像できてしまう。
 …I can’t help but imagine it…
 熱血キャラのエレナ。……少し見てみたい。
@@ -18115,7 +18117,7 @@ She presses her cheek against my chest and whispers,
 初めて同じ年くらいの友達ができたし、学校ってとこに行ったのだって初めてだった。
 I made friends my own age… I went to school…
 それに、?name?君とこんなにずっといられるなんて、幸せだなって思うし」
-And… I’m so happy… to be with you, ?name?…"
+And… I’m so happy… to be with you, Hero…"
 彼女の話はまだ続く。
 She continues,
 「それに、私ね、この世界に来て理可？　だっけ？
@@ -18205,7 +18207,7 @@ I stand up, meeting her gaze.
 この子たちみたいに、私も受け止めてくれる先が欲しいな。
 …Hold me too…?
 ……?name?君？
-?name? …
+Hero …
 君じゃ……だめ……かな？」
 …Would you…"
 まっすぐと向けられた視線には真剣さしか見受けられなかった。
@@ -20052,3 +20054,11 @@ Player Display
 Monster Display
 アイテム表示
 Item Display
+しかし、現在は鍵がかけられており、
+But it's locked.
+Saving circle,
+Save Point,
+~Items~
+~Inventory~
+ゲリュア河口
+Mouth of the Geryua River
